@@ -24,7 +24,7 @@ against FIBA's own event index, then walks down to the games:
 Every page's data comes out of the Next.js hydration payload that
 fiba.basketball ships inside its HTML.
 
-A GitHub Action re-runs this every 10 minutes, scrapes any game that has gone
+A GitHub Action re-runs this every 5 minutes, scrapes any game that has gone
 final since the last run, rebuilds `docs/index.html`, and pushes. GitHub Pages
 serves that file, so the public link updates itself.
 
@@ -46,33 +46,6 @@ Re-runs are incremental — games already in the CSVs are skipped.
 
 Only games FIBA has marked final are scraped (`gameStatisticStatusCode == VALID`
 and not `isLive`), because a game in progress has no complete box score.
-
-## The "Update now" button
-
-The dashboard carries an **⟳ Update now** button that lets staff force a
-rebuild without touching GitHub. It asks for a password and triggers the
-scrape.
-
-This needs a small backend, because the dashboard is static files: firing a
-workflow requires a GitHub token, and anything placed in the page is readable
-by anyone viewing source — GitHub also auto-revokes tokens it finds in public
-repositories, so that approach breaks itself. `worker/refresh-worker.js` is a
-Cloudflare Worker (free tier) that holds the password and token instead.
-
-One-time setup:
-
-1. **Create a token** — GitHub → Settings → Developer settings → fine-grained
-   personal access token, scoped to this repository only, with
-   **Actions: read and write**.
-2. **Deploy the Worker** — dash.cloudflare.com → Workers & Pages → Create →
-   paste `worker/refresh-worker.js`. Add secrets `DASHBOARD_PASSWORD` and
-   `GITHUB_TOKEN`, and variables `GITHUB_REPO` and `ALLOWED_ORIGIN`.
-3. **Point the dashboard at it** — in this repo, Settings → Secrets and
-   variables → Actions → *Variables* → add `REFRESH_ENDPOINT` with the Worker
-   URL. The next build wires the button up.
-
-Until `REFRESH_ENDPOINT` is set, the button simply opens this repo's workflow
-page, so nothing is broken in the meantime.
 
 ## Outputs
 

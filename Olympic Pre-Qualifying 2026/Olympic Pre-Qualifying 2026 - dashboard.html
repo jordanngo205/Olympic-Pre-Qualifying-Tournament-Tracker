@@ -261,34 +261,6 @@
 
   /* A static page cannot run the scraper itself, so this hands the reader
      straight to the workflow's Run button instead of pretending to. */
-  .refresh-btn { display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
-                 font-size: 11.5px; font-weight: 700; color: var(--accent);
-                 background: #fff; padding: 7px 13px; border-radius: 20px;
-                 text-decoration: none; white-space: nowrap;
-                 box-shadow: 0 1px 4px rgba(0,0,0,.2);
-                 transition: transform .15s ease, box-shadow .15s ease; }
-  .refresh-btn:hover { transform: translateY(-1px); box-shadow: 0 3px 10px rgba(0,0,0,.28); }
-  .refresh-btn:active { transform: none; }
-  @media (max-width: 620px) { .refresh-btn { display: none; } }
-  .refresh-wrap { position: relative; }
-  .refresh-pop { position: absolute; right: 0; top: calc(100% + 10px); z-index: 60;
-                 background: var(--surface); border: 1px solid var(--border);
-                 border-radius: 12px; padding: 14px; width: 244px; text-align: left;
-                 box-shadow: 0 12px 30px rgba(16,24,40,.22); }
-  .refresh-pop label { display: block; font-size: 10px; font-weight: 700; letter-spacing: 1px;
-                       text-transform: uppercase; color: var(--muted); margin-bottom: 7px; }
-  .refresh-pop form { display: flex; gap: 6px; }
-  .refresh-pop input { flex: 1; min-width: 0; font: inherit; font-size: 12.5px; padding: 7px 9px;
-                       border: 1px solid var(--border2); border-radius: 8px; color: var(--text);
-                       background: var(--surface); }
-  .refresh-pop input:focus { outline: 2px solid var(--accent-mid); outline-offset: 1px; }
-  .refresh-pop button { font: inherit; font-size: 12px; font-weight: 700; cursor: pointer;
-                        padding: 7px 12px; border: 0; border-radius: 8px;
-                        background: var(--accent); color: #fff; }
-  .refresh-pop button:disabled { opacity: .55; cursor: default; }
-  .refresh-msg { font-size: 11px; margin-top: 9px; color: var(--muted); line-height: 1.45; }
-  .refresh-msg.ok { color: var(--green); font-weight: 600; }
-  .refresh-msg.err { color: var(--red); font-weight: 600; }
   /* ── NAV ─────────────────────────────────── */
   html { scroll-behavior: smooth; }
   .section-nav { position: sticky; top: 0; z-index: 40; }
@@ -458,16 +430,6 @@
   <div class="header-tools">
     <div class="header-sub" id="headerSub"></div>
     <div class="stamp" id="stamp"></div>
-    <div class="refresh-wrap">
-      <button class="refresh-btn" id="refreshBtn" type="button">⟳ Update now</button>
-      <div class="refresh-pop" id="refreshPop" hidden>
-        <label for="refreshPw">Staff password</label>
-        <form id="refreshForm">
-          <input type="password" id="refreshPw" autocomplete="current-password" placeholder="Password">
-          <button type="submit" id="refreshGo">Update</button>
-        </form>
-        <div class="refresh-msg" id="refreshMsg"></div>
-      </div>
     </div>
   </div>
 </div>
@@ -594,9 +556,7 @@ const PLAYER_DATA = [{"date": "2026-08-17", "gameId": 135061, "name": "Iza Sanga
 const QUALIFIERS = ["New Zealand", "South Sudan"];
 const QUALIFY_SPOTS = 2;
 const EVENT_META = {"name": "FIBA Women's Olympic Pre-qualifying Tournament 2026", "start": "2026-08-17", "end": "2026-08-23", "host": "Guadalajara, Mexico"};
-const REPO_URL = "https://github.com/jordanngo205/Olympic-Pre-Qualifying-Tournament-Tracker";
-const REFRESH_ENDPOINT = "";
-const GENERATED_AT = "2026-08-18T01:16:36.876588+00:00";
+const GENERATED_AT = "2026-08-18T01:18:19.566576+00:00";
 const FLAG_MAP = {"AUS": "au", "CAN": "ca", "JPN": "jp", "HUN": "hu", "TUR": "tr", "ARG": "ar", "USA": "us", "FRA": "fr", "ESP": "es", "GBR": "gb", "GER": "de", "BRA": "br", "CHN": "cn", "KOR": "kr", "NGA": "ng", "BEL": "be", "CZE": "cz", "NED": "nl", "POL": "pl", "SWE": "se", "ITA": "it", "SRB": "rs", "LAT": "lv", "LTU": "lt", "NZL": "nz", "PUR": "pr", "MEX": "mx", "COL": "co", "GRE": "gr", "CRO": "hr", "SLO": "si", "SVK": "sk", "VEN": "ve", "DOM": "do", "PAR": "py", "CIV": "ci", "EGY": "eg", "SSD": "ss", "SEN": "sn", "PHI": "ph", "ANG": "ao", "MLI": "ml", "CHI": "cl", "URU": "uy", "CUB": "cu", "BAH": "bs", "JAM": "jm", "PAN": "pa", "CRC": "cr"};
 // %%DATA_END%%
 
@@ -1030,59 +990,28 @@ function initFreshness() {
   });
 }
 
-// Link the rebuild button at this repo's workflow. Hidden if we do not know
-// the repo, so a copy of this file served elsewhere degrades quietly.
-function initRefresh() {
-  const btn  = document.getElementById('refreshBtn');
-  const pop  = document.getElementById('refreshPop');
-  const form = document.getElementById('refreshForm');
-  const pw   = document.getElementById('refreshPw');
-  const go   = document.getElementById('refreshGo');
-  const msg  = document.getElementById('refreshMsg');
+// ─────────────────────────────────────────────────────────────────────────────
+// STAYING FRESH
+// A tab left open all day would otherwise keep showing whatever was true when
+// it was opened — including a frozen "Updated 3m ago". Two things fix that:
+// the stamp keeps counting, and the page quietly re-fetches itself. The reload
+// only ever happens while the tab is in the background, so it can never yank
+// the page out from under someone mid-read.
+// ─────────────────────────────────────────────────────────────────────────────
+function initFreshness() {
+  const loadedAt = Date.now();
+  const MAX_AGE = 5 * 60 * 1000;
+  const stale = () => Date.now() - loadedAt > MAX_AGE;
 
-  const endpoint = (typeof REFRESH_ENDPOINT !== 'undefined' && REFRESH_ENDPOINT) ? REFRESH_ENDPOINT : '';
-  const repo = (typeof REPO_URL !== 'undefined' && REPO_URL) ? REPO_URL : '';
+  // Let the "Updated Xm ago" label keep ticking rather than freezing.
+  setInterval(renderStamp, 30 * 1000);
 
-  // With no endpoint configured there is nothing safe to call. Hide the button
-  // entirely rather than sending staff to a GitHub page that means nothing to
-  // them — the dashboard rebuilds itself every 10 minutes regardless.
-  if (!endpoint) { document.querySelector('.refresh-wrap').style.display = 'none'; return; }
+  // Refresh in the background, so the tab is current whenever it is looked at.
+  setInterval(() => { if (document.hidden && stale()) location.reload(); }, 60 * 1000);
 
-  btn.addEventListener('click', () => {
-    pop.hidden = !pop.hidden;
-    if (!pop.hidden) pw.focus();
-  });
-  document.addEventListener('click', e => {
-    if (!pop.hidden && !pop.contains(e.target) && e.target !== btn) pop.hidden = true;
-  });
-
-  form.addEventListener('submit', async e => {
-    e.preventDefault();
-    go.disabled = true;
-    msg.className = 'refresh-msg';
-    msg.textContent = 'Starting…';
-    try {
-      const r = await fetch(endpoint, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ password: pw.value }),
-      });
-      if (r.ok) {
-        msg.className = 'refresh-msg ok';
-        msg.textContent = 'Update started. New results appear in about a minute — '
-                        + 'this page will refresh itself.';
-        pw.value = '';
-      } else {
-        const body = await r.json().catch(() => ({}));
-        msg.className = 'refresh-msg err';
-        msg.textContent = r.status === 401 ? 'Wrong password.'
-                                           : (body.error || 'Could not start the update.');
-      }
-    } catch (err) {
-      msg.className = 'refresh-msg err';
-      msg.textContent = 'Could not reach the update service.';
-    }
-    go.disabled = false;
+  // And catch the case where it sat in the background without firing.
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden && stale()) location.reload();
   });
 }
 
@@ -1313,7 +1242,7 @@ function initScrollSpy() {
   document.querySelectorAll('.zone').forEach(z => obs.observe(z));
 }
 
-renderStamp(); initRefresh(); initFreshness();
+renderStamp(); initFreshness();
 renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
 renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 initScrollSpy();

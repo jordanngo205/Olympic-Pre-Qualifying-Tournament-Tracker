@@ -2,11 +2,10 @@ name: Update Dashboard
 
 on:
   schedule:
-    # Every 10 minutes while the tournament is running, so a finished game
-    # appears without anyone having to press anything. Games are only scraped
-    # once FIBA marks them final, so a run with nothing new costs two page
-    # loads and commits nothing. Public repos get free Actions minutes.
-    - cron: '*/10 * * * *'
+    # Every 5 minutes — the shortest interval GitHub Actions allows. Games are
+    # only scraped once FIBA marks them final, so a run with nothing new loads
+    # two pages and commits nothing. Public repos get free Actions minutes.
+    - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 # Only one build at a time, so two runs can't race on the same push.
@@ -36,12 +35,6 @@ jobs:
         # --event matches the tournament by name against FIBA's event index,
         # so there is no URL to maintain here.
         # --qualify-spots sets the cut line on the Qualification board.
-        # REFRESH_ENDPOINT is a repository *variable*, not a secret: it ends up
-        # in the published page by design. The password and GitHub token live
-        # in the Worker it points at. Leave it unset and the button simply
-        # opens this workflow page instead.
-        env:
-          REFRESH_ENDPOINT: ${{ vars.REFRESH_ENDPOINT }}
         run: |
           python fiba_scrape.py \
             --event olympic pre-qualifying guadalajara \
