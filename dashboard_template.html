@@ -60,10 +60,10 @@
      Each major section of the dashboard (scores, leaders/standings,
      awards, net points) is wrapped in a .zone so the page reads as
      distinct chapters instead of one continuous scroll. */
-  /* Sections read as raised sheets on the page rather than boxes drawn with a
-     heavy outline: a hairline edge plus a soft, wide shadow does the same
-     separating job with far less visual weight. */
-  .zone { padding: 34px 32px 38px; margin: 20px 24px; border: 1px solid var(--border);
+  /* Each section is a clearly bounded panel, as in the original dashboard —
+     a defined dark edge so the chapters never run together — kept softer by
+     pairing it with a wide, low shadow rather than a hard outline alone. */
+  .zone { padding: 34px 32px 38px; margin: 20px 24px; border: 3px solid var(--text);
           border-radius: 16px; overflow: hidden; background: var(--surface);
           box-shadow: 0 1px 2px rgba(16,24,40,.04), 0 12px 28px -18px rgba(16,24,40,.16); }
   .zone-inner { max-width: 1440px; margin: 0 auto; }
@@ -203,7 +203,8 @@
   .nneg { color: var(--red); font-weight: 700; }
   .nmid { color: var(--text2); font-weight: 600; }
 
-  :root { --zone-border: #e4e7ed; --shadow: rgba(16,24,40,.06); --chip: #f1f3f7; }
+  /* One token drives every panel edge, so the page stays consistent. */
+  :root { --zone-border: #0f172a; --shadow: rgba(16,24,40,.06); --chip: #f1f3f7; }
   body { transition: background-color .25s ease, color .25s ease; }
   .zone { border-color: var(--zone-border); }
   .header { background: var(--accent); }
@@ -343,7 +344,7 @@
   .kpi-row { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; margin: 20px 24px 0; }
   @media (max-width: 1150px) { .kpi-row { grid-template-columns: repeat(3, 1fr); } }
   @media (max-width: 620px)  { .kpi-row { grid-template-columns: repeat(2, 1fr); margin: 14px 10px 0; gap: 10px; } }
-  .kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+  .kpi { background: var(--surface); border: 2px solid var(--zone-border); border-radius: 14px;
          padding: 16px 18px; position: relative; overflow: hidden;
          box-shadow: 0 1px 2px rgba(16,24,40,.04), 0 12px 28px -20px rgba(16,24,40,.18);
          transition: transform .16s ease, box-shadow .16s ease; }
