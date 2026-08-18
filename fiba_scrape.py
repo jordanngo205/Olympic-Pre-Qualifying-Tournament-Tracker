@@ -666,7 +666,7 @@ FLAG_MAP = {
 
 
 def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
-                    template: Path, spots: int = 4):
+                    template: Path, spots: int = 4, event=None):
     if not template.exists():
         print(f"\nTemplate not found at '{template.name}' — skipping HTML output.")
         print("Save your dashboard HTML as dashboard_template.html and rerun.")
@@ -708,6 +708,19 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
                    .sort_values(["win", "diff"], ascending=[False, False]))
         qualifiers = tbl.head(spots)["team"].tolist()
 
+    # Prefer FIBA's official event record; fall back to nothing so the page
+    # can derive a range from the games it has.
+    event_meta = {}
+    if event is not None:
+        name = str(event.get("name") or "")
+        start, end = str(event.get("start") or ""), str(event.get("end") or "")
+        # The published name often omits the year the branding carries.
+        year = start[:4]
+        if year and year not in name:
+            name = f"{name} {year}"
+        event_meta = {"name": name, "start": start, "end": end,
+                      "host": str(event.get("host") or "")}
+
     def to_js(name, obj):
         if isinstance(obj, pd.DataFrame):
             payload = json.loads(obj.to_json(orient="records"))
@@ -722,6 +735,9 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         to_js("PLAYER_DATA", enriched),
         to_js("QUALIFIERS", qualifiers),
         to_js("QUALIFY_SPOTS", spots),
+        # The event's own name and dates, so the header shows the real
+        # tournament window rather than only the days already played.
+        to_js("EVENT_META", event_meta),
         to_js("GENERATED_AT", datetime.now(timezone.utc).isoformat()),
         to_js("FLAG_MAP", FLAG_MAP),
         "// %%DATA_END%%",
@@ -886,7 +902,7 @@ def run_once(ev, competition: str, args) -> int:
 
     write_dashboard(outdir, competition, details, team_adv_u, enriched,
                     Path(__file__).parent / "dashboard_template.html",
-                    spots=args.qualify_spots)
+                    spots=args.qualify_spots, event=ev)
     return pending
 
 
