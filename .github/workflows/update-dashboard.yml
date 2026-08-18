@@ -50,5 +50,13 @@ jobs:
             echo "No new games — nothing to commit"
           else
             git commit -m "chore: auto-update dashboard $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git push
+            # main can move while a run is in flight, which would make this
+            # push a non-fast-forward and fail the job. Rebase onto whatever
+            # landed first; the scraped data does not conflict with edits to
+            # the template or the workflow.
+            git pull --rebase --autostash origin main || {
+              echo "Rebase hit a conflict — leaving main alone; next run retries."
+              exit 0
+            }
+            git push origin HEAD:main
           fi
