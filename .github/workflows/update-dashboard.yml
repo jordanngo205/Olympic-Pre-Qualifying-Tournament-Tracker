@@ -2,9 +2,9 @@ name: Update Dashboard
 
 on:
   schedule:
-    # Every 2 hours while the tournament is running. Games are only scraped
-    # once FIBA marks them final, so extra runs are cheap no-ops.
-    - cron: '0 */2 * * *'
+    # Hourly while the tournament is running. Games are only scraped once
+    # FIBA marks them final, so runs with nothing new are cheap no-ops.
+    - cron: '0 * * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 # Only one build at a time, so two runs can't race on the same push.

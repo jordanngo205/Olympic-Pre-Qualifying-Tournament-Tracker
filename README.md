@@ -1,6 +1,7 @@
 # FIBA Tournament Dashboard
 
 Self-updating dashboard for FIBA competitions, built for Canada Basketball.
+Pure Python — no R.
 
 **Live dashboard:** https://jordanngo205.github.io/fiba-tournament-dashboard/
 
@@ -23,7 +24,7 @@ against FIBA's own event index, then walks down to the games:
 Every page's data comes out of the Next.js hydration payload that
 fiba.basketball ships inside its HTML.
 
-A GitHub Action re-runs this every 2 hours, scrapes any game that has gone
+A GitHub Action re-runs this every hour, scrapes any game that has gone
 final since the last run, rebuilds `docs/index.html`, and pushes. GitHub Pages
 serves that file, so the public link updates itself.
 
@@ -75,10 +76,11 @@ its design.
 
 Add a country to `FLAG_MAP` in `fiba_scrape.py` when a new team appears.
 
-## R version
+## Legacy
 
-`FIBA EVENT GAME SCRAPE (For Sharing).R` is the original Basketball Canada
-script (contact: Cohen MacDonald, cmacdonald@basketball.ca), kept working and
-fitted with the same auto-discovery via `getGameLinks.R`. The Python port
-produces identical output, with one deliberate difference: `FTP` is computed as
-`FTM/FTA` rather than the R script's `FTM/FGA`.
+`legacy/` holds archived U17 World Cup data — the reference tournament used to
+validate this scraper against the Basketball Canada R pipeline it replaces
+(team advanced box, enriched player table and standings matched exactly, with
+one deliberate difference: `FTP` is computed as `FTM/FTA` rather than the R
+script's `FTM/FGA`). Those R scripts have been removed; the pipeline is
+entirely Python. They remain in git history at commit `25c954b`.

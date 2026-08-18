@@ -35,10 +35,13 @@
   body { background: var(--bg); color: var(--text); font-family: 'Inter', system-ui, sans-serif; font-size: 13px; line-height: 1.5; }
 
   /* HEADER */
-  .header { background: var(--accent); padding: 0 24px; display: flex; align-items: center; gap: 16px; min-height: 56px; }
-  .header-eyebrow { font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: rgba(255,255,255,0.65); }
-  .header-title { font-size: 17px; font-weight: 800; color: #fff; letter-spacing: -0.3px; }
-  .header-sub { font-size: 11px; color: rgba(255,255,255,0.7); margin-left: auto; font-weight: 500; }
+  /* The masthead carries the tournament identity, so give it real presence:
+     a deeper band, a larger logo lockup and a headline that can be read at
+     a glance from across a room. */
+  .header { background: var(--accent); padding: 20px 32px; display: flex; align-items: center; gap: 22px; min-height: 104px; }
+  .header-eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 2.6px; text-transform: uppercase; color: rgba(255,255,255,0.72); margin-bottom: 3px; }
+  .header-title { font-size: 30px; font-weight: 900; color: #fff; letter-spacing: -0.8px; line-height: 1.1; }
+  .header-sub { font-size: 12.5px; color: rgba(255,255,255,0.82); margin-left: auto; font-weight: 600; }
 
   /* DATE TABS */
   .date-nav { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0 24px; display: flex; gap: 2px; overflow-x: auto; }
@@ -209,13 +212,13 @@
   .net-neg-mid { background: var(--red-bg); color: var(--red); border-color: var(--red-border); }
   .sub-label.other { border-color: var(--amber-bg); }
 
-  .header-logo { height: 34px; width: auto; background: #fff; border-radius: 8px;
-                 padding: 4px 7px; flex-shrink: 0; box-shadow: 0 1px 4px rgba(0,0,0,.22); }
-  @media (max-width: 620px) { .header-logo { height: 26px; } }
+  .header-logo { height: 62px; width: auto; background: #fff; border-radius: 12px;
+                 padding: 7px 11px; flex-shrink: 0; box-shadow: 0 2px 10px rgba(0,0,0,.24); }
+  @media (max-width: 620px) { .header-logo { height: 40px; padding: 5px 8px; } }
   /* ── HEADER CONTROLS ─────────────────────── */
   .header-tools { margin-left: auto; display: flex; align-items: center; gap: 10px; }
   .header-sub { margin-left: 0; }
-  .stamp { font-size: 10px; font-weight: 600; color: rgba(255,255,255,.85); background: rgba(0,0,0,.18);
+  .stamp { font-size: 11px; font-weight: 600; color: rgba(255,255,255,.85); background: rgba(0,0,0,.18);
            padding: 4px 10px; border-radius: 20px; white-space: nowrap; }
   .stamp b { color: #fff; font-weight: 800; }
                width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center;
@@ -280,8 +283,8 @@
                 background: var(--surface); padding: 0 3px; border-radius: 3px; }
   .quad-axis { position: absolute; font-size: 9px; font-weight: 700; color: var(--muted);
                text-transform: uppercase; letter-spacing: 1px; }
-  .quad-axis.x { bottom: 12px; left: 50%; transform: translateX(-50%); }
-  .quad-axis.y { left: 12px; top: 50%; writing-mode: vertical-rl; transform: translateY(-50%) rotate(180deg); }
+  .quad-axis.x { bottom: 10px; left: 50%; transform: translateX(-50%); }
+  .quad-axis.y { left: 10px; top: 50%; writing-mode: vertical-rl; transform: translateY(-50%) rotate(180deg); }
   .quad-tick { position: absolute; font-size: 9px; color: var(--muted2); font-variant-numeric: tabular-nums; white-space: nowrap; }
   .quad-tick.avg { color: var(--accent); font-weight: 700; }
   .quad-corner { position: absolute; font-size: 9px; font-weight: 800; letter-spacing: .5px;
@@ -332,7 +335,35 @@
   .section-nav { border-bottom: 1px solid var(--border); box-shadow: 0 1px 3px rgba(16,24,40,.04); }
   .date-nav { border-bottom: 1px solid var(--border); }
   .qual-row { border-radius: 12px; }
-  .quad { padding: 30px 34px 40px 54px; }
+  .quad { padding: 30px 34px 46px 74px; }
+
+  /* ── KPI STRIP ───────────────────────────────
+     The summary row a BI dashboard opens with: a handful of headline numbers,
+     each answering one question, before any detail. */
+  .kpi-row { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; margin: 20px 24px 0; }
+  @media (max-width: 1150px) { .kpi-row { grid-template-columns: repeat(3, 1fr); } }
+  @media (max-width: 620px)  { .kpi-row { grid-template-columns: repeat(2, 1fr); margin: 14px 10px 0; gap: 10px; } }
+  .kpi { background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+         padding: 16px 18px; position: relative; overflow: hidden;
+         box-shadow: 0 1px 2px rgba(16,24,40,.04), 0 12px 28px -20px rgba(16,24,40,.18);
+         transition: transform .16s ease, box-shadow .16s ease; }
+  .kpi:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgba(16,24,40,.05), 0 16px 30px -18px rgba(16,24,40,.26); }
+  /* A thin accent rail keys each tile to its topic without colouring the text. */
+  .kpi::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; background: var(--kpi-accent, var(--accent)); }
+  .kpi-label { font-size: 9.5px; font-weight: 700; letter-spacing: 1.3px; text-transform: uppercase;
+               color: var(--muted); margin-bottom: 7px; }
+  .kpi-value { font-size: 27px; font-weight: 900; color: var(--text); letter-spacing: -1px;
+               line-height: 1.05; font-variant-numeric: tabular-nums; display: flex; align-items: center; gap: 7px; }
+  .kpi-value .fi { width: 26px; height: 19px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); }
+  .kpi-value small { font-size: 14px; font-weight: 800; color: var(--muted); letter-spacing: 0; }
+  .kpi-sub { font-size: 10.5px; color: var(--muted); margin-top: 5px; font-weight: 500;
+             white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  /* Magnitude bar behind a leaderboard value — the table reads as a chart
+     without spending any extra vertical space. */
+  .leader-row { position: relative; }
+  .leader-bar { position: absolute; left: 0; bottom: 0; height: 2px;
+                background: var(--accent); opacity: .3; border-radius: 2px; transition: width .3s ease; }
 
   /* ── MOTION ──────────────────────────────── */
   .zone { animation: rise .45s ease both; }
@@ -342,6 +373,8 @@
     * { animation: none !important; transition: none !important; }
   }
   @media (max-width: 620px) {
+    .header { padding: 14px 16px; min-height: 76px; gap: 14px; }
+    .header-title { font-size: 20px; }
     .zone { margin: 14px 10px; padding: 20px 14px 24px; }
     .zone-title { font-size: 21px; }
     .qual-row { grid-template-columns: 26px 1fr auto auto; gap: 8px; padding: 9px 10px; }
@@ -373,6 +406,8 @@
   <a class="section-nav-item" href="#section-awards">Daily Awards</a>
   <a class="section-nav-item" href="#section-net">Player Net Points</a>
 </div>
+
+<div class="kpi-row" id="kpiRow"></div>
 
 <div class="zone zone--scores" id="section-scores">
   <div class="zone-inner">
@@ -720,8 +755,11 @@ function renderLeaders() {
     agg[p.name].gp++;
   });
   const sorted = Object.values(agg).sort((a,b)=>b.val-a.val).slice(0,7);
+  // Scale bars against the largest absolute value so +/- leaders read too.
+  const peak = Math.max(...sorted.map(p=>Math.abs(p.val)), 1);
   document.getElementById('leaderList').innerHTML = sorted.map((p,i)=>`
     <div class="leader-row">
+      <div class="leader-bar" style="width:${Math.max(2, Math.abs(p.val)/peak*100)}%"></div>
       <div class="leader-rank">${i+1}</div>
       <div><div class="leader-name">${p.name}</div><div class="leader-team-tag" style="display:inline-flex;align-items:center;gap:4px">${flag(p.team,'0.85em')}${p.team} · ${p.gp} GP</div></div>
       <div class="leader-val">${activeLeaderStat==='PM'?(p.val>=0?'+':'')+p.val : p.val}</div>
@@ -877,7 +915,7 @@ function renderNetPanels() {
 // ─────────────────────────────────────────────────────────────────────────────
 function setDate(d) {
   activeDate = d;
-  renderDateTabs(); renderGames(); renderQualification(); renderEfficiency();
+  renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
   renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 }
 function setLeaderTab(stat, el) {
@@ -1047,6 +1085,61 @@ function renderEfficiency() {
   }).join('');
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// KPI STRIP — the headline numbers, recomputed for whichever day is selected.
+// ─────────────────────────────────────────────────────────────────────────────
+function renderKpis() {
+  const games = GAME_DETAILS.filter(g => activeDate === 'ALL' || g.date <= activeDate);
+  if (!games.length) { document.getElementById('kpiRow').innerHTML = ''; return; }
+  const ids = new Set(games.map(g => g.gameId));
+
+  const scores = games.flatMap(g => [+g.home_score, +g.away_score]);
+  const avgScore = scores.reduce((a, b) => a + b, 0) / scores.length;
+
+  const advRows = ADV.filter(a => ids.has(a.gameId));
+  const poss = advRows.map(a => parseFloat(a.Possessions)).filter(isFinite);
+  const avgPoss = poss.length ? poss.reduce((a, b) => a + b, 0) / poss.length : null;
+
+  // Best offence / defence are team averages, so one blowout cannot own a tile.
+  const byTeam = {};
+  advRows.forEach(a => {
+    const o = parseFloat(a.ORTG), d = parseFloat(a.DRTG);
+    if (!isFinite(o) || !isFinite(d)) return;
+    (byTeam[a.shortCode] ||= { o: 0, d: 0, n: 0 });
+    byTeam[a.shortCode].o += o; byTeam[a.shortCode].d += d; byTeam[a.shortCode].n++;
+  });
+  const teams = Object.entries(byTeam).map(([code, v]) => ({ code, o: v.o / v.n, d: v.d / v.n }));
+  const bestO = teams.slice().sort((a, b) => b.o - a.o)[0];
+  const bestD = teams.slice().sort((a, b) => a.d - b.d)[0];
+
+  const pts = {};
+  PLAYER_DATA.filter(p => ids.has(p.gameId)).forEach(p => {
+    (pts[p.name] ||= { name: p.name, team: p.team, v: 0 });
+    pts[p.name].v += (+p.PTS || 0);
+  });
+  const topScorer = Object.values(pts).sort((a, b) => b.v - a.v)[0];
+
+  const tile = (label, value, sub, accent) =>
+    `<div class="kpi" style="--kpi-accent:${accent}">
+       <div class="kpi-label">${label}</div>
+       <div class="kpi-value">${value}</div>
+       <div class="kpi-sub">${sub}</div>
+     </div>`;
+
+  document.getElementById('kpiRow').innerHTML = [
+    tile('Games Played', games.length,
+         `${new Set(games.flatMap(g => [g.home_short, g.away_short])).size} teams`, 'var(--accent)'),
+    tile('Points / Team', avgScore.toFixed(1), 'average per game', '#6366f1'),
+    tile('Pace', avgPoss ? avgPoss.toFixed(1) : '—', 'possessions per game', '#0ea5e9'),
+    bestO ? tile('Best Offence', `${flag(bestO.code, '1em')}<span>${bestO.o.toFixed(1)}</span>`,
+                 `${bestO.code} · pts per 100`, 'var(--green)') : '',
+    bestD ? tile('Best Defence', `${flag(bestD.code, '1em')}<span>${bestD.d.toFixed(1)}</span>`,
+                 `${bestD.code} · allowed per 100`, '#8b5cf6') : '',
+    topScorer ? tile('Top Scorer', `${topScorer.v}<small>PTS</small>`,
+                     topScorer.name, 'var(--amber)') : '',
+  ].join('');
+}
+
 // Highlight the section currently in view.
 function initScrollSpy() {
   const links = [...document.querySelectorAll('.section-nav-item')];
@@ -1060,7 +1153,7 @@ function initScrollSpy() {
 }
 
 renderStamp();
-renderDateTabs(); renderGames(); renderQualification(); renderEfficiency();
+renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
 renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 initScrollSpy();
 </script>

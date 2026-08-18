@@ -1,18 +1,21 @@
 #!/usr/bin/env python3
 """
-FIBA competition scraper — Python port of "FIBA EVENT GAME SCRAPE (For Sharing).R".
+FIBA competition scraper and dashboard builder.
 
 Pick a tournament by name. No URLs to paste anywhere:
 
     python3 fiba_scrape.py --list                     # browse every event FIBA lists
     python3 fiba_scrape.py --list women olympic       # filter that list
     python3 fiba_scrape.py --event guadalajara        # scrape the matching event
+    python3 fiba_scrape.py --event guadalajara --watch 15   # until every game is final
 
-Writes the same CSVs the R script does, into "<Competition>/data/", and splices
-dashboard_template.html the same way if that file is sitting next to this one.
+Writes box scores, play-by-play and derived tables to "<Competition>/data/",
+then splices the data into dashboard_template.html and publishes the result to
+docs/index.html for GitHub Pages.
 
-Re-runs are incremental: games already in the CSVs are skipped, so you can run
-this each night of a tournament and it only fetches what's new.
+Re-runs are incremental: games already in the CSVs are skipped, so this can run
+on a schedule through a tournament and only fetch what is new. Only games FIBA
+has marked final are scraped, since a game in progress has no complete box.
 """
 
 from __future__ import annotations
@@ -683,7 +686,9 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
     if "group" in details.columns:
         gd_cols.append("group")
     gd = details[gd_cols]
-    adv = team_adv[["gameId", "shortCode", "ORTG", "DRTG", "EFG%", "TO/Poss", "DRB rt", "AST/FG%"]]
+    # Possessions rides along so the dashboard can show tournament pace.
+    adv = team_adv[["gameId", "shortCode", "ORTG", "DRTG", "EFG%", "TO/Poss",
+                    "DRB rt", "AST/FG%", "Possessions"]]
 
     has_groups = "group" in details.columns and details["group"].notna().any()
     gcol = ["group"] if has_groups else []
