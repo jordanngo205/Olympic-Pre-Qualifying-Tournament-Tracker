@@ -596,7 +596,7 @@ const QUALIFY_SPOTS = 2;
 const EVENT_META = {"name": "FIBA Women's Olympic Pre-qualifying Tournament 2026", "start": "2026-08-17", "end": "2026-08-23", "host": "Guadalajara, Mexico"};
 const REPO_URL = "https://github.com/jordanngo205/Olympic-Pre-Qualifying-Tournament-Tracker";
 const REFRESH_ENDPOINT = "";
-const GENERATED_AT = "2026-08-18T01:13:53.721090+00:00";
+const GENERATED_AT = "2026-08-18T01:16:36.876588+00:00";
 const FLAG_MAP = {"AUS": "au", "CAN": "ca", "JPN": "jp", "HUN": "hu", "TUR": "tr", "ARG": "ar", "USA": "us", "FRA": "fr", "ESP": "es", "GBR": "gb", "GER": "de", "BRA": "br", "CHN": "cn", "KOR": "kr", "NGA": "ng", "BEL": "be", "CZE": "cz", "NED": "nl", "POL": "pl", "SWE": "se", "ITA": "it", "SRB": "rs", "LAT": "lv", "LTU": "lt", "NZL": "nz", "PUR": "pr", "MEX": "mx", "COL": "co", "GRE": "gr", "CRO": "hr", "SLO": "si", "SVK": "sk", "VEN": "ve", "DOM": "do", "PAR": "py", "CIV": "ci", "EGY": "eg", "SSD": "ss", "SEN": "sn", "PHI": "ph", "ANG": "ao", "MLI": "ml", "CHI": "cl", "URU": "uy", "CUB": "cu", "BAH": "bs", "JAM": "jm", "PAN": "pa", "CRC": "cr"};
 // %%DATA_END%%
 
@@ -1043,15 +1043,10 @@ function initRefresh() {
   const endpoint = (typeof REFRESH_ENDPOINT !== 'undefined' && REFRESH_ENDPOINT) ? REFRESH_ENDPOINT : '';
   const repo = (typeof REPO_URL !== 'undefined' && REPO_URL) ? REPO_URL : '';
 
-  // Without a configured endpoint there is nothing safe to call, so fall back
-  // to opening the workflow page rather than showing a box that cannot work.
-  if (!endpoint) {
-    if (!repo) { btn.style.display = 'none'; return; }
-    btn.addEventListener('click', () =>
-      window.open(repo + '/actions/workflows/update-dashboard.yml', '_blank', 'noopener'));
-    btn.title = 'Open the rebuild workflow on GitHub';
-    return;
-  }
+  // With no endpoint configured there is nothing safe to call. Hide the button
+  // entirely rather than sending staff to a GitHub page that means nothing to
+  // them — the dashboard rebuilds itself every 10 minutes regardless.
+  if (!endpoint) { document.querySelector('.refresh-wrap').style.display = 'none'; return; }
 
   btn.addEventListener('click', () => {
     pop.hidden = !pop.hidden;

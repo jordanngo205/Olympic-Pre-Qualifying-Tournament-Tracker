@@ -1037,15 +1037,10 @@ function initRefresh() {
   const endpoint = (typeof REFRESH_ENDPOINT !== 'undefined' && REFRESH_ENDPOINT) ? REFRESH_ENDPOINT : '';
   const repo = (typeof REPO_URL !== 'undefined' && REPO_URL) ? REPO_URL : '';
 
-  // Without a configured endpoint there is nothing safe to call, so fall back
-  // to opening the workflow page rather than showing a box that cannot work.
-  if (!endpoint) {
-    if (!repo) { btn.style.display = 'none'; return; }
-    btn.addEventListener('click', () =>
-      window.open(repo + '/actions/workflows/update-dashboard.yml', '_blank', 'noopener'));
-    btn.title = 'Open the rebuild workflow on GitHub';
-    return;
-  }
+  // With no endpoint configured there is nothing safe to call. Hide the button
+  // entirely rather than sending staff to a GitHub page that means nothing to
+  // them — the dashboard rebuilds itself every 10 minutes regardless.
+  if (!endpoint) { document.querySelector('.refresh-wrap').style.display = 'none'; return; }
 
   btn.addEventListener('click', () => {
     pop.hidden = !pop.hidden;
