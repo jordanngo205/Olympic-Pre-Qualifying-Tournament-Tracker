@@ -3,7 +3,7 @@
 Self-updating dashboard for FIBA competitions, built for Canada Basketball.
 Pure Python — no R.
 
-**Live dashboard:** https://jordanngo205.github.io/fiba-tournament-dashboard/
+**Live dashboard:** https://jordanngo205.github.io/Olympic-Pre-Qualifying-Tournament-Tracker/
 
 Currently tracking the **FIBA Women's Olympic Pre-Qualifying Tournament 2026**
 (Guadalajara, Mexico — 17–23 Aug 2026).
