@@ -668,6 +668,26 @@ FLAG_MAP = {
 }
 
 
+# Primary national colour per team, used to tint standings rows. Picked from
+# each country's flag or national-team kit. Anything missing falls back to a
+# neutral tint, so an unlisted team still renders.
+TEAM_COLORS = {
+    "ARG": "#75AADB", "AUS": "#00843D", "BEL": "#FDDA24", "BRA": "#009C3B",
+    "CAN": "#D80621", "CHN": "#EE1C25", "CIV": "#F77F00", "COL": "#FCD116",
+    "CRO": "#E62020", "CZE": "#11457E", "DOM": "#002D62", "EGY": "#CE1126",
+    "ESP": "#AA151B", "FRA": "#002395", "GBR": "#012169", "GER": "#DD0000",
+    "GRE": "#0D5EAF", "HUN": "#477050", "ITA": "#0064AA", "JPN": "#BC002D",
+    "KOR": "#003478", "LAT": "#9E3039", "LTU": "#FDB913", "MEX": "#006847",
+    "NED": "#FF6C00", "NGA": "#008751", "NZL": "#1B2432", "PAR": "#D52B1E",
+    "PHI": "#0038A8", "POL": "#DC143C", "PUR": "#ED0000", "SEN": "#00853F",
+    "SLO": "#005DA4", "SRB": "#C6363C", "SSD": "#0F47AF", "SVK": "#0B4EA2",
+    "SWE": "#006AA7", "TUR": "#E30A17", "USA": "#0A3161", "VEN": "#FCD116",
+    "ANG": "#CE1126", "BAH": "#00778B", "CHI": "#D52B1E", "CRC": "#002B7F",
+    "CUB": "#002A8F", "JAM": "#009B3A", "MLI": "#14B53A", "PAN": "#005293",
+    "URU": "#7BAFDE",
+}
+
+
 def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
                     template: Path, spots: int = 4, event=None,
                     last_updated: str = ""):
@@ -746,6 +766,7 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         to_js("EVENT_META", event_meta),
         to_js("GENERATED_AT", last_updated),
         to_js("FLAG_MAP", FLAG_MAP),
+        to_js("TEAM_COLORS", TEAM_COLORS),
         "// %%DATA_END%%",
     ]
     out = lines[:starts[0]] + block + lines[ends[0] + 1:]

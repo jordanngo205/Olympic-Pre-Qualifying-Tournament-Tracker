@@ -261,6 +261,12 @@
 
   /* A static page cannot run the scraper itself, so this hands the reader
      straight to the workflow's Run button instead of pretending to. */
+  /* Standings rows carry their nation's colour. The tint sits behind the row
+     and a solid rail marks its left edge, so teams are identifiable before
+     the flag or the code is read. */
+  .standings-row td:first-child { padding-left: 12px; }
+  .standings-row { transition: filter .15s ease; }
+  .standings-row:hover { filter: brightness(.97); }
   /* ── NAV ─────────────────────────────────── */
   html { scroll-behavior: smooth; }
   .section-nav { position: sticky; top: 0; z-index: 40; }
@@ -558,6 +564,7 @@ const QUALIFY_SPOTS = 2;
 const EVENT_META = {"name": "FIBA Women's Olympic Pre-qualifying Tournament 2026", "start": "2026-08-17", "end": "2026-08-23", "host": "Guadalajara, Mexico"};
 const GENERATED_AT = "2026-08-18T01:19:57.628312+00:00";
 const FLAG_MAP = {"AUS": "au", "CAN": "ca", "JPN": "jp", "HUN": "hu", "TUR": "tr", "ARG": "ar", "USA": "us", "FRA": "fr", "ESP": "es", "GBR": "gb", "GER": "de", "BRA": "br", "CHN": "cn", "KOR": "kr", "NGA": "ng", "BEL": "be", "CZE": "cz", "NED": "nl", "POL": "pl", "SWE": "se", "ITA": "it", "SRB": "rs", "LAT": "lv", "LTU": "lt", "NZL": "nz", "PUR": "pr", "MEX": "mx", "COL": "co", "GRE": "gr", "CRO": "hr", "SLO": "si", "SVK": "sk", "VEN": "ve", "DOM": "do", "PAR": "py", "CIV": "ci", "EGY": "eg", "SSD": "ss", "SEN": "sn", "PHI": "ph", "ANG": "ao", "MLI": "ml", "CHI": "cl", "URU": "uy", "CUB": "cu", "BAH": "bs", "JAM": "jm", "PAN": "pa", "CRC": "cr"};
+const TEAM_COLORS = {"ARG": "#75AADB", "AUS": "#00843D", "BEL": "#FDDA24", "BRA": "#009C3B", "CAN": "#D80621", "CHN": "#EE1C25", "CIV": "#F77F00", "COL": "#FCD116", "CRO": "#E62020", "CZE": "#11457E", "DOM": "#002D62", "EGY": "#CE1126", "ESP": "#AA151B", "FRA": "#002395", "GBR": "#012169", "GER": "#DD0000", "GRE": "#0D5EAF", "HUN": "#477050", "ITA": "#0064AA", "JPN": "#BC002D", "KOR": "#003478", "LAT": "#9E3039", "LTU": "#FDB913", "MEX": "#006847", "NED": "#FF6C00", "NGA": "#008751", "NZL": "#1B2432", "PAR": "#D52B1E", "PHI": "#0038A8", "POL": "#DC143C", "PUR": "#ED0000", "SEN": "#00853F", "SLO": "#005DA4", "SRB": "#C6363C", "SSD": "#0F47AF", "SVK": "#0B4EA2", "SWE": "#006AA7", "TUR": "#E30A17", "USA": "#0A3161", "VEN": "#FCD116", "ANG": "#CE1126", "BAH": "#00778B", "CHI": "#D52B1E", "CRC": "#002B7F", "CUB": "#002A8F", "JAM": "#009B3A", "MLI": "#14B53A", "PAN": "#005293", "URU": "#7BAFDE"};
 // %%DATA_END%%
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -604,6 +611,18 @@ function flag(code, size='1em') {
   const iso = FLAG_MAP[code];
   if (!iso) return '';
   return `<span class="fi fi-${iso}" style="font-size:${size};border-radius:2px;box-shadow:0 0 0 1px rgba(0,0,0,.08);flex-shrink:0"></span>`;
+}
+// Fade a team's national colour across its row: strong at the flag, gone by
+// the numbers, so the tint never competes with the figures for attention.
+function teamTint(code) {
+  const hex = (typeof TEAM_COLORS !== 'undefined' && TEAM_COLORS[code]) || '#8b95a6';
+  const n = parseInt(hex.slice(1), 16);
+  const r = (n >> 16) & 255, g = (n >> 8) & 255, b = n & 255;
+  return `linear-gradient(90deg, rgba(${r},${g},${b},.22) 0%, `
+       + `rgba(${r},${g},${b},.08) 34%, rgba(${r},${g},${b},0) 68%)`;
+}
+function teamColor(code) {
+  return (typeof TEAM_COLORS !== 'undefined' && TEAM_COLORS[code]) || 'var(--border2)';
 }
 function teamWithFlag(code, size='1em') {
   return `<span style="display:inline-flex;align-items:center;gap:5px">${flag(code, size)}<span>${code}</span></span>`;
@@ -821,7 +840,8 @@ function renderStandings() {
   const rows=Object.values(ts).sort((a,b)=>b.W-a.W||b.D-a.D);
   document.getElementById('standingsBody').innerHTML=rows.map(r=>{
     const d=r.D>=0?`+${r.D}`:String(r.D);
-    return `<tr>
+    return `<tr class="standings-row" style="background:${teamTint(r.sc)};
+              box-shadow: inset 3px 0 0 ${teamColor(r.sc)}">
       <td><div class="team-name-cell">${flag(r.sc,'1em')}<span>${r.sc}</span></div></td>
       <td>${r.W}</td><td>${r.L}</td>
       <td class="${r.D>=0?'diff-pos':'diff-neg'}">${d}</td>
