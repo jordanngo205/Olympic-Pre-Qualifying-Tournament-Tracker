@@ -270,6 +270,25 @@
   .refresh-btn:hover { transform: translateY(-1px); box-shadow: 0 3px 10px rgba(0,0,0,.28); }
   .refresh-btn:active { transform: none; }
   @media (max-width: 620px) { .refresh-btn { display: none; } }
+  .refresh-wrap { position: relative; }
+  .refresh-pop { position: absolute; right: 0; top: calc(100% + 10px); z-index: 60;
+                 background: var(--surface); border: 1px solid var(--border);
+                 border-radius: 12px; padding: 14px; width: 244px; text-align: left;
+                 box-shadow: 0 12px 30px rgba(16,24,40,.22); }
+  .refresh-pop label { display: block; font-size: 10px; font-weight: 700; letter-spacing: 1px;
+                       text-transform: uppercase; color: var(--muted); margin-bottom: 7px; }
+  .refresh-pop form { display: flex; gap: 6px; }
+  .refresh-pop input { flex: 1; min-width: 0; font: inherit; font-size: 12.5px; padding: 7px 9px;
+                       border: 1px solid var(--border2); border-radius: 8px; color: var(--text);
+                       background: var(--surface); }
+  .refresh-pop input:focus { outline: 2px solid var(--accent-mid); outline-offset: 1px; }
+  .refresh-pop button { font: inherit; font-size: 12px; font-weight: 700; cursor: pointer;
+                        padding: 7px 12px; border: 0; border-radius: 8px;
+                        background: var(--accent); color: #fff; }
+  .refresh-pop button:disabled { opacity: .55; cursor: default; }
+  .refresh-msg { font-size: 11px; margin-top: 9px; color: var(--muted); line-height: 1.45; }
+  .refresh-msg.ok { color: var(--green); font-weight: 600; }
+  .refresh-msg.err { color: var(--red); font-weight: 600; }
   /* ── NAV ─────────────────────────────────── */
   html { scroll-behavior: smooth; }
   .section-nav { position: sticky; top: 0; z-index: 40; }
@@ -439,8 +458,17 @@
   <div class="header-tools">
     <div class="header-sub" id="headerSub"></div>
     <div class="stamp" id="stamp"></div>
-    <a class="refresh-btn" id="refreshBtn" target="_blank" rel="noopener"
-       title="Open the rebuild workflow on GitHub">⟳ Update now</a>
+    <div class="refresh-wrap">
+      <button class="refresh-btn" id="refreshBtn" type="button">⟳ Update now</button>
+      <div class="refresh-pop" id="refreshPop" hidden>
+        <label for="refreshPw">Staff password</label>
+        <form id="refreshForm">
+          <input type="password" id="refreshPw" autocomplete="current-password" placeholder="Password">
+          <button type="submit" id="refreshGo">Update</button>
+        </form>
+        <div class="refresh-msg" id="refreshMsg"></div>
+      </div>
+    </div>
   </div>
 </div>
 <div class="date-nav" id="dateNav"></div>
@@ -567,7 +595,8 @@ const QUALIFIERS = ["New Zealand", "South Sudan"];
 const QUALIFY_SPOTS = 2;
 const EVENT_META = {"name": "FIBA Women's Olympic Pre-qualifying Tournament 2026", "start": "2026-08-17", "end": "2026-08-23", "host": "Guadalajara, Mexico"};
 const REPO_URL = "https://github.com/jordanngo205/Olympic-Pre-Qualifying-Tournament-Tracker";
-const GENERATED_AT = "2026-08-18T01:06:31.190878+00:00";
+const REFRESH_ENDPOINT = "";
+const GENERATED_AT = "2026-08-18T01:13:53.721090+00:00";
 const FLAG_MAP = {"AUS": "au", "CAN": "ca", "JPN": "jp", "HUN": "hu", "TUR": "tr", "ARG": "ar", "USA": "us", "FRA": "fr", "ESP": "es", "GBR": "gb", "GER": "de", "BRA": "br", "CHN": "cn", "KOR": "kr", "NGA": "ng", "BEL": "be", "CZE": "cz", "NED": "nl", "POL": "pl", "SWE": "se", "ITA": "it", "SRB": "rs", "LAT": "lv", "LTU": "lt", "NZL": "nz", "PUR": "pr", "MEX": "mx", "COL": "co", "GRE": "gr", "CRO": "hr", "SLO": "si", "SVK": "sk", "VEN": "ve", "DOM": "do", "PAR": "py", "CIV": "ci", "EGY": "eg", "SSD": "ss", "SEN": "sn", "PHI": "ph", "ANG": "ao", "MLI": "ml", "CHI": "cl", "URU": "uy", "CUB": "cu", "BAH": "bs", "JAM": "jm", "PAN": "pa", "CRC": "cr"};
 // %%DATA_END%%
 
@@ -976,13 +1005,90 @@ function setLeaderTab(stat, el) {
   renderLeaders();
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+// STAYING FRESH
+// A tab left open all day would otherwise keep showing whatever was true when
+// it was opened — including a frozen "Updated 3m ago". Two things fix that:
+// the stamp keeps counting, and the page quietly re-fetches itself. The reload
+// only ever happens while the tab is in the background, so it can never yank
+// the page out from under someone mid-read.
+// ─────────────────────────────────────────────────────────────────────────────
+function initFreshness() {
+  const loadedAt = Date.now();
+  const MAX_AGE = 5 * 60 * 1000;
+  const stale = () => Date.now() - loadedAt > MAX_AGE;
+
+  // Let the "Updated Xm ago" label keep ticking rather than freezing.
+  setInterval(renderStamp, 30 * 1000);
+
+  // Refresh in the background, so the tab is current whenever it is looked at.
+  setInterval(() => { if (document.hidden && stale()) location.reload(); }, 60 * 1000);
+
+  // And catch the case where it sat in the background without firing.
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden && stale()) location.reload();
+  });
+}
+
 // Link the rebuild button at this repo's workflow. Hidden if we do not know
 // the repo, so a copy of this file served elsewhere degrades quietly.
 function initRefresh() {
-  const btn = document.getElementById('refreshBtn');
+  const btn  = document.getElementById('refreshBtn');
+  const pop  = document.getElementById('refreshPop');
+  const form = document.getElementById('refreshForm');
+  const pw   = document.getElementById('refreshPw');
+  const go   = document.getElementById('refreshGo');
+  const msg  = document.getElementById('refreshMsg');
+
+  const endpoint = (typeof REFRESH_ENDPOINT !== 'undefined' && REFRESH_ENDPOINT) ? REFRESH_ENDPOINT : '';
   const repo = (typeof REPO_URL !== 'undefined' && REPO_URL) ? REPO_URL : '';
-  if (!repo) { btn.style.display = 'none'; return; }
-  btn.href = repo + '/actions/workflows/update-dashboard.yml';
+
+  // Without a configured endpoint there is nothing safe to call, so fall back
+  // to opening the workflow page rather than showing a box that cannot work.
+  if (!endpoint) {
+    if (!repo) { btn.style.display = 'none'; return; }
+    btn.addEventListener('click', () =>
+      window.open(repo + '/actions/workflows/update-dashboard.yml', '_blank', 'noopener'));
+    btn.title = 'Open the rebuild workflow on GitHub';
+    return;
+  }
+
+  btn.addEventListener('click', () => {
+    pop.hidden = !pop.hidden;
+    if (!pop.hidden) pw.focus();
+  });
+  document.addEventListener('click', e => {
+    if (!pop.hidden && !pop.contains(e.target) && e.target !== btn) pop.hidden = true;
+  });
+
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    go.disabled = true;
+    msg.className = 'refresh-msg';
+    msg.textContent = 'Starting…';
+    try {
+      const r = await fetch(endpoint, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password: pw.value }),
+      });
+      if (r.ok) {
+        msg.className = 'refresh-msg ok';
+        msg.textContent = 'Update started. New results appear in about a minute — '
+                        + 'this page will refresh itself.';
+        pw.value = '';
+      } else {
+        const body = await r.json().catch(() => ({}));
+        msg.className = 'refresh-msg err';
+        msg.textContent = r.status === 401 ? 'Wrong password.'
+                                           : (body.error || 'Could not start the update.');
+      }
+    } catch (err) {
+      msg.className = 'refresh-msg err';
+      msg.textContent = 'Could not reach the update service.';
+    }
+    go.disabled = false;
+  });
 }
 
 // Freshness matters on a page that rebuilds itself on a schedule.
@@ -1212,7 +1318,7 @@ function initScrollSpy() {
   document.querySelectorAll('.zone').forEach(z => obs.observe(z));
 }
 
-renderStamp(); initRefresh();
+renderStamp(); initRefresh(); initFreshness();
 renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
 renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 initScrollSpy();

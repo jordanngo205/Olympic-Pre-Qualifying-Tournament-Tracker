@@ -669,7 +669,8 @@ FLAG_MAP = {
 
 
 def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
-                    template: Path, spots: int = 4, event=None):
+                    template: Path, spots: int = 4, event=None,
+                    refresh_endpoint: str = ""):
     if not template.exists():
         print(f"\nTemplate not found at '{template.name}' — skipping HTML output.")
         print("Save your dashboard HTML as dashboard_template.html and rerun.")
@@ -760,6 +761,7 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         # tournament window rather than only the days already played.
         to_js("EVENT_META", event_meta),
         to_js("REPO_URL", repo_url),
+        to_js("REFRESH_ENDPOINT", refresh_endpoint or ""),
         to_js("GENERATED_AT", datetime.now(timezone.utc).isoformat()),
         to_js("FLAG_MAP", FLAG_MAP),
         "// %%DATA_END%%",
@@ -796,6 +798,10 @@ def main() -> None:
     ap.add_argument("--event", nargs="+", metavar="WORD",
                     help="words identifying the tournament, e.g. --event women olympic guadalajara")
     ap.add_argument("--name", help="folder name for the output (default: official event name)")
+    ap.add_argument("--refresh-endpoint", default=os.environ.get("REFRESH_ENDPOINT", ""),
+                    metavar="URL",
+                    help="Cloudflare Worker URL backing the dashboard's Update now "
+                         "button. Without it the button just opens the workflow page.")
     ap.add_argument("--qualify-spots", type=int, default=4, metavar="N",
                     help="how many teams advance; sets the cut line on the "
                          "Qualification board (default 4)")
@@ -924,7 +930,8 @@ def run_once(ev, competition: str, args) -> int:
 
     write_dashboard(outdir, competition, details, team_adv_u, enriched,
                     Path(__file__).parent / "dashboard_template.html",
-                    spots=args.qualify_spots, event=ev)
+                    spots=args.qualify_spots, event=ev,
+                    refresh_endpoint=args.refresh_endpoint)
     return pending
 
 

@@ -36,6 +36,12 @@ jobs:
         # --event matches the tournament by name against FIBA's event index,
         # so there is no URL to maintain here.
         # --qualify-spots sets the cut line on the Qualification board.
+        # REFRESH_ENDPOINT is a repository *variable*, not a secret: it ends up
+        # in the published page by design. The password and GitHub token live
+        # in the Worker it points at. Leave it unset and the button simply
+        # opens this workflow page instead.
+        env:
+          REFRESH_ENDPOINT: ${{ vars.REFRESH_ENDPOINT }}
         run: |
           python fiba_scrape.py \
             --event olympic pre-qualifying guadalajara \
