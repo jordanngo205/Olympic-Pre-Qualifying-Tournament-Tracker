@@ -139,7 +139,10 @@
   .award-tile:hover { box-shadow: 0 4px 14px rgba(0,0,0,.08); transform: translateY(-1px); }
   .award-tile::before { content: ''; position: absolute; top: 0; left: 0; width: 4px; height: 100%; background: var(--c-mid); }
   .award-tile-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
-  .award-emoji-ring { width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; background: var(--c-fill); border: 2px solid var(--c-mid); }
+  .award-emoji-ring { width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; flex-shrink: 0; background: var(--c-fill); border: 2px solid var(--c-mid); line-height: 1; white-space: nowrap; }
+  /* A couple of awards use two emoji (e.g. BBQ 🔥🥩). At the normal size the
+     pair is wider than the ring and spills out, so shrink it to fit. */
+  .award-emoji-ring.multi { font-size: 11px; letter-spacing: -1px; }
   .award-name-label { font-size: 10px; font-weight: 800; letter-spacing: 1.2px; text-transform: uppercase; color: var(--muted); }
   .award-desc { font-size: 9px; color: var(--muted2); margin-top: 1px; }
   .award-player-name { font-size: 14px; font-weight: 800; color: var(--text); margin-bottom: 4px; }
@@ -499,6 +502,15 @@ const AWARD_DEFS = [
 // FLAG MAP — short code → ISO 3166-1 alpha-2 (used by flag-icons)
 // Add/update entries for each new tournament.
 // ─────────────────────────────────────────────────────────────────────────────
+// Emoji labels may hold more than one glyph; count real graphemes so a
+// two-emoji badge can be scaled to fit its ring.
+function glyphCount(str) {
+  try { return [...new Intl.Segmenter('en', { granularity: 'grapheme' }).segment(str)].length; }
+  catch (e) { return [...str].length; }
+}
+function emojiRing(emoji) {
+  return `<div class="award-emoji-ring ${glyphCount(emoji) > 1 ? 'multi' : ''}">${emoji}</div>`;
+}
 function flag(code, size='1em') {
   const iso = FLAG_MAP[code];
   if (!iso) return '';
@@ -647,7 +659,7 @@ function renderAwards() {
   const awards = computeAwards(dayPlayers);
   grid.innerHTML = awards.map(({def, winner, val}) => {
     if (!winner) return `<div class="award-tile award-${def.id}">
-      <div class="award-tile-top"><div class="award-emoji-ring">${def.emoji}</div><span class="award-name-label">${def.label}</span></div>
+      <div class="award-tile-top">${emojiRing(def.emoji)}<span class="award-name-label">${def.label}</span></div>
       <div class="award-player-name" style="color:var(--muted2)">—</div>
     </div>`;
     // Format the stat value nicely
@@ -657,7 +669,7 @@ function renderAwards() {
     else valFmt = Number.isInteger(val) ? val : val.toFixed(1);
     return `<div class="award-tile award-${def.id}">
       <div class="award-tile-top">
-        <div class="award-emoji-ring">${def.emoji}</div>
+        ${emojiRing(def.emoji)}
         <div><div class="award-name-label">${def.label}</div><div class="award-desc">${def.desc}</div></div>
       </div>
       <div class="award-player-name">${winner.name}</div>
