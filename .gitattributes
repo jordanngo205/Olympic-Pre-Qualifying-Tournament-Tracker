@@ -1,0 +1,14 @@
+# The published dashboards are build output, not hand-written source: the
+# scraper generates them by splicing tournament data into
+# dashboard_template.html. Excluding them from language stats keeps the repo
+# reported as the Python project it is, and collapses them in diffs.
+# Generated dashboard filenames contain spaces, so the pattern must be quoted.
+docs/index.html linguist-generated=true
+"* - dashboard.html" linguist-generated=true
+legacy/** linguist-vendored=true
+
+# The template is real source, but it is mostly styling rather than logic.
+dashboard_template.html linguist-documentation=true
+
+# Scraped data should not count as source either.
+*.csv linguist-generated=true
