@@ -398,8 +398,12 @@
                line-height: 1.05; font-variant-numeric: tabular-nums; display: flex; align-items: center; gap: 7px; }
   .kpi-value .fi { width: 26px; height: 19px; border-radius: 3px; box-shadow: 0 0 0 1px rgba(0,0,0,.08); }
   .kpi-value small { font-size: 14px; font-weight: 800; color: var(--muted); letter-spacing: 0; }
+  /* These captions carry the unit, so they must be readable in full rather
+     than truncated — let them wrap and keep the tiles a uniform height. */
   .kpi-sub { font-size: 10.5px; color: var(--muted); margin-top: 5px; font-weight: 500;
-             white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+             line-height: 1.35; }
+  .kpi { display: flex; flex-direction: column; }
+  .kpi-sub:last-child { margin-top: auto; padding-top: 5px; }
 
   /* Magnitude bar behind a leaderboard value — the table reads as a chart
      without spending any extra vertical space. */
@@ -1250,9 +1254,9 @@ function renderKpis() {
     tile('Points / Team', avgScore.toFixed(1), 'average per game', '#6366f1'),
     tile('Pace', avgPoss ? avgPoss.toFixed(1) : '—', 'possessions per game', '#0ea5e9'),
     bestO ? tile('Best Offence', `${flag(bestO.code, '1em')}<span>${bestO.o.toFixed(1)}</span>`,
-                 `${bestO.code} · pts per 100`, 'var(--green)') : '',
+                 `${bestO.code} · points scored per 100 possessions`, 'var(--green)') : '',
     bestD ? tile('Best Defence', `${flag(bestD.code, '1em')}<span>${bestD.d.toFixed(1)}</span>`,
-                 `${bestD.code} · allowed per 100`, '#8b5cf6') : '',
+                 `${bestD.code} · points allowed per 100 possessions`, '#8b5cf6') : '',
     topScorer ? tile('Top Scorer', `${topScorer.v}<small>PTS</small>`,
                      topScorer.name, 'var(--amber)') : '',
   ].join('');
