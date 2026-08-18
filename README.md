@@ -24,7 +24,7 @@ against FIBA's own event index, then walks down to the games:
 Every page's data comes out of the Next.js hydration payload that
 fiba.basketball ships inside its HTML.
 
-A GitHub Action re-runs this every hour, scrapes any game that has gone
+A GitHub Action re-runs this every 10 minutes, scrapes any game that has gone
 final since the last run, rebuilds `docs/index.html`, and pushes. GitHub Pages
 serves that file, so the public link updates itself.
 
