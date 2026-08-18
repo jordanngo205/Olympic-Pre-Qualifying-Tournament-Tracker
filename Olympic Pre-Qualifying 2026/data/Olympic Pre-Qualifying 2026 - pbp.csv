@@ -1751,3 +1751,557 @@ shot,0:07,1787015555000,72,56,FT,1st of 2 free throws made,134.0,290089.0,703,52
 shot,0:07,1787015566000,72,57,FT,2nd of 2 free throws made,134.0,290089.0,704,528000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,,14.6,8-16 ft.,2393,SEN
 periods,0:00,1787015758000,72,57,ENDP,End of period,,,710,533000,Q4,135067,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787015791000,72,57,ENDG,End of game,,,711,534000,Q4,135067,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787020253000,0,0,STARTG,Start of game,,,1,1000,Q1,135068,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787020253000,0,0,STARTP,Start of period,,,2,2000,Q1,135068,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787020253000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135068,,,,,,,,,,,Q1,,,,0,
+unknwown,9:58,1787020255000,0,0,JB,jump ball won,104.0,268370.0,5,4001,Q1,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,2,MEX
+unknwown,9:58,1787020255000,0,0,JB,jump ball lost,122.0,220090.0,6,4002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,2,PHI
+shot,9:45,1787020280000,2,0,P2,2pt floating jump shot made,104.0,215141.0,9,7000,Q1,135068,True,2.0,121.0,100.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,In The Paint (Non-RA),6.3,Less Than 8 ft.,15,MEX
+unknwown,9:34,1787020294000,2,0,TO,turnover; bad pass,122.0,342735.0,11,9000,Q1,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,26,PHI
+unknwown,9:16,1787020323000,2,0,TO,turnover; bad pass,104.0,268370.0,14,12000,Q1,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,44,MEX
+unknwown,9:16,1787020323000,2,0,ST,steal,122.0,220090.0,15,12001,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,44,PHI
+unknwown,9:16,1787020330000,2,0,JS,jump ball situation; throw-in,122.0,,16,13000,Q1,135068,,,,,,,,,,,Q1,,,,44,
+shot,9:03,1787020350000,2,3,P3,3pt jump shot made,122.0,339158.0,18,15000,Q1,135068,True,3.0,230.0,132.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Above the Break 3,12.9,8-16 ft.,57,PHI
+unknwown,9:03,1787020350000,2,3,ASS,made the assist,122.0,323169.0,19,15001,Q1,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,57,PHI
+shot,8:36,1787020376000,4,3,P2,2pt driving layup made,104.0,319031.0,20,16000,Q1,135068,True,2.0,169.0,29.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,In The Paint (Non-RA),3.1,Less Than 8 ft.,84,MEX
+unknwown,8:26,1787020389000,4,3,FOUL,Personal foul; 2 free throws awarded,104.0,215141.0,22,18000,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,94,MEX
+unknwown,8:26,1787020389000,4,3,RFOUL,foul drawn,122.0,220090.0,23,18002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,94,PHI
+shot,8:26,1787020415000,4,3,FT,1st of 2 free throws missed,122.0,220090.0,24,19000,Q1,135068,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q1,,14.6,8-16 ft.,94,PHI
+shot,8:26,1787020432000,4,4,FT,2nd of 2 free throws made,122.0,220090.0,25,20000,Q1,135068,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q1,,14.6,8-16 ft.,94,PHI
+shot,8:15,1787020446000,4,4,P3,3pt jump shot from center missed,104.0,268451.0,27,22000,Q1,135068,False,3.0,90.0,162.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Above the Break 3,13.2,8-16 ft.,105,MEX
+unknwown,8:11,1787020449000,4,4,REB,offensive rebound,104.0,215141.0,28,22002,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,109,MEX
+shot,8:04,1787020458000,4,4,P2,2pt driving layup missed,104.0,213361.0,29,23000,Q1,135068,False,2.0,121.0,47.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Restricted Area,2.0,Less Than 8 ft.,116,MEX
+unknwown,8:00,1787020460000,4,4,REB,defensive rebound,122.0,220090.0,30,23002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,120,PHI
+shot,7:54,1787020467000,4,4,P2,2pt floating jump shot missed,122.0,342735.0,31,24000,Q1,135068,False,2.0,135.0,92.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,In The Paint (Non-RA),5.2,Less Than 8 ft.,126,PHI
+unknwown,7:51,1787020470000,4,4,REB,defensive rebound,104.0,215141.0,32,24002,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,129,MEX
+shot,7:45,1787020477000,4,4,P3,3pt jump shot missed,104.0,268370.0,33,25000,Q1,135068,False,3.0,228.0,151.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,14.2,8-16 ft.,135,MEX
+unknwown,7:40,1787020481000,4,4,REB,offensive rebound,104.0,319031.0,34,25002,Q1,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,140,MEX
+shot,7:39,1787020483000,6,4,P2,"2PtsFG under the basket, reverse lay-up made",104.0,319031.0,35,26000,Q1,135068,True,2.0,152.0,31.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,1.5,Less Than 8 ft.,141,MEX
+shot,7:14,1787020508000,6,6,P2,"2PtsFG under the basket, turnaround jump shot made",122.0,220090.0,36,27000,Q1,135068,True,2.0,124.0,38.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.6,Less Than 8 ft.,166,PHI
+shot,7:00,1787020522000,6,6,P2,"2PtsFG under the basket, eurostep missed",104.0,319031.0,38,29000,Q1,135068,False,2.0,136.0,39.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,0.4,Less Than 8 ft.,180,MEX
+unknwown,7:00,1787020522000,6,6,BS,blocked the shot,122.0,220090.0,40,29001,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,180,PHI
+unknwown,7:00,1787020527000,6,6,TREB,team defensive rebound,122.0,,39,29002,Q1,135068,,,,,,,,,,,Q1,,,,180,
+shot,6:49,1787020554000,6,6,P3,3pt pullup jump shot missed,122.0,220090.0,42,31000,Q1,135068,False,3.0,83.0,154.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Above the Break 3,12.7,8-16 ft.,191,PHI
+unknwown,6:45,1787020557000,6,6,REB,defensive rebound,104.0,319031.0,43,31002,Q1,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,195,MEX
+shot,6:36,1787020568000,8,6,P2,"2PtsFG under the basket, driving layup made",104.0,319031.0,44,32000,Q1,135068,True,2.0,156.0,28.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,2.0,Less Than 8 ft.,204,MEX
+unknwown,6:36,1787020568000,8,6,ASS,made the assist,104.0,268370.0,45,32001,Q1,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,204,MEX
+shot,6:19,1787020585000,8,8,P2,2pt pullup jump shot made,122.0,342735.0,46,33000,Q1,135068,True,2.0,193.0,105.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Mid-Range,8.4,8-16 ft.,221,PHI
+unknwown,6:06,1787020598000,8,8,TO,turnover; bad pass,104.0,213361.0,47,34000,Q1,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,234,MEX
+unknwown,6:06,1787020598000,8,8,ST,steal,122.0,323169.0,48,34001,Q1,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,234,PHI
+shot,6:03,1787020600000,8,8,P2,"2PtsFG under the basket, points after turnover, driving layup missed",122.0,323169.0,49,35000,Q1,135068,False,2.0,149.0,42.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Restricted Area,0.9,Less Than 8 ft.,237,PHI
+unknwown,6:00,1787020603000,8,8,REB,defensive rebound,104.0,319031.0,50,35002,Q1,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,240,MEX
+shot,5:54,1787020610000,8,8,P3,3pt jump shot from center missed,104.0,319031.0,51,36000,Q1,135068,False,3.0,158.0,167.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Above the Break 3,12.8,8-16 ft.,246,MEX
+unknwown,5:49,1787020614000,8,8,TREB,team defensive rebound,122.0,,52,36002,Q1,135068,,,,,,,,,,,Q1,,,,251,
+subst,5:28,1787020656000,8,8,SUBST,Substitution out,104.0,319031.0,56,40000,Q1,135068,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,272,MEX
+subst,5:28,1787020656000,8,8,SUBST,Substitution in,104.0,317694.0,57,41000,Q1,135068,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,272,MEX
+shot,5:22,1787020667000,8,10,P2,"2PtsFG under the basket, reverse lay-up made",122.0,220090.0,59,43000,Q1,135068,True,2.0,125.0,38.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.5,Less Than 8 ft.,278,PHI
+unknwown,5:18,1787020679000,8,10,FOUL,Personal foul,122.0,339158.0,61,45000,Q1,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,282,PHI
+unknwown,5:18,1787020679000,8,10,RFOUL,foul drawn,104.0,213361.0,62,45002,Q1,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,282,MEX
+shot,5:18,1787020700000,8,10,P3,3pt jump shot missed,104.0,268370.0,63,46000,Q1,135068,False,3.0,246.0,127.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,13.7,8-16 ft.,282,MEX
+unknwown,5:18,1787020703000,8,10,REB,defensive rebound,122.0,323169.0,64,46002,Q1,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,282,PHI
+shot,5:18,1787020717000,8,10,P3,3pt jump shot missed,122.0,339158.0,65,47000,Q1,135068,False,3.0,271.0,30.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Left Corner 3,13.1,8-16 ft.,282,PHI
+unknwown,5:17,1787020719000,8,10,REB,defensive rebound,104.0,215141.0,67,47002,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,283,MEX
+shot,5:10,1787020726000,8,10,P3,3pt jump shot missed,104.0,317694.0,68,49000,Q1,135068,False,3.0,258.0,104.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,13.4,8-16 ft.,290,MEX
+unknwown,5:06,1787020730000,8,10,REB,defensive rebound,122.0,342735.0,69,49002,Q1,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,294,PHI
+unknwown,5:02,1787020735000,8,10,TO,turnover; bad pass,122.0,323171.0,70,50000,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,298,PHI
+unknwown,5:02,1787020735000,8,10,ST,steal,104.0,268370.0,71,50001,Q1,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,298,MEX
+shot,4:57,1787020740000,10,10,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",104.0,268370.0,72,51000,Q1,135068,True,2.0,163.0,30.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Restricted Area,2.5,Less Than 8 ft.,303,MEX
+unknwown,4:57,1787020740000,10,10,ASS,made the assist,104.0,215141.0,73,51001,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,303,MEX
+shot,4:41,1787020755000,10,10,P2,2pt pullup jump shot missed,122.0,342735.0,74,52000,Q1,135068,False,2.0,184.0,70.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,In The Paint (Non-RA),5.3,Less Than 8 ft.,319,PHI
+unknwown,4:38,1787020759000,10,10,REB,defensive rebound,104.0,215141.0,75,52002,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,322,MEX
+shot,4:25,1787020772000,10,10,P2,2pt driving layup missed,104.0,268370.0,76,53000,Q1,135068,False,2.0,143.0,50.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Restricted Area,1.0,Less Than 8 ft.,335,MEX
+unknwown,4:22,1787020775000,10,10,REB,defensive rebound,122.0,220090.0,77,53002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,338,PHI
+unknwown,4:18,1787020780000,10,10,FOUL,Personal foul,104.0,268451.0,78,54000,Q1,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,342,MEX
+unknwown,4:18,1787020780000,10,10,RFOUL,foul drawn,122.0,323171.0,79,54002,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,342,PHI
+subst,4:12,1787020897000,10,10,SUBST,Substitution out,104.0,268370.0,81,56000,Q1,135068,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,348,MEX
+subst,4:12,1787020897000,10,10,SUBST,Substitution out,104.0,213361.0,82,57000,Q1,135068,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,348,MEX
+subst,4:12,1787020897000,10,10,SUBST,Substitution in,104.0,235869.0,83,58000,Q1,135068,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,348,MEX
+subst,4:12,1787020897000,10,10,SUBST,Substitution in,104.0,302969.0,84,59000,Q1,135068,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,348,MEX
+subst,4:05,1787020909000,10,10,SUBST,Substitution out,122.0,339158.0,86,61000,Q1,135068,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,355,PHI
+subst,4:05,1787020909000,10,10,SUBST,Substitution in,122.0,303016.0,87,62000,Q1,135068,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q1,,,,355,PHI
+subst,3:59,1787020924000,10,10,SUBST,Substitution out,122.0,220090.0,91,66000,Q1,135068,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q1,,,,361,PHI
+subst,3:59,1787020924000,10,10,SUBST,Substitution in,122.0,398175.0,92,67000,Q1,135068,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,361,PHI
+shot,3:59,1787020927000,10,12,P2,2pt fadeaway jump shot made,122.0,398175.0,93,68000,Q1,135068,True,2.0,52.0,48.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,Mid-Range,8.8,8-16 ft.,361,PHI
+shot,3:54,1787020933000,13,12,P3,3pt jump shot made,104.0,317694.0,95,70000,Q1,135068,True,3.0,199.0,148.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,12.3,8-16 ft.,366,MEX
+unknwown,3:54,1787020933000,13,12,ASS,made the assist,104.0,235869.0,96,70001,Q1,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,366,MEX
+shot,3:34,1787020953000,13,14,P2,2pt driving layup made,122.0,342735.0,98,71000,Q1,135068,True,2.0,102.0,30.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,In The Paint (Non-RA),3.9,Less Than 8 ft.,386,PHI
+unknwown,3:29,1787020960000,13,14,FOUL,Personal foul; 1 free throw awarded,104.0,317694.0,100,73000,Q1,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,391,MEX
+unknwown,3:29,1787020960000,13,14,RFOUL,foul drawn,122.0,342735.0,101,73002,Q1,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,391,PHI
+shot,3:29,1787020984000,13,15,FT,1st free throw made,122.0,342735.0,102,74000,Q1,135068,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,14.6,8-16 ft.,391,PHI
+shot,3:11,1787021005000,16,15,P3,3pt jump shot made,104.0,317694.0,104,76000,Q1,135068,True,3.0,34.0,121.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,13.3,8-16 ft.,409,MEX
+unknwown,3:11,1787021005000,16,15,ASS,made the assist,104.0,215141.0,105,76001,Q1,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,409,MEX
+shot,2:49,1787021028000,16,17,P2,"2PtsFG under the basket, jump shot made",122.0,323169.0,106,77000,Q1,135068,True,2.0,156.0,37.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Restricted Area,1.6,Less Than 8 ft.,431,PHI
+unknwown,2:49,1787021028000,16,17,ASS,made the assist,122.0,323171.0,107,77001,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,431,PHI
+shot,2:32,1787021045000,16,17,P2,layup missed,104.0,268451.0,109,78000,Q1,135068,False,2.0,168.0,32.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,448,MEX
+unknwown,2:27,1787021049000,16,17,REB,defensive rebound,122.0,323171.0,110,78002,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,453,PHI
+shot,2:24,1787021053000,16,17,P3,3pt jump shot missed,122.0,323169.0,111,79000,Q1,135068,False,3.0,67.0,150.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Above the Break 3,13.2,8-16 ft.,456,PHI
+unknwown,2:20,1787021056000,16,17,REB,offensive rebound,122.0,398175.0,112,79002,Q1,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,460,PHI
+shot,2:09,1787021068000,16,20,P3,3pt pullup jump shot made,122.0,342735.0,113,80000,Q1,135068,True,3.0,173.0,161.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Above the Break 3,12.5,8-16 ft.,471,PHI
+unknwown,2:02,1787021074000,16,20,TO,turnover; bad pass,104.0,317694.0,114,81000,Q1,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,478,MEX
+unknwown,2:02,1787021074000,16,20,ST,steal,122.0,323171.0,115,81001,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,478,PHI
+unknwown,1:54,1787021084000,16,20,TO,turnover; ball handling,122.0,323171.0,116,82000,Q1,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,486,PHI
+unknwown,1:54,1787021084000,16,20,ST,steal,104.0,302969.0,117,82001,Q1,135068,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,486,MEX
+unknwown,1:47,1787021091000,16,20,TO,turnover; bad pass,104.0,317694.0,119,84000,Q1,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,493,MEX
+subst,1:44,1787021111000,16,20,SUBST,Substitution out,122.0,342735.0,122,87000,Q1,135068,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,496,PHI
+subst,1:44,1787021111000,16,20,SUBST,Substitution out,122.0,323171.0,123,88000,Q1,135068,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q1,,,,496,PHI
+subst,1:44,1787021111000,16,20,SUBST,Substitution out,122.0,323169.0,124,89000,Q1,135068,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,496,PHI
+subst,1:44,1787021111000,16,20,SUBST,Substitution in,122.0,220085.0,125,90000,Q1,135068,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,496,PHI
+subst,1:44,1787021111000,16,20,SUBST,Substitution in,122.0,394258.0,126,91000,Q1,135068,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,,,,496,PHI
+subst,1:44,1787021111000,16,20,SUBST,Substitution in,122.0,220090.0,127,92000,Q1,135068,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q1,,,,496,PHI
+subst,1:37,1787021121000,16,20,SUBST,Substitution out,104.0,215141.0,130,95000,Q1,135068,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,503,MEX
+subst,1:37,1787021121000,16,20,SUBST,Substitution in,104.0,213361.0,131,96000,Q1,135068,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,503,MEX
+shot,1:30,1787021129000,16,22,P2,"2PtsFG under the basket, points after turnover, driving layup made",122.0,220090.0,133,98000,Q1,135068,True,2.0,153.0,30.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.6,Less Than 8 ft.,510,PHI
+unknwown,1:23,1787021134000,16,22,FOUL,Personal foul; 1 free throw awarded,104.0,235869.0,134,99000,Q1,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,517,MEX
+unknwown,1:23,1787021134000,16,22,RFOUL,foul drawn,122.0,220090.0,136,99002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,517,PHI
+shot,1:21,1787021149000,16,22,FT,1st free throw missed,122.0,220090.0,137,101000,Q1,135068,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q1,,14.6,8-16 ft.,519,PHI
+unknwown,1:21,1787021150000,16,22,REB,defensive rebound,104.0,235869.0,139,101002,Q1,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,519,MEX
+unknwown,1:07,1787021164000,16,22,TO,turnover; bad pass,104.0,317694.0,140,103000,Q1,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,533,MEX
+timeout,0:50,1787021186000,16,22,TIMO,Timeout,104.0,,144,107000,Q1,135068,,,,,,,,,,,Q1,,,,550,
+shot,0:40,1787021287000,16,22,P3,3pt jump shot missed,122.0,394258.0,146,109000,Q1,135068,False,3.0,34.0,116.0,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,Above the Break 3,13.0,8-16 ft.,560,PHI
+unknwown,0:37,1787021289000,16,22,REB,defensive rebound,104.0,213361.0,147,109002,Q1,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,563,MEX
+shot,0:29,1787021298000,16,22,P2,2pt driving layup missed,104.0,213361.0,148,110000,Q1,135068,False,2.0,165.0,43.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Restricted Area,2.5,Less Than 8 ft.,571,MEX
+unknwown,0:26,1787021300000,16,22,REB,defensive rebound,122.0,220090.0,149,110002,Q1,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,574,PHI
+shot,0:15,1787021312000,16,22,P3,3pt jump shot from center missed,122.0,398175.0,150,111000,Q1,135068,False,3.0,124.0,164.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,Above the Break 3,12.5,8-16 ft.,585,PHI
+unknwown,0:09,1787021325000,16,22,REB,defensive rebound,104.0,268451.0,152,111002,Q1,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,591,MEX
+unknwown,0:09,1787021331000,16,22,FOUL,Personal foul,122.0,398175.0,153,113000,Q1,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,591,PHI
+unknwown,0:09,1787021331000,16,22,RFOUL,foul drawn,104.0,213361.0,154,113002,Q1,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,591,MEX
+shot,0:06,1787021350000,16,22,P2,"2PtsFG inside right wing, jump shot missed",104.0,213361.0,156,115000,Q1,135068,False,2.0,220.0,34.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Mid-Range,8.0,8-16 ft.,594,MEX
+unknwown,0:02,1787021352000,16,22,REB,defensive rebound,122.0,303016.0,157,115002,Q1,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q1,,,,598,PHI
+unknwown,0:00,1787021363000,16,22,TO,turnover; ball handling,122.0,394258.0,160,118000,Q1,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,,,,600,PHI
+unknwown,0:00,1787021363000,16,22,ST,steal,104.0,268451.0,161,118001,Q1,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,600,MEX
+periods,0:00,1787021493000,16,22,ENDP,End of period,,,164,121000,Q1,135068,,,,,,,,,,,Q1,,,,600,
+periods,10:00,1787021517000,16,22,STARTP,Start of period,,,165,122000,Q2,135068,,,,,,,,,,,Q2,,,,600,
+subst,10:00,1787021518000,16,22,SUBST,Substitution out,104.0,302969.0,167,124000,Q2,135068,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,600,MEX
+subst,10:00,1787021518000,16,22,SUBST,Substitution out,104.0,268451.0,168,125000,Q2,135068,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q2,,,,600,MEX
+subst,10:00,1787021518000,16,22,SUBST,Substitution in,104.0,319031.0,169,126000,Q2,135068,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,600,MEX
+subst,10:00,1787021518000,16,22,SUBST,Substitution in,104.0,215141.0,170,127000,Q2,135068,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,600,MEX
+subst,10:00,1787021518000,16,22,SUBST,Substitution out,122.0,303016.0,171,128000,Q2,135068,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q2,,,,600,PHI
+subst,10:00,1787021518000,16,22,SUBST,Substitution in,122.0,323169.0,172,129000,Q2,135068,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,600,PHI
+unknwown,9:48,1787021532000,16,22,FOUL,Personal foul,122.0,220090.0,174,131000,Q2,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,612,PHI
+unknwown,9:48,1787021532000,16,22,RFOUL,foul drawn,104.0,317694.0,175,131002,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,612,MEX
+unknwown,9:39,1787021559000,16,22,FOUL,Personal foul; 2 free throws awarded,122.0,220085.0,178,134000,Q2,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,621,PHI
+unknwown,9:39,1787021559000,16,22,RFOUL,foul drawn,104.0,235869.0,179,134002,Q2,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,621,MEX
+subst,9:39,1787021573000,16,22,SUBST,Substitution out,122.0,398175.0,180,135000,Q2,135068,,,,,,OUT,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,621,PHI
+subst,9:39,1787021573000,16,22,SUBST,Substitution in,122.0,339158.0,181,136000,Q2,135068,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,621,PHI
+shot,9:39,1787021587000,16,22,FT,1st of 2 free throws missed,104.0,235869.0,182,137000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,14.6,8-16 ft.,621,MEX
+shot,9:39,1787021601000,16,22,FT,2nd of 2 free throws missed,104.0,235869.0,183,138000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,14.6,8-16 ft.,621,MEX
+unknwown,9:39,1787021602000,16,22,REB,defensive rebound,122.0,323169.0,185,138002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,621,PHI
+shot,9:32,1787021610000,16,24,P2,"2PtsFG under the basket, fast break, layup made",122.0,220090.0,186,140000,Q2,135068,True,2.0,154.0,35.0,,,122.0,Jack Animam,Philippines,10.0,Q2,Restricted Area,1.5,Less Than 8 ft.,628,PHI
+unknwown,9:32,1787021610000,16,24,ASS,made the assist,122.0,339158.0,187,140001,Q2,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,628,PHI
+shot,9:11,1787021631000,16,24,P2,2pt floating jump shot missed,104.0,215141.0,188,141000,Q2,135068,False,2.0,84.0,38.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,Mid-Range,5.6,Less Than 8 ft.,649,MEX
+unknwown,9:08,1787021634000,16,24,REB,offensive rebound,104.0,235869.0,189,141002,Q2,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,652,MEX
+unknwown,9:08,1787021637000,16,24,TO,turnover; travelling,104.0,317694.0,191,143000,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,652,MEX
+shot,8:48,1787021667000,16,26,P2,"2PtsFG under the basket, points after turnover, driving layup made",122.0,220085.0,193,145000,Q2,135068,True,2.0,121.0,34.0,,,122.0,Afril Bernardino,Philippines,3.0,Q2,Restricted Area,2.0,Less Than 8 ft.,672,PHI
+unknwown,8:39,1787021683000,16,26,TO,turnover; ball handling,104.0,319031.0,196,147000,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,681,MEX
+subst,8:39,1787021694000,16,26,SUBST,Substitution out,104.0,319031.0,197,148000,Q2,135068,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,681,MEX
+subst,8:39,1787021694000,16,26,SUBST,Substitution out,104.0,317694.0,198,149000,Q2,135068,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,681,MEX
+subst,8:39,1787021694000,16,26,SUBST,Substitution in,104.0,268370.0,199,150000,Q2,135068,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,681,MEX
+subst,8:39,1787021694000,16,26,SUBST,Substitution in,104.0,268451.0,200,151000,Q2,135068,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q2,,,,681,MEX
+subst,8:39,1787021707000,16,26,SUBST,Substitution out,104.0,235869.0,201,152000,Q2,135068,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,681,MEX
+subst,8:39,1787021707000,16,26,SUBST,Substitution in,104.0,319031.0,202,153000,Q2,135068,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,681,MEX
+shot,8:34,1787021712000,16,28,P2,"2PtsFG under the basket, points after turnover, driving layup made",122.0,323169.0,204,155000,Q2,135068,True,2.0,155.0,34.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Restricted Area,1.6,Less Than 8 ft.,686,PHI
+shot,8:15,1787021774000,16,28,P3,3pt jump shot missed,104.0,268451.0,207,158000,Q2,135068,False,3.0,36.0,122.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Above the Break 3,13.2,8-16 ft.,705,MEX
+unknwown,8:10,1787021777000,16,28,REB,defensive rebound,122.0,323169.0,208,158002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,710,PHI
+shot,7:53,1787021796000,16,28,P2,2pt pullup jump shot missed,122.0,339158.0,209,159000,Q2,135068,False,2.0,198.0,35.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Mid-Range,5.8,Less Than 8 ft.,727,PHI
+unknwown,7:51,1787021806000,16,28,REB,defensive rebound,104.0,268370.0,211,159002,Q2,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,729,MEX
+unknwown,7:51,1787021809000,16,28,FOUL,Personal foul,122.0,220090.0,212,161000,Q2,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,729,PHI
+unknwown,7:51,1787021809000,16,28,RFOUL,foul drawn,104.0,268370.0,213,161002,Q2,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,729,MEX
+subst,7:51,1787021825000,16,28,SUBST,Substitution out,122.0,220090.0,214,162000,Q2,135068,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q2,,,,729,PHI
+subst,7:51,1787021825000,16,28,SUBST,Substitution in,122.0,303016.0,215,163000,Q2,135068,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q2,,,,729,PHI
+shot,7:38,1787021843000,18,28,P2,2pt step back jump shot made,104.0,319031.0,217,165000,Q2,135068,True,2.0,143.0,115.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,Mid-Range,7.5,Less Than 8 ft.,742,MEX
+shot,7:22,1787021858000,18,30,P2,"2PtsFG under the basket, driving layup made",122.0,303016.0,218,166000,Q2,135068,True,2.0,118.0,39.0,,,122.0,Angelica Surada,Philippines,8.0,Q2,Restricted Area,2.2,Less Than 8 ft.,758,PHI
+shot,6:56,1787021884000,18,30,P2,2pt jump shot missed,104.0,319031.0,219,167000,Q2,135068,False,2.0,168.0,35.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,In The Paint (Non-RA),2.8,Less Than 8 ft.,784,MEX
+unknwown,6:56,1787021884000,18,30,BS,blocked the shot,122.0,323169.0,220,167001,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,784,PHI
+unknwown,6:52,1787021887000,18,30,REB,defensive rebound,122.0,323169.0,221,167002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,788,PHI
+shot,6:38,1787021902000,18,30,P3,3pt jump shot missed,122.0,339158.0,222,168000,Q2,135068,False,3.0,57.0,151.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Above the Break 3,13.9,8-16 ft.,802,PHI
+unknwown,6:33,1787021907000,18,30,REB,defensive rebound,104.0,215141.0,223,168002,Q2,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,807,MEX
+unknwown,6:30,1787021911000,18,30,FOUL,Personal foul,122.0,394258.0,224,169000,Q2,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,810,PHI
+unknwown,6:30,1787021911000,18,30,RFOUL,foul drawn,104.0,319031.0,225,169002,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,810,MEX
+timeout,6:17,1787021926000,18,30,TIMO,Timeout,122.0,,227,171000,Q2,135068,,,,,,,,,,,Q2,,,,823,
+subst,6:17,1787022021000,18,30,SUBST,Substitution out,104.0,268370.0,228,172000,Q2,135068,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,823,MEX
+subst,6:17,1787022021000,18,30,SUBST,Substitution in,104.0,268375.0,229,173000,Q2,135068,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,823,MEX
+subst,6:17,1787022021000,18,30,SUBST,Substitution out,122.0,220085.0,230,174000,Q2,135068,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,823,PHI
+subst,6:17,1787022021000,18,30,SUBST,Substitution in,122.0,342735.0,231,175000,Q2,135068,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,823,PHI
+shot,6:03,1787022039000,20,30,P2,2pt pullup jump shot made,104.0,213361.0,233,177000,Q2,135068,True,2.0,71.0,125.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Mid-Range,10.9,8-16 ft.,837,MEX
+unknwown,5:44,1787022060000,20,30,TO,turnover; ball handling,122.0,339158.0,235,179000,Q2,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,856,PHI
+shot,5:27,1787022085000,20,30,P3,3pt jump shot missed,104.0,215141.0,237,181000,Q2,135068,False,3.0,245.0,121.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,Above the Break 3,13.3,8-16 ft.,873,MEX
+unknwown,5:24,1787022087000,20,30,REB,defensive rebound,122.0,339158.0,238,181002,Q2,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,876,PHI
+shot,5:13,1787022099000,20,30,P3,3pt jump shot missed,122.0,323169.0,240,183000,Q2,135068,False,3.0,43.0,131.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Above the Break 3,13.3,8-16 ft.,887,PHI
+unknwown,5:12,1787022101000,20,30,TREB,team defensive rebound,104.0,,241,183002,Q2,135068,,,,,,,,,,,Q2,,,,888,
+subst,5:12,1787022107000,20,30,SUBST,Substitution out,122.0,394258.0,242,184000,Q2,135068,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,888,PHI
+subst,5:12,1787022107000,20,30,SUBST,Substitution in,122.0,323171.0,243,185000,Q2,135068,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q2,,,,888,PHI
+shot,4:55,1787022128000,20,30,P2,2pt driving layup missed,104.0,268451.0,245,187000,Q2,135068,False,2.0,165.0,29.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Restricted Area,2.7,Less Than 8 ft.,905,MEX
+unknwown,4:53,1787022132000,20,30,REB,defensive rebound,122.0,323169.0,247,187002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,907,PHI
+unknwown,4:53,1787022136000,20,30,FOUL,Personal foul,104.0,213361.0,248,189000,Q2,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,907,MEX
+unknwown,4:53,1787022136000,20,30,RFOUL,foul drawn,122.0,323171.0,249,189002,Q2,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,907,PHI
+shot,4:38,1787022168000,20,30,P2,2pt turnaround jump shot missed,122.0,323169.0,251,191000,Q2,135068,False,2.0,144.0,55.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,In The Paint (Non-RA),1.6,Less Than 8 ft.,922,PHI
+unknwown,4:35,1787022171000,20,30,REB,defensive rebound,104.0,319031.0,252,191002,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,925,MEX
+shot,4:20,1787022186000,20,30,P3,3pt step back jump shot missed,104.0,213361.0,253,192000,Q2,135068,False,3.0,223.0,140.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Above the Break 3,13.0,8-16 ft.,940,MEX
+unknwown,4:17,1787022189000,20,30,REB,defensive rebound,122.0,323169.0,254,192002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,943,PHI
+unknwown,4:13,1787022193000,20,30,TO,turnover; bad pass,122.0,323171.0,255,193000,Q2,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,947,PHI
+unknwown,4:13,1787022193000,20,30,ST,steal,104.0,213361.0,256,193001,Q2,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,947,MEX
+shot,4:07,1787022200000,20,30,P2,layup missed,104.0,268375.0,257,194000,Q2,135068,False,2.0,163.0,37.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,Restricted Area,2.3,Less Than 8 ft.,953,MEX
+unknwown,4:07,1787022200000,20,30,BS,blocked the shot,122.0,323169.0,258,194001,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,953,PHI
+unknwown,4:02,1787022221000,20,30,TREB,team defensive rebound,122.0,,260,194002,Q2,135068,,,,,,,,,,,Q2,,,,958,
+unknwown,4:02,1787022223000,20,30,FOUL,Personal foul,104.0,215141.0,261,196000,Q2,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,958,MEX
+unknwown,4:02,1787022223000,20,30,RFOUL,foul drawn,122.0,323169.0,262,196002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,958,PHI
+shot,3:44,1787022249000,20,33,P3,3pt jump shot made,122.0,342735.0,264,198000,Q2,135068,True,3.0,51.0,133.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,Above the Break 3,12.9,8-16 ft.,976,PHI
+unknwown,3:30,1787022262000,20,33,TO,turnover; ball handling,104.0,268375.0,265,199000,Q2,135068,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,990,MEX
+unknwown,3:30,1787022262000,20,33,ST,steal,122.0,303016.0,266,199001,Q2,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,990,PHI
+shot,3:24,1787022268000,20,35,P2,"2PtsFG inside paint, points from fastbreak + after turnover, layup made",122.0,342735.0,267,200000,Q2,135068,True,2.0,106.0,29.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,In The Paint (Non-RA),3.6,Less Than 8 ft.,996,PHI
+unknwown,3:24,1787022268000,20,35,ASS,made the assist,122.0,303016.0,269,200001,Q2,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,996,PHI
+timeout,3:22,1787022275000,20,35,TIMO,Timeout,104.0,,270,202000,Q2,135068,,,,,,,,,,,Q2,,,,998,
+subst,3:22,1787022358000,20,35,SUBST,Substitution out,104.0,215141.0,271,203000,Q2,135068,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,998,MEX
+subst,3:22,1787022358000,20,35,SUBST,Substitution out,104.0,268375.0,272,204000,Q2,135068,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,998,MEX
+subst,3:22,1787022358000,20,35,SUBST,Substitution in,104.0,227780.0,273,205000,Q2,135068,,,,,,IN,104.0,Angela Carrasco,Mexico,29.0,Q2,,,,998,MEX
+subst,3:22,1787022358000,20,35,SUBST,Substitution in,104.0,317694.0,274,206000,Q2,135068,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,998,MEX
+shot,3:08,1787022386000,22,35,P2,"2PtsFG under the basket, driving layup made",104.0,317694.0,276,208000,Q2,135068,True,2.0,129.0,36.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Restricted Area,1.2,Less Than 8 ft.,1012,MEX
+shot,2:45,1787022408000,22,35,P2,2pt driving layup missed,122.0,339158.0,277,209000,Q2,135068,False,2.0,118.0,45.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Restricted Area,2.3,Less Than 8 ft.,1035,PHI
+unknwown,2:43,1787022410000,22,35,REB,defensive rebound,104.0,317694.0,278,209002,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1037,MEX
+shot,2:34,1787022420000,22,35,P2,2pt turnaround jump shot missed,104.0,227780.0,279,210000,Q2,135068,False,2.0,173.0,39.0,,,104.0,Angela Carrasco,Mexico,29.0,Q2,In The Paint (Non-RA),3.3,Less Than 8 ft.,1046,MEX
+unknwown,2:31,1787022422000,22,35,REB,defensive rebound,122.0,303016.0,280,210002,Q2,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1049,PHI
+shot,2:27,1787022428000,22,35,P3,3pt jump shot missed,122.0,339158.0,281,211000,Q2,135068,False,3.0,257.0,104.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Above the Break 3,13.3,8-16 ft.,1053,PHI
+unknwown,2:18,1787022435000,22,35,REB,defensive rebound,104.0,319031.0,282,211002,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1062,MEX
+unknwown,2:15,1787022442000,22,35,TO,turnover; out of bounds,104.0,213361.0,284,213000,Q2,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1065,MEX
+shot,2:02,1787022468000,22,35,P3,3pt step back jump shot missed,122.0,342735.0,286,215000,Q2,135068,False,3.0,64.0,146.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,Above the Break 3,13.0,8-16 ft.,1078,PHI
+unknwown,1:58,1787022471000,22,35,REB,defensive rebound,104.0,319031.0,287,215002,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1082,MEX
+unknwown,1:47,1787022484000,22,35,FOUL,Personal foul; 2 free throws awarded,122.0,323171.0,289,217000,Q2,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1093,PHI
+unknwown,1:47,1787022484000,22,35,RFOUL,foul drawn,104.0,317694.0,290,217002,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1093,MEX
+shot,1:47,1787022510000,22,35,FT,1st of 2 free throws missed,104.0,317694.0,291,218000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,14.6,8-16 ft.,1093,MEX
+shot,1:47,1787022534000,23,35,FT,2nd of 2 free throws made,104.0,317694.0,292,219000,Q2,135068,True,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,14.6,8-16 ft.,1093,MEX
+shot,1:33,1787022558000,23,35,P3,3pt jump shot missed,122.0,303016.0,294,221000,Q2,135068,False,3.0,64.0,150.0,,,122.0,Angelica Surada,Philippines,8.0,Q2,Above the Break 3,13.4,8-16 ft.,1107,PHI
+unknwown,1:28,1787022562000,23,35,REB,defensive rebound,104.0,317694.0,295,221002,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1112,MEX
+unknwown,1:22,1787022571000,23,35,FOUL,Personal foul; 2 free throws awarded,122.0,303016.0,297,223000,Q2,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1118,PHI
+unknwown,1:22,1787022571000,23,35,RFOUL,foul drawn,104.0,227780.0,298,223002,Q2,135068,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q2,,,,1118,MEX
+shot,1:22,1787022598000,23,35,FT,1st of 2 free throws missed,104.0,227780.0,299,224000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q2,,14.6,8-16 ft.,1118,MEX
+shot,1:22,1787022610000,23,35,FT,2nd of 2 free throws missed,104.0,227780.0,300,225000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q2,,14.6,8-16 ft.,1118,MEX
+unknwown,1:22,1787022612000,23,35,REB,offensive rebound,104.0,319031.0,302,225002,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1118,MEX
+shot,1:08,1787022626000,25,35,P2,2pt floating jump shot made,104.0,268451.0,303,227000,Q2,135068,True,2.0,177.0,77.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,In The Paint (Non-RA),5.2,Less Than 8 ft.,1132,MEX
+shot,0:47,1787022647000,25,35,P2,2pt jump shot missed,122.0,323169.0,304,228000,Q2,135068,False,2.0,100.0,38.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,In The Paint (Non-RA),4.0,Less Than 8 ft.,1153,PHI
+unknwown,0:43,1787022650000,25,35,REB,defensive rebound,104.0,227780.0,305,228002,Q2,135068,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q2,,,,1157,MEX
+unknwown,0:40,1787022655000,25,35,TO,turnover; ball handling,104.0,227780.0,307,230000,Q2,135068,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q2,,,,1160,MEX
+subst,0:40,1787022665000,25,35,SUBST,Substitution out,122.0,339158.0,308,231000,Q2,135068,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,1160,PHI
+subst,0:40,1787022665000,25,35,SUBST,Substitution in,122.0,365085.0,309,232000,Q2,135068,,,,,,IN,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q2,,,,1160,PHI
+timeout,0:40,1787022668000,25,35,TIMO,Timeout,122.0,,310,233000,Q2,135068,,,,,,,,,,,Q2,,,,1160,
+subst,0:40,1787022751000,25,35,SUBST,Substitution out,104.0,227780.0,311,234000,Q2,135068,,,,,,OUT,104.0,Angela Carrasco,Mexico,29.0,Q2,,,,1160,MEX
+subst,0:40,1787022751000,25,35,SUBST,Substitution in,104.0,215141.0,312,235000,Q2,135068,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1160,MEX
+shot,0:26,1787022768000,25,35,P3,3pt jump shot missed,122.0,323169.0,314,237000,Q2,135068,False,3.0,14.0,76.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Above the Break 3,13.1,8-16 ft.,1174,PHI
+unknwown,0:24,1787022772000,25,35,REB,defensive rebound,104.0,268451.0,316,237002,Q2,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1176,MEX
+unknwown,0:24,1787022776000,25,35,FOUL,Personal foul; 2 free throws awarded,122.0,303016.0,317,239000,Q2,135068,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1176,PHI
+unknwown,0:24,1787022776000,25,35,RFOUL,foul drawn,104.0,268451.0,318,239002,Q2,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1176,MEX
+subst,0:24,1787022796000,25,35,SUBST,Substitution out,122.0,303016.0,319,240000,Q2,135068,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1176,PHI
+subst,0:24,1787022796000,25,35,SUBST,Substitution in,122.0,220085.0,320,241000,Q2,135068,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,1176,PHI
+shot,0:24,1787022804000,25,35,FT,1st of 2 free throws missed,104.0,268451.0,321,242000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,,14.6,8-16 ft.,1176,MEX
+shot,0:24,1787022819000,25,35,FT,2nd of 2 free throws missed,104.0,268451.0,322,243000,Q2,135068,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,,14.6,8-16 ft.,1176,MEX
+unknwown,0:24,1787022820000,25,35,REB,defensive rebound,122.0,323169.0,324,243002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,1176,PHI
+unknwown,0:15,1787022836000,25,35,FOUL,Personal foul,104.0,268451.0,326,246000,Q2,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1185,MEX
+unknwown,0:15,1787022836000,25,35,RFOUL,foul drawn,122.0,342735.0,327,246002,Q2,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1185,PHI
+unknwown,0:08,1787022860000,25,35,FOUL,Personal foul,104.0,213361.0,330,249000,Q2,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1192,MEX
+unknwown,0:08,1787022860000,25,35,RFOUL,foul drawn,122.0,323169.0,331,249002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,1192,PHI
+shot,0:01,1787022887000,25,37,P2,2pt turnaround jump shot made,122.0,323169.0,336,254000,Q2,135068,True,2.0,137.0,67.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,In The Paint (Non-RA),2.7,Less Than 8 ft.,1199,PHI
+unknwown,0:01,1787022890000,25,37,FOUL,Personal foul; 1 free throw awarded,104.0,319031.0,337,255000,Q2,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1199,MEX
+unknwown,0:01,1787022890000,25,37,RFOUL,foul drawn,122.0,323169.0,338,255002,Q2,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,1199,PHI
+shot,0:01,1787022915000,25,37,FT,1st free throw missed,122.0,323169.0,339,256000,Q2,135068,False,1.0,0.0,0.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,14.6,8-16 ft.,1199,PHI
+unknwown,0:01,1787022916000,25,37,REB,defensive rebound,104.0,317694.0,341,256002,Q2,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1199,MEX
+periods,0:00,1787023756000,25,37,ENDP,End of period,,,343,259000,Q2,135068,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787023844000,25,37,SUBST,Substitution out,104.0,317694.0,344,260000,Q3,135068,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1200,MEX
+subst,10:00,1787023844000,25,37,SUBST,Substitution in,104.0,268370.0,345,261000,Q3,135068,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1200,MEX
+subst,10:00,1787023844000,25,37,SUBST,Substitution out,122.0,220085.0,346,262000,Q3,135068,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1200,PHI
+subst,10:00,1787023844000,25,37,SUBST,Substitution out,122.0,365085.0,347,263000,Q3,135068,,,,,,OUT,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q3,,,,1200,PHI
+subst,10:00,1787023844000,25,37,SUBST,Substitution in,122.0,220090.0,348,264000,Q3,135068,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q3,,,,1200,PHI
+subst,10:00,1787023844000,25,37,SUBST,Substitution in,122.0,339158.0,349,265000,Q3,135068,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1200,PHI
+periods,10:00,1787023850000,25,37,STARTP,Start of period,,,350,266000,Q3,135068,,,,,,,,,,,Q3,,,,1200,
+unknwown,9:41,1787023870000,25,37,TO,turnover; bad pass,122.0,339158.0,352,268000,Q3,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1219,PHI
+unknwown,9:41,1787023870000,25,37,ST,steal,104.0,268370.0,353,268001,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1219,MEX
+unknwown,9:32,1787023880000,25,37,FOUL,Personal foul,122.0,339158.0,355,270000,Q3,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1228,PHI
+unknwown,9:32,1787023880000,25,37,RFOUL,foul drawn,104.0,213361.0,356,270002,Q3,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1228,MEX
+shot,9:25,1787023900000,27,37,P2,2pt step back jump shot made,104.0,213361.0,358,272000,Q3,135068,True,2.0,176.0,85.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,In The Paint (Non-RA),5.8,Less Than 8 ft.,1235,MEX
+unknwown,9:02,1787023930000,27,37,JS,jump ball situation; throw-in,104.0,,360,274000,Q3,135068,,,,,,,,,,,Q3,,,,1258,
+unknwown,9:02,1787023932000,27,37,TO,turnover; ball handling,122.0,220090.0,361,275000,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1258,PHI
+unknwown,9:02,1787023932000,27,37,ST,steal,104.0,268451.0,362,275001,Q3,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1258,MEX
+shot,8:54,1787023953000,30,37,P3,3pt step back jump shot made,104.0,213361.0,364,277000,Q3,135068,True,3.0,30.0,123.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,Above the Break 3,13.8,8-16 ft.,1266,MEX
+timeout,8:51,1787023959000,30,37,TIMO,Timeout,122.0,,366,279000,Q3,135068,,,,,,,,,,,Q3,,,,1269,
+shot,8:39,1787024064000,30,37,P3,3pt jump shot missed,122.0,339158.0,368,281000,Q3,135068,False,3.0,230.0,137.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.2,8-16 ft.,1281,PHI
+unknwown,8:36,1787024066000,30,37,REB,defensive rebound,104.0,268451.0,369,281002,Q3,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1284,MEX
+shot,8:29,1787024072000,30,37,P3,3pt jump shot missed,104.0,268370.0,370,282000,Q3,135068,False,3.0,208.0,146.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,12.6,8-16 ft.,1291,MEX
+unknwown,8:27,1787024075000,30,37,REB,defensive rebound,122.0,339158.0,371,282002,Q3,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1293,PHI
+unknwown,8:17,1787024085000,30,37,TO,turnover; bad pass,122.0,339158.0,372,283000,Q3,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1303,PHI
+unknwown,8:17,1787024085000,30,37,ST,steal,104.0,268370.0,373,283001,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1303,MEX
+shot,8:10,1787024092000,30,37,P2,"2PtsFG under the basket, points after turnover, layup missed",104.0,268370.0,374,284000,Q3,135068,False,2.0,120.0,29.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Restricted Area,2.3,Less Than 8 ft.,1310,MEX
+unknwown,8:07,1787024095000,30,37,REB,defensive rebound,122.0,220090.0,375,284002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1313,PHI
+shot,7:45,1787024118000,30,39,P2,"2PtsFG under the basket, driving layup made",122.0,323171.0,376,285000,Q3,135068,True,2.0,139.0,42.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Restricted Area,0.2,Less Than 8 ft.,1335,PHI
+unknwown,7:30,1787024137000,30,39,FOUL,Personal foul,122.0,323171.0,378,287000,Q3,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1350,PHI
+unknwown,7:30,1787024137000,30,39,RFOUL,foul drawn,104.0,213361.0,379,287002,Q3,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1350,MEX
+shot,7:15,1787024188000,30,39,P3,3pt jump shot from center missed,104.0,319031.0,383,291000,Q3,135068,False,3.0,151.0,169.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Above the Break 3,12.9,8-16 ft.,1365,MEX
+unknwown,7:13,1787024192000,30,39,REB,defensive rebound,122.0,339158.0,385,291002,Q3,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1367,PHI
+shot,6:56,1787024224000,30,39,P3,3pt jump shot missed,122.0,323171.0,390,297000,Q3,135068,False,3.0,6.0,22.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Right Corner 3,13.5,8-16 ft.,1384,PHI
+unknwown,6:56,1787024226000,30,39,TREB,team defensive rebound,104.0,,391,297002,Q3,135068,,,,,,,,,,,Q3,,,,1384,
+shot,6:32,1787024253000,30,39,P2,layup missed,104.0,268451.0,393,299000,Q3,135068,False,2.0,102.0,30.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,In The Paint (Non-RA),3.9,Less Than 8 ft.,1408,MEX
+unknwown,6:28,1787024256000,30,39,REB,defensive rebound,122.0,323169.0,394,299002,Q3,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1412,PHI
+unknwown,6:24,1787024263000,30,39,FOUL,Personal foul,104.0,268370.0,396,301000,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1416,MEX
+unknwown,6:24,1787024263000,30,39,RFOUL,foul drawn,122.0,220090.0,397,301002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1416,PHI
+subst,6:24,1787024286000,30,39,SUBST,Substitution out,104.0,213361.0,398,302000,Q3,135068,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1416,MEX
+subst,6:24,1787024286000,30,39,SUBST,Substitution in,104.0,317694.0,399,303000,Q3,135068,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1416,MEX
+subst,6:24,1787024286000,30,39,SUBST,Substitution out,122.0,339158.0,400,304000,Q3,135068,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1416,PHI
+subst,6:24,1787024286000,30,39,SUBST,Substitution in,122.0,394258.0,401,305000,Q3,135068,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1416,PHI
+unknwown,6:24,1787024302000,30,39,FOUL,Personal foul,104.0,215141.0,402,306000,Q3,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1416,MEX
+unknwown,6:24,1787024302000,30,39,RFOUL,foul drawn,122.0,394258.0,403,306002,Q3,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1416,PHI
+subst,6:24,1787024319000,30,39,SUBST,Substitution out,104.0,215141.0,404,307000,Q3,135068,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1416,MEX
+subst,6:24,1787024319000,30,39,SUBST,Substitution in,104.0,302969.0,405,308000,Q3,135068,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q3,,,,1416,MEX
+shot,6:11,1787024339000,30,42,P3,3pt jump shot made,122.0,323171.0,407,310000,Q3,135068,True,3.0,252.0,113.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Above the Break 3,13.4,8-16 ft.,1429,PHI
+unknwown,6:11,1787024339000,30,42,ASS,made the assist,122.0,342735.0,408,310001,Q3,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1429,PHI
+shot,5:50,1787024359000,30,42,P2,"2PtsFG under the basket, driving layup missed",104.0,302969.0,409,311000,Q3,135068,False,2.0,151.0,37.0,,,104.0,Loriette Maciel,Mexico,27.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1450,MEX
+unknwown,5:46,1787024363000,30,42,REB,defensive rebound,122.0,323169.0,410,311002,Q3,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1454,PHI
+shot,5:44,1787024366000,30,42,P3,3pt jump shot missed,122.0,323171.0,411,312000,Q3,135068,False,3.0,242.0,124.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Above the Break 3,13.2,8-16 ft.,1456,PHI
+unknwown,5:40,1787024369000,30,42,REB,defensive rebound,104.0,268451.0,412,312002,Q3,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1460,MEX
+unknwown,5:27,1787024386000,30,42,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,414,314000,Q3,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1473,PHI
+unknwown,5:27,1787024386000,30,42,RFOUL,foul drawn,104.0,319031.0,415,314002,Q3,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1473,MEX
+shot,5:27,1787024415000,31,42,FT,1st of 2 free throws made,104.0,319031.0,416,315000,Q3,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,14.6,8-16 ft.,1473,MEX
+shot,5:27,1787024430000,32,42,FT,2nd of 2 free throws made,104.0,319031.0,417,316000,Q3,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,14.6,8-16 ft.,1473,MEX
+unknwown,5:10,1787024449000,32,42,TO,turnover; bad pass,122.0,323171.0,419,318000,Q3,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1490,PHI
+unknwown,5:10,1787024449000,32,42,ST,steal,104.0,319031.0,420,318001,Q3,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1490,MEX
+unknwown,4:57,1787024463000,32,42,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,422,320000,Q3,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1503,PHI
+unknwown,4:57,1787024463000,32,42,RFOUL,foul drawn,104.0,268370.0,423,320002,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1503,MEX
+shot,4:57,1787024488000,32,42,FT,1st of 2 free throws missed,104.0,268370.0,424,321000,Q3,135068,False,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,14.6,8-16 ft.,1503,MEX
+shot,4:57,1787024504000,33,42,FT,2nd of 2 free throws made,104.0,268370.0,425,322000,Q3,135068,True,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,14.6,8-16 ft.,1503,MEX
+shot,4:35,1787024528000,33,42,P2,2pt floating jump shot missed,122.0,342735.0,427,324000,Q3,135068,False,2.0,117.0,38.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Restricted Area,2.3,Less Than 8 ft.,1525,PHI
+unknwown,4:33,1787024530000,33,42,REB,defensive rebound,104.0,268451.0,428,324002,Q3,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1527,MEX
+shot,4:29,1787024535000,33,42,P3,3pt jump shot missed,104.0,317694.0,429,325000,Q3,135068,False,3.0,50.0,137.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,13.2,8-16 ft.,1531,MEX
+unknwown,4:26,1787024538000,33,42,REB,offensive rebound,104.0,268451.0,430,325002,Q3,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1534,MEX
+unknwown,4:21,1787024543000,33,42,TO,turnover; ball handling,104.0,317694.0,431,326000,Q3,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1539,MEX
+unknwown,4:21,1787024543000,33,42,ST,steal,122.0,394258.0,432,326001,Q3,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1539,PHI
+unknwown,4:17,1787024551000,33,42,FOUL,Personal foul; 2 free throws awarded,104.0,302969.0,434,328000,Q3,135068,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q3,,,,1543,MEX
+unknwown,4:17,1787024551000,33,42,RFOUL,foul drawn,122.0,394258.0,435,328002,Q3,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1543,PHI
+shot,4:17,1787024572000,33,43,FT,Free throw made 1 of 2,122.0,394258.0,436,329000,Q3,135068,True,1.0,0.0,0.0,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,14.6,8-16 ft.,1543,PHI
+shot,4:17,1787024585000,33,43,FT,Free throw missed 2 of 2,122.0,394258.0,437,330000,Q3,135068,False,1.0,0.0,0.0,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,14.6,8-16 ft.,1543,PHI
+unknwown,4:17,1787024586000,33,43,REB,defensive rebound,104.0,317694.0,439,330002,Q3,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1543,MEX
+shot,4:06,1787024598000,33,43,P3,3pt jump shot missed,104.0,268370.0,440,332000,Q3,135068,False,3.0,191.0,158.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,12.9,8-16 ft.,1554,MEX
+unknwown,4:03,1787024600000,33,43,REB,defensive rebound,122.0,220090.0,441,332002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1557,PHI
+shot,3:51,1787024613000,33,43,P2,2pt fadeaway jump shot missed,122.0,323169.0,442,333000,Q3,135068,False,2.0,86.0,30.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,Mid-Range,5.5,Less Than 8 ft.,1569,PHI
+unknwown,3:47,1787024616000,33,43,REB,offensive rebound,122.0,220090.0,443,333002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1573,PHI
+shot,3:46,1787024617000,33,43,P2,"2PtsFG under the basket, layup missed",122.0,220090.0,444,334000,Q3,135068,False,2.0,145.0,37.0,,,122.0,Jack Animam,Philippines,10.0,Q3,Restricted Area,0.6,Less Than 8 ft.,1574,PHI
+unknwown,3:43,1787024620000,33,43,REB,defensive rebound,104.0,268370.0,445,334002,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1577,MEX
+subst,3:29,1787024648000,33,43,SUBST,Substitution out,104.0,268451.0,447,336000,Q3,135068,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1591,MEX
+subst,3:29,1787024648000,33,43,SUBST,Substitution in,104.0,215141.0,448,337000,Q3,135068,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1591,MEX
+subst,3:29,1787024648000,33,43,SUBST,Substitution out,122.0,323171.0,449,338000,Q3,135068,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1591,PHI
+subst,3:29,1787024648000,33,43,SUBST,Substitution out,122.0,323169.0,450,339000,Q3,135068,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1591,PHI
+subst,3:29,1787024648000,33,43,SUBST,Substitution in,122.0,220085.0,451,340000,Q3,135068,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1591,PHI
+subst,3:29,1787024648000,33,43,SUBST,Substitution in,122.0,339158.0,452,341000,Q3,135068,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1591,PHI
+shot,3:25,1787024660000,33,43,P2,"2PtsFG under the basket, turnaround jump shot missed",104.0,268370.0,454,343000,Q3,135068,False,2.0,133.0,39.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1595,MEX
+unknwown,3:20,1787024664000,33,43,REB,offensive rebound,104.0,319031.0,455,343002,Q3,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1600,MEX
+shot,3:19,1787024667000,35,43,P2,"2PtsFG under the basket, fadeaway jump shot made",104.0,319031.0,456,344000,Q3,135068,True,2.0,133.0,34.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Restricted Area,0.9,Less Than 8 ft.,1601,MEX
+unknwown,3:05,1787024689000,35,43,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,458,346000,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1615,MEX
+unknwown,3:05,1787024689000,35,43,RFOUL,foul drawn,122.0,220090.0,459,346002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1615,PHI
+subst,3:05,1787024700000,35,43,SUBST,Substitution out,104.0,302969.0,460,347000,Q3,135068,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q3,,,,1615,MEX
+subst,3:05,1787024700000,35,43,SUBST,Substitution in,104.0,213361.0,461,348000,Q3,135068,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1615,MEX
+shot,3:05,1787024732000,35,43,FT,1st of 2 free throws missed,122.0,220090.0,462,349000,Q3,135068,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1615,PHI
+shot,3:05,1787024747000,35,43,FT,2nd of 2 free throws missed,122.0,220090.0,463,350000,Q3,135068,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1615,PHI
+unknwown,3:05,1787024748000,35,43,REB,defensive rebound,104.0,268370.0,465,350002,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1615,MEX
+shot,2:50,1787024764000,37,43,P2,"2PtsFG under the basket, jump shot made",104.0,319031.0,466,352000,Q3,135068,True,2.0,145.0,30.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1630,MEX
+unknwown,2:50,1787024764000,37,43,ASS,made the assist,104.0,215141.0,467,352001,Q3,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1630,MEX
+shot,2:29,1787024786000,37,43,P3,3pt jump shot missed,122.0,339158.0,469,354000,Q3,135068,False,3.0,21.0,96.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.2,8-16 ft.,1651,PHI
+unknwown,2:29,1787024789000,37,43,TREB,team defensive rebound,104.0,,470,354002,Q3,135068,,,,,,,,,,,Q3,,,,1651,
+shot,2:11,1787024814000,37,43,P3,3pt jump shot from center missed,104.0,319031.0,472,356000,Q3,135068,False,3.0,136.0,167.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Above the Break 3,12.7,8-16 ft.,1669,MEX
+unknwown,2:08,1787024816000,37,43,REB,offensive rebound,104.0,215141.0,473,356002,Q3,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1672,MEX
+shot,2:07,1787024818000,39,43,P2,2pt jump shot made,104.0,215141.0,474,357000,Q3,135068,True,2.0,109.0,39.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,In The Paint (Non-RA),3.1,Less Than 8 ft.,1673,MEX
+unknwown,1:48,1787024842000,39,43,FOUL,Offensive foul,122.0,342735.0,476,359000,Q3,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1692,PHI
+unknwown,1:48,1787024842000,39,43,TO,turnover,122.0,342735.0,477,359001,Q3,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1692,PHI
+unknwown,1:48,1787024842000,39,43,RFOUL,foul drawn,104.0,213361.0,478,359002,Q3,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1692,MEX
+subst,1:48,1787024856000,39,43,SUBST,Substitution out,122.0,342735.0,479,360000,Q3,135068,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1692,PHI
+subst,1:48,1787024856000,39,43,SUBST,Substitution in,122.0,398175.0,480,361000,Q3,135068,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1692,PHI
+shot,1:36,1787024875000,39,43,P2,layup missed,104.0,213361.0,482,363000,Q3,135068,False,2.0,101.0,58.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,In The Paint (Non-RA),4.3,Less Than 8 ft.,1704,MEX
+unknwown,1:30,1787024881000,39,43,REB,defensive rebound,122.0,220085.0,483,363002,Q3,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1710,PHI
+shot,1:27,1787024885000,39,45,P2,"2PtsFG under the basket, fast break, layup made",122.0,339158.0,484,364000,Q3,135068,True,2.0,151.0,36.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1713,PHI
+unknwown,1:27,1787024885000,39,45,ASS,made the assist,122.0,398175.0,485,364001,Q3,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1713,PHI
+unknwown,1:18,1787024902000,39,45,FOUL,Personal foul; 2 free throws awarded,122.0,394258.0,487,366000,Q3,135068,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1722,PHI
+unknwown,1:18,1787024902000,39,45,RFOUL,foul drawn,104.0,317694.0,488,366002,Q3,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1722,MEX
+subst,1:18,1787024919000,39,45,SUBST,Substitution out,104.0,319031.0,489,367000,Q3,135068,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1722,MEX
+subst,1:18,1787024919000,39,45,SUBST,Substitution in,104.0,268375.0,490,368000,Q3,135068,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1722,MEX
+subst,1:18,1787024919000,39,45,SUBST,Substitution out,122.0,394258.0,491,369000,Q3,135068,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1722,PHI
+subst,1:18,1787024919000,39,45,SUBST,Substitution in,122.0,323171.0,492,370000,Q3,135068,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1722,PHI
+shot,1:18,1787024926000,39,45,FT,1st of 2 free throws missed,104.0,317694.0,493,371000,Q3,135068,False,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,14.6,8-16 ft.,1722,MEX
+shot,1:18,1787024940000,40,45,FT,2nd of 2 free throws made,104.0,317694.0,494,372000,Q3,135068,True,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,14.6,8-16 ft.,1722,MEX
+unknwown,1:04,1787024966000,40,45,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,497,375000,Q3,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1736,MEX
+unknwown,1:04,1787024966000,40,45,RFOUL,foul drawn,122.0,220090.0,498,375002,Q3,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1736,PHI
+subst,1:04,1787024984000,40,45,SUBST,Substitution out,104.0,268370.0,499,376000,Q3,135068,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1736,MEX
+subst,1:04,1787024984000,40,45,SUBST,Substitution in,104.0,235869.0,500,377000,Q3,135068,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1736,MEX
+shot,1:04,1787024995000,40,46,FT,1st of 2 free throws made,122.0,220090.0,501,378000,Q3,135068,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1736,PHI
+shot,1:04,1787025013000,40,47,FT,2nd of 2 free throws made,122.0,220090.0,502,379000,Q3,135068,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1736,PHI
+subst,1:04,1787025021000,40,47,SUBST,Substitution out,122.0,220085.0,503,380000,Q3,135068,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1736,PHI
+subst,1:04,1787025021000,40,47,SUBST,Substitution out,122.0,220090.0,504,381000,Q3,135068,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q3,,,,1736,PHI
+subst,1:04,1787025021000,40,47,SUBST,Substitution in,122.0,303016.0,505,382000,Q3,135068,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1736,PHI
+subst,1:04,1787025021000,40,47,SUBST,Substitution in,122.0,323169.0,506,383000,Q3,135068,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1736,PHI
+unknwown,0:54,1787025040000,40,47,TO,turnover; ball handling,104.0,213361.0,508,385000,Q3,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1746,MEX
+unknwown,0:54,1787025040000,40,47,ST,steal,122.0,398175.0,509,385001,Q3,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1746,PHI
+shot,0:49,1787025044000,40,47,P2,"2PtsFG under the basket, points after turnover, reverse lay-up missed",122.0,323171.0,510,386000,Q3,135068,False,2.0,121.0,32.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Restricted Area,2.1,Less Than 8 ft.,1751,PHI
+unknwown,0:49,1787025044000,40,47,BS,blocked the shot,104.0,235869.0,512,386001,Q3,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1751,MEX
+unknwown,0:46,1787025050000,40,47,TREB,team defensive rebound,104.0,,513,386002,Q3,135068,,,,,,,,,,,Q3,,,,1754,
+shot,0:35,1787025069000,40,47,P3,3pt step back jump shot missed,104.0,317694.0,517,391000,Q3,135068,False,3.0,39.0,130.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,13.5,8-16 ft.,1765,MEX
+unknwown,0:31,1787025072000,40,47,REB,defensive rebound,122.0,323169.0,518,391002,Q3,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1769,PHI
+shot,0:27,1787025076000,40,47,P3,3pt pullup jump shot missed,122.0,339158.0,519,392000,Q3,135068,False,3.0,204.0,153.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.0,8-16 ft.,1773,PHI
+unknwown,0:23,1787025079000,40,47,REB,defensive rebound,104.0,235869.0,520,392002,Q3,135068,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1777,MEX
+shot,0:20,1787025084000,40,47,P3,3pt jump shot missed,104.0,215141.0,521,393000,Q3,135068,False,3.0,245.0,112.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,Above the Break 3,12.7,8-16 ft.,1780,MEX
+unknwown,0:17,1787025094000,40,47,TREB,team defensive rebound,122.0,,523,393002,Q3,135068,,,,,,,,,,,Q3,,,,1783,
+shot,0:02,1787025120000,40,47,P2,"2PtsFG under the basket, layup missed",122.0,339158.0,526,397000,Q3,135068,False,2.0,148.0,46.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1798,PHI
+unknwown,0:02,1787025123000,40,47,TREB,team defensive rebound,104.0,,527,397002,Q3,135068,,,,,,,,,,,Q3,,,,1798,
+subst,0:02,1787025129000,40,47,SUBST,Substitution out,122.0,339158.0,528,398000,Q3,135068,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1798,PHI
+subst,0:02,1787025129000,40,47,SUBST,Substitution in,122.0,342735.0,529,399000,Q3,135068,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1798,PHI
+periods,0:00,1787025159000,40,47,ENDP,End of period,,,532,402000,Q3,135068,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787025281000,40,47,SUBST,Substitution out,104.0,235869.0,533,403000,Q4,135068,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1800,MEX
+subst,10:00,1787025281000,40,47,SUBST,Substitution out,104.0,268375.0,534,404000,Q4,135068,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,1800,MEX
+subst,10:00,1787025281000,40,47,SUBST,Substitution in,104.0,319031.0,535,405000,Q4,135068,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1800,MEX
+subst,10:00,1787025281000,40,47,SUBST,Substitution in,104.0,268370.0,536,406000,Q4,135068,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1800,MEX
+periods,10:00,1787025286000,40,47,STARTP,Start of period,,,537,407000,Q4,135068,,,,,,,,,,,Q4,,,,1800,
+shot,9:47,1787025301000,40,47,P2,2pt pullup jump shot missed,122.0,342735.0,541,411000,Q4,135068,False,2.0,121.0,111.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Mid-Range,7.3,Less Than 8 ft.,1813,PHI
+unknwown,9:44,1787025304000,40,47,REB,defensive rebound,104.0,268370.0,542,411002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1816,MEX
+unknwown,9:42,1787025318000,40,47,FOUL,Personal foul; 2 free throws awarded,122.0,323171.0,544,413000,Q4,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,1818,PHI
+unknwown,9:42,1787025318000,40,47,RFOUL,foul drawn,104.0,319031.0,545,413002,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1818,MEX
+shot,9:42,1787025341000,41,47,FT,1st of 2 free throws made,104.0,319031.0,546,414000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,1818,MEX
+unknwown,9:42,1787025341000,41,47,ASS,made the assist,104.0,215141.0,547,414001,Q4,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,1818,MEX
+shot,9:42,1787025359000,42,47,FT,2nd of 2 free throws made,104.0,319031.0,548,415000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,1818,MEX
+unknwown,9:39,1787025387000,42,47,TO,turnover; bad pass,122.0,342735.0,553,419000,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1821,PHI
+shot,9:24,1787025413000,42,47,P3,3pt jump shot missed,104.0,268370.0,556,422000,Q4,135068,False,3.0,248.0,105.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Above the Break 3,12.6,8-16 ft.,1836,MEX
+unknwown,9:21,1787025416000,42,47,REB,offensive rebound,104.0,319031.0,557,422002,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1839,MEX
+shot,9:20,1787025418000,42,47,P2,2pt jump shot inside the paint missed,104.0,319031.0,558,423000,Q4,135068,False,2.0,169.0,38.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,In The Paint (Non-RA),2.9,Less Than 8 ft.,1840,MEX
+unknwown,9:17,1787025420000,42,47,REB,defensive rebound,122.0,323171.0,559,423002,Q4,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,1843,PHI
+shot,9:10,1787025428000,42,50,P3,3pt jump shot made,122.0,398175.0,560,424000,Q4,135068,True,3.0,219.0,144.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,Above the Break 3,13.1,8-16 ft.,1850,PHI
+unknwown,9:10,1787025428000,42,50,ASS,made the assist,122.0,323171.0,561,424001,Q4,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,1850,PHI
+unknwown,8:53,1787025450000,42,50,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,563,426000,Q4,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1867,PHI
+unknwown,8:53,1787025450000,42,50,RFOUL,foul drawn,104.0,317694.0,564,426002,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1867,MEX
+shot,8:53,1787025472000,42,50,FT,1st of 2 free throws missed,104.0,317694.0,565,427000,Q4,135068,False,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,14.6,8-16 ft.,1867,MEX
+shot,8:53,1787025486000,43,50,FT,2nd of 2 free throws made,104.0,317694.0,566,428000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,14.6,8-16 ft.,1867,MEX
+shot,8:43,1787025502000,43,50,P2,"2PtsFG under the basket, layup missed",122.0,323169.0,568,430000,Q4,135068,False,2.0,164.0,26.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Restricted Area,2.8,Less Than 8 ft.,1877,PHI
+unknwown,8:40,1787025505000,43,50,REB,defensive rebound,104.0,268370.0,569,430002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1880,MEX
+shot,8:36,1787025509000,43,50,P3,3pt jump shot from center missed,104.0,317694.0,570,431000,Q4,135068,False,3.0,129.0,171.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Above the Break 3,13.1,8-16 ft.,1884,MEX
+unknwown,8:33,1787025512000,43,50,REB,offensive rebound,104.0,317694.0,571,431002,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1887,MEX
+unknwown,8:33,1787025541000,43,50,TO,turnover; travelling,104.0,317694.0,573,433000,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1887,MEX
+subst,8:33,1787025548000,43,50,SUBST,Substitution out,104.0,215141.0,575,435000,Q4,135068,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,1887,MEX
+subst,8:33,1787025548000,43,50,SUBST,Substitution in,104.0,268451.0,576,436000,Q4,135068,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,1887,MEX
+shot,8:28,1787025553000,43,50,P3,3pt jump shot missed,122.0,342735.0,577,437000,Q4,135068,False,3.0,53.0,144.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Above the Break 3,13.6,8-16 ft.,1892,PHI
+unknwown,8:26,1787025555000,43,50,REB,defensive rebound,104.0,317694.0,578,437002,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1894,MEX
+shot,8:19,1787025563000,45,50,P2,"2PtsFG under the basket, layup made",104.0,268370.0,580,439000,Q4,135068,True,2.0,128.0,35.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Restricted Area,1.3,Less Than 8 ft.,1901,MEX
+unknwown,8:19,1787025563000,45,50,ASS,made the assist,104.0,213361.0,581,439001,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,1901,MEX
+timeout,8:19,1787025570000,45,50,TIMO,Timeout,122.0,,582,440000,Q4,135068,,,,,,,,,,,Q4,,,,1901,
+subst,8:19,1787025653000,45,50,SUBST,Substitution out,122.0,303016.0,583,441000,Q4,135068,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q4,,,,1901,PHI
+subst,8:19,1787025653000,45,50,SUBST,Substitution in,122.0,220090.0,584,442000,Q4,135068,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q4,,,,1901,PHI
+shot,8:03,1787025675000,45,53,P3,3pt jump shot made,122.0,398175.0,586,444000,Q4,135068,True,3.0,272.0,48.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,Left Corner 3,13.2,8-16 ft.,1917,PHI
+unknwown,8:03,1787025675000,45,53,ASS,made the assist,122.0,220090.0,587,444001,Q4,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,1917,PHI
+unknwown,7:39,1787025703000,45,53,FOUL,Personal foul,122.0,220090.0,590,447000,Q4,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,1941,PHI
+unknwown,7:39,1787025703000,45,53,RFOUL,foul drawn,104.0,268370.0,592,447002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1941,MEX
+shot,7:16,1787025735000,45,53,P2,2pt turnaround jump shot missed,104.0,213361.0,594,450000,Q4,135068,False,2.0,204.0,37.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Mid-Range,6.4,Less Than 8 ft.,1964,MEX
+unknwown,7:12,1787025738000,45,53,REB,offensive rebound,104.0,319031.0,595,450002,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1968,MEX
+shot,7:09,1787025742000,47,53,P2,"2PtsFG under the basket, layup made",104.0,268370.0,596,451000,Q4,135068,True,2.0,139.0,38.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Restricted Area,0.2,Less Than 8 ft.,1971,MEX
+unknwown,7:01,1787025755000,47,53,FOUL,Offensive foul,122.0,323169.0,599,453000,Q4,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1979,PHI
+unknwown,7:01,1787025755000,47,53,TO,turnover,122.0,323169.0,600,453001,Q4,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1979,PHI
+unknwown,7:01,1787025755000,47,53,RFOUL,foul drawn,104.0,319031.0,601,453002,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1979,MEX
+subst,7:01,1787025765000,47,53,SUBST,Substitution out,122.0,323169.0,602,454000,Q4,135068,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1979,PHI
+subst,7:01,1787025765000,47,53,SUBST,Substitution in,122.0,303016.0,603,455000,Q4,135068,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q4,,,,1979,PHI
+shot,6:51,1787025782000,47,53,P2,2pt fadeaway jump shot missed,104.0,317694.0,605,457000,Q4,135068,False,2.0,78.0,34.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Mid-Range,6.2,Less Than 8 ft.,1989,MEX
+unknwown,6:48,1787025785000,47,53,REB,defensive rebound,122.0,342735.0,606,457002,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1992,PHI
+unknwown,6:44,1787025792000,47,53,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,608,459000,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1996,MEX
+unknwown,6:44,1787025792000,47,53,RFOUL,foul drawn,122.0,342735.0,609,459002,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1996,PHI
+subst,6:44,1787025808000,47,53,SUBST,Substitution out,104.0,268370.0,610,460000,Q4,135068,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1996,MEX
+subst,6:44,1787025808000,47,53,SUBST,Substitution out,104.0,317694.0,611,461000,Q4,135068,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1996,MEX
+subst,6:44,1787025808000,47,53,SUBST,Substitution in,104.0,215141.0,612,462000,Q4,135068,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,1996,MEX
+subst,6:44,1787025808000,47,53,SUBST,Substitution in,104.0,235869.0,613,463000,Q4,135068,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1996,MEX
+shot,6:44,1787025825000,47,54,FT,1st of 2 free throws made,122.0,342735.0,614,464000,Q4,135068,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,14.6,8-16 ft.,1996,PHI
+shot,6:44,1787025843000,47,55,FT,2nd of 2 free throws made,122.0,342735.0,615,465000,Q4,135068,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,14.6,8-16 ft.,1996,PHI
+unknwown,6:39,1787025851000,47,55,TO,turnover; bad pass,104.0,213361.0,617,467000,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2001,MEX
+unknwown,6:39,1787025851000,47,55,ST,steal,122.0,398175.0,618,467001,Q4,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2001,PHI
+shot,6:29,1787025860000,47,55,P3,3pt pullup jump shot missed,122.0,342735.0,619,468000,Q4,135068,False,3.0,177.0,166.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Above the Break 3,13.1,8-16 ft.,2011,PHI
+unknwown,6:25,1787025863000,47,55,REB,defensive rebound,104.0,213361.0,620,468002,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2015,MEX
+unknwown,6:21,1787025867000,47,55,TO,turnover; bad pass,104.0,213361.0,622,470000,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2019,MEX
+shot,6:09,1787025888000,47,57,P2,"2PtsFG under the basket, points after turnover, jump shot made",122.0,220090.0,624,472000,Q4,135068,True,2.0,117.0,25.0,,,122.0,Jack Animam,Philippines,10.0,Q4,Restricted Area,2.7,Less Than 8 ft.,2031,PHI
+unknwown,6:09,1787025888000,47,57,ASS,made the assist,122.0,342735.0,625,472001,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2031,PHI
+shot,5:50,1787025908000,50,57,P3,3pt jump shot made,104.0,268451.0,626,473000,Q4,135068,True,3.0,85.0,159.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Above the Break 3,13.1,8-16 ft.,2050,MEX
+unknwown,5:50,1787025908000,50,57,ASS,made the assist,104.0,215141.0,627,473001,Q4,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2050,MEX
+unknwown,5:32,1787025928000,50,57,JS,jump ball situation; throw-in,104.0,,629,475000,Q4,135068,,,,,,,,,,,Q4,,,,2068,
+unknwown,5:32,1787025930000,50,57,TO,turnover; ball handling,122.0,220090.0,630,476000,Q4,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2068,PHI
+unknwown,5:32,1787025930000,50,57,ST,steal,104.0,319031.0,631,476001,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2068,MEX
+shot,5:19,1787025959000,50,57,P3,3pt jump shot missed,104.0,268451.0,633,478000,Q4,135068,False,3.0,267.0,56.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Left Corner 3,12.8,8-16 ft.,2081,MEX
+unknwown,5:12,1787025964000,50,57,REB,offensive rebound,104.0,268451.0,634,478002,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2088,MEX
+subst,5:08,1787025981000,50,57,SUBST,Substitution out,104.0,235869.0,636,480000,Q4,135068,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,2092,MEX
+subst,5:08,1787025981000,50,57,SUBST,Substitution in,104.0,268370.0,637,481000,Q4,135068,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2092,MEX
+unknwown,5:01,1787026008000,50,57,TO,turnover; travelling,104.0,319031.0,640,484000,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2099,MEX
+shot,4:50,1787026028000,50,57,P3,3pt jump shot missed,122.0,303016.0,642,486000,Q4,135068,False,3.0,76.0,148.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Above the Break 3,12.6,8-16 ft.,2110,PHI
+unknwown,4:46,1787026030000,50,57,REB,offensive rebound,122.0,398175.0,643,486002,Q4,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2114,PHI
+shot,4:35,1787026042000,50,57,P2,2pt floating jump shot missed,122.0,342735.0,644,487000,Q4,135068,False,2.0,90.0,30.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Mid-Range,5.1,Less Than 8 ft.,2125,PHI
+unknwown,4:32,1787026045000,50,57,REB,defensive rebound,104.0,268451.0,645,487002,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2128,MEX
+shot,4:28,1787026050000,50,57,P3,3pt jump shot missed,104.0,268370.0,646,488000,Q4,135068,False,3.0,60.0,155.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Above the Break 3,14.0,8-16 ft.,2132,MEX
+unknwown,4:24,1787026053000,50,57,REB,defensive rebound,122.0,398175.0,647,488002,Q4,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2136,PHI
+shot,4:05,1787026072000,50,57,P2,2pt jump shot missed,122.0,303016.0,648,489000,Q4,135068,False,2.0,28.0,44.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Mid-Range,11.2,8-16 ft.,2155,PHI
+unknwown,4:02,1787026075000,50,57,REB,defensive rebound,104.0,215141.0,649,489002,Q4,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2158,MEX
+shot,3:50,1787026087000,52,57,P2,2pt jump shot made,104.0,215141.0,650,490000,Q4,135068,True,2.0,166.0,43.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,In The Paint (Non-RA),2.6,Less Than 8 ft.,2170,MEX
+unknwown,3:50,1787026087000,52,57,ASS,made the assist,104.0,319031.0,651,490001,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2170,MEX
+shot,3:32,1787026105000,52,57,P2,layup missed,122.0,342735.0,652,491000,Q4,135068,False,2.0,106.0,36.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,In The Paint (Non-RA),3.4,Less Than 8 ft.,2188,PHI
+unknwown,3:32,1787026105000,52,57,BS,blocked the shot,104.0,268451.0,653,491001,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2188,MEX
+unknwown,3:26,1787026111000,52,57,REB,defensive rebound,104.0,268370.0,654,491002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2194,MEX
+unknwown,3:24,1787026113000,52,57,TO,turnover; ball handling,104.0,268451.0,655,492000,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2196,MEX
+unknwown,3:24,1787026113000,52,57,ST,steal,122.0,323171.0,656,492001,Q4,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2196,PHI
+shot,3:17,1787026120000,52,57,P2,"2PtsFG under the basket, points after turnover, layup missed",122.0,220090.0,657,493000,Q4,135068,False,2.0,127.0,31.0,,,122.0,Jack Animam,Philippines,10.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2203,PHI
+unknwown,3:13,1787026124000,52,57,REB,defensive rebound,104.0,268370.0,658,493002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2207,MEX
+shot,2:53,1787026150000,54,57,P2,"2PtsFG inside right, jump shot made",104.0,213361.0,660,495000,Q4,135068,True,2.0,200.0,127.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Mid-Range,10.6,8-16 ft.,2227,MEX
+unknwown,2:53,1787026170000,54,57,FOUL,Personal foul; 1 free throw awarded,122.0,398175.0,661,496000,Q4,135068,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2227,PHI
+unknwown,2:53,1787026170000,54,57,RFOUL,foul drawn,104.0,213361.0,662,496002,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2227,MEX
+subst,2:53,1787026199000,54,57,SUBST,Substitution out,104.0,319031.0,663,497000,Q4,135068,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2227,MEX
+subst,2:53,1787026199000,54,57,SUBST,Substitution in,104.0,317694.0,664,498000,Q4,135068,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2227,MEX
+subst,2:53,1787026199000,54,57,SUBST,Substitution out,122.0,303016.0,665,499000,Q4,135068,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q4,,,,2227,PHI
+subst,2:53,1787026199000,54,57,SUBST,Substitution out,122.0,398175.0,666,500000,Q4,135068,,,,,,OUT,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2227,PHI
+subst,2:53,1787026199000,54,57,SUBST,Substitution in,122.0,220085.0,667,501000,Q4,135068,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2227,PHI
+subst,2:53,1787026199000,54,57,SUBST,Substitution in,122.0,323169.0,668,502000,Q4,135068,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2227,PHI
+shot,2:53,1787026201000,55,57,FT,1st free throw made,104.0,213361.0,669,503000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,14.6,8-16 ft.,2227,MEX
+shot,2:43,1787026211000,55,57,P2,2pt driving layup missed,122.0,323169.0,671,505000,Q4,135068,False,2.0,117.0,48.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Restricted Area,2.4,Less Than 8 ft.,2237,PHI
+unknwown,2:40,1787026214000,55,57,REB,defensive rebound,104.0,215141.0,672,505002,Q4,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2240,MEX
+shot,2:35,1787026219000,55,57,P2,"2PtsFG under the basket, driving layup missed",104.0,213361.0,673,506000,Q4,135068,False,2.0,159.0,35.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Restricted Area,2.0,Less Than 8 ft.,2245,MEX
+unknwown,2:31,1787026223000,55,57,REB,defensive rebound,122.0,342735.0,674,506002,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2249,PHI
+timeout,2:31,1787026275000,55,57,TIMO,Timeout,104.0,,676,508000,Q4,135068,,,,,,,,,,,Q4,,,,2249,
+unknwown,2:25,1787026377000,55,57,FOUL,Offensive foul,122.0,323169.0,679,511000,Q4,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2255,PHI
+unknwown,2:25,1787026377000,55,57,TO,turnover,122.0,323169.0,680,511001,Q4,135068,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2255,PHI
+unknwown,2:25,1787026377000,55,57,RFOUL,foul drawn,104.0,215141.0,681,511002,Q4,135068,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2255,MEX
+subst,2:25,1787026398000,55,57,SUBST,Substitution out,122.0,323169.0,682,512000,Q4,135068,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2255,PHI
+subst,2:25,1787026398000,55,57,SUBST,Substitution in,122.0,303016.0,683,513000,Q4,135068,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q4,,,,2255,PHI
+shot,2:11,1787026419000,57,57,P2,"2PtsFG under the basket, points after turnover, layup made",104.0,268451.0,685,515000,Q4,135068,True,2.0,156.0,39.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2269,MEX
+unknwown,2:11,1787026419000,57,57,ASS,made the assist,104.0,268370.0,686,515001,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2269,MEX
+shot,1:46,1787026445000,57,57,P3,3pt jump shot missed,122.0,303016.0,688,517000,Q4,135068,False,3.0,65.0,148.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Above the Break 3,13.1,8-16 ft.,2294,PHI
+unknwown,1:45,1787026447000,57,57,TREB,team defensive rebound,104.0,,689,517002,Q4,135068,,,,,,,,,,,Q4,,,,2295,
+subst,1:45,1787026454000,57,57,SUBST,Substitution out,104.0,215141.0,690,518000,Q4,135068,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2295,MEX
+subst,1:45,1787026454000,57,57,SUBST,Substitution in,104.0,319031.0,691,519000,Q4,135068,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2295,MEX
+subst,1:45,1787026454000,57,57,SUBST,Substitution out,122.0,303016.0,692,520000,Q4,135068,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q4,,,,2295,PHI
+subst,1:45,1787026454000,57,57,SUBST,Substitution in,122.0,339158.0,693,521000,Q4,135068,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q4,,,,2295,PHI
+unknwown,1:33,1787026480000,57,57,FOUL,Personal foul; 2 free throws awarded,122.0,220085.0,696,524000,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2307,PHI
+unknwown,1:33,1787026480000,57,57,RFOUL,foul drawn,104.0,268451.0,697,524002,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2307,MEX
+shot,1:33,1787026509000,57,57,FT,1st of 2 free throws missed,104.0,268451.0,698,525000,Q4,135068,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,,14.6,8-16 ft.,2307,MEX
+shot,1:33,1787026527000,57,57,FT,2nd of 2 free throws missed,104.0,268451.0,699,526000,Q4,135068,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,,14.6,8-16 ft.,2307,MEX
+unknwown,1:33,1787026528000,57,57,REB,defensive rebound,122.0,220085.0,701,526002,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2307,PHI
+unknwown,1:29,1787026537000,57,57,FOUL,Offensive foul,122.0,220085.0,703,529000,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2311,PHI
+unknwown,1:29,1787026537000,57,57,TO,turnover,122.0,220085.0,704,529001,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2311,PHI
+unknwown,1:29,1787026537000,57,57,RFOUL,foul drawn,104.0,317694.0,705,529002,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2311,MEX
+unknwown,1:17,1787026562000,57,57,TO,turnover; bad pass,104.0,213361.0,707,531000,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2323,MEX
+unknwown,1:17,1787026562000,57,57,ST,steal,122.0,323171.0,708,531001,Q4,135068,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2323,PHI
+shot,1:14,1787026565000,57,57,P2,2pt driving layup missed,122.0,323171.0,709,532000,Q4,135068,False,2.0,166.0,35.0,,,122.0,Louna Ozar,Philippines,9.0,Q4,In The Paint (Non-RA),2.6,Less Than 8 ft.,2326,PHI
+unknwown,1:11,1787026567000,57,57,REB,defensive rebound,104.0,268451.0,710,532002,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2329,MEX
+shot,1:09,1787026570000,59,57,P2,"2PtsFG inside left, fast break, jump shot made",104.0,213361.0,711,533000,Q4,135068,True,2.0,57.0,71.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Mid-Range,8.9,8-16 ft.,2331,MEX
+unknwown,1:09,1787026570000,59,57,ASS,made the assist,104.0,268451.0,713,533001,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2331,MEX
+timeout,1:06,1787026579000,59,57,TIMO,Timeout,122.0,,714,535000,Q4,135068,,,,,,,,,,,Q4,,,,2334,
+shot,0:53,1787026690000,59,57,P2,layup missed,122.0,220085.0,716,537000,Q4,135068,False,2.0,171.0,30.0,,,122.0,Afril Bernardino,Philippines,3.0,Q4,In The Paint (Non-RA),3.3,Less Than 8 ft.,2347,PHI
+unknwown,0:50,1787026693000,59,57,REB,defensive rebound,104.0,268370.0,717,537002,Q4,135068,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2350,MEX
+unknwown,0:30,1787026718000,59,57,TO,turnover; ball handling,104.0,213361.0,719,539000,Q4,135068,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2370,MEX
+unknwown,0:21,1787026747000,59,57,FOUL,Personal foul; 2 free throws awarded,104.0,268451.0,722,542000,Q4,135068,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2379,MEX
+unknwown,0:21,1787026747000,59,57,RFOUL,foul drawn,122.0,220090.0,723,542002,Q4,135068,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2379,PHI
+shot,0:21,1787026769000,59,57,FT,1st of 2 free throws missed,122.0,220090.0,724,543000,Q4,135068,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2379,PHI
+shot,0:21,1787026789000,59,58,FT,2nd of 2 free throws made,122.0,220090.0,725,544000,Q4,135068,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2379,PHI
+unknwown,0:21,1787026789000,59,58,ASS,made the assist,122.0,342735.0,726,544001,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2379,PHI
+timeout,0:21,1787026793000,59,58,TIMO,Timeout,104.0,,727,545000,Q4,135068,,,,,,,,,,,Q4,,,,2379,
+unknwown,0:03,1787026921000,59,58,FOUL,Personal foul; 2 free throws awarded,122.0,339158.0,730,548000,Q4,135068,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q4,,,,2397,PHI
+unknwown,0:03,1787026921000,59,58,RFOUL,foul drawn,104.0,317694.0,731,548002,Q4,135068,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2397,MEX
+shot,0:03,1787026944000,60,58,FT,1st of 2 free throws made,104.0,317694.0,732,549000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,14.6,8-16 ft.,2397,MEX
+shot,0:03,1787026966000,60,58,FT,2nd of 2 free throws missed,104.0,317694.0,733,550000,Q4,135068,False,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,14.6,8-16 ft.,2397,MEX
+unknwown,0:01,1787026969000,60,58,REB,defensive rebound,122.0,220085.0,735,550002,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2399,PHI
+unknwown,0:00,1787026972000,60,58,TO,turnover; bad pass,122.0,220085.0,737,553000,Q4,135068,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2400,PHI
+unknwown,0:00,1787026972000,60,58,ST,steal,104.0,319031.0,738,553001,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2400,MEX
+unknwown,0:00,1787026988000,60,58,FOUL,Unsportsmanlike foul; 2 free throws awarded,122.0,342735.0,739,554000,Q4,135068,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2400,PHI
+unknwown,0:00,1787026988000,60,58,RFOUL,foul drawn,104.0,319031.0,740,554002,Q4,135068,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2400,MEX
+shot,0:00,1787027002000,60,58,FT,Free throw missed 1 of 2,104.0,319031.0,741,555000,Q4,135068,False,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2400,MEX
+shot,0:00,1787027024000,61,58,FT,Free throw made 2 of 2,104.0,319031.0,742,556000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2400,MEX
+periods,0:00,1787027049000,61,58,ENDP,End of period,,,745,559000,Q4,135068,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787027144000,61,58,ENDG,End of game,,,746,560000,Q4,135068,,,,,,,,,,,Q4,,,,2400,
