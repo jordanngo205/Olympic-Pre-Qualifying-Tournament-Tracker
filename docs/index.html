@@ -259,6 +259,17 @@
                transition: background .15s, transform .15s; }
   .theme-btn:hover { background: rgba(0,0,0,.32); transform: rotate(-18deg); }
 
+  /* A static page cannot run the scraper itself, so this hands the reader
+     straight to the workflow's Run button instead of pretending to. */
+  .refresh-btn { display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+                 font-size: 11.5px; font-weight: 700; color: var(--accent);
+                 background: #fff; padding: 7px 13px; border-radius: 20px;
+                 text-decoration: none; white-space: nowrap;
+                 box-shadow: 0 1px 4px rgba(0,0,0,.2);
+                 transition: transform .15s ease, box-shadow .15s ease; }
+  .refresh-btn:hover { transform: translateY(-1px); box-shadow: 0 3px 10px rgba(0,0,0,.28); }
+  .refresh-btn:active { transform: none; }
+  @media (max-width: 620px) { .refresh-btn { display: none; } }
   /* ── NAV ─────────────────────────────────── */
   html { scroll-behavior: smooth; }
   .section-nav { position: sticky; top: 0; z-index: 40; }
@@ -428,6 +439,8 @@
   <div class="header-tools">
     <div class="header-sub" id="headerSub"></div>
     <div class="stamp" id="stamp"></div>
+    <a class="refresh-btn" id="refreshBtn" target="_blank" rel="noopener"
+       title="Open the rebuild workflow on GitHub">⟳ Update now</a>
   </div>
 </div>
 <div class="date-nav" id="dateNav"></div>
@@ -553,7 +566,8 @@ const PLAYER_DATA = [{"date": "2026-08-17", "gameId": 135061, "name": "Iza Sanga
 const QUALIFIERS = ["New Zealand", "South Sudan"];
 const QUALIFY_SPOTS = 2;
 const EVENT_META = {"name": "FIBA Women's Olympic Pre-qualifying Tournament 2026", "start": "2026-08-17", "end": "2026-08-23", "host": "Guadalajara, Mexico"};
-const GENERATED_AT = "2026-08-18T00:55:48.800199+00:00";
+const REPO_URL = "https://github.com/jordanngo205/Olympic-Pre-Qualifying-Tournament-Tracker";
+const GENERATED_AT = "2026-08-18T01:06:31.190878+00:00";
 const FLAG_MAP = {"AUS": "au", "CAN": "ca", "JPN": "jp", "HUN": "hu", "TUR": "tr", "ARG": "ar", "USA": "us", "FRA": "fr", "ESP": "es", "GBR": "gb", "GER": "de", "BRA": "br", "CHN": "cn", "KOR": "kr", "NGA": "ng", "BEL": "be", "CZE": "cz", "NED": "nl", "POL": "pl", "SWE": "se", "ITA": "it", "SRB": "rs", "LAT": "lv", "LTU": "lt", "NZL": "nz", "PUR": "pr", "MEX": "mx", "COL": "co", "GRE": "gr", "CRO": "hr", "SLO": "si", "SVK": "sk", "VEN": "ve", "DOM": "do", "PAR": "py", "CIV": "ci", "EGY": "eg", "SSD": "ss", "SEN": "sn", "PHI": "ph", "ANG": "ao", "MLI": "ml", "CHI": "cl", "URU": "uy", "CUB": "cu", "BAH": "bs", "JAM": "jm", "PAN": "pa", "CRC": "cr"};
 // %%DATA_END%%
 
@@ -962,6 +976,15 @@ function setLeaderTab(stat, el) {
   renderLeaders();
 }
 
+// Link the rebuild button at this repo's workflow. Hidden if we do not know
+// the repo, so a copy of this file served elsewhere degrades quietly.
+function initRefresh() {
+  const btn = document.getElementById('refreshBtn');
+  const repo = (typeof REPO_URL !== 'undefined' && REPO_URL) ? REPO_URL : '';
+  if (!repo) { btn.style.display = 'none'; return; }
+  btn.href = repo + '/actions/workflows/update-dashboard.yml';
+}
+
 // Freshness matters on a page that rebuilds itself on a schedule.
 function renderStamp() {
   const el = document.getElementById('stamp');
@@ -1189,7 +1212,7 @@ function initScrollSpy() {
   document.querySelectorAll('.zone').forEach(z => obs.observe(z));
 }
 
-renderStamp();
+renderStamp(); initRefresh();
 renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
 renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 initScrollSpy();

@@ -713,6 +713,22 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
                    .sort_values(["win", "diff"], ascending=[False, False]))
         qualifiers = tbl.head(spots)["team"].tolist()
 
+    # Where this repo lives, so the page can link to its own rebuild button.
+    # Read from git rather than hardcoded, so a rename or fork still works.
+    repo_url = ""
+    try:
+        import subprocess
+        raw = subprocess.run(["git", "remote", "get-url", "origin"],
+                             cwd=Path(__file__).parent, capture_output=True,
+                             text=True, timeout=10).stdout.strip()
+        if raw:
+            raw = re.sub(r"\.git$", "", raw)
+            raw = re.sub(r"^git@github\.com:", "https://github.com/", raw)
+            if raw.startswith("https://github.com/"):
+                repo_url = raw
+    except Exception:
+        pass
+
     # Prefer FIBA's official event record; fall back to nothing so the page
     # can derive a range from the games it has.
     event_meta = {}
@@ -743,6 +759,7 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         # The event's own name and dates, so the header shows the real
         # tournament window rather than only the days already played.
         to_js("EVENT_META", event_meta),
+        to_js("REPO_URL", repo_url),
         to_js("GENERATED_AT", datetime.now(timezone.utc).isoformat()),
         to_js("FLAG_MAP", FLAG_MAP),
         "// %%DATA_END%%",
