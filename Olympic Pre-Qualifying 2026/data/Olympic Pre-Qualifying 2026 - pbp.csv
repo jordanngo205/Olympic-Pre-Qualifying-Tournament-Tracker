@@ -1,0 +1,1227 @@
+act,Time,GT,SA,SB,ac,txt,oId,pId,Id,order,period,gameId,made,pts,x,y,p2Id,in,teamId,name,nationality,uniformNumber,Code,zoneBasic,distanceShot,zoneRange,seconds_elapsed,shortCode
+periods,10:00,1786989649000,0,0,STARTG,Start of game,,,1,1000,Q1,135061,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1786989649000,0,0,STARTP,Start of period,,,2,2000,Q1,135061,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1786989649000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135061,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1786989650000,0,0,JB,jump ball won,9716.0,373877.0,5,4001,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,1,SSD
+unknwown,9:59,1786989650000,0,0,JB,jump ball lost,27.0,301995.0,6,4002,Q1,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,1,BRA
+shot,9:46,1786989665000,0,2,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,9,7000,Q1,135061,True,2.0,144.0,30.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.1,Less Than 8 ft.,14,SSD
+unknwown,9:46,1786989665000,0,2,ASS,made the assist,9716.0,217250.0,10,7001,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,14,SSD
+shot,9:22,1786989690000,0,2,P2,2pt jump shot missed,27.0,301995.0,13,10000,Q1,135061,False,2.0,163.0,68.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,In The Paint (Non-RA),3.6,Less Than 8 ft.,38,BRA
+unknwown,9:19,1786989692000,0,2,REB,offensive rebound,27.0,301995.0,14,10002,Q1,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,41,BRA
+shot,9:08,1786989704000,0,2,P3,3pt jump shot missed,27.0,302154.0,15,11000,Q1,135061,False,3.0,273.0,50.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Left Corner 3,13.3,8-16 ft.,52,BRA
+unknwown,9:05,1786989707000,0,2,REB,defensive rebound,9716.0,300673.0,16,11002,Q1,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,55,SSD
+shot,8:43,1786989729000,0,2,P2,"2PtsFG under the basket, floating jump shot missed",9716.0,300668.0,18,13000,Q1,135061,False,2.0,154.0,36.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,1.5,Less Than 8 ft.,77,SSD
+unknwown,8:40,1786989736000,0,2,REB,defensive rebound,27.0,392716.0,20,13002,Q1,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,80,BRA
+unknwown,8:37,1786989740000,0,2,TO,turnover; bad pass,27.0,302154.0,21,15000,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,83,BRA
+unknwown,8:37,1786989740000,0,2,ST,steal,9716.0,217250.0,22,15001,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,83,SSD
+unknwown,8:18,1786989759000,0,2,FOUL,Personal foul,27.0,200399.0,24,17000,Q1,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,102,BRA
+unknwown,8:18,1786989759000,0,2,RFOUL,foul drawn,9716.0,374577.0,25,17002,Q1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,102,SSD
+unknwown,8:10,1786989788000,0,2,FOUL,Personal foul,27.0,301995.0,28,20000,Q1,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,110,BRA
+unknwown,8:10,1786989788000,0,2,RFOUL,foul drawn,9716.0,374577.0,29,20002,Q1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,110,SSD
+shot,8:07,1786989809000,0,2,P3,3pt jump shot missed,9716.0,374577.0,31,22000,Q1,135061,False,3.0,37.0,134.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Above the Break 3,13.9,8-16 ft.,113,SSD
+unknwown,8:03,1786989811000,0,2,REB,defensive rebound,27.0,392716.0,32,22002,Q1,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,117,BRA
+unknwown,7:49,1786989832000,0,2,FOUL,Personal foul; 2 free throws awarded,9716.0,373877.0,36,26000,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,131,SSD
+unknwown,7:49,1786989832000,0,2,RFOUL,foul drawn,27.0,302154.0,37,26002,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,131,BRA
+shot,7:49,1786989854000,1,2,FT,1st of 2 free throws made,27.0,302154.0,38,27000,Q1,135061,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,131,BRA
+shot,7:49,1786989863000,2,2,FT,2nd of 2 free throws made,27.0,302154.0,39,28000,Q1,135061,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,131,BRA
+shot,7:42,1786989875000,2,2,P3,3pt jump shot missed,9716.0,300673.0,41,30000,Q1,135061,False,3.0,25.0,115.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,Above the Break 3,13.7,8-16 ft.,138,SSD
+unknwown,7:37,1786989879000,2,2,REB,offensive rebound,9716.0,373877.0,42,30002,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,143,SSD
+shot,7:35,1786989882000,2,5,P3,3pt jump shot made,9716.0,217250.0,43,31000,Q1,135061,True,3.0,127.0,178.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,13.9,8-16 ft.,145,SSD
+unknwown,7:35,1786989882000,2,5,ASS,made the assist,9716.0,300668.0,44,31001,Q1,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,145,SSD
+shot,7:16,1786989901000,2,5,P2,2pt step back jump shot missed,27.0,200399.0,45,32000,Q1,135061,False,2.0,143.0,119.0,,,27.0,Aline Moura,Brazil,12.0,Q1,Mid-Range,7.9,Less Than 8 ft.,164,BRA
+unknwown,7:11,1786989905000,2,5,REB,defensive rebound,9716.0,373877.0,46,32002,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,169,SSD
+shot,7:00,1786989918000,2,5,P2,2pt driving layup missed,9716.0,217250.0,49,35000,Q1,135061,False,2.0,147.0,51.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,In The Paint (Non-RA),1.3,Less Than 8 ft.,180,SSD
+unknwown,6:57,1786989921000,2,5,REB,defensive rebound,27.0,302000.0,50,35002,Q1,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,183,BRA
+shot,6:41,1786989937000,4,5,P2,"2PtsFG inside right, jump shot made",27.0,392716.0,51,36000,Q1,135061,True,2.0,218.0,85.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Mid-Range,9.0,8-16 ft.,199,BRA
+shot,6:23,1786989955000,4,5,P2,layup missed,9716.0,300668.0,52,37000,Q1,135061,False,2.0,128.0,48.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,1.4,Less Than 8 ft.,217,SSD
+unknwown,6:19,1786989958000,4,5,REB,defensive rebound,27.0,302000.0,53,37002,Q1,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,221,BRA
+shot,6:03,1786989975000,4,5,P3,3pt jump shot from center missed,27.0,302154.0,54,38000,Q1,135061,False,3.0,155.0,184.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,14.5,8-16 ft.,237,BRA
+unknwown,6:00,1786989977000,4,5,REB,defensive rebound,9716.0,300668.0,55,38002,Q1,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,240,SSD
+shot,5:46,1786989993000,4,7,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,56,39000,Q1,135061,True,2.0,128.0,32.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.4,Less Than 8 ft.,254,SSD
+unknwown,5:46,1786989993000,4,7,ASS,made the assist,9716.0,300673.0,57,39001,Q1,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,254,SSD
+shot,5:21,1786990018000,4,7,P3,3pt jump shot missed,27.0,200399.0,58,40000,Q1,135061,False,3.0,12.0,83.0,,,27.0,Aline Moura,Brazil,12.0,Q1,Above the Break 3,13.5,8-16 ft.,279,BRA
+unknwown,5:16,1786990021000,4,7,REB,defensive rebound,9716.0,217250.0,59,40002,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,284,SSD
+unknwown,5:12,1786990026000,4,7,TO,turnover; bad pass,9716.0,300673.0,60,41000,Q1,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,288,SSD
+unknwown,5:12,1786990026000,4,7,ST,steal,27.0,200399.0,62,41001,Q1,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,288,BRA
+unknwown,5:07,1786990044000,4,7,FOUL,Personal foul; 2 free throws awarded,9716.0,374577.0,63,43000,Q1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,293,SSD
+unknwown,5:07,1786990044000,4,7,RFOUL,foul drawn,27.0,302154.0,64,43002,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,293,BRA
+subst,5:07,1786990068000,4,7,SUBST,Substitution out,27.0,301995.0,65,44000,Q1,135061,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,293,BRA
+subst,5:07,1786990068000,4,7,SUBST,Substitution out,27.0,302000.0,66,45000,Q1,135061,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,293,BRA
+subst,5:07,1786990068000,4,7,SUBST,Substitution in,27.0,215026.0,67,46000,Q1,135061,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,293,BRA
+subst,5:07,1786990068000,4,7,SUBST,Substitution in,27.0,203242.0,68,47000,Q1,135061,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,293,BRA
+subst,5:07,1786990068000,4,7,SUBST,Substitution out,9716.0,300673.0,69,48000,Q1,135061,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,293,SSD
+subst,5:07,1786990068000,4,7,SUBST,Substitution in,9716.0,300672.0,70,49000,Q1,135061,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,293,SSD
+shot,5:07,1786990074000,4,7,FT,Free throw missed 1 of 2,27.0,302154.0,71,50000,Q1,135061,False,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,293,BRA
+shot,5:07,1786990076000,5,7,FT,Free throw made 2 of 2,27.0,302154.0,72,51000,Q1,135061,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,293,BRA
+shot,4:57,1786990096000,5,7,P3,3pt jump shot missed,9716.0,217250.0,74,53000,Q1,135061,False,3.0,204.0,170.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,14.5,8-16 ft.,303,SSD
+unknwown,4:54,1786990109000,5,7,REB,offensive rebound,9716.0,373877.0,76,53002,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,306,SSD
+unknwown,4:54,1786990115000,5,7,FOUL,Personal foul,27.0,215026.0,77,55000,Q1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,306,BRA
+unknwown,4:54,1786990115000,5,7,RFOUL,foul drawn,9716.0,373877.0,78,55002,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,306,SSD
+shot,4:51,1786990137000,5,7,P3,3pt jump shot missed,9716.0,374577.0,80,57000,Q1,135061,False,3.0,9.0,87.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Above the Break 3,13.9,8-16 ft.,309,SSD
+unknwown,4:48,1786990139000,5,7,REB,defensive rebound,27.0,302154.0,81,57002,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,312,BRA
+shot,4:45,1786990143000,5,7,P2,"2PtsFG under the basket, fast break, layup missed",27.0,203242.0,82,58000,Q1,135061,False,2.0,159.0,35.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,Restricted Area,2.0,Less Than 8 ft.,315,BRA
+unknwown,4:40,1786990148000,5,7,REB,defensive rebound,9716.0,300668.0,83,58002,Q1,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,320,SSD
+shot,4:38,1786990151000,5,9,P2,"2PtsFG under the basket, fast break, driving layup made",9716.0,300668.0,84,59000,Q1,135061,True,2.0,128.0,43.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,1.2,Less Than 8 ft.,322,SSD
+shot,4:17,1786990171000,5,9,P3,3pt jump shot missed,27.0,215026.0,85,60000,Q1,135061,False,3.0,24.0,120.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,14.1,8-16 ft.,343,BRA
+unknwown,4:14,1786990174000,5,9,REB,defensive rebound,9716.0,300672.0,86,60002,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,346,SSD
+shot,4:04,1786990185000,5,11,P2,"2PtsFG under the basket, driving layup made",9716.0,217250.0,88,62000,Q1,135061,True,2.0,145.0,37.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Restricted Area,0.6,Less Than 8 ft.,356,SSD
+unknwown,4:04,1786990185000,5,11,ASS,made the assist,9716.0,300672.0,89,62001,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,356,SSD
+timeout,4:01,1786990208000,5,11,TIMO,Timeout,27.0,,92,65000,Q1,135061,,,,,,,,,,,Q1,,,,359,
+subst,4:01,1786990300000,5,11,SUBST,Substitution out,27.0,200399.0,93,66000,Q1,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q1,,,,359,BRA
+subst,4:01,1786990300000,5,11,SUBST,Substitution in,27.0,342721.0,94,67000,Q1,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,359,BRA
+subst,4:01,1786990300000,5,11,SUBST,Substitution out,9716.0,300668.0,95,68000,Q1,135061,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,359,SSD
+subst,4:01,1786990300000,5,11,SUBST,Substitution in,9716.0,259170.0,96,69000,Q1,135061,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,359,SSD
+shot,3:47,1786990321000,5,11,P3,3pt jump shot missed,27.0,392716.0,98,71000,Q1,135061,False,3.0,238.0,162.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,15.6,8-16 ft.,373,BRA
+unknwown,3:43,1786990327000,5,11,REB,defensive rebound,9716.0,217250.0,100,71002,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,377,SSD
+shot,3:36,1786990355000,5,14,P3,3pt jump shot made,9716.0,374577.0,102,74000,Q1,135061,True,3.0,66.0,174.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Above the Break 3,15.3,8-16 ft.,384,SSD
+shot,3:21,1786990370000,5,14,P3,3pt jump shot missed,27.0,215026.0,103,75000,Q1,135061,False,3.0,249.0,142.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,14.9,8-16 ft.,399,BRA
+unknwown,3:18,1786990372000,5,14,REB,defensive rebound,9716.0,217250.0,104,75002,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,402,SSD
+unknwown,3:03,1786990391000,5,14,FOUL,Personal foul; 2 free throws awarded,27.0,392716.0,108,79000,Q1,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,417,BRA
+unknwown,3:03,1786990391000,5,14,RFOUL,foul drawn,9716.0,259170.0,109,79002,Q1,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,417,SSD
+subst,3:03,1786990410000,5,14,SUBST,Substitution out,9716.0,374577.0,110,80000,Q1,135061,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,417,SSD
+subst,3:03,1786990410000,5,14,SUBST,Substitution in,9716.0,374160.0,111,81000,Q1,135061,,,,,,IN,9716.0,Shanyce Makuei,South Sudan,3.0,Q1,,,,417,SSD
+shot,3:03,1786990425000,5,14,FT,1st of 2 free throws missed,9716.0,259170.0,112,82000,Q1,135061,False,1.0,0.0,0.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,14.6,8-16 ft.,417,SSD
+shot,3:03,1786990453000,5,15,FT,2nd of 2 free throws made,9716.0,259170.0,113,83000,Q1,135061,True,1.0,0.0,0.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,14.6,8-16 ft.,417,SSD
+unknwown,3:03,1786990453000,5,15,ASS,made the assist,9716.0,373877.0,114,83001,Q1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,417,SSD
+subst,2:52,1786990472000,5,15,SUBST,Substitution out,27.0,215026.0,117,86000,Q1,135061,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,428,BRA
+subst,2:52,1786990472000,5,15,SUBST,Substitution in,27.0,200399.0,118,87000,Q1,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q1,,,,428,BRA
+shot,2:51,1786990473000,5,15,P3,3pt jump shot from center missed,27.0,203242.0,120,89000,Q1,135061,False,3.0,206.0,194.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,Above the Break 3,16.8,16-22 ft.,429,BRA
+unknwown,2:45,1786990479000,5,15,REB,defensive rebound,9716.0,300672.0,121,89002,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,435,SSD
+shot,2:44,1786990482000,5,15,P2,layup missed,9716.0,300672.0,122,90000,Q1,135061,False,2.0,111.0,72.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,In The Paint (Non-RA),4.3,Less Than 8 ft.,436,SSD
+unknwown,2:34,1786990490000,5,15,REB,defensive rebound,27.0,215026.0,123,90002,Q1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,446,BRA
+shot,2:33,1786990492000,5,15,P3,3pt jump shot missed,27.0,392716.0,124,91000,Q1,135061,False,3.0,222.0,149.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,13.6,8-16 ft.,447,BRA
+unknwown,2:29,1786990495000,5,15,REB,defensive rebound,9716.0,217250.0,125,91002,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,451,SSD
+shot,2:19,1786990506000,5,18,P3,3pt jump shot made,9716.0,217250.0,126,92000,Q1,135061,True,3.0,49.0,160.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,15.1,8-16 ft.,461,SSD
+unknwown,2:19,1786990506000,5,18,ASS,made the assist,9716.0,300672.0,127,92001,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,461,SSD
+shot,1:46,1786990539000,5,18,P3,3pt jump shot missed,27.0,392716.0,128,93000,Q1,135061,False,3.0,245.0,142.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,14.6,8-16 ft.,494,BRA
+unknwown,1:43,1786990544000,5,18,REB,defensive rebound,9716.0,217250.0,130,93002,Q1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,497,SSD
+shot,1:43,1786990555000,5,18,P3,3pt jump shot missed,9716.0,217250.0,131,95000,Q1,135061,False,3.0,56.0,145.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,13.4,8-16 ft.,497,SSD
+unknwown,1:43,1786990559000,5,18,TREB,team offensive rebound,9716.0,,132,95002,Q1,135061,,,,,,,,,,,Q1,,,,497,
+unknwown,1:43,1786990561000,5,18,FOUL,Personal foul; 2 free throws awarded,27.0,302154.0,133,96000,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,497,BRA
+unknwown,1:43,1786990561000,5,18,RFOUL,foul drawn,9716.0,374160.0,134,96002,Q1,135061,,,,,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q1,,,,497,SSD
+subst,1:43,1786990591000,5,18,SUBST,Substitution out,27.0,392716.0,135,97000,Q1,135061,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,497,BRA
+subst,1:43,1786990591000,5,18,SUBST,Substitution out,27.0,203242.0,136,98000,Q1,135061,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,497,BRA
+subst,1:43,1786990591000,5,18,SUBST,Substitution in,27.0,215026.0,137,99000,Q1,135061,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,497,BRA
+subst,1:43,1786990591000,5,18,SUBST,Substitution in,27.0,178705.0,138,100000,Q1,135061,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,497,BRA
+subst,1:43,1786990591000,5,18,SUBST,Substitution out,9716.0,217250.0,139,101000,Q1,135061,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,497,SSD
+subst,1:43,1786990591000,5,18,SUBST,Substitution out,9716.0,373877.0,140,102000,Q1,135061,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,497,SSD
+subst,1:43,1786990591000,5,18,SUBST,Substitution in,9716.0,300668.0,141,103000,Q1,135061,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,497,SSD
+subst,1:43,1786990591000,5,18,SUBST,Substitution in,9716.0,363373.0,142,104000,Q1,135061,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q1,,,,497,SSD
+shot,1:43,1786990594000,5,18,FT,1st of 2 free throws missed,9716.0,374160.0,143,105000,Q1,135061,False,1.0,0.0,0.0,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q1,,14.6,8-16 ft.,497,SSD
+shot,1:43,1786990596000,5,19,FT,2nd of 2 free throws made,9716.0,374160.0,144,106000,Q1,135061,True,1.0,0.0,0.0,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q1,,14.6,8-16 ft.,497,SSD
+shot,1:33,1786990613000,8,19,P3,3pt jump shot made,27.0,302154.0,147,109000,Q1,135061,True,3.0,221.0,151.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,13.7,8-16 ft.,507,BRA
+unknwown,1:33,1786990613000,8,19,ASS,made the assist,27.0,215026.0,148,109001,Q1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,507,BRA
+unknwown,1:33,1786990619000,8,19,FOUL,Personal foul; 1 free throw awarded,9716.0,300672.0,149,110000,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,507,SSD
+unknwown,1:33,1786990619000,8,19,RFOUL,foul drawn,27.0,302154.0,150,110002,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,507,BRA
+shot,1:33,1786990634000,9,19,FT,1st free throw made,27.0,302154.0,151,111000,Q1,135061,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,507,BRA
+shot,1:18,1786990657000,9,21,P2,2pt turnaround jump shot made,9716.0,363373.0,153,113000,Q1,135061,True,2.0,113.0,73.0,,,9716.0,Piath Gabriel,South Sudan,32.0,Q1,In The Paint (Non-RA),4.3,Less Than 8 ft.,522,SSD
+shot,1:04,1786990671000,9,21,P3,3pt jump shot missed,27.0,302154.0,154,114000,Q1,135061,False,3.0,22.0,106.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,13.5,8-16 ft.,536,BRA
+unknwown,1:00,1786990674000,9,21,REB,defensive rebound,9716.0,300672.0,155,114002,Q1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,540,SSD
+shot,0:52,1786990682000,9,24,P3,3pt jump shot made,9716.0,300668.0,156,115000,Q1,135061,True,3.0,45.0,137.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Above the Break 3,13.6,8-16 ft.,548,SSD
+unknwown,0:52,1786990682000,9,24,ASS,made the assist,9716.0,259170.0,157,115001,Q1,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,548,SSD
+shot,0:35,1786990699000,9,24,P2,2pt floating jump shot missed,27.0,178705.0,158,116000,Q1,135061,False,2.0,140.0,50.0,,,27.0,Iza Sangalli,Brazil,77.0,Q1,Restricted Area,1.0,Less Than 8 ft.,565,BRA
+unknwown,0:31,1786990703000,9,24,REB,defensive rebound,9716.0,374160.0,159,116002,Q1,135061,,,,,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q1,,,,569,SSD
+shot,0:28,1786990705000,9,24,P2,"2PtsFG under the basket, fast break, layup missed",9716.0,300668.0,160,117000,Q1,135061,False,2.0,141.0,45.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,0.5,Less Than 8 ft.,572,SSD
+unknwown,0:22,1786990711000,9,24,REB,defensive rebound,27.0,200399.0,161,117002,Q1,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,578,BRA
+shot,0:08,1786990726000,12,24,P3,3pt jump shot from center made,27.0,215026.0,162,118000,Q1,135061,True,3.0,147.0,172.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,13.2,8-16 ft.,592,BRA
+unknwown,0:08,1786990726000,12,24,ASS,made the assist,27.0,302154.0,163,118001,Q1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,592,BRA
+periods,0:00,1786990803000,12,24,ENDP,End of period,,,165,120000,Q1,135061,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1786990891000,12,24,SUBST,Substitution out,9716.0,374160.0,166,121000,Q2,135061,,,,,,OUT,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,,,,600,SSD
+subst,10:00,1786990891000,12,24,SUBST,Substitution out,9716.0,259170.0,167,122000,Q2,135061,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,600,SSD
+subst,10:00,1786990891000,12,24,SUBST,Substitution in,9716.0,217250.0,168,123000,Q2,135061,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,600,SSD
+subst,10:00,1786990891000,12,24,SUBST,Substitution in,9716.0,374577.0,169,124000,Q2,135061,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,600,SSD
+periods,10:00,1786990893000,12,24,STARTP,Start of period,,,170,125000,Q2,135061,,,,,,,,,,,Q2,,,,600,
+unknwown,9:52,1786990902000,12,24,TO,turnover; bad pass,27.0,215026.0,172,127000,Q2,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,608,BRA
+unknwown,9:52,1786990902000,12,24,ST,steal,9716.0,217250.0,173,127001,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,608,SSD
+shot,9:35,1786990919000,12,24,P2,"2PtsFG under the basket, points after turnover, hook shot missed",9716.0,374577.0,174,128000,Q2,135061,False,2.0,139.0,40.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Restricted Area,0.1,Less Than 8 ft.,625,SSD
+unknwown,9:29,1786990924000,12,24,REB,defensive rebound,27.0,178705.0,175,128002,Q2,135061,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,631,BRA
+shot,9:23,1786990933000,14,24,P2,2pt pullup jump shot made,27.0,302154.0,176,129000,Q2,135061,True,2.0,72.0,54.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,Mid-Range,6.9,Less Than 8 ft.,637,BRA
+unknwown,9:08,1786990948000,14,24,TO,turnover; ball handling,9716.0,217250.0,178,130000,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,652,SSD
+unknwown,9:08,1786990948000,14,24,ST,steal,27.0,178705.0,179,130001,Q2,135061,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,652,BRA
+shot,8:55,1786990958000,14,24,P2,2pt jump shot missed,27.0,342721.0,180,131000,Q2,135061,False,2.0,110.0,88.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,In The Paint (Non-RA),5.7,Less Than 8 ft.,665,BRA
+unknwown,8:51,1786990962000,14,24,REB,defensive rebound,9716.0,363373.0,181,131002,Q2,135061,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,669,SSD
+unknwown,8:28,1786990990000,14,24,FOUL,Personal foul; 2 free throws awarded,27.0,302154.0,183,133000,Q2,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,692,BRA
+unknwown,8:28,1786990990000,14,24,RFOUL,foul drawn,9716.0,300668.0,184,133002,Q2,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,692,SSD
+subst,8:28,1786991013000,14,24,SUBST,Substitution out,27.0,302154.0,185,134000,Q2,135061,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution out,27.0,342721.0,186,135000,Q2,135061,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution out,27.0,178705.0,187,136000,Q2,135061,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution in,27.0,392716.0,188,137000,Q2,135061,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution in,27.0,178708.0,189,138000,Q2,135061,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution in,27.0,301995.0,190,139000,Q2,135061,,,,,,IN,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,692,BRA
+subst,8:28,1786991013000,14,24,SUBST,Substitution out,9716.0,363373.0,191,140000,Q2,135061,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,692,SSD
+subst,8:28,1786991013000,14,24,SUBST,Substitution in,9716.0,373877.0,192,141000,Q2,135061,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,692,SSD
+shot,8:28,1786991017000,14,25,FT,1st of 2 free throws made,9716.0,300668.0,193,142000,Q2,135061,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,14.6,8-16 ft.,692,SSD
+shot,8:28,1786991034000,14,26,FT,2nd of 2 free throws made,9716.0,300668.0,194,143000,Q2,135061,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,14.6,8-16 ft.,692,SSD
+shot,8:10,1786991057000,14,26,P3,3pt jump shot from center missed,27.0,178708.0,198,147000,Q2,135061,False,3.0,79.0,175.0,,,27.0,Alana Goncalo,Brazil,24.0,Q2,Above the Break 3,14.8,8-16 ft.,710,BRA
+unknwown,8:07,1786991060000,14,26,REB,defensive rebound,9716.0,373877.0,199,147002,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,713,SSD
+unknwown,7:59,1786991071000,14,26,FOUL,Personal foul; 2 free throws awarded,27.0,215026.0,203,151000,Q2,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,721,BRA
+unknwown,7:59,1786991071000,14,26,RFOUL,foul drawn,9716.0,300672.0,204,151002,Q2,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,721,SSD
+subst,7:59,1786991089000,14,26,SUBST,Substitution out,27.0,215026.0,205,152000,Q2,135061,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,721,BRA
+subst,7:59,1786991089000,14,26,SUBST,Substitution in,27.0,302000.0,206,153000,Q2,135061,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,721,BRA
+shot,7:59,1786991096000,14,27,FT,1st of 2 free throws made,9716.0,300672.0,207,154000,Q2,135061,True,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,14.6,8-16 ft.,721,SSD
+shot,7:59,1786991111000,14,27,FT,2nd of 2 free throws missed,9716.0,300672.0,208,155000,Q2,135061,False,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,14.6,8-16 ft.,721,SSD
+unknwown,7:59,1786991111000,14,27,REB,defensive rebound,27.0,301995.0,210,155002,Q2,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,721,BRA
+shot,7:41,1786991130000,14,27,P2,2pt hook shot missed,27.0,301995.0,211,157000,Q2,135061,False,2.0,149.0,64.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,In The Paint (Non-RA),2.6,Less Than 8 ft.,739,BRA
+unknwown,7:37,1786991133000,14,27,REB,defensive rebound,9716.0,217250.0,212,157002,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,743,SSD
+shot,7:22,1786991150000,14,27,P2,"2PtsFG under the basket, hook shot missed",9716.0,373877.0,213,158000,Q2,135061,False,2.0,157.0,36.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,Restricted Area,1.7,Less Than 8 ft.,758,SSD
+unknwown,7:17,1786991153000,14,27,REB,defensive rebound,27.0,301995.0,214,158002,Q2,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,763,BRA
+shot,7:15,1786991156000,14,27,P2,"2PtsFG under the basket, fast break, layup missed",27.0,200399.0,215,159000,Q2,135061,False,2.0,159.0,35.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,2.0,Less Than 8 ft.,765,BRA
+unknwown,7:10,1786991160000,14,27,REB,defensive rebound,9716.0,300672.0,216,159002,Q2,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,770,SSD
+shot,7:07,1786991164000,14,27,P2,"2PtsFG inside center, jump shot missed",9716.0,217250.0,217,160000,Q2,135061,False,2.0,138.0,114.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Mid-Range,7.4,Less Than 8 ft.,773,SSD
+unknwown,7:04,1786991167000,14,27,REB,defensive rebound,27.0,302000.0,218,160002,Q2,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,776,BRA
+shot,6:59,1786991173000,16,27,P2,"2PtsFG under the basket, fast break, layup made",27.0,200399.0,220,162000,Q2,135061,True,2.0,148.0,32.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,1.1,Less Than 8 ft.,781,BRA
+unknwown,6:59,1786991173000,16,27,ASS,made the assist,27.0,392716.0,221,162001,Q2,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,781,BRA
+timeout,6:56,1786991190000,16,27,TIMO,Timeout,9716.0,,224,165000,Q2,135061,,,,,,,,,,,Q2,,,,784,
+unknwown,6:49,1786991290000,16,27,TO,turnover; bad pass,9716.0,300672.0,226,167000,Q2,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,791,SSD
+unknwown,6:49,1786991290000,16,27,ST,steal,27.0,200399.0,227,167001,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,791,BRA
+unknwown,6:42,1786991303000,16,27,FOUL,Personal foul; 2 free throws awarded,9716.0,300672.0,231,171000,Q2,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,798,SSD
+unknwown,6:42,1786991303000,16,27,RFOUL,foul drawn,27.0,178708.0,232,171002,Q2,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,798,BRA
+subst,6:42,1786991321000,16,27,SUBST,Substitution out,9716.0,300672.0,233,172000,Q2,135061,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,798,SSD
+subst,6:42,1786991321000,16,27,SUBST,Substitution in,9716.0,300673.0,234,173000,Q2,135061,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,798,SSD
+shot,6:42,1786991325000,16,27,FT,Free throw missed 1 of 2,27.0,178708.0,235,174000,Q2,135061,False,1.0,0.0,0.0,,,27.0,Alana Goncalo,Brazil,24.0,Q2,,14.6,8-16 ft.,798,BRA
+shot,6:42,1786991339000,16,27,FT,Free throw missed 2 of 2,27.0,178708.0,236,175000,Q2,135061,False,1.0,0.0,0.0,,,27.0,Alana Goncalo,Brazil,24.0,Q2,,14.6,8-16 ft.,798,BRA
+unknwown,6:42,1786991340000,16,27,REB,defensive rebound,9716.0,373877.0,238,175002,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,798,SSD
+unknwown,6:39,1786991358000,16,27,TO,turnover; bad pass,9716.0,373877.0,242,180000,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,801,SSD
+shot,6:26,1786991375000,16,27,P2,2pt jump shot missed,27.0,200399.0,244,182000,Q2,135061,False,2.0,163.0,92.0,,,27.0,Aline Moura,Brazil,12.0,Q2,In The Paint (Non-RA),5.7,Less Than 8 ft.,814,BRA
+unknwown,6:23,1786991378000,16,27,REB,defensive rebound,9716.0,217250.0,245,182002,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,817,SSD
+shot,6:08,1786991394000,16,27,P2,2pt fadeaway jump shot missed,9716.0,373877.0,246,183000,Q2,135061,False,2.0,175.0,37.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,In The Paint (Non-RA),3.5,Less Than 8 ft.,832,SSD
+unknwown,6:03,1786991398000,16,27,REB,defensive rebound,27.0,200399.0,247,183002,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,837,BRA
+unknwown,5:48,1786991421000,16,27,FOUL,Personal foul; 3 free throws awarded,9716.0,300673.0,251,187000,Q2,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,852,SSD
+unknwown,5:48,1786991421000,16,27,RFOUL,foul drawn,27.0,392716.0,252,187002,Q2,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,852,BRA
+shot,5:48,1786991442000,17,27,FT,1st of 3 free throws made,27.0,392716.0,253,188000,Q2,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,14.6,8-16 ft.,852,BRA
+shot,5:48,1786991456000,18,27,FT,2nd of 3 free throws made,27.0,392716.0,254,189000,Q2,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,14.6,8-16 ft.,852,BRA
+shot,5:48,1786991473000,19,27,FT,3rd of 3 free throws made,27.0,392716.0,255,190000,Q2,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,14.6,8-16 ft.,852,BRA
+subst,5:48,1786991480000,19,27,SUBST,Substitution out,27.0,200399.0,256,191000,Q2,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,852,BRA
+subst,5:48,1786991480000,19,27,SUBST,Substitution in,27.0,203242.0,257,192000,Q2,135061,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,852,BRA
+unknwown,5:37,1786991527000,19,27,FOUL,Personal foul,27.0,203242.0,264,199000,Q2,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,863,BRA
+unknwown,5:37,1786991527000,19,27,RFOUL,foul drawn,9716.0,217250.0,265,199002,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,863,SSD
+shot,5:26,1786991559000,19,27,P2,2pt jump shot missed,9716.0,374577.0,267,201000,Q2,135061,False,2.0,64.0,35.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Mid-Range,7.6,Less Than 8 ft.,874,SSD
+unknwown,5:21,1786991563000,19,27,REB,defensive rebound,27.0,203242.0,268,201002,Q2,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,879,BRA
+shot,5:15,1786991570000,19,27,P3,3pt jump shot missed,27.0,392716.0,269,202000,Q2,135061,False,3.0,233.0,169.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Above the Break 3,15.9,8-16 ft.,885,BRA
+unknwown,5:11,1786991573000,19,27,REB,offensive rebound,27.0,203242.0,270,202002,Q2,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,889,BRA
+unknwown,5:04,1786991583000,19,27,TO,turnover; bad pass,27.0,178708.0,273,205000,Q2,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,896,BRA
+unknwown,5:04,1786991583000,19,27,ST,steal,9716.0,373877.0,274,205001,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,896,SSD
+shot,4:50,1786991597000,19,27,P2,layup missed,9716.0,300668.0,275,206000,Q2,135061,False,2.0,112.0,55.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,In The Paint (Non-RA),3.2,Less Than 8 ft.,910,SSD
+unknwown,4:46,1786991600000,19,27,REB,defensive rebound,27.0,301995.0,276,206002,Q2,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,914,BRA
+shot,4:31,1786991617000,19,27,P2,"2PtsFG under the basket, floating jump shot missed",27.0,178708.0,277,207000,Q2,135061,False,2.0,154.0,39.0,,,27.0,Alana Goncalo,Brazil,24.0,Q2,Restricted Area,1.4,Less Than 8 ft.,929,BRA
+unknwown,4:26,1786991620000,19,27,REB,defensive rebound,9716.0,373877.0,278,207002,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,934,SSD
+shot,4:19,1786991627000,19,27,P2,"2PtsFG inside left, jump shot missed",9716.0,374577.0,279,208000,Q2,135061,False,2.0,78.0,83.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Mid-Range,7.5,Less Than 8 ft.,941,SSD
+unknwown,4:17,1786991629000,19,27,REB,defensive rebound,27.0,301995.0,280,208002,Q2,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,943,BRA
+shot,4:11,1786991636000,19,27,P2,"2PtsFG inside right, jump shot missed",27.0,392716.0,281,209000,Q2,135061,False,2.0,213.0,67.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Mid-Range,7.8,Less Than 8 ft.,949,BRA
+unknwown,4:06,1786991639000,19,27,REB,defensive rebound,9716.0,300668.0,282,209002,Q2,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,954,SSD
+shot,4:02,1786991645000,19,27,P3,3pt jump shot missed,9716.0,300673.0,283,210000,Q2,135061,False,3.0,267.0,80.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,Above the Break 3,13.3,8-16 ft.,958,SSD
+unknwown,4:01,1786991648000,19,27,TREB,team defensive rebound,27.0,,285,210002,Q2,135061,,,,,,,,,,,Q2,,,,959,
+subst,4:01,1786991672000,19,27,SUBST,Substitution out,27.0,178708.0,286,212000,Q2,135061,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,959,BRA
+subst,4:01,1786991672000,19,27,SUBST,Substitution out,27.0,301995.0,287,213000,Q2,135061,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,959,BRA
+subst,4:01,1786991672000,19,27,SUBST,Substitution in,27.0,302154.0,288,214000,Q2,135061,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,959,BRA
+subst,4:01,1786991672000,19,27,SUBST,Substitution in,27.0,342721.0,289,215000,Q2,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,959,BRA
+subst,4:01,1786991672000,19,27,SUBST,Substitution out,9716.0,300673.0,290,216000,Q2,135061,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,959,SSD
+subst,4:01,1786991672000,19,27,SUBST,Substitution in,9716.0,259170.0,291,217000,Q2,135061,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,959,SSD
+unknwown,3:39,1786991696000,19,27,TO,turnover; bad pass,27.0,302154.0,293,219000,Q2,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,981,BRA
+unknwown,3:39,1786991696000,19,27,ST,steal,9716.0,374577.0,294,219001,Q2,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,981,SSD
+unknwown,3:23,1786991714000,19,27,FOUL,Personal foul,27.0,302154.0,298,223000,Q2,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,997,BRA
+unknwown,3:23,1786991714000,19,27,RFOUL,foul drawn,9716.0,374577.0,299,223002,Q2,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,997,SSD
+subst,3:23,1786991734000,19,27,SUBST,Substitution out,27.0,302154.0,300,224000,Q2,135061,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,997,BRA
+subst,3:23,1786991734000,19,27,SUBST,Substitution in,27.0,203532.0,301,225000,Q2,135061,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q2,,,,997,BRA
+subst,3:23,1786991734000,19,27,SUBST,Substitution out,9716.0,217250.0,302,226000,Q2,135061,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,997,SSD
+subst,3:23,1786991734000,19,27,SUBST,Substitution in,9716.0,300671.0,303,227000,Q2,135061,,,,,,IN,9716.0,Nyayongah Gony,South Sudan,14.0,Q2,,,,997,SSD
+shot,3:19,1786991754000,19,27,P3,3pt jump shot missed,9716.0,374577.0,305,229000,Q2,135061,False,3.0,247.0,127.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,13.8,8-16 ft.,1001,SSD
+unknwown,3:15,1786991757000,19,27,REB,defensive rebound,27.0,392716.0,306,229002,Q2,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1005,BRA
+shot,3:10,1786991762000,19,27,P3,3pt jump shot from center missed,27.0,302000.0,307,230000,Q2,135061,False,3.0,191.0,163.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,Above the Break 3,13.3,8-16 ft.,1010,BRA
+unknwown,3:07,1786991765000,19,27,REB,defensive rebound,9716.0,374577.0,308,230002,Q2,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1013,SSD
+unknwown,3:00,1786991772000,19,27,TO,turnover; ball handling,9716.0,259170.0,309,231000,Q2,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1020,SSD
+unknwown,3:00,1786991772000,19,27,ST,steal,27.0,203242.0,310,231001,Q2,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1020,BRA
+unknwown,2:51,1786991786000,19,27,TO,turnover; out of bounds,27.0,203532.0,314,235000,Q2,135061,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1029,BRA
+shot,2:32,1786991817000,19,27,P2,2pt jump shot missed,9716.0,300671.0,316,237000,Q2,135061,False,2.0,136.0,75.0,,,9716.0,Nyayongah Gony,South Sudan,14.0,Q2,In The Paint (Non-RA),3.5,Less Than 8 ft.,1048,SSD
+unknwown,2:30,1786991826000,19,27,TREB,team defensive rebound,27.0,,318,237002,Q2,135061,,,,,,,,,,,Q2,,,,1050,
+timeout,2:29,1786991843000,19,27,TIMO,Timeout,27.0,,321,241000,Q2,135061,,,,,,,,,,,Q2,,,,1051,
+subst,2:29,1786991934000,19,27,SUBST,Substitution out,27.0,342721.0,322,242000,Q2,135061,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1051,BRA
+subst,2:29,1786991934000,19,27,SUBST,Substitution in,27.0,200399.0,323,243000,Q2,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,1051,BRA
+unknwown,2:18,1786991970000,19,27,FOUL,Offensive foul,27.0,200399.0,332,252000,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1062,BRA
+unknwown,2:18,1786991970000,19,27,TO,turnover,27.0,200399.0,333,252001,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1062,BRA
+unknwown,2:18,1786991970000,19,27,RFOUL,foul drawn,9716.0,374577.0,334,252002,Q2,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1062,SSD
+subst,2:18,1786991983000,19,27,SUBST,Substitution out,9716.0,300671.0,335,253000,Q2,135061,,,,,,OUT,9716.0,Nyayongah Gony,South Sudan,14.0,Q2,,,,1062,SSD
+subst,2:18,1786991983000,19,27,SUBST,Substitution in,9716.0,217250.0,336,254000,Q2,135061,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1062,SSD
+shot,2:07,1786991999000,19,27,P3,3pt jump shot missed,9716.0,259170.0,338,256000,Q2,135061,False,3.0,40.0,143.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q2,Above the Break 3,14.4,8-16 ft.,1073,SSD
+unknwown,2:04,1786992001000,19,27,REB,offensive rebound,9716.0,217250.0,339,256002,Q2,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1076,SSD
+unknwown,1:57,1786992011000,19,27,TO,turnover; travelling,9716.0,373877.0,343,260000,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1083,SSD
+unknwown,1:42,1786992043000,19,27,TO,turnover; bad pass,27.0,203242.0,346,263000,Q2,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1098,BRA
+shot,1:30,1786992068000,19,29,P2,"2PtsFG under the basket, points after turnover, jump shot made",9716.0,374577.0,348,265000,Q2,135061,True,2.0,125.0,35.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Restricted Area,1.6,Less Than 8 ft.,1110,SSD
+unknwown,1:14,1786992086000,19,29,TO,turnover; bad pass,27.0,302000.0,352,269000,Q2,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1126,BRA
+subst,1:14,1786992099000,19,29,SUBST,Substitution out,9716.0,259170.0,353,270000,Q2,135061,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1126,SSD
+subst,1:14,1786992099000,19,29,SUBST,Substitution in,9716.0,300672.0,354,271000,Q2,135061,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1126,SSD
+subst,1:14,1786992107000,19,29,SUBST,Substitution out,27.0,302000.0,355,272000,Q2,135061,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1126,BRA
+subst,1:14,1786992107000,19,29,SUBST,Substitution in,27.0,178705.0,356,273000,Q2,135061,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1126,BRA
+subst,1:14,1786992114000,19,29,SUBST,Substitution out,27.0,203532.0,357,274000,Q2,135061,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1126,BRA
+subst,1:14,1786992114000,19,29,SUBST,Substitution in,27.0,178708.0,358,275000,Q2,135061,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,1126,BRA
+shot,1:04,1786992132000,19,29,P3,3pt jump shot missed,9716.0,374577.0,362,279000,Q2,135061,False,3.0,6.0,41.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Right Corner 3,13.4,8-16 ft.,1136,SSD
+unknwown,1:00,1786992134000,19,29,REB,defensive rebound,27.0,200399.0,363,279002,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1140,BRA
+shot,0:56,1786992141000,21,29,P2,"2PtsFG under the basket, fast break, jump shot made",27.0,203242.0,364,280000,Q2,135061,True,2.0,151.0,30.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,Restricted Area,1.5,Less Than 8 ft.,1144,BRA
+unknwown,0:56,1786992141000,21,29,ASS,made the assist,27.0,200399.0,365,280001,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1144,BRA
+shot,0:38,1786992157000,21,29,P3,3pt jump shot missed,9716.0,374577.0,366,281000,Q2,135061,False,3.0,19.0,118.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.4,8-16 ft.,1162,SSD
+unknwown,0:33,1786992161000,21,29,REB,defensive rebound,27.0,392716.0,367,281002,Q2,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1167,BRA
+shot,0:15,1786992181000,21,29,P2,2pt pullup jump shot missed,27.0,178708.0,368,282000,Q2,135061,False,2.0,150.0,127.0,,,27.0,Alana Goncalo,Brazil,24.0,Q2,Mid-Range,8.8,8-16 ft.,1185,BRA
+unknwown,0:10,1786992184000,21,29,REB,defensive rebound,9716.0,300668.0,369,282002,Q2,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1190,SSD
+shot,0:05,1786992191000,21,29,P3,3pt jump shot missed,9716.0,217250.0,371,284000,Q2,135061,False,3.0,215.0,161.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Above the Break 3,14.2,8-16 ft.,1195,SSD
+unknwown,0:05,1786992197000,21,29,TREB,team defensive rebound,27.0,,372,284002,Q2,135061,,,,,,,,,,,Q2,,,,1195,
+unknwown,0:05,1786992199000,21,29,FOUL,Personal foul,9716.0,373877.0,373,285000,Q2,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1195,SSD
+unknwown,0:05,1786992199000,21,29,RFOUL,foul drawn,27.0,200399.0,374,285002,Q2,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1195,BRA
+subst,0:02,1786992231000,21,29,SUBST,Substitution out,27.0,200399.0,377,288000,Q2,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,1198,BRA
+subst,0:02,1786992231000,21,29,SUBST,Substitution out,27.0,178705.0,378,289000,Q2,135061,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1198,BRA
+subst,0:02,1786992231000,21,29,SUBST,Substitution in,27.0,302154.0,379,290000,Q2,135061,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1198,BRA
+subst,0:02,1786992231000,21,29,SUBST,Substitution in,27.0,393736.0,380,291000,Q2,135061,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,1198,BRA
+subst,0:02,1786992231000,21,29,SUBST,Substitution out,9716.0,373877.0,381,292000,Q2,135061,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1198,SSD
+subst,0:02,1786992231000,21,29,SUBST,Substitution out,9716.0,374577.0,382,293000,Q2,135061,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1198,SSD
+subst,0:02,1786992231000,21,29,SUBST,Substitution in,9716.0,300671.0,383,294000,Q2,135061,,,,,,IN,9716.0,Nyayongah Gony,South Sudan,14.0,Q2,,,,1198,SSD
+subst,0:02,1786992231000,21,29,SUBST,Substitution in,9716.0,363373.0,384,295000,Q2,135061,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1198,SSD
+shot,0:01,1786992248000,21,29,P3,"3PtsFG back court, jump shot missed",27.0,302154.0,387,298000,Q2,135061,False,3.0,219.0,215.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,Above the Break 3,19.2,16-22 ft.,1199,BRA
+periods,0:00,1786992297000,21,29,ENDP,End of period,,,390,301000,Q2,135061,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1786993168000,21,29,SUBST,Substitution out,27.0,302154.0,391,302000,Q3,135061,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1200,BRA
+subst,10:00,1786993168000,21,29,SUBST,Substitution out,27.0,393736.0,392,303000,Q3,135061,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q3,,,,1200,BRA
+subst,10:00,1786993168000,21,29,SUBST,Substitution in,27.0,215026.0,393,304000,Q3,135061,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1200,BRA
+subst,10:00,1786993168000,21,29,SUBST,Substitution in,27.0,200399.0,394,305000,Q3,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q3,,,,1200,BRA
+subst,10:00,1786993168000,21,29,SUBST,Substitution out,9716.0,300668.0,395,306000,Q3,135061,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1200,SSD
+subst,10:00,1786993168000,21,29,SUBST,Substitution out,9716.0,300671.0,396,307000,Q3,135061,,,,,,OUT,9716.0,Nyayongah Gony,South Sudan,14.0,Q3,,,,1200,SSD
+subst,10:00,1786993168000,21,29,SUBST,Substitution out,9716.0,363373.0,397,308000,Q3,135061,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1200,SSD
+subst,10:00,1786993168000,21,29,SUBST,Substitution in,9716.0,373877.0,398,309000,Q3,135061,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1200,SSD
+subst,10:00,1786993168000,21,29,SUBST,Substitution in,9716.0,300673.0,399,310000,Q3,135061,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1200,SSD
+subst,10:00,1786993168000,21,29,SUBST,Substitution in,9716.0,374577.0,400,311000,Q3,135061,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1200,SSD
+subst,10:00,1786993180000,21,29,SUBST,Substitution out,9716.0,300672.0,401,312000,Q3,135061,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1200,SSD
+subst,10:00,1786993180000,21,29,SUBST,Substitution in,9716.0,300668.0,402,313000,Q3,135061,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1200,SSD
+periods,10:00,1786993184000,21,29,STARTP,Start of period,,,403,314000,Q3,135061,,,,,,,,,,,Q3,,,,1200,
+shot,9:51,1786993196000,21,29,P2,"2PtsFG inside right, jump shot missed",9716.0,374577.0,407,318000,Q3,135061,False,2.0,210.0,67.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Mid-Range,7.5,Less Than 8 ft.,1209,SSD
+unknwown,9:44,1786993205000,21,30,TREB,team offensive rebound,9716.0,,409,318002,Q3,135061,,,,,,,,,,,Q3,,,,1216,
+unknwown,9:45,1786993214000,21,29,FOUL,Unsportsmanlike foul; 2 free throws awarded,27.0,215026.0,411,321000,Q3,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1215,BRA
+unknwown,9:45,1786993214000,21,29,RFOUL,foul drawn,9716.0,217250.0,412,321002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1215,SSD
+shot,9:45,1786993236000,21,29,FT,1st of 2 free throws missed,9716.0,217250.0,413,322000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1215,SSD
+shot,9:45,1786993246000,21,30,FT,2nd of 2 free throws made,9716.0,217250.0,414,323000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1215,SSD
+shot,9:24,1786993280000,21,32,P2,2pt jump shot made,9716.0,217250.0,417,325000,Q3,135061,True,2.0,131.0,102.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Mid-Range,6.3,Less Than 8 ft.,1236,SSD
+unknwown,9:19,1786993292000,21,32,FOUL,Personal foul,9716.0,300673.0,419,327000,Q3,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1241,SSD
+unknwown,9:19,1786993292000,21,32,RFOUL,foul drawn,27.0,200399.0,420,327002,Q3,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1241,BRA
+subst,9:19,1786993303000,21,32,SUBST,Substitution out,27.0,215026.0,421,328000,Q3,135061,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1241,BRA
+subst,9:19,1786993303000,21,32,SUBST,Substitution in,27.0,178705.0,422,329000,Q3,135061,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1241,BRA
+shot,9:05,1786993330000,21,32,P2,2pt jump shot missed,27.0,392716.0,424,331000,Q3,135061,False,2.0,101.0,96.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,In The Paint (Non-RA),6.8,Less Than 8 ft.,1255,BRA
+unknwown,9:02,1786993332000,21,32,REB,defensive rebound,9716.0,300668.0,425,331002,Q3,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1258,SSD
+unknwown,8:47,1786993354000,21,32,FOUL,Personal foul; 2 free throws awarded,27.0,178708.0,429,335000,Q3,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1273,BRA
+unknwown,8:47,1786993354000,21,32,RFOUL,foul drawn,9716.0,373877.0,430,335002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1273,SSD
+shot,8:47,1786993374000,21,32,FT,1st of 2 free throws missed,9716.0,373877.0,431,336000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1273,SSD
+timeout,8:47,1786993495000,21,32,TIMO,Timeout,,,432,337000,Q3,135061,,,,,,,,,,,Q3,,,,1273,
+shot,8:47,1786993509000,21,32,FT,2nd of 2 free throws missed,9716.0,373877.0,433,338000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1273,SSD
+unknwown,8:47,1786993510000,21,32,TREB,team defensive rebound,27.0,,434,338002,Q3,135061,,,,,,,,,,,Q3,,,,1273,
+unknwown,8:45,1786993519000,21,32,FOUL,Personal foul,9716.0,217250.0,437,341000,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1275,SSD
+unknwown,8:45,1786993519000,21,32,RFOUL,foul drawn,27.0,203242.0,438,341002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1275,BRA
+shot,8:42,1786993550000,21,32,P2,"2PtsFG inside left, jump shot missed",27.0,178705.0,440,343000,Q3,135061,False,2.0,53.0,54.0,,,27.0,Iza Sangalli,Brazil,77.0,Q3,Mid-Range,8.8,8-16 ft.,1278,BRA
+unknwown,8:38,1786993553000,21,32,REB,defensive rebound,9716.0,217250.0,441,343002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1282,SSD
+unknwown,8:25,1786993571000,21,32,FOUL,Personal foul,27.0,200399.0,443,345000,Q3,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1295,BRA
+unknwown,8:25,1786993571000,21,32,RFOUL,foul drawn,9716.0,373877.0,444,345002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1295,SSD
+subst,8:25,1786993582000,21,32,SUBST,Substitution out,27.0,200399.0,445,346000,Q3,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q3,,,,1295,BRA
+subst,8:25,1786993582000,21,32,SUBST,Substitution in,27.0,342721.0,446,347000,Q3,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1295,BRA
+shot,8:19,1786993600000,21,34,P2,"2PtsFG under the basket, turnaround jump shot made",9716.0,374577.0,450,351000,Q3,135061,True,2.0,131.0,31.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1301,SSD
+shot,8:01,1786993618000,21,34,P2,2pt floating jump shot missed,27.0,178705.0,451,352000,Q3,135061,False,2.0,119.0,87.0,,,27.0,Iza Sangalli,Brazil,77.0,Q3,In The Paint (Non-RA),5.1,Less Than 8 ft.,1319,BRA
+unknwown,7:57,1786993621000,21,34,REB,defensive rebound,9716.0,373877.0,452,352002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1323,SSD
+subst,7:44,1786993644000,21,34,SUBST,Substitution out,27.0,178705.0,456,356000,Q3,135061,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1336,BRA
+subst,7:44,1786993644000,21,34,SUBST,Substitution in,27.0,302000.0,457,357000,Q3,135061,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1336,BRA
+shot,7:42,1786993660000,21,34,P3,3pt jump shot from center missed,9716.0,374577.0,459,359000,Q3,135061,False,3.0,118.0,183.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Above the Break 3,14.5,8-16 ft.,1338,SSD
+unknwown,7:39,1786993663000,21,34,REB,offensive rebound,9716.0,373877.0,460,359002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1341,SSD
+shot,7:36,1786993666000,21,34,P2,"2PtsFG under the basket, layup missed",9716.0,373877.0,461,360000,Q3,135061,False,2.0,136.0,46.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1344,SSD
+unknwown,7:32,1786993669000,21,34,REB,defensive rebound,27.0,178708.0,462,360002,Q3,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1348,BRA
+shot,7:29,1786993673000,21,34,P2,"2PtsFG inside right wing, jump shot missed",27.0,392716.0,463,361000,Q3,135061,False,2.0,211.0,35.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Mid-Range,7.1,Less Than 8 ft.,1351,BRA
+unknwown,7:23,1786993679000,21,34,REB,offensive rebound,27.0,302000.0,464,361002,Q3,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1357,BRA
+shot,7:21,1786993681000,21,34,P2,"2PtsFG under the basket, layup missed",27.0,203242.0,465,362000,Q3,135061,False,2.0,148.0,34.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1359,BRA
+unknwown,7:17,1786993685000,21,34,REB,offensive rebound,27.0,302000.0,466,362002,Q3,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1363,BRA
+shot,7:15,1786993688000,21,34,P3,3pt jump shot missed,27.0,302000.0,467,363000,Q3,135061,False,3.0,27.0,128.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,Above the Break 3,14.3,8-16 ft.,1365,BRA
+unknwown,7:10,1786993692000,21,34,REB,offensive rebound,27.0,342721.0,468,363002,Q3,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1370,BRA
+unknwown,7:01,1787000178000,21,34,TO,turnover; ball handling,27.0,342721.0,963,363500,Q3,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1379,BRA
+unknwown,7:01,1787000178000,21,34,ST,steal,9716.0,374577.0,964,363501,Q3,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1379,SSD
+shot,7:01,1786993701000,21,34,P2,2pt jump shot missed,9716.0,374577.0,469,364000,Q3,135061,False,2.0,124.0,74.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,In The Paint (Non-RA),3.8,Less Than 8 ft.,1379,SSD
+unknwown,6:57,1786993705000,21,34,REB,defensive rebound,27.0,302000.0,470,364002,Q3,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1383,BRA
+shot,6:48,1786993717000,21,34,P2,"2PtsFG inside right, jump shot missed",27.0,178708.0,473,367000,Q3,135061,False,2.0,229.0,84.0,,,27.0,Alana Goncalo,Brazil,24.0,Q3,Mid-Range,9.9,8-16 ft.,1392,BRA
+unknwown,6:45,1786993719000,21,34,REB,defensive rebound,9716.0,374577.0,474,367002,Q3,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1395,SSD
+unknwown,6:25,1786993740000,21,34,TO,turnover; ball handling,9716.0,300673.0,475,368000,Q3,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1415,SSD
+unknwown,6:25,1786993740000,21,34,ST,steal,27.0,178708.0,476,368001,Q3,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1415,BRA
+shot,6:20,1786993746000,23,34,P2,"2PtsFG inside paint, points from fastbreak + after turnover, floating jump shot made",27.0,392716.0,477,369000,Q3,135061,True,2.0,106.0,52.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,In The Paint (Non-RA),3.6,Less Than 8 ft.,1420,BRA
+unknwown,6:20,1786993746000,23,34,ASS,made the assist,27.0,178708.0,478,369001,Q3,135061,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1420,BRA
+shot,5:55,1786993770000,23,34,P2,"2PtsFG inside center, jump shot missed",9716.0,217250.0,479,370000,Q3,135061,False,2.0,186.0,112.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Mid-Range,8.5,8-16 ft.,1445,SSD
+unknwown,5:54,1786993776000,23,34,REB,defensive rebound,27.0,203242.0,481,370002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1446,BRA
+unknwown,5:54,1786993781000,23,34,FOUL,Personal foul,9716.0,373877.0,482,372000,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1446,SSD
+unknwown,5:54,1786993781000,23,34,RFOUL,foul drawn,27.0,203242.0,483,372002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1446,BRA
+subst,5:54,1786993790000,23,34,SUBST,Substitution out,27.0,178708.0,484,373000,Q3,135061,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1446,BRA
+subst,5:54,1786993790000,23,34,SUBST,Substitution in,27.0,302154.0,485,374000,Q3,135061,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1446,BRA
+subst,5:54,1786993790000,23,34,SUBST,Substitution out,9716.0,300673.0,486,375000,Q3,135061,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1446,SSD
+subst,5:54,1786993790000,23,34,SUBST,Substitution in,9716.0,300672.0,487,376000,Q3,135061,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1446,SSD
+shot,5:43,1786993810000,25,34,P2,layup made,27.0,342721.0,489,378000,Q3,135061,True,2.0,134.0,60.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,In The Paint (Non-RA),2.1,Less Than 8 ft.,1457,BRA
+unknwown,5:43,1786993810000,25,34,ASS,made the assist,27.0,302154.0,490,378001,Q3,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1457,BRA
+unknwown,5:26,1786993828000,25,34,FOUL,Offensive foul,9716.0,217250.0,492,380000,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1474,SSD
+unknwown,5:26,1786993828000,25,34,TO,turnover,9716.0,217250.0,493,380001,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1474,SSD
+unknwown,5:26,1786993828000,25,34,RFOUL,foul drawn,27.0,392716.0,494,380002,Q3,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1474,BRA
+subst,5:26,1786993840000,25,34,SUBST,Substitution out,9716.0,373877.0,495,381000,Q3,135061,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1474,SSD
+subst,5:26,1786993840000,25,34,SUBST,Substitution in,9716.0,363373.0,496,382000,Q3,135061,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1474,SSD
+unknwown,5:19,1786993861000,25,34,FOUL,Personal foul; 3 free throws awarded,9716.0,300668.0,501,387000,Q3,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1481,SSD
+unknwown,5:19,1786993861000,25,34,RFOUL,foul drawn,27.0,392716.0,502,387002,Q3,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1481,BRA
+shot,5:19,1786993889000,26,34,FT,1st of 3 free throws made,27.0,392716.0,503,388000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1481,BRA
+unknwown,5:19,1786993889000,26,34,ASS,made the assist,27.0,302154.0,965,388001,Q3,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1481,BRA
+shot,5:19,1786993897000,27,34,FT,2nd of 3 free throws made,27.0,392716.0,504,389000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1481,BRA
+shot,5:19,1786993909000,28,34,FT,3rd of 3 free throws made,27.0,392716.0,505,390000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1481,BRA
+shot,5:03,1786993950000,28,34,P2,"2PtsFG inside right, jump shot missed",9716.0,300672.0,511,396000,Q3,135061,False,2.0,195.0,93.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Mid-Range,7.6,Less Than 8 ft.,1497,SSD
+unknwown,4:59,1786993953000,28,34,REB,offensive rebound,9716.0,363373.0,512,396002,Q3,135061,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1501,SSD
+unknwown,4:46,1786993970000,28,34,FOUL,Personal foul; 2 free throws awarded,27.0,302154.0,516,400000,Q3,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1514,BRA
+unknwown,4:46,1786993970000,28,34,RFOUL,foul drawn,9716.0,217250.0,517,400002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1514,SSD
+shot,4:46,1786993988000,28,35,FT,1st of 2 free throws made,9716.0,217250.0,518,401000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1514,SSD
+shot,4:46,1786994005000,28,36,FT,2nd of 2 free throws made,9716.0,217250.0,519,402000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1514,SSD
+subst,4:46,1786994014000,28,36,SUBST,Substitution out,27.0,302154.0,520,403000,Q3,135061,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1514,BRA
+subst,4:46,1786994014000,28,36,SUBST,Substitution in,27.0,203532.0,521,404000,Q3,135061,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1514,BRA
+shot,4:41,1786994027000,28,36,P2,2pt jump shot missed,27.0,392716.0,523,406000,Q3,135061,False,2.0,109.0,92.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,In The Paint (Non-RA),6.1,Less Than 8 ft.,1519,BRA
+unknwown,4:38,1786994034000,28,36,REB,offensive rebound,27.0,203242.0,525,406002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1522,BRA
+unknwown,4:38,1786994039000,28,36,FOUL,Personal foul; 2 free throws awarded,9716.0,374577.0,526,408000,Q3,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1522,SSD
+unknwown,4:38,1786994039000,28,36,RFOUL,foul drawn,27.0,203242.0,527,408002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1522,BRA
+shot,4:38,1786994057000,29,36,FT,1st of 2 free throws made,27.0,203242.0,528,409000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,14.6,8-16 ft.,1522,BRA
+shot,4:38,1786994073000,29,36,FT,2nd of 2 free throws missed,27.0,203242.0,529,410000,Q3,135061,False,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,14.6,8-16 ft.,1522,BRA
+unknwown,4:38,1786994076000,29,36,REB,defensive rebound,9716.0,363373.0,531,410002,Q3,135061,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1522,SSD
+shot,4:26,1786994089000,29,36,P2,layup missed,9716.0,300672.0,534,414000,Q3,135061,False,2.0,158.0,43.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1534,SSD
+unknwown,4:19,1786994096000,29,36,REB,defensive rebound,27.0,203242.0,535,414002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1541,BRA
+shot,4:15,1786994100000,31,36,P2,"2PtsFG under the basket, reverse lay-up made",27.0,302000.0,536,415000,Q3,135061,True,2.0,146.0,33.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,Restricted Area,0.9,Less Than 8 ft.,1545,BRA
+unknwown,4:15,1786994100000,31,36,ASS,made the assist,27.0,392716.0,966,415001,Q3,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1545,BRA
+shot,3:59,1786994116000,31,36,P3,3pt jump shot missed,9716.0,374577.0,537,416000,Q3,135061,False,3.0,10.0,14.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Right Corner 3,13.3,8-16 ft.,1561,SSD
+unknwown,3:50,1786994125000,31,36,REB,offensive rebound,9716.0,217250.0,540,416002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1570,SSD
+unknwown,3:48,1786994130000,31,36,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,544,422000,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1572,BRA
+unknwown,3:48,1786994130000,31,36,RFOUL,foul drawn,9716.0,217250.0,545,422002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1572,SSD
+subst,3:48,1786994147000,31,36,SUBST,Substitution out,9716.0,363373.0,546,423000,Q3,135061,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1572,SSD
+subst,3:48,1786994147000,31,36,SUBST,Substitution in,9716.0,259170.0,547,424000,Q3,135061,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1572,SSD
+shot,3:48,1786994162000,31,37,FT,1st of 2 free throws made,9716.0,217250.0,548,425000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1572,SSD
+shot,3:48,1786994176000,31,37,FT,2nd of 2 free throws missed,9716.0,217250.0,549,426000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1572,SSD
+unknwown,3:48,1786994178000,31,37,REB,defensive rebound,27.0,203242.0,551,426002,Q3,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1572,BRA
+shot,3:34,1786994194000,33,37,P2,"2PtsFG under the basket, pullup jump shot made",27.0,342721.0,552,428000,Q3,135061,True,2.0,126.0,32.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1586,BRA
+unknwown,3:34,1786994194000,33,37,ASS,made the assist,27.0,302000.0,553,428001,Q3,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1586,BRA
+unknwown,3:16,1786994217000,33,37,FOUL,Personal foul; 2 free throws awarded,27.0,203532.0,557,432000,Q3,135061,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1604,BRA
+unknwown,3:16,1786994217000,33,37,RFOUL,foul drawn,9716.0,374577.0,558,432002,Q3,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1604,SSD
+shot,3:16,1786994237000,33,37,FT,1st of 2 free throws missed,9716.0,374577.0,559,433000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,14.6,8-16 ft.,1604,SSD
+shot,3:16,1786994247000,33,38,FT,2nd of 2 free throws made,9716.0,374577.0,560,434000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,14.6,8-16 ft.,1604,SSD
+subst,3:16,1786994254000,33,38,SUBST,Substitution out,9716.0,259170.0,561,435000,Q3,135061,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1604,SSD
+subst,3:16,1786994254000,33,38,SUBST,Substitution in,9716.0,373877.0,562,436000,Q3,135061,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1604,SSD
+unknwown,3:00,1786994283000,33,38,FOUL,Personal foul; 2 free throws awarded,9716.0,300668.0,567,441000,Q3,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1620,SSD
+unknwown,3:00,1786994283000,33,38,RFOUL,foul drawn,27.0,392716.0,568,441002,Q3,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1620,BRA
+shot,3:00,1786994305000,34,38,FT,1st of 2 free throws made,27.0,392716.0,569,442000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1620,BRA
+shot,3:00,1786994314000,35,38,FT,2nd of 2 free throws made,27.0,392716.0,570,443000,Q3,135061,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1620,BRA
+unknwown,2:42,1786994342000,35,38,FOUL,Personal foul; 2 free throws awarded,27.0,342721.0,575,448000,Q3,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1638,BRA
+unknwown,2:42,1786994342000,35,38,RFOUL,foul drawn,9716.0,373877.0,576,448002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1638,SSD
+shot,2:42,1786994369000,35,39,FT,1st of 2 free throws made,9716.0,373877.0,577,449000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1638,SSD
+shot,2:42,1786994381000,35,40,FT,2nd of 2 free throws made,9716.0,373877.0,578,450000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1638,SSD
+subst,2:42,1786994393000,35,40,SUBST,Substitution out,9716.0,300668.0,579,451000,Q3,135061,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1638,SSD
+subst,2:42,1786994393000,35,40,SUBST,Substitution in,9716.0,259170.0,580,452000,Q3,135061,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1638,SSD
+shot,2:35,1786994403000,35,40,P3,3pt jump shot missed,27.0,392716.0,582,454000,Q3,135061,False,3.0,43.0,157.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,15.2,8-16 ft.,1645,BRA
+unknwown,2:31,1786994406000,35,40,REB,defensive rebound,9716.0,217250.0,583,454002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1649,SSD
+shot,2:25,1786994413000,35,40,P3,3pt jump shot missed,9716.0,374577.0,584,455000,Q3,135061,False,3.0,60.0,153.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Above the Break 3,13.8,8-16 ft.,1655,SSD
+unknwown,2:24,1786994419000,35,40,REB,offensive rebound,9716.0,373877.0,586,455002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1656,SSD
+unknwown,2:24,1786994431000,35,40,FOUL,Personal foul; 2 free throws awarded,27.0,342721.0,587,457000,Q3,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1656,BRA
+unknwown,2:24,1786994431000,35,40,RFOUL,foul drawn,9716.0,373877.0,588,457002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1656,SSD
+shot,2:24,1786994438000,35,40,FT,1st of 2 free throws missed,9716.0,373877.0,589,458000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1656,SSD
+shot,2:24,1786994450000,35,41,FT,2nd of 2 free throws made,9716.0,373877.0,590,459000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1656,SSD
+subst,2:24,1786994459000,35,41,SUBST,Substitution out,27.0,342721.0,591,460000,Q3,135061,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1656,BRA
+subst,2:24,1786994459000,35,41,SUBST,Substitution in,27.0,301995.0,592,461000,Q3,135061,,,,,,IN,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1656,BRA
+shot,2:07,1786994479000,35,41,P2,2pt turnaround jump shot missed,27.0,302000.0,594,463000,Q3,135061,False,2.0,121.0,97.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,In The Paint (Non-RA),6.0,Less Than 8 ft.,1673,BRA
+unknwown,2:02,1786994483000,35,41,REB,defensive rebound,9716.0,217250.0,595,463002,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1678,SSD
+unknwown,1:48,1786994500000,35,41,FOUL,Personal foul; 2 free throws awarded,27.0,301995.0,597,465000,Q3,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1692,BRA
+unknwown,1:48,1786994500000,35,41,RFOUL,foul drawn,9716.0,373877.0,598,465002,Q3,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1692,SSD
+subst,1:48,1786994513000,35,41,SUBST,Substitution out,9716.0,374577.0,599,466000,Q3,135061,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1692,SSD
+subst,1:48,1786994513000,35,41,SUBST,Substitution in,9716.0,300668.0,600,467000,Q3,135061,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1692,SSD
+shot,1:48,1786994523000,35,42,FT,1st of 2 free throws made,9716.0,373877.0,601,468000,Q3,135061,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1692,SSD
+shot,1:48,1786994535000,35,42,FT,2nd of 2 free throws missed,9716.0,373877.0,602,469000,Q3,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1692,SSD
+unknwown,1:48,1786994536000,35,42,REB,defensive rebound,27.0,302000.0,604,469002,Q3,135061,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1692,BRA
+shot,1:29,1786994555000,35,42,P3,3pt jump shot missed,27.0,392716.0,605,471000,Q3,135061,False,3.0,58.0,162.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,14.7,8-16 ft.,1711,BRA
+unknwown,1:26,1786994558000,35,42,REB,defensive rebound,9716.0,259170.0,606,471002,Q3,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1714,SSD
+subst,1:11,1786994586000,35,42,SUBST,Substitution out,9716.0,373877.0,610,475000,Q3,135061,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1729,SSD
+subst,1:11,1786994586000,35,42,SUBST,Substitution in,9716.0,363373.0,611,476000,Q3,135061,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1729,SSD
+unknwown,1:05,1786994612000,35,42,TO,turnover; bad pass,9716.0,259170.0,614,479000,Q3,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1735,SSD
+shot,0:56,1786994626000,38,42,P3,3pt jump shot made,27.0,203532.0,616,481000,Q3,135061,True,3.0,234.0,149.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Above the Break 3,14.4,8-16 ft.,1744,BRA
+unknwown,0:38,1786994647000,38,42,FOUL,Offensive foul,9716.0,217250.0,620,485000,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1762,SSD
+unknwown,0:38,1786994647000,38,42,TO,turnover,9716.0,217250.0,621,485001,Q3,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1762,SSD
+unknwown,0:38,1786994647000,38,42,RFOUL,foul drawn,27.0,203532.0,622,485002,Q3,135061,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1762,BRA
+shot,0:28,1786994671000,40,42,P2,layup made,27.0,203242.0,626,489000,Q3,135061,True,2.0,132.0,60.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,In The Paint (Non-RA),2.2,Less Than 8 ft.,1772,BRA
+unknwown,0:28,1786994671000,40,42,ASS,made the assist,27.0,203532.0,967,489001,Q3,135061,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1772,BRA
+shot,0:10,1786994688000,40,42,P2,"2PtsFG under the basket, driving layup missed",9716.0,300668.0,627,490000,Q3,135061,False,2.0,150.0,40.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1790,SSD
+unknwown,0:06,1786994691000,40,42,REB,defensive rebound,27.0,301995.0,628,490002,Q3,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1794,BRA
+shot,0:01,1786994698000,40,42,P3,3pt jump shot missed,27.0,203532.0,630,492000,Q3,135061,False,3.0,250.0,131.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Above the Break 3,14.3,8-16 ft.,1799,BRA
+periods,0:00,1786994831000,40,42,ENDP,End of period,,,633,495000,Q3,135061,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1786994868000,40,42,SUBST,Substitution out,9716.0,300672.0,634,496000,Q4,135061,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1800,SSD
+subst,10:00,1786994868000,40,42,SUBST,Substitution out,9716.0,363373.0,635,497000,Q4,135061,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q4,,,,1800,SSD
+subst,10:00,1786994868000,40,42,SUBST,Substitution in,9716.0,373877.0,636,498000,Q4,135061,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1800,SSD
+subst,10:00,1786994868000,40,42,SUBST,Substitution in,9716.0,374577.0,637,499000,Q4,135061,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1800,SSD
+periods,10:00,1786994871000,40,42,STARTP,Start of period,,,638,500000,Q4,135061,,,,,,,,,,,Q4,,,,1800,
+shot,9:48,1786994883000,40,42,P2,2pt jump shot missed,27.0,203242.0,640,502000,Q4,135061,False,2.0,136.0,65.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,In The Paint (Non-RA),2.5,Less Than 8 ft.,1812,BRA
+unknwown,9:43,1786994888000,40,42,REB,defensive rebound,9716.0,259170.0,641,502002,Q4,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1817,SSD
+shot,9:26,1786994905000,40,42,P2,"2PtsFG under the basket, layup missed",9716.0,373877.0,642,503000,Q4,135061,False,2.0,129.0,28.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,1.6,Less Than 8 ft.,1834,SSD
+unknwown,9:24,1786994907000,40,42,REB,offensive rebound,9716.0,259170.0,643,503002,Q4,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1836,SSD
+unknwown,9:23,1786994911000,40,42,TO,turnover; bad pass,9716.0,259170.0,646,506000,Q4,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1837,SSD
+unknwown,9:23,1786994911000,40,42,ST,steal,27.0,392716.0,647,506001,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1837,BRA
+shot,9:13,1786994921000,40,42,P2,"2PtsFG inside center, points after turnover, jump shot missed",27.0,203532.0,648,507000,Q4,135061,False,2.0,176.0,107.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,Mid-Range,7.6,Less Than 8 ft.,1847,BRA
+unknwown,9:10,1786994924000,40,42,REB,defensive rebound,9716.0,373877.0,649,507002,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1850,SSD
+shot,8:59,1786994935000,40,45,P3,3pt jump shot made,9716.0,217250.0,650,508000,Q4,135061,True,3.0,56.0,158.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Above the Break 3,14.5,8-16 ft.,1861,SSD
+unknwown,8:59,1786994935000,40,45,ASS,made the assist,9716.0,374577.0,651,508001,Q4,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1861,SSD
+shot,8:43,1786994951000,40,45,P2,2pt jump shot missed,27.0,203242.0,652,509000,Q4,135061,False,2.0,122.0,46.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Restricted Area,1.9,Less Than 8 ft.,1877,BRA
+unknwown,8:39,1786994955000,40,45,REB,offensive rebound,27.0,203242.0,653,509002,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1881,BRA
+shot,8:38,1786994960000,40,45,P2,"2PtsFG under the basket, layup missed",27.0,203242.0,654,510000,Q4,135061,False,2.0,122.0,37.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Restricted Area,1.8,Less Than 8 ft.,1882,BRA
+unknwown,8:38,1786994996000,40,45,REB,defensive rebound,9716.0,373877.0,656,510002,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1882,SSD
+unknwown,8:21,1786995008000,40,45,FOUL,Offensive foul,9716.0,259170.0,657,512000,Q4,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1899,SSD
+unknwown,8:21,1786995008000,40,45,TO,turnover,9716.0,259170.0,658,512001,Q4,135061,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1899,SSD
+unknwown,8:21,1786995008000,40,45,RFOUL,foul drawn,27.0,203532.0,659,512002,Q4,135061,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,1899,BRA
+unknwown,8:21,1786995014000,40,45,TO,turnover; bad pass,27.0,392716.0,660,513000,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1899,BRA
+shot,8:08,1786995046000,40,47,P2,"2PtsFG under the basket, points after turnover, layup made",9716.0,373877.0,664,517000,Q4,135061,True,2.0,155.0,35.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,1.6,Less Than 8 ft.,1912,SSD
+unknwown,8:02,1786995051000,40,47,FOUL,Personal foul; 1 free throw awarded,27.0,301995.0,665,518000,Q4,135061,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q4,,,,1918,BRA
+unknwown,8:02,1786995051000,40,47,RFOUL,foul drawn,9716.0,373877.0,666,518002,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1918,SSD
+shot,7:48,1786995067000,40,47,FT,1st free throw missed,9716.0,373877.0,670,522000,Q4,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,14.6,8-16 ft.,1932,SSD
+unknwown,7:48,1786995068000,40,47,REB,defensive rebound,27.0,203242.0,672,522002,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1932,BRA
+subst,7:35,1786995095000,40,47,SUBST,Substitution out,27.0,203532.0,676,527000,Q4,135061,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q4,,,,1945,BRA
+subst,7:35,1786995095000,40,47,SUBST,Substitution in,27.0,302154.0,677,528000,Q4,135061,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,1945,BRA
+shot,7:35,1786995096000,40,47,P2,2pt floating jump shot missed,27.0,302154.0,679,530000,Q4,135061,False,2.0,111.0,120.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Mid-Range,8.5,8-16 ft.,1945,BRA
+unknwown,7:30,1786995100000,40,47,REB,defensive rebound,9716.0,217250.0,680,530002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1950,SSD
+subst,7:26,1786995109000,40,47,SUBST,Substitution out,9716.0,259170.0,682,532000,Q4,135061,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,1954,SSD
+subst,7:26,1786995109000,40,47,SUBST,Substitution in,9716.0,300672.0,683,533000,Q4,135061,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1954,SSD
+shot,7:24,1786995111000,40,47,P2,layup missed,9716.0,300672.0,685,535000,Q4,135061,False,2.0,157.0,67.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,In The Paint (Non-RA),3.2,Less Than 8 ft.,1956,SSD
+unknwown,7:22,1786995114000,40,47,REB,offensive rebound,9716.0,217250.0,687,535002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1958,SSD
+unknwown,7:00,1786995139000,40,47,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,690,539000,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1980,BRA
+unknwown,7:00,1786995139000,40,47,RFOUL,foul drawn,9716.0,217250.0,691,539002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1980,SSD
+shot,7:00,1786995147000,40,47,FT,1st of 2 free throws missed,9716.0,217250.0,692,540000,Q4,135061,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,1980,SSD
+shot,7:00,1786995154000,40,48,FT,2nd of 2 free throws made,9716.0,217250.0,693,541000,Q4,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,1980,SSD
+timeout,7:00,1786995161000,40,48,TIMO,Timeout,27.0,,694,542000,Q4,135061,,,,,,,,,,,Q4,,,,1980,
+subst,7:00,1786995266000,40,48,SUBST,Substitution out,27.0,301995.0,695,543000,Q4,135061,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q4,,,,1980,BRA
+subst,7:00,1786995266000,40,48,SUBST,Substitution out,27.0,302000.0,696,544000,Q4,135061,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,1980,BRA
+subst,7:00,1786995266000,40,48,SUBST,Substitution in,27.0,215026.0,697,545000,Q4,135061,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,1980,BRA
+subst,7:00,1786995266000,40,48,SUBST,Substitution in,27.0,200399.0,698,546000,Q4,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q4,,,,1980,BRA
+unknwown,6:50,1786995288000,40,48,FOUL,Personal foul,9716.0,300668.0,703,551000,Q4,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,1990,SSD
+unknwown,6:50,1786995288000,40,48,RFOUL,foul drawn,27.0,200399.0,704,551002,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,1990,BRA
+shot,6:44,1786995309000,40,48,P2,"2PtsFG inside center, jump shot missed",27.0,203242.0,706,553000,Q4,135061,False,2.0,135.0,113.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Mid-Range,7.3,Less Than 8 ft.,1996,BRA
+unknwown,6:40,1786995312000,40,48,REB,defensive rebound,9716.0,373877.0,707,553002,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2000,SSD
+shot,6:32,1786995321000,40,48,P2,"2PtsFG under the basket, turnaround jump shot missed",9716.0,300672.0,708,554000,Q4,135061,False,2.0,135.0,41.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,Restricted Area,0.5,Less Than 8 ft.,2008,SSD
+unknwown,6:27,1786995325000,40,48,REB,defensive rebound,27.0,392716.0,709,554002,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2013,BRA
+unknwown,6:07,1786995351000,40,48,FOUL,Personal foul; 2 free throws awarded,9716.0,373877.0,713,558000,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2033,SSD
+unknwown,6:07,1786995351000,40,48,RFOUL,foul drawn,27.0,200399.0,714,558002,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2033,BRA
+subst,6:07,1786995363000,40,48,SUBST,Substitution out,27.0,203242.0,715,559000,Q4,135061,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2033,BRA
+subst,6:07,1786995363000,40,48,SUBST,Substitution in,27.0,342721.0,716,560000,Q4,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2033,BRA
+shot,6:07,1786995379000,41,48,FT,1st of 2 free throws made,27.0,200399.0,717,561000,Q4,135061,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2033,BRA
+unknwown,6:07,1786995379000,41,48,ASS,made the assist,27.0,392716.0,968,561001,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2033,BRA
+shot,6:07,1786995395000,42,48,FT,2nd of 2 free throws made,27.0,200399.0,718,562000,Q4,135061,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2033,BRA
+unknwown,5:49,1786995421000,42,48,TO,turnover; 3 seconds violation,9716.0,373877.0,723,567000,Q4,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2051,SSD
+shot,5:36,1786995447000,45,48,P3,3pt jump shot made,27.0,302154.0,728,572000,Q4,135061,True,3.0,37.0,136.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Above the Break 3,14.1,8-16 ft.,2064,BRA
+unknwown,5:36,1786995447000,45,48,ASS,made the assist,27.0,392716.0,729,572001,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2064,BRA
+timeout,5:36,1786995455000,45,48,TIMO,Timeout,9716.0,,730,573000,Q4,135061,,,,,,,,,,,Q4,,,,2064,
+shot,5:20,1787000387000,45,48,P2,2pt jump shot missed,9716.0,217250.0,969,577500,Q4,135061,False,2.0,156.0,86.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,In The Paint (Non-RA),4.9,Less Than 8 ft.,2080,SSD
+unknwown,5:20,1787000387000,45,48,BS,blocked the shot,27.0,200399.0,970,577501,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2080,BRA
+unknwown,5:20,1787000387000,45,48,REB,offensive rebound,9716.0,217250.0,971,577502,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2080,SSD
+unknwown,5:20,1786995621000,45,48,JS,jump ball situation; throw-in,9716.0,,735,578000,Q4,135061,,,,,,,,,,,Q4,,,,2080,
+shot,5:12,1786995656000,45,48,P3,3pt step back jump shot missed,9716.0,374577.0,740,583000,Q4,135061,False,3.0,115.0,175.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.7,8-16 ft.,2088,SSD
+unknwown,5:11,1786995660000,45,48,TREB,team defensive rebound,27.0,,741,583002,Q4,135061,,,,,,,,,,,Q4,,,,2089,
+shot,5:00,1786995679000,45,48,P3,3pt jump shot missed,27.0,302154.0,743,585000,Q4,135061,False,3.0,203.0,166.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Above the Break 3,14.1,8-16 ft.,2100,BRA
+unknwown,4:58,1786995682000,45,48,TREB,team defensive rebound,9716.0,,745,585002,Q4,135061,,,,,,,,,,,Q4,,,,2102,
+shot,4:47,1786995703000,45,48,P3,3pt jump shot missed,9716.0,374577.0,747,588000,Q4,135061,False,3.0,9.0,28.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Right Corner 3,13.2,8-16 ft.,2113,SSD
+unknwown,4:43,1786995706000,45,48,REB,defensive rebound,27.0,200399.0,748,588002,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2117,BRA
+shot,4:39,1786995711000,45,48,P2,"2PtsFG under the basket, fast break, layup missed",27.0,215026.0,749,589000,Q4,135061,False,2.0,121.0,41.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2121,BRA
+unknwown,4:34,1786995715000,45,48,REB,defensive rebound,9716.0,300672.0,750,589002,Q4,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2126,SSD
+shot,4:26,1786995723000,45,48,P2,2pt floating jump shot missed,9716.0,300668.0,751,590000,Q4,135061,False,2.0,75.0,28.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Mid-Range,6.6,Less Than 8 ft.,2134,SSD
+unknwown,4:23,1786995726000,45,48,REB,defensive rebound,27.0,200399.0,752,590002,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2137,BRA
+shot,4:10,1786995740000,45,48,P2,2pt pullup jump shot missed,27.0,392716.0,753,591000,Q4,135061,False,2.0,141.0,121.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Mid-Range,8.1,8-16 ft.,2150,BRA
+unknwown,4:05,1786995744000,45,48,REB,defensive rebound,9716.0,217250.0,754,591002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2155,SSD
+shot,3:47,1786995763000,45,48,P3,3pt jump shot missed,9716.0,300672.0,755,592000,Q4,135061,False,3.0,276.0,21.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,Left Corner 3,13.7,8-16 ft.,2173,SSD
+unknwown,3:44,1786995765000,45,48,REB,defensive rebound,27.0,302154.0,756,592002,Q4,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2176,BRA
+shot,3:38,1786995773000,47,48,P2,"2PtsFG under the basket, fast break, driving layup made",27.0,302154.0,757,593000,Q4,135061,True,2.0,149.0,30.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2182,BRA
+shot,3:19,1786995790000,47,48,P2,"2PtsFG inside right, jump shot missed",9716.0,300668.0,758,594000,Q4,135061,False,2.0,213.0,86.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Mid-Range,8.6,8-16 ft.,2201,SSD
+unknwown,3:17,1786995792000,47,48,REB,defensive rebound,27.0,302154.0,759,594002,Q4,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2203,BRA
+shot,2:59,1786995811000,49,48,P2,"2PtsFG under the basket, layup made",27.0,302154.0,760,595000,Q4,135061,True,2.0,130.0,30.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Restricted Area,1.4,Less Than 8 ft.,2221,BRA
+shot,2:37,1786995832000,49,48,P2,2pt jump shot missed,9716.0,374577.0,761,596000,Q4,135061,False,2.0,121.0,72.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,In The Paint (Non-RA),3.7,Less Than 8 ft.,2243,SSD
+unknwown,2:31,1786995838000,49,48,REB,offensive rebound,9716.0,217250.0,762,596002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2249,SSD
+shot,2:31,1786995838000,49,50,P2,2PtsFG under the basket made,9716.0,217250.0,763,597000,Q4,135061,True,2.0,140.0,31.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2249,SSD
+shot,2:15,1786995855000,49,50,P3,3pt jump shot missed,27.0,200399.0,764,598000,Q4,135061,False,3.0,46.0,146.0,,,27.0,Aline Moura,Brazil,12.0,Q4,Above the Break 3,14.2,8-16 ft.,2265,BRA
+unknwown,2:11,1786995858000,49,50,REB,defensive rebound,9716.0,217250.0,765,598002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2269,SSD
+unknwown,1:58,1786995879000,49,50,FOUL,Personal foul,27.0,392716.0,767,600000,Q4,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2282,BRA
+unknwown,1:58,1786995879000,49,50,RFOUL,foul drawn,9716.0,217250.0,768,600002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2282,SSD
+subst,1:58,1786995889000,49,50,SUBST,Substitution out,9716.0,300672.0,769,601000,Q4,135061,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2282,SSD
+subst,1:58,1786995889000,49,50,SUBST,Substitution in,9716.0,300673.0,770,602000,Q4,135061,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2282,SSD
+shot,1:54,1786995918000,49,52,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,300668.0,773,605000,Q4,135061,True,2.0,151.0,34.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2286,SSD
+unknwown,1:54,1786995918000,49,52,ASS,made the assist,9716.0,374577.0,774,605001,Q4,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2286,SSD
+timeout,1:54,1786995931000,49,52,TIMO,Timeout,27.0,,775,606000,Q4,135061,,,,,,,,,,,Q4,,,,2286,
+unknwown,1:41,1786996038000,49,52,FOUL,Personal foul,9716.0,300668.0,780,611000,Q4,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2299,SSD
+unknwown,1:41,1786996038000,49,52,RFOUL,foul drawn,27.0,200399.0,781,611002,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2299,BRA
+shot,1:33,1786996066000,49,52,P2,"2PtsFG under the basket, jump shot missed",27.0,200399.0,783,613000,Q4,135061,False,2.0,126.0,31.0,,,27.0,Aline Moura,Brazil,12.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2307,BRA
+unknwown,1:29,1786996072000,49,52,REB,defensive rebound,9716.0,374577.0,785,613002,Q4,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2311,SSD
+unknwown,1:29,1786996075000,49,52,FOUL,Personal foul,27.0,200399.0,786,615000,Q4,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2311,BRA
+unknwown,1:29,1786996075000,49,52,RFOUL,foul drawn,9716.0,374577.0,787,615002,Q4,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2311,SSD
+subst,1:29,1786996092000,49,52,SUBST,Substitution out,27.0,200399.0,788,616000,Q4,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q4,,,,2311,BRA
+subst,1:29,1786996092000,49,52,SUBST,Substitution in,27.0,203242.0,789,617000,Q4,135061,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2311,BRA
+timeout,1:17,1786996143000,49,52,TIMO,Timeout,,,794,622000,Q4,135061,,,,,,,,,,,Q4,,,,2323,
+shot,1:13,1786996342000,49,52,P3,3pt jump shot missed,9716.0,374577.0,796,624000,Q4,135061,False,3.0,45.0,135.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.4,8-16 ft.,2327,SSD
+unknwown,1:10,1786996345000,49,52,REB,defensive rebound,27.0,203242.0,797,624002,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2330,BRA
+shot,0:54,1786996361000,52,52,P3,3pt jump shot made,27.0,215026.0,798,625000,Q4,135061,True,3.0,268.0,47.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Left Corner 3,12.8,8-16 ft.,2346,BRA
+unknwown,0:54,1786996361000,52,52,ASS,made the assist,27.0,203242.0,799,625001,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2346,BRA
+unknwown,0:40,1786996382000,52,52,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,801,627000,Q4,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2360,BRA
+unknwown,0:40,1786996382000,52,52,RFOUL,foul drawn,9716.0,217250.0,802,627002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2360,SSD
+shot,0:40,1786996405000,52,53,FT,1st of 2 free throws made,9716.0,217250.0,803,628000,Q4,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,2360,SSD
+shot,0:40,1786996422000,52,54,FT,2nd of 2 free throws made,9716.0,217250.0,804,629000,Q4,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,2360,SSD
+shot,0:34,1786996440000,54,54,P2,"2PtsFG inside center, jump shot made",27.0,302154.0,809,634000,Q4,135061,True,2.0,132.0,122.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Mid-Range,8.2,8-16 ft.,2366,BRA
+timeout,0:34,1786996452000,54,54,TIMO,Timeout,9716.0,,810,635000,Q4,135061,,,,,,,,,,,Q4,,,,2366,
+shot,0:17,1786996552000,54,54,P2,layup missed,9716.0,374577.0,812,637000,Q4,135061,False,2.0,155.0,52.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,In The Paint (Non-RA),1.9,Less Than 8 ft.,2383,SSD
+unknwown,0:16,1786996557000,54,54,REB,offensive rebound,9716.0,217250.0,814,637002,Q4,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2384,SSD
+shot,0:14,1786996562000,54,56,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,217250.0,817,641000,Q4,135061,True,2.0,153.0,34.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Restricted Area,1.4,Less Than 8 ft.,2386,SSD
+timeout,0:14,1786996576000,54,56,TIMO,Timeout,27.0,,818,642000,Q4,135061,,,,,,,,,,,Q4,,,,2386,
+shot,0:04,1786996683000,56,56,P2,"2PtsFG under the basket, driving layup made",27.0,302154.0,823,647000,Q4,135061,True,2.0,146.0,31.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2396,BRA
+timeout,0:04,1786996733000,56,56,TIMO,Timeout,9716.0,,824,648000,Q4,135061,,,,,,,,,,,Q4,,,,2396,
+subst,0:04,1786996768000,56,56,SUBST,Substitution out,27.0,302154.0,825,649000,Q4,135061,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2396,BRA
+subst,0:04,1786996768000,56,56,SUBST,Substitution out,27.0,342721.0,826,650000,Q4,135061,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2396,BRA
+subst,0:04,1786996768000,56,56,SUBST,Substitution in,27.0,200399.0,827,651000,Q4,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q4,,,,2396,BRA
+subst,0:04,1786996768000,56,56,SUBST,Substitution in,27.0,178705.0,828,652000,Q4,135061,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2396,BRA
+unknwown,0:04,1786996811000,56,56,TO,turnover; bad pass,9716.0,300668.0,831,655000,Q4,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2396,SSD
+shot,0:01,1786996843000,56,56,P2,"2PtsFG under the basket, points after turnover, driving layup missed",27.0,200399.0,836,660000,Q4,135061,False,2.0,152.0,37.0,,,27.0,Aline Moura,Brazil,12.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2399,BRA
+periods,0:00,1786996938000,56,56,ENDP,End of period,,,839,663000,Q4,135061,,,,,,,,,,,Q4,,,,2400,
+subst,5:00,1786996978000,56,56,SUBST,Substitution out,27.0,200399.0,840,664000,OT1,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,OT1,,,,2400,BRA
+subst,5:00,1786996978000,56,56,SUBST,Substitution out,27.0,178705.0,841,665000,OT1,135061,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,OT1,,,,2400,BRA
+subst,5:00,1786996978000,56,56,SUBST,Substitution in,27.0,302154.0,842,666000,OT1,135061,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,OT1,,,,2400,BRA
+subst,5:00,1786996978000,56,56,SUBST,Substitution in,27.0,342721.0,843,667000,OT1,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2400,BRA
+periods,5:00,1786997021000,56,56,STARTP,Start of period,,,844,668000,OT1,135061,,,,,,,,,,,OT1,,,,2400,
+unknwown,4:47,1786997037000,56,56,TO,turnover; travelling,27.0,215026.0,849,673000,OT1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,OT1,,,,2413,BRA
+shot,4:33,1786997062000,56,56,P3,3pt jump shot missed,9716.0,300673.0,851,675000,OT1,135061,False,3.0,273.0,26.0,,,9716.0,Yar Mayen,South Sudan,11.0,OT1,Left Corner 3,13.4,8-16 ft.,2427,SSD
+unknwown,4:30,1786997064000,56,56,REB,defensive rebound,27.0,215026.0,852,675002,OT1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,OT1,,,,2430,BRA
+shot,4:19,1786997076000,58,56,P2,"2PtsFG under the basket, driving layup made",27.0,392716.0,853,676000,OT1,135061,True,2.0,147.0,30.0,,,27.0,Bella Nascimento,Brazil,8.0,OT1,Restricted Area,1.2,Less Than 8 ft.,2441,BRA
+unknwown,4:19,1786997076000,58,56,ASS,made the assist,27.0,203242.0,972,676001,OT1,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2441,BRA
+unknwown,4:01,1786997094000,58,56,TO,turnover; bad pass,9716.0,217250.0,854,677000,OT1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,,,2459,SSD
+unknwown,4:01,1786997094000,58,56,ST,steal,27.0,203242.0,855,677001,OT1,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2459,BRA
+shot,3:55,1786997100000,58,56,P2,2pt floating jump shot missed,27.0,302154.0,856,678000,OT1,135061,False,2.0,124.0,87.0,,,27.0,Aaliyah Guyton,Brazil,4.0,OT1,In The Paint (Non-RA),5.0,Less Than 8 ft.,2465,BRA
+unknwown,3:55,1786997100000,58,56,BS,blocked the shot,9716.0,373877.0,857,678001,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2465,SSD
+unknwown,3:49,1786997106000,58,56,REB,defensive rebound,9716.0,300673.0,858,678002,OT1,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,OT1,,,,2471,SSD
+shot,3:43,1786997112000,58,56,P3,3pt jump shot missed,9716.0,300673.0,859,679000,OT1,135061,False,3.0,244.0,143.0,,,9716.0,Yar Mayen,South Sudan,11.0,OT1,Above the Break 3,14.6,8-16 ft.,2477,SSD
+unknwown,3:40,1786997115000,58,56,REB,defensive rebound,27.0,342721.0,860,679002,OT1,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2480,BRA
+shot,3:24,1786997132000,58,56,P2,2pt pullup jump shot missed,27.0,392716.0,861,680000,OT1,135061,False,2.0,140.0,111.0,,,27.0,Bella Nascimento,Brazil,8.0,OT1,Mid-Range,7.1,Less Than 8 ft.,2496,BRA
+unknwown,3:17,1786997137000,58,56,REB,defensive rebound,9716.0,373877.0,862,680002,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2503,SSD
+shot,3:07,1786997150000,58,59,P3,3pt jump shot from center made,9716.0,374577.0,865,683000,OT1,135061,True,3.0,148.0,174.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,Above the Break 3,13.4,8-16 ft.,2513,SSD
+shot,2:40,1786997176000,58,59,P2,"2PtsFG under the basket, jump shot missed",27.0,342721.0,866,684000,OT1,135061,False,2.0,151.0,39.0,,,27.0,Heloisa Carrera,Brazil,14.0,OT1,Restricted Area,1.1,Less Than 8 ft.,2540,BRA
+unknwown,2:36,1786997180000,58,59,REB,defensive rebound,9716.0,217250.0,867,684002,OT1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,,,2544,SSD
+shot,2:30,1786997186000,58,59,P2,"2PtsFG inside center, jump shot missed",9716.0,374577.0,870,687000,OT1,135061,False,2.0,151.0,118.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,Mid-Range,7.9,Less Than 8 ft.,2550,SSD
+unknwown,2:26,1786997190000,58,59,REB,offensive rebound,9716.0,373877.0,871,687002,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2554,SSD
+shot,2:17,1786997199000,58,59,P2,2pt jump shot missed,9716.0,217250.0,872,688000,OT1,135061,False,2.0,153.0,85.0,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,In The Paint (Non-RA),4.7,Less Than 8 ft.,2563,SSD
+unknwown,2:14,1786997202000,58,59,REB,offensive rebound,9716.0,373877.0,873,688002,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2566,SSD
+shot,2:09,1786997208000,58,59,P2,"2PtsFG under the basket, layup missed",9716.0,374577.0,874,689000,OT1,135061,False,2.0,130.0,39.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,Restricted Area,1.0,Less Than 8 ft.,2571,SSD
+unknwown,2:05,1786997211000,58,59,REB,defensive rebound,27.0,342721.0,875,689002,OT1,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2575,BRA
+shot,2:02,1786997215000,60,59,P2,"2PtsFG under the basket, fast break, driving layup made",27.0,392716.0,876,690000,OT1,135061,True,2.0,141.0,39.0,,,27.0,Bella Nascimento,Brazil,8.0,OT1,Restricted Area,0.1,Less Than 8 ft.,2578,BRA
+shot,1:46,1786997231000,60,59,P2,"2PtsFG under the basket, jump shot missed",9716.0,300673.0,877,691000,OT1,135061,False,2.0,155.0,35.0,,,9716.0,Yar Mayen,South Sudan,11.0,OT1,Restricted Area,1.6,Less Than 8 ft.,2594,SSD
+unknwown,1:44,1786997235000,60,59,REB,defensive rebound,27.0,203242.0,879,691002,OT1,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2596,BRA
+unknwown,1:44,1786997244000,60,59,FOUL,Personal foul; 2 free throws awarded,9716.0,300673.0,880,693000,OT1,135061,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,OT1,,,,2596,SSD
+unknwown,1:44,1786997244000,60,59,RFOUL,foul drawn,27.0,203242.0,881,693002,OT1,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2596,BRA
+subst,1:44,1786997261000,60,59,SUBST,Substitution out,27.0,342721.0,882,694000,OT1,135061,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2596,BRA
+subst,1:44,1786997261000,60,59,SUBST,Substitution in,27.0,200399.0,883,695000,OT1,135061,,,,,,IN,27.0,Aline Moura,Brazil,12.0,OT1,,,,2596,BRA
+subst,1:44,1786997261000,60,59,SUBST,Substitution out,9716.0,300673.0,884,696000,OT1,135061,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,OT1,,,,2596,SSD
+subst,1:44,1786997261000,60,59,SUBST,Substitution in,9716.0,300672.0,885,697000,OT1,135061,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,OT1,,,,2596,SSD
+shot,1:44,1786997279000,60,59,FT,1st of 2 free throws missed,27.0,203242.0,886,698000,OT1,135061,False,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,14.6,8-16 ft.,2596,BRA
+shot,1:44,1786997296000,60,59,FT,2nd of 2 free throws missed,27.0,203242.0,887,699000,OT1,135061,False,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,14.6,8-16 ft.,2596,BRA
+unknwown,1:44,1786997297000,60,59,TREB,team defensive rebound,9716.0,,888,699002,OT1,135061,,,,,,,,,,,OT1,,,,2596,
+shot,1:41,1786997318000,60,59,P3,3pt jump shot missed,9716.0,374577.0,890,701000,OT1,135061,False,3.0,57.0,153.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,Above the Break 3,14.0,8-16 ft.,2599,SSD
+unknwown,1:38,1786997320000,60,59,REB,offensive rebound,9716.0,217250.0,891,701002,OT1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,,,2602,SSD
+shot,1:37,1786997322000,60,59,P2,2pt jump shot missed,9716.0,217250.0,892,702000,OT1,135061,False,2.0,159.0,48.0,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,Restricted Area,2.1,Less Than 8 ft.,2603,SSD
+unknwown,1:34,1786997327000,60,59,REB,offensive rebound,9716.0,300668.0,894,702002,OT1,135061,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,OT1,,,,2606,SSD
+unknwown,1:31,1786997340000,60,59,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,897,706000,OT1,135061,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2609,BRA
+unknwown,1:31,1786997340000,60,59,RFOUL,foul drawn,9716.0,373877.0,898,706002,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2609,SSD
+subst,1:31,1786997358000,60,59,SUBST,Substitution out,27.0,203242.0,899,707000,OT1,135061,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,OT1,,,,2609,BRA
+subst,1:31,1786997358000,60,59,SUBST,Substitution in,27.0,342721.0,900,708000,OT1,135061,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2609,BRA
+shot,1:31,1786997366000,60,59,FT,1st of 2 free throws missed,9716.0,373877.0,901,709000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,14.6,8-16 ft.,2609,SSD
+shot,1:31,1786997383000,60,59,FT,2nd of 2 free throws missed,9716.0,373877.0,902,710000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,14.6,8-16 ft.,2609,SSD
+unknwown,1:31,1786997384000,60,59,TREB,team defensive rebound,27.0,,903,710002,OT1,135061,,,,,,,,,,,OT1,,,,2609,
+unknwown,1:29,1786997387000,60,59,FOUL,Personal foul; 2 free throws awarded,9716.0,217250.0,905,712000,OT1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,,,2611,SSD
+unknwown,1:29,1786997387000,60,59,RFOUL,foul drawn,27.0,200399.0,906,712002,OT1,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,OT1,,,,2611,BRA
+shot,1:07,1786997427000,60,59,FT,1st of 2 free throws missed,27.0,200399.0,908,714000,OT1,135061,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,OT1,,14.6,8-16 ft.,2633,BRA
+shot,1:07,1786997429000,61,59,FT,2nd of 2 free throws made,27.0,200399.0,909,715000,OT1,135061,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,OT1,,14.6,8-16 ft.,2633,BRA
+shot,1:07,1786997471000,61,59,P2,"2PtsFG inside left, jump shot missed",9716.0,217250.0,910,716000,OT1,135061,False,2.0,79.0,100.0,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,Mid-Range,8.6,8-16 ft.,2633,SSD
+unknwown,1:07,1786997481000,61,59,TREB,team offensive rebound,9716.0,,911,716002,OT1,135061,,,,,,,,,,,OT1,,,,2633,
+unknwown,1:07,1786997483000,61,59,FOUL,Personal foul; 2 free throws awarded,27.0,342721.0,912,717000,OT1,135061,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,OT1,,,,2633,BRA
+unknwown,1:07,1786997483000,61,59,RFOUL,foul drawn,9716.0,373877.0,913,717002,OT1,135061,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,,,2633,SSD
+shot,1:07,1786997512000,61,59,FT,1st of 2 free throws missed,9716.0,373877.0,914,718000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,14.6,8-16 ft.,2633,SSD
+shot,1:07,1786997526000,61,60,FT,2nd of 2 free throws made,9716.0,373877.0,915,719000,OT1,135061,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,OT1,,14.6,8-16 ft.,2633,SSD
+shot,0:54,1786997546000,61,60,P3,3pt jump shot missed,27.0,215026.0,917,721000,OT1,135061,False,3.0,233.0,144.0,,,27.0,Emanuely Oliveira,Brazil,11.0,OT1,Above the Break 3,14.0,8-16 ft.,2646,BRA
+unknwown,0:51,1786997549000,61,60,REB,defensive rebound,9716.0,217250.0,918,721002,OT1,135061,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,,,2649,SSD
+unknwown,0:38,1786997566000,61,60,FOUL,Personal foul; 2 free throws awarded,27.0,392716.0,922,725000,OT1,135061,,,,,,,27.0,Bella Nascimento,Brazil,8.0,OT1,,,,2662,BRA
+unknwown,0:38,1786997566000,61,60,RFOUL,foul drawn,9716.0,374577.0,923,725002,OT1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,,,2662,SSD
+shot,0:38,1786997583000,61,60,FT,1st of 2 free throws missed,9716.0,374577.0,924,726000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2662,SSD
+shot,0:38,1786997596000,61,61,FT,2nd of 2 free throws made,9716.0,374577.0,925,727000,OT1,135061,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2662,SSD
+shot,0:29,1786997610000,61,61,P2,"2PtsFG inside left, jump shot missed",27.0,302154.0,929,731000,OT1,135061,False,2.0,77.0,87.0,,,27.0,Aaliyah Guyton,Brazil,4.0,OT1,Mid-Range,7.9,Less Than 8 ft.,2671,BRA
+unknwown,0:25,1786997614000,61,61,REB,defensive rebound,9716.0,374577.0,930,731002,OT1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,,,2675,SSD
+unknwown,0:21,1786997626000,61,61,FOUL,Personal foul; 2 free throws awarded,27.0,200399.0,936,737000,OT1,135061,,,,,,,27.0,Aline Moura,Brazil,12.0,OT1,,,,2679,BRA
+unknwown,0:21,1786997626000,61,61,RFOUL,foul drawn,9716.0,374577.0,937,737002,OT1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,,,2679,SSD
+unknwown,0:21,1786997648000,61,61,CFOUL,Technical foul bench,27.0,,938,738000,OT1,135061,,,,,,,,,,,OT1,,,,2679,
+shot,0:21,1786997661000,61,62,FT,1st free throw made,9716.0,217250.0,939,739000,OT1,135061,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,OT1,,14.6,8-16 ft.,2679,SSD
+subst,0:21,1786997680000,61,62,SUBST,Substitution out,27.0,200399.0,940,740000,OT1,135061,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,OT1,,,,2679,BRA
+subst,0:21,1786997680000,61,62,SUBST,Substitution in,27.0,178705.0,941,741000,OT1,135061,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,OT1,,,,2679,BRA
+shot,0:21,1786997699000,61,62,FT,1st of 2 free throws missed,9716.0,374577.0,942,742000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2679,SSD
+shot,0:21,1786997712000,61,63,FT,2nd of 2 free throws made,9716.0,374577.0,943,743000,OT1,135061,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2679,SSD
+unknwown,0:21,1787000449000,61,63,VTR,Head coach's challenge unsuccessful,9716.0,,973,743500,OT1,135061,,,,,,,,,,,OT1,,,,2679,
+timeout,0:21,1786997754000,61,63,TIMO,Timeout,,,944,744000,OT1,135061,,,,,,,,,,,OT1,,,,2679,
+unknwown,0:13,1786997843000,61,63,TO,turnover; bad pass,27.0,302154.0,946,746000,OT1,135061,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,OT1,,,,2687,BRA
+unknwown,0:13,1786997843000,61,63,ST,steal,9716.0,300672.0,948,746001,OT1,135061,,,,,,,9716.0,Perina Leime,South Sudan,21.0,OT1,,,,2687,SSD
+unknwown,0:04,1786997861000,61,63,FOUL,Personal foul; 2 free throws awarded,27.0,215026.0,951,750000,OT1,135061,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,OT1,,,,2696,BRA
+unknwown,0:04,1786997861000,61,63,RFOUL,foul drawn,9716.0,374577.0,952,750002,OT1,135061,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,,,2696,SSD
+shot,0:04,1786997890000,61,63,FT,1st of 2 free throws missed,9716.0,374577.0,953,751000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2696,SSD
+shot,0:04,1786997900000,61,63,FT,2nd of 2 free throws missed,9716.0,374577.0,954,752000,OT1,135061,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,OT1,,14.6,8-16 ft.,2696,SSD
+unknwown,0:03,1786997909000,61,63,TREB,team offensive rebound,9716.0,,957,752002,OT1,135061,,,,,,,,,,,OT1,,,,2697,
+timeout,0:03,1786997918000,61,63,TIMO,Timeout,9716.0,,958,755000,OT1,135061,,,,,,,,,,,OT1,,,,2697,
+periods,0:00,1786998165000,61,63,ENDP,End of period,,,961,758000,OT1,135061,,,,,,,,,,,OT1,,,,2700,
+periods,0:00,1786998174000,61,63,ENDG,End of game,,,962,759000,OT1,135061,,,,,,,,,,,OT1,,,,2700,
+periods,10:00,1787000161000,0,0,STARTG,Start of game,,,1,1000,Q1,135062,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787000161000,0,0,STARTP,Start of period,,,2,2000,Q1,135062,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787000161000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135062,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787000161000,0,0,JB,jump ball won,14.0,302892.0,5,4001,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,1,ARG
+unknwown,9:59,1787000161000,0,0,JB,jump ball lost,113.0,206251.0,6,4002,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,1,NZL
+unknwown,9:53,1787000191000,0,0,TO,turnover; travelling,14.0,221602.0,12,10000,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,7,ARG
+shot,9:38,1787000214000,0,2,P2,"2PtsFG under the basket, points after turnover, jump shot made",113.0,258137.0,14,12000,Q1,135062,True,2.0,125.0,27.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Restricted Area,2.0,Less Than 8 ft.,22,NZL
+shot,9:16,1787000248000,0,2,P2,"2PtsFG inside left, jump shot missed",14.0,153423.0,19,17000,Q1,135062,False,2.0,73.0,59.0,,,14.0,Agostina Burani,Argentina,10.0,Q1,Mid-Range,7.0,Less Than 8 ft.,44,ARG
+unknwown,9:14,1787000255000,0,2,TREB,team defensive rebound,113.0,,21,17002,Q1,135062,,,,,,,,,,,Q1,,,,46,
+shot,8:51,1787000297000,0,2,P2,2pt turnaround jump shot missed,113.0,317318.0,27,24000,Q1,135062,False,2.0,134.0,68.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,69,NZL
+unknwown,8:47,1787000301000,0,2,REB,defensive rebound,14.0,302892.0,28,24002,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,73,ARG
+shot,8:35,1787000313000,0,2,P2,"2PtsFG under the basket, layup missed",14.0,214723.0,29,25000,Q1,135062,False,2.0,136.0,39.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Restricted Area,0.4,Less Than 8 ft.,85,ARG
+unknwown,8:32,1787000316000,0,2,REB,defensive rebound,113.0,258137.0,30,25002,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,88,NZL
+shot,8:27,1787000322000,0,4,P2,"2PtsFG under the basket, fast break, turnaround jump shot made",113.0,317318.0,31,26000,Q1,135062,True,2.0,145.0,36.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,0.6,Less Than 8 ft.,93,NZL
+unknwown,8:27,1787000322000,0,4,ASS,made the assist,113.0,258137.0,32,26001,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,93,NZL
+shot,8:08,1787000341000,0,4,P2,2pt jump shot missed,14.0,163689.0,35,29000,Q1,135062,False,2.0,148.0,100.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,In The Paint (Non-RA),6.1,Less Than 8 ft.,112,ARG
+unknwown,8:04,1787000345000,0,4,REB,defensive rebound,113.0,206251.0,36,29002,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,116,NZL
+unknwown,7:52,1787000358000,0,4,TO,turnover; bad pass,113.0,328255.0,37,30000,Q1,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,128,NZL
+unknwown,7:52,1787000358000,0,4,ST,steal,14.0,302892.0,38,30001,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,128,ARG
+unknwown,7:43,1787000370000,0,4,FOUL,Personal foul,113.0,258137.0,42,34000,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,137,NZL
+unknwown,7:43,1787000370000,0,4,RFOUL,foul drawn,14.0,214723.0,43,34002,Q1,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,137,ARG
+shot,7:33,1787000396000,0,4,P2,"2PtsFG under the basket, points after turnover, jump shot missed",14.0,302892.0,45,36000,Q1,135062,False,2.0,128.0,35.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Restricted Area,1.3,Less Than 8 ft.,147,ARG
+unknwown,7:29,1787000399000,0,4,REB,defensive rebound,113.0,206251.0,46,36002,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,151,NZL
+unknwown,7:23,1787000406000,0,4,TO,turnover; ball handling,113.0,328255.0,47,37000,Q1,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,157,NZL
+unknwown,7:23,1787000406000,0,4,ST,steal,14.0,221602.0,48,37001,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,157,ARG
+shot,7:19,1787000411000,2,4,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,221602.0,49,38000,Q1,135062,True,2.0,156.0,36.0,,,14.0,Dalma Piri,Argentina,2.0,Q1,Restricted Area,1.6,Less Than 8 ft.,161,ARG
+unknwown,7:06,1787000423000,2,4,TO,turnover; ball handling,113.0,317318.0,50,39000,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,174,NZL
+unknwown,7:06,1787000423000,2,4,ST,steal,14.0,221602.0,51,39001,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,174,ARG
+shot,7:00,1787000429000,4,4,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",14.0,214723.0,52,40000,Q1,135062,True,2.0,130.0,33.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Restricted Area,1.2,Less Than 8 ft.,180,ARG
+unknwown,7:00,1787000429000,4,4,ASS,made the assist,14.0,221602.0,53,40001,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,180,ARG
+shot,6:47,1787000443000,4,4,P2,layup missed,113.0,328255.0,56,43000,Q1,135062,False,2.0,110.0,45.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,In The Paint (Non-RA),3.0,Less Than 8 ft.,193,NZL
+unknwown,6:43,1787000447000,4,4,REB,defensive rebound,14.0,214723.0,57,43002,Q1,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,197,ARG
+shot,6:30,1787000459000,4,4,P2,"2PtsFG under the basket, driving layup missed",14.0,214723.0,58,44000,Q1,135062,False,2.0,158.0,19.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Restricted Area,2.8,Less Than 8 ft.,210,ARG
+unknwown,6:27,1787000462000,4,4,REB,defensive rebound,113.0,206251.0,59,44002,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,213,NZL
+unknwown,6:19,1787000478000,4,4,FOUL,Personal foul,14.0,221602.0,63,48000,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,221,ARG
+unknwown,6:19,1787000478000,4,4,RFOUL,foul drawn,113.0,317318.0,64,48002,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,221,NZL
+subst,6:19,1787000488000,4,4,SUBST,Substitution out,113.0,328255.0,65,49000,Q1,135062,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,221,NZL
+subst,6:19,1787000488000,4,4,SUBST,Substitution out,113.0,317318.0,66,50000,Q1,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,221,NZL
+subst,6:19,1787000488000,4,4,SUBST,Substitution in,113.0,296082.0,67,51000,Q1,135062,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,221,NZL
+subst,6:19,1787000488000,4,4,SUBST,Substitution in,113.0,219363.0,68,52000,Q1,135062,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,221,NZL
+shot,6:18,1787000504000,4,4,P2,"2PtsFG inside left, jump shot missed",113.0,258137.0,70,54000,Q1,135062,False,2.0,84.0,112.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Mid-Range,9.1,8-16 ft.,222,NZL
+unknwown,6:15,1787000507000,4,4,REB,offensive rebound,113.0,296082.0,71,54002,Q1,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,225,NZL
+unknwown,6:14,1787000508000,4,4,TO,turnover; bad pass,113.0,258137.0,72,55000,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,226,NZL
+unknwown,6:14,1787000508000,4,4,ST,steal,14.0,221602.0,73,55001,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,226,ARG
+shot,6:09,1787000513000,6,4,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,221602.0,74,56000,Q1,135062,True,2.0,137.0,36.0,,,14.0,Dalma Piri,Argentina,2.0,Q1,Restricted Area,0.5,Less Than 8 ft.,231,ARG
+unknwown,5:59,1787000529000,6,4,FOUL,Personal foul,14.0,221602.0,78,60000,Q1,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,241,ARG
+unknwown,5:59,1787000529000,6,4,RFOUL,foul drawn,113.0,206251.0,79,60002,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,241,NZL
+subst,5:59,1787000540000,6,4,SUBST,Substitution out,14.0,221602.0,80,61000,Q1,135062,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q1,,,,241,ARG
+subst,5:59,1787000540000,6,4,SUBST,Substitution in,14.0,419538.0,81,62000,Q1,135062,,,,,,IN,14.0,Olivia Oltmann,Argentina,21.0,Q1,,,,241,ARG
+shot,5:57,1787000553000,6,7,P3,3pt jump shot made,113.0,219363.0,83,64000,Q1,135062,True,3.0,24.0,124.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,14.3,8-16 ft.,243,NZL
+unknwown,5:57,1787000553000,6,7,ASS,made the assist,113.0,206251.0,84,64001,Q1,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,243,NZL
+unknwown,5:46,1787000565000,6,7,TO,turnover; bad pass,14.0,214723.0,87,67000,Q1,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,254,ARG
+unknwown,5:46,1787000565000,6,7,ST,steal,113.0,258137.0,88,67001,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,254,NZL
+unknwown,5:40,1787000585000,6,7,FOUL,Personal foul,14.0,214723.0,90,69000,Q1,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,260,ARG
+unknwown,5:40,1787000585000,6,7,RFOUL,foul drawn,113.0,258137.0,91,69002,Q1,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,260,NZL
+shot,5:33,1787000600000,6,7,P2,2pt jump shot missed,113.0,219363.0,93,71000,Q1,135062,False,2.0,114.0,56.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,In The Paint (Non-RA),3.1,Less Than 8 ft.,267,NZL
+unknwown,5:29,1787000604000,6,7,REB,defensive rebound,14.0,302892.0,94,71002,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,271,ARG
+shot,5:11,1787000622000,9,7,P3,3pt jump shot made,14.0,214723.0,95,72000,Q1,135062,True,3.0,272.0,39.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Left Corner 3,13.2,8-16 ft.,289,ARG
+unknwown,5:11,1787000622000,9,7,ASS,made the assist,14.0,163689.0,96,72001,Q1,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,289,ARG
+shot,4:59,1787000635000,9,9,P2,"2PtsFG under the basket, layup made",113.0,206251.0,97,73000,Q1,135062,True,2.0,148.0,37.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,Restricted Area,0.9,Less Than 8 ft.,301,NZL
+unknwown,4:59,1787000635000,9,9,ASS,made the assist,113.0,296082.0,98,73001,Q1,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,301,NZL
+shot,4:37,1787000656000,9,9,P3,3pt jump shot missed,14.0,214723.0,99,74000,Q1,135062,False,3.0,249.0,118.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Above the Break 3,13.4,8-16 ft.,323,ARG
+unknwown,4:35,1787000666000,9,9,TREB,team defensive rebound,113.0,,101,74002,Q1,135062,,,,,,,,,,,Q1,,,,325,
+subst,4:35,1787000689000,9,9,SUBST,Substitution out,113.0,206251.0,102,76000,Q1,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,325,NZL
+subst,4:35,1787000689000,9,9,SUBST,Substitution out,113.0,239275.0,103,77000,Q1,135062,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,325,NZL
+subst,4:35,1787000689000,9,9,SUBST,Substitution in,113.0,328112.0,104,78000,Q1,135062,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,325,NZL
+subst,4:35,1787000689000,9,9,SUBST,Substitution in,113.0,317318.0,105,79000,Q1,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,325,NZL
+shot,4:19,1787000706000,9,9,P2,2pt jump shot missed,113.0,296082.0,107,81000,Q1,135062,False,2.0,101.0,83.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,In The Paint (Non-RA),5.8,Less Than 8 ft.,341,NZL
+unknwown,4:19,1787000706000,9,9,BS,blocked the shot,14.0,302892.0,111,81001,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,341,ARG
+unknwown,4:19,1787000708000,9,9,REB,offensive rebound,113.0,317318.0,108,81002,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,341,NZL
+shot,4:13,1787000713000,9,9,P2,"2PtsFG inside left, jump shot missed",113.0,258137.0,109,82000,Q1,135062,False,2.0,85.0,86.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Mid-Range,7.2,Less Than 8 ft.,347,NZL
+unknwown,4:09,1787000717000,9,9,REB,offensive rebound,113.0,328112.0,110,82002,Q1,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,351,NZL
+unknwown,3:53,1787007487000,9,9,TO,turnover; bad pass,113.0,328112.0,870,82500,Q1,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,367,NZL
+unknwown,3:53,1787007487000,9,9,ST,steal,14.0,214723.0,871,82501,Q1,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,367,ARG
+shot,3:53,1787000734000,9,9,P3,3pt jump shot missed,14.0,419538.0,112,83000,Q1,135062,False,3.0,196.0,163.0,,,14.0,Olivia Oltmann,Argentina,21.0,Q1,Above the Break 3,13.5,8-16 ft.,367,ARG
+unknwown,3:50,1787000735000,9,9,REB,defensive rebound,113.0,296082.0,113,83002,Q1,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,370,NZL
+shot,3:44,1787000741000,9,12,P3,3pt jump shot made,113.0,258137.0,114,84000,Q1,135062,True,3.0,6.0,23.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Right Corner 3,13.5,8-16 ft.,376,NZL
+unknwown,3:44,1787000741000,9,12,ASS,made the assist,113.0,296082.0,115,84001,Q1,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,376,NZL
+shot,3:21,1787000764000,9,12,P3,3pt jump shot missed,14.0,214723.0,116,85000,Q1,135062,False,3.0,222.0,161.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Above the Break 3,14.6,8-16 ft.,399,ARG
+unknwown,3:18,1787000766000,9,12,REB,defensive rebound,113.0,328112.0,117,85002,Q1,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,402,NZL
+shot,3:06,1787000779000,9,14,P2,"2PtsFG under the basket, jump shot made",113.0,258137.0,118,86000,Q1,135062,True,2.0,124.0,33.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Restricted Area,1.7,Less Than 8 ft.,414,NZL
+shot,2:40,1787000805000,12,14,P3,3pt jump shot made,14.0,153423.0,119,87000,Q1,135062,True,3.0,274.0,22.0,,,14.0,Agostina Burani,Argentina,10.0,Q1,Left Corner 3,13.5,8-16 ft.,440,ARG
+unknwown,2:40,1787000805000,12,14,ASS,made the assist,14.0,163689.0,120,87001,Q1,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,440,ARG
+shot,2:26,1787000819000,12,14,P2,layup missed,113.0,317318.0,121,88000,Q1,135062,False,2.0,137.0,50.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,1.0,Less Than 8 ft.,454,NZL
+unknwown,2:23,1787000822000,12,14,REB,defensive rebound,14.0,153423.0,122,88002,Q1,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q1,,,,457,ARG
+shot,2:07,1787000838000,12,14,P3,3pt jump shot missed,14.0,153423.0,123,89000,Q1,135062,False,3.0,242.0,137.0,,,14.0,Agostina Burani,Argentina,10.0,Q1,Above the Break 3,14.1,8-16 ft.,473,ARG
+unknwown,2:04,1787000841000,12,14,REB,defensive rebound,113.0,328112.0,124,89002,Q1,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,476,NZL
+unknwown,1:51,1787000857000,12,14,FOUL,Personal foul,14.0,302892.0,128,93000,Q1,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,489,ARG
+unknwown,1:51,1787000857000,12,14,RFOUL,foul drawn,113.0,328112.0,129,93002,Q1,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,14.0,302892.0,130,94000,Q1,135062,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,14.0,163689.0,131,95000,Q1,135062,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,14.0,214723.0,132,96000,Q1,135062,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,14.0,170619.0,133,97000,Q1,135062,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,14.0,200337.0,134,98000,Q1,135062,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,14.0,401377.0,135,99000,Q1,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q1,,,,489,ARG
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,113.0,258137.0,136,100000,Q1,135062,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,113.0,296082.0,137,101000,Q1,135062,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution out,113.0,219363.0,138,102000,Q1,135062,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,113.0,328255.0,139,103000,Q1,135062,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,113.0,377527.0,140,104000,Q1,135062,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q1,,,,489,NZL
+subst,1:51,1787000888000,12,14,SUBST,Substitution in,113.0,261208.0,141,105000,Q1,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,489,NZL
+shot,1:46,1787000899000,12,14,P2,"2PtsFG inside center, jump shot missed",113.0,328255.0,143,107000,Q1,135062,False,2.0,98.0,108.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Mid-Range,8.0,8-16 ft.,494,NZL
+unknwown,1:41,1787000903000,12,14,REB,defensive rebound,14.0,200337.0,144,107002,Q1,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q1,,,,499,ARG
+unknwown,1:25,1787000924000,12,14,TO,turnover; out of bounds,14.0,401377.0,146,109000,Q1,135062,,,,,,,14.0,Sofia Lombardero,Argentina,13.0,Q1,,,,515,ARG
+subst,1:25,1787000933000,12,14,SUBST,Substitution out,14.0,153423.0,147,110000,Q1,135062,,,,,,OUT,14.0,Agostina Burani,Argentina,10.0,Q1,,,,515,ARG
+subst,1:25,1787000933000,12,14,SUBST,Substitution in,14.0,301664.0,148,111000,Q1,135062,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,515,ARG
+shot,1:17,1787000961000,12,14,P2,2pt turnaround jump shot missed,113.0,317318.0,150,113000,Q1,135062,False,2.0,139.0,55.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,In The Paint (Non-RA),1.5,Less Than 8 ft.,523,NZL
+unknwown,1:12,1787000965000,12,14,REB,defensive rebound,14.0,301664.0,151,113002,Q1,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,528,ARG
+shot,0:59,1787000979000,12,14,P2,2pt floating jump shot missed,14.0,170619.0,152,114000,Q1,135062,False,2.0,211.0,40.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,Mid-Range,7.1,Less Than 8 ft.,541,ARG
+unknwown,0:54,1787000983000,12,14,REB,defensive rebound,113.0,317318.0,153,114002,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,546,NZL
+shot,0:42,1787000995000,12,14,P2,"2PtsFG under the basket, layup missed",113.0,328112.0,154,115000,Q1,135062,False,2.0,146.0,39.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,Restricted Area,0.6,Less Than 8 ft.,558,NZL
+unknwown,0:38,1787000999000,12,14,REB,defensive rebound,14.0,170619.0,155,115002,Q1,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,562,ARG
+shot,0:28,1787001009000,12,14,P2,"2PtsFG under the basket, jump shot missed",14.0,401377.0,156,116000,Q1,135062,False,2.0,149.0,44.0,,,14.0,Sofia Lombardero,Argentina,13.0,Q1,Restricted Area,1.0,Less Than 8 ft.,572,ARG
+unknwown,0:25,1787001012000,12,14,REB,offensive rebound,14.0,401377.0,157,116002,Q1,135062,,,,,,,14.0,Sofia Lombardero,Argentina,13.0,Q1,,,,575,ARG
+shot,0:21,1787001016000,12,14,P2,"2PtsFG inside right wing, jump shot missed",14.0,170619.0,158,117000,Q1,135062,False,2.0,222.0,43.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,Mid-Range,8.2,8-16 ft.,579,ARG
+unknwown,0:20,1787001019000,12,14,REB,defensive rebound,113.0,317318.0,160,117002,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,580,NZL
+unknwown,0:17,1787001027000,12,14,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,163,121000,Q1,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,583,ARG
+unknwown,0:17,1787001027000,12,14,RFOUL,foul drawn,113.0,317318.0,164,121002,Q1,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,583,NZL
+subst,0:17,1787001066000,12,14,SUBST,Substitution out,14.0,401377.0,165,122000,Q1,135062,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q1,,,,583,ARG
+subst,0:17,1787001066000,12,14,SUBST,Substitution out,14.0,419538.0,166,123000,Q1,135062,,,,,,OUT,14.0,Olivia Oltmann,Argentina,21.0,Q1,,,,583,ARG
+subst,0:17,1787001066000,12,14,SUBST,Substitution in,14.0,163689.0,167,124000,Q1,135062,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,583,ARG
+subst,0:17,1787001066000,12,14,SUBST,Substitution in,14.0,214723.0,168,125000,Q1,135062,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,583,ARG
+subst,0:17,1787001066000,12,14,SUBST,Substitution out,113.0,328112.0,169,126000,Q1,135062,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,583,NZL
+subst,0:17,1787001066000,12,14,SUBST,Substitution out,113.0,377527.0,170,127000,Q1,135062,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q1,,,,583,NZL
+subst,0:17,1787001066000,12,14,SUBST,Substitution in,113.0,258137.0,171,128000,Q1,135062,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,583,NZL
+subst,0:17,1787001066000,12,14,SUBST,Substitution in,113.0,219363.0,172,129000,Q1,135062,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,583,NZL
+shot,0:17,1787001076000,12,14,FT,1st of 2 free throws missed,113.0,317318.0,173,130000,Q1,135062,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,583,NZL
+shot,0:17,1787001086000,12,14,FT,2nd of 2 free throws missed,113.0,317318.0,174,131000,Q1,135062,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,583,NZL
+unknwown,0:17,1787001087000,12,14,TREB,team defensive rebound,14.0,,175,131002,Q1,135062,,,,,,,,,,,Q1,,,,583,
+unknwown,0:17,1787001093000,12,14,FOUL,Personal foul,113.0,219363.0,176,132000,Q1,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,583,NZL
+unknwown,0:17,1787001093000,12,14,RFOUL,foul drawn,14.0,170619.0,177,132002,Q1,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,583,ARG
+subst,0:17,1787001105000,12,14,SUBST,Substitution out,113.0,317318.0,178,133000,Q1,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,583,NZL
+subst,0:17,1787001105000,12,14,SUBST,Substitution in,113.0,206251.0,179,134000,Q1,135062,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,583,NZL
+unknwown,0:13,1787001119000,12,14,FOUL,Personal foul,113.0,328255.0,184,139000,Q1,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,587,NZL
+unknwown,0:13,1787001119000,12,14,RFOUL,foul drawn,14.0,163689.0,185,139002,Q1,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,587,ARG
+subst,0:13,1787001126000,12,14,SUBST,Substitution out,113.0,328255.0,186,140000,Q1,135062,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,587,NZL
+subst,0:13,1787001126000,12,14,SUBST,Substitution in,113.0,296082.0,187,141000,Q1,135062,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,587,NZL
+unknwown,0:02,1787001147000,12,14,FOUL,Personal foul,113.0,261208.0,190,144000,Q1,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,598,NZL
+unknwown,0:02,1787001147000,12,14,RFOUL,foul drawn,14.0,163689.0,191,144002,Q1,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,598,ARG
+shot,0:01,1787001176000,12,14,P3,3pt jump shot missed,14.0,200337.0,194,147000,Q1,135062,False,3.0,271.0,25.0,,,14.0,Julieta Mungo,Argentina,9.0,Q1,Left Corner 3,13.2,8-16 ft.,599,ARG
+periods,0:00,1787001240000,12,14,ENDP,End of period,,,197,150000,Q1,135062,,,,,,,,,,,Q1,,,,600,
+periods,10:00,1787001330000,12,14,STARTP,Start of period,,,198,151000,Q2,135062,,,,,,,,,,,Q2,,,,600,
+unknwown,9:48,1787001345000,12,14,TO,turnover; travelling,113.0,261208.0,201,154000,Q2,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,612,NZL
+shot,9:35,1787001369000,12,14,P3,3pt jump shot missed,14.0,163689.0,203,156000,Q2,135062,False,3.0,151.0,167.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,Above the Break 3,12.7,8-16 ft.,625,ARG
+unknwown,9:33,1787001372000,12,14,TREB,team defensive rebound,113.0,,205,156002,Q2,135062,,,,,,,,,,,Q2,,,,627,
+shot,9:20,1787001397000,12,16,P2,"2PtsFG under the basket, jump shot made",113.0,219363.0,207,159000,Q2,135062,True,2.0,145.0,39.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,Restricted Area,0.5,Less Than 8 ft.,640,NZL
+unknwown,8:59,1787001418000,12,16,TO,turnover; bad pass,14.0,214723.0,211,163000,Q2,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,661,ARG
+subst,8:59,1787001429000,12,16,SUBST,Substitution out,113.0,261208.0,212,164000,Q2,135062,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,661,NZL
+subst,8:59,1787001429000,12,16,SUBST,Substitution in,113.0,239275.0,213,165000,Q2,135062,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,661,NZL
+shot,8:40,1787001450000,12,16,P2,"2PtsFG inside left, points after turnover, jump shot missed",113.0,239275.0,215,167000,Q2,135062,False,2.0,63.0,77.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,Mid-Range,8.5,8-16 ft.,680,NZL
+unknwown,8:33,1787001456000,12,16,REB,offensive rebound,113.0,219363.0,216,167002,Q2,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,687,NZL
+shot,8:31,1787001459000,12,19,P3,3pt jump shot made,113.0,296082.0,217,168000,Q2,135062,True,3.0,124.0,175.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,13.6,8-16 ft.,689,NZL
+unknwown,8:31,1787001460000,12,19,ASS,made the assist,113.0,239275.0,218,168001,Q2,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,689,NZL
+shot,8:05,1787001485000,12,19,P3,3pt jump shot missed,14.0,200337.0,219,169000,Q2,135062,False,3.0,273.0,37.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Left Corner 3,13.3,8-16 ft.,715,ARG
+unknwown,8:02,1787001488000,12,19,REB,offensive rebound,14.0,200337.0,220,169002,Q2,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,718,ARG
+unknwown,7:55,1787001500000,12,19,FOUL,Personal foul,113.0,219363.0,224,173000,Q2,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,725,NZL
+unknwown,7:55,1787001500000,12,19,RFOUL,foul drawn,14.0,301664.0,225,173002,Q2,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,725,ARG
+subst,7:55,1787001507000,12,19,SUBST,Substitution out,113.0,219363.0,226,174000,Q2,135062,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,725,NZL
+subst,7:55,1787001507000,12,19,SUBST,Substitution in,113.0,317318.0,227,175000,Q2,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,725,NZL
+shot,7:49,1787001527000,12,19,P2,2pt pullup jump shot missed,14.0,163689.0,229,177000,Q2,135062,False,2.0,208.0,94.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,Mid-Range,8.7,8-16 ft.,731,ARG
+unknwown,7:46,1787001535000,12,19,REB,defensive rebound,113.0,317318.0,231,177002,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,734,NZL
+unknwown,7:46,1787001539000,12,19,FOUL,Personal foul,14.0,170619.0,232,179000,Q2,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,734,ARG
+unknwown,7:46,1787001539000,12,19,RFOUL,foul drawn,113.0,317318.0,233,179002,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,734,NZL
+unknwown,7:37,1787001584000,12,19,TO,turnover; ball handling,113.0,317318.0,235,181000,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,743,NZL
+unknwown,7:37,1787001584000,12,19,ST,steal,14.0,214723.0,236,181001,Q2,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,743,ARG
+shot,7:26,1787001596000,12,19,P3,3pt jump shot missed,14.0,214723.0,237,182000,Q2,135062,False,3.0,10.0,19.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Right Corner 3,13.2,8-16 ft.,754,ARG
+unknwown,7:23,1787001598000,12,19,REB,defensive rebound,113.0,258137.0,238,182002,Q2,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,757,NZL
+unknwown,7:12,1787001616000,12,19,FOUL,Personal foul,14.0,301664.0,240,184000,Q2,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,768,ARG
+unknwown,7:12,1787001616000,12,19,RFOUL,foul drawn,113.0,317318.0,241,184002,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,768,NZL
+subst,7:12,1787001632000,12,19,SUBST,Substitution out,113.0,296082.0,242,185000,Q2,135062,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,768,NZL
+subst,7:12,1787001632000,12,19,SUBST,Substitution in,113.0,328112.0,243,186000,Q2,135062,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,768,NZL
+shot,7:02,1787001654000,12,19,P2,"2PtsFG inside center, jump shot missed",113.0,317318.0,245,188000,Q2,135062,False,2.0,101.0,121.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Mid-Range,9.0,8-16 ft.,778,NZL
+unknwown,6:59,1787001656000,12,19,REB,defensive rebound,14.0,163689.0,246,188002,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,781,ARG
+unknwown,6:54,1787001671000,12,19,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,248,190000,Q2,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,786,NZL
+unknwown,6:54,1787001671000,12,19,RFOUL,foul drawn,14.0,200337.0,249,190002,Q2,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,786,ARG
+shot,6:54,1787001686000,13,19,FT,1st of 2 free throws made,14.0,200337.0,250,191000,Q2,135062,True,1.0,0.0,0.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,14.6,8-16 ft.,786,ARG
+unknwown,6:54,1787001687000,13,19,ASS,made the assist,14.0,163689.0,872,191001,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,786,ARG
+shot,6:54,1787001698000,13,19,FT,2nd of 2 free throws missed,14.0,200337.0,251,192000,Q2,135062,False,1.0,0.0,0.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,14.6,8-16 ft.,786,ARG
+unknwown,6:54,1787001699000,13,19,REB,defensive rebound,113.0,317318.0,253,192002,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,786,NZL
+unknwown,6:37,1787001725000,13,19,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,259,199000,Q2,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,803,ARG
+unknwown,6:37,1787001725000,13,19,RFOUL,foul drawn,113.0,258137.0,260,199002,Q2,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,803,NZL
+subst,6:37,1787001738000,13,19,SUBST,Substitution out,14.0,301664.0,261,200000,Q2,135062,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,803,ARG
+subst,6:37,1787001738000,13,19,SUBST,Substitution in,14.0,153423.0,262,201000,Q2,135062,,,,,,IN,14.0,Agostina Burani,Argentina,10.0,Q2,,,,803,ARG
+shot,6:37,1787001748000,13,19,FT,1st of 2 free throws missed,113.0,258137.0,263,202000,Q2,135062,False,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,803,NZL
+shot,6:37,1787001762000,13,19,FT,2nd of 2 free throws missed,113.0,258137.0,264,203000,Q2,135062,False,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,803,NZL
+unknwown,6:37,1787001763000,13,19,REB,defensive rebound,14.0,170619.0,266,203002,Q2,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,803,ARG
+unknwown,6:21,1787001786000,13,19,FOUL,Personal foul,113.0,317318.0,272,210000,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,819,NZL
+unknwown,6:21,1787001786000,13,19,RFOUL,foul drawn,14.0,214723.0,273,210002,Q2,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,819,ARG
+shot,6:14,1787001807000,15,19,P2,2pt floating jump shot made,14.0,214723.0,275,212000,Q2,135062,True,2.0,147.0,51.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,In The Paint (Non-RA),1.3,Less Than 8 ft.,826,ARG
+unknwown,6:14,1787001807000,15,19,ASS,made the assist,14.0,163689.0,276,212001,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,826,ARG
+shot,5:55,1787001826000,15,19,P2,layup missed,113.0,239275.0,277,213000,Q2,135062,False,2.0,134.0,55.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,In The Paint (Non-RA),1.6,Less Than 8 ft.,845,NZL
+unknwown,5:50,1787001830000,15,19,REB,defensive rebound,14.0,153423.0,278,213002,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,850,ARG
+shot,5:34,1787001847000,15,19,P3,3pt jump shot missed,14.0,214723.0,279,214000,Q2,135062,False,3.0,34.0,132.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Above the Break 3,14.0,8-16 ft.,866,ARG
+unknwown,5:31,1787001849000,15,19,REB,offensive rebound,14.0,153423.0,280,214002,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,869,ARG
+shot,5:26,1787001855000,15,19,P3,3pt jump shot missed,14.0,153423.0,281,215000,Q2,135062,False,3.0,259.0,99.0,,,14.0,Agostina Burani,Argentina,10.0,Q2,Above the Break 3,13.3,8-16 ft.,874,ARG
+unknwown,5:23,1787001857000,15,19,REB,defensive rebound,113.0,328112.0,282,215002,Q2,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,877,NZL
+shot,5:17,1787001864000,15,21,P2,"2PtsFG inside left, fast break, jump shot made",113.0,239275.0,283,216000,Q2,135062,True,2.0,27.0,57.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,Mid-Range,11.4,8-16 ft.,883,NZL
+unknwown,5:17,1787001864000,15,21,ASS,made the assist,113.0,328112.0,284,216001,Q2,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,883,NZL
+shot,4:57,1787001884000,15,21,P3,3pt jump shot missed,14.0,153423.0,285,217000,Q2,135062,False,3.0,9.0,39.0,,,14.0,Agostina Burani,Argentina,10.0,Q2,Right Corner 3,13.1,8-16 ft.,903,ARG
+unknwown,4:53,1787001887000,15,21,REB,defensive rebound,113.0,317318.0,286,217002,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,907,NZL
+unknwown,4:51,1787001890000,15,21,TO,turnover; bad pass,113.0,317318.0,288,219000,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,909,NZL
+unknwown,4:51,1787001890000,15,21,ST,steal,14.0,153423.0,289,219001,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,909,ARG
+shot,4:51,1787001896000,17,21,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",14.0,200337.0,290,220000,Q2,135062,True,2.0,155.0,37.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,1.5,Less Than 8 ft.,909,ARG
+unknwown,4:51,1787001896000,17,21,ASS,made the assist,14.0,153423.0,291,220001,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,909,ARG
+timeout,4:50,1787001913000,17,21,TIMO,Timeout,113.0,,294,223000,Q2,135062,,,,,,,,,,,Q2,,,,910,
+subst,4:50,1787001995000,17,21,SUBST,Substitution out,14.0,170619.0,295,224000,Q2,135062,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,910,ARG
+subst,4:50,1787001995000,17,21,SUBST,Substitution in,14.0,302892.0,296,225000,Q2,135062,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,910,ARG
+subst,4:50,1787001995000,17,21,SUBST,Substitution out,113.0,258137.0,297,226000,Q2,135062,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,910,NZL
+subst,4:50,1787001995000,17,21,SUBST,Substitution out,113.0,206251.0,298,227000,Q2,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,910,NZL
+subst,4:50,1787001995000,17,21,SUBST,Substitution in,113.0,261208.0,299,228000,Q2,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,910,NZL
+subst,4:50,1787001995000,17,21,SUBST,Substitution in,113.0,219363.0,300,229000,Q2,135062,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,910,NZL
+unknwown,4:38,1787002022000,17,21,FOUL,Offensive foul,113.0,317318.0,305,234000,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,922,NZL
+unknwown,4:38,1787002022000,17,21,TO,turnover,113.0,317318.0,306,234001,Q2,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,922,NZL
+unknwown,4:38,1787002022000,17,21,RFOUL,foul drawn,14.0,153423.0,307,234002,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,922,ARG
+subst,4:38,1787002041000,17,21,SUBST,Substitution out,113.0,317318.0,308,235000,Q2,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,922,NZL
+subst,4:38,1787002041000,17,21,SUBST,Substitution in,113.0,206251.0,309,236000,Q2,135062,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,922,NZL
+shot,4:25,1787002063000,17,21,P2,"2PtsFG under the basket, points after turnover, layup missed",14.0,302892.0,311,238000,Q2,135062,False,2.0,159.0,26.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,Restricted Area,2.4,Less Than 8 ft.,935,ARG
+unknwown,4:21,1787002066000,17,21,REB,offensive rebound,14.0,302892.0,312,238002,Q2,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,939,ARG
+shot,4:19,1787002070000,17,21,P3,3pt jump shot missed,14.0,200337.0,313,239000,Q2,135062,False,3.0,246.0,142.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,14.7,8-16 ft.,941,ARG
+unknwown,4:17,1787002074000,17,21,TREB,team offensive rebound,14.0,,315,239002,Q2,135062,,,,,,,,,,,Q2,,,,943,
+shot,4:06,1787002099000,17,21,P2,"2PtsFG under the basket, points from second chance + after turnover, driving layup missed",14.0,153423.0,317,242000,Q2,135062,False,2.0,149.0,39.0,,,14.0,Agostina Burani,Argentina,10.0,Q2,Restricted Area,0.9,Less Than 8 ft.,954,ARG
+unknwown,4:03,1787002101000,17,21,REB,defensive rebound,113.0,206251.0,318,242002,Q2,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,957,NZL
+shot,3:46,1787002118000,17,23,P2,"2PtsFG under the basket, pullup jump shot made",113.0,206251.0,319,243000,Q2,135062,True,2.0,145.0,40.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,Restricted Area,0.5,Less Than 8 ft.,974,NZL
+unknwown,3:46,1787002118000,17,23,ASS,made the assist,113.0,239275.0,320,243001,Q2,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,974,NZL
+shot,3:20,1787002145000,17,23,P3,3pt jump shot from center missed,14.0,200337.0,321,244000,Q2,135062,False,3.0,185.0,163.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,13.1,8-16 ft.,1000,ARG
+unknwown,3:17,1787002147000,17,23,REB,defensive rebound,113.0,261208.0,322,244002,Q2,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1003,NZL
+unknwown,3:12,1787002152000,17,23,TO,turnover; ball handling,113.0,328112.0,323,245000,Q2,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,1008,NZL
+unknwown,3:12,1787002152000,17,23,ST,steal,14.0,200337.0,324,245001,Q2,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1008,ARG
+unknwown,3:05,1787002179000,17,23,FOUL,Personal foul; 2 free throws awarded,113.0,261208.0,328,249000,Q2,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1015,NZL
+unknwown,3:05,1787002179000,17,23,RFOUL,foul drawn,14.0,163689.0,329,249002,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1015,ARG
+subst,3:05,1787002243000,17,23,SUBST,Substitution out,113.0,328112.0,330,250000,Q2,135062,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,1015,NZL
+subst,3:05,1787002243000,17,23,SUBST,Substitution out,113.0,239275.0,331,251000,Q2,135062,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,1015,NZL
+subst,3:05,1787002243000,17,23,SUBST,Substitution in,113.0,328255.0,332,252000,Q2,135062,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1015,NZL
+subst,3:05,1787002243000,17,23,SUBST,Substitution in,113.0,296082.0,333,253000,Q2,135062,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,1015,NZL
+shot,3:05,1787002251000,18,23,FT,Free throw made 1 of 2,14.0,163689.0,334,254000,Q2,135062,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,14.6,8-16 ft.,1015,ARG
+shot,3:05,1787002261000,18,23,FT,Free throw missed 2 of 2,14.0,163689.0,335,255000,Q2,135062,False,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,14.6,8-16 ft.,1015,ARG
+unknwown,3:05,1787002263000,18,23,REB,defensive rebound,113.0,328255.0,337,255002,Q2,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1015,NZL
+unknwown,2:55,1787002277000,18,23,FOUL,Offensive foul,113.0,206251.0,339,258000,Q2,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1025,NZL
+unknwown,2:55,1787002277000,18,23,TO,turnover,113.0,206251.0,340,258001,Q2,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1025,NZL
+unknwown,2:55,1787002277000,18,23,RFOUL,foul drawn,14.0,153423.0,341,258002,Q2,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q2,,,,1025,ARG
+subst,2:55,1787002294000,18,23,SUBST,Substitution out,14.0,163689.0,342,259000,Q2,135062,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1025,ARG
+subst,2:55,1787002294000,18,23,SUBST,Substitution out,14.0,214723.0,343,260000,Q2,135062,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,1025,ARG
+subst,2:55,1787002294000,18,23,SUBST,Substitution in,14.0,401377.0,344,261000,Q2,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q2,,,,1025,ARG
+subst,2:55,1787002294000,18,23,SUBST,Substitution in,14.0,159332.0,345,262000,Q2,135062,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1025,ARG
+shot,2:41,1787002321000,18,23,P3,3pt jump shot missed,14.0,200337.0,349,266000,Q2,135062,False,3.0,208.0,155.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,13.4,8-16 ft.,1039,ARG
+unknwown,2:39,1787002326000,18,23,TREB,team defensive rebound,113.0,,351,266002,Q2,135062,,,,,,,,,,,Q2,,,,1041,
+shot,2:15,1787002361000,18,26,P3,3pt jump shot made,113.0,296082.0,353,269000,Q2,135062,True,3.0,219.0,146.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,13.2,8-16 ft.,1065,NZL
+unknwown,2:15,1787002361000,18,26,ASS,made the assist,113.0,206251.0,354,269001,Q2,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1065,NZL
+shot,1:51,1787002385000,18,26,P3,3pt jump shot missed,14.0,401377.0,355,270000,Q2,135062,False,3.0,63.0,153.0,,,14.0,Sofia Lombardero,Argentina,13.0,Q2,Above the Break 3,13.7,8-16 ft.,1089,ARG
+unknwown,1:48,1787002388000,18,26,REB,defensive rebound,113.0,261208.0,356,270002,Q2,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1092,NZL
+shot,1:42,1787002394000,18,26,P3,3pt jump shot from center missed,113.0,296082.0,357,271000,Q2,135062,False,3.0,136.0,182.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,14.2,8-16 ft.,1098,NZL
+unknwown,1:40,1787002399000,18,26,TREB,team defensive rebound,14.0,,359,271002,Q2,135062,,,,,,,,,,,Q2,,,,1100,
+timeout,1:37,1787002406000,18,26,TIMO,Timeout,14.0,,362,275000,Q2,135062,,,,,,,,,,,Q2,,,,1103,
+subst,1:37,1787002497000,18,26,SUBST,Substitution out,14.0,302892.0,363,276000,Q2,135062,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution out,14.0,200337.0,364,277000,Q2,135062,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution out,14.0,401377.0,365,278000,Q2,135062,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution in,14.0,221602.0,366,279000,Q2,135062,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution in,14.0,170619.0,367,280000,Q2,135062,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution in,14.0,163689.0,368,281000,Q2,135062,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1103,ARG
+subst,1:37,1787002497000,18,26,SUBST,Substitution out,113.0,206251.0,369,282000,Q2,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1103,NZL
+subst,1:37,1787002497000,18,26,SUBST,Substitution in,113.0,258137.0,370,283000,Q2,135062,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1103,NZL
+unknwown,1:25,1787002525000,18,26,FOUL,Personal foul; 2 free throws awarded,113.0,328255.0,375,288000,Q2,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1115,NZL
+unknwown,1:25,1787002525000,18,26,RFOUL,foul drawn,14.0,159332.0,376,288002,Q2,135062,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1115,ARG
+subst,1:25,1787002538000,18,26,SUBST,Substitution out,14.0,163689.0,377,289000,Q2,135062,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1115,ARG
+subst,1:25,1787002538000,18,26,SUBST,Substitution in,14.0,401377.0,378,290000,Q2,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q2,,,,1115,ARG
+subst,1:25,1787002538000,18,26,SUBST,Substitution out,113.0,328255.0,379,291000,Q2,135062,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1115,NZL
+subst,1:25,1787002538000,18,26,SUBST,Substitution in,113.0,239275.0,380,292000,Q2,135062,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,1115,NZL
+shot,1:25,1787002549000,19,26,FT,1st of 2 free throws made,14.0,159332.0,381,293000,Q2,135062,True,1.0,0.0,0.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,14.6,8-16 ft.,1115,ARG
+shot,1:25,1787002559000,20,26,FT,2nd of 2 free throws made,14.0,159332.0,382,294000,Q2,135062,True,1.0,0.0,0.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,14.6,8-16 ft.,1115,ARG
+subst,1:25,1787002566000,20,26,SUBST,Substitution out,14.0,221602.0,383,295000,Q2,135062,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q2,,,,1115,ARG
+subst,1:25,1787002566000,20,26,SUBST,Substitution in,14.0,200337.0,384,296000,Q2,135062,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1115,ARG
+shot,1:07,1787002590000,20,28,P2,"2PtsFG under the basket, driving layup made",113.0,296082.0,386,298000,Q2,135062,True,2.0,124.0,34.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Restricted Area,1.7,Less Than 8 ft.,1133,NZL
+unknwown,1:07,1787002590000,20,28,ASS,made the assist,113.0,258137.0,387,298001,Q2,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1133,NZL
+timeout,0:47,1787002624000,20,28,TIMO,Timeout,14.0,,391,302000,Q2,135062,,,,,,,,,,,Q2,,,,1153,
+subst,0:47,1787002714000,20,28,SUBST,Substitution out,14.0,200337.0,392,303000,Q2,135062,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1153,ARG
+subst,0:47,1787002714000,20,28,SUBST,Substitution out,14.0,401377.0,393,304000,Q2,135062,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q2,,,,1153,ARG
+subst,0:47,1787002714000,20,28,SUBST,Substitution in,14.0,163689.0,394,305000,Q2,135062,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1153,ARG
+subst,0:47,1787002714000,20,28,SUBST,Substitution in,14.0,214723.0,395,306000,Q2,135062,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,1153,ARG
+subst,0:47,1787002714000,20,28,SUBST,Substitution out,113.0,219363.0,396,307000,Q2,135062,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1153,NZL
+subst,0:47,1787002714000,20,28,SUBST,Substitution in,113.0,377527.0,397,308000,Q2,135062,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,1153,NZL
+shot,0:44,1787002731000,20,28,P3,3pt jump shot missed,14.0,159332.0,399,310000,Q2,135062,False,3.0,237.0,140.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,Above the Break 3,13.9,8-16 ft.,1156,ARG
+unknwown,0:41,1787002734000,20,28,REB,defensive rebound,113.0,296082.0,400,310002,Q2,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,1159,NZL
+shot,0:36,1787002741000,20,28,P2,2pt turnaround jump shot missed,113.0,261208.0,403,313000,Q2,135062,False,2.0,133.0,96.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,In The Paint (Non-RA),5.6,Less Than 8 ft.,1164,NZL
+unknwown,0:34,1787002748000,20,28,TREB,team defensive rebound,14.0,,405,313002,Q2,135062,,,,,,,,,,,Q2,,,,1166,
+shot,0:15,1787002777000,22,28,P2,"2PtsFG under the basket, jump shot made",14.0,170619.0,409,318000,Q2,135062,True,2.0,155.0,31.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Restricted Area,1.7,Less Than 8 ft.,1185,ARG
+unknwown,0:15,1787002777000,22,28,ASS,made the assist,14.0,163689.0,410,318001,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1185,ARG
+unknwown,0:08,1787002784000,22,28,TO,turnover; ball handling,113.0,296082.0,411,319000,Q2,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,1192,NZL
+unknwown,0:08,1787002784000,22,28,ST,steal,14.0,159332.0,412,319001,Q2,135062,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1192,ARG
+shot,0:02,1787002791000,24,28,P2,"2PtsFG under the basket, points from fastbreak + after turnover, jump shot made",14.0,170619.0,414,321000,Q2,135062,True,2.0,132.0,26.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Restricted Area,1.6,Less Than 8 ft.,1198,ARG
+unknwown,0:02,1787002791000,24,28,ASS,made the assist,14.0,163689.0,415,321001,Q2,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1198,ARG
+periods,0:00,1787003395000,24,28,ENDP,End of period,,,418,324000,Q2,135062,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787003697000,24,28,SUBST,Substitution out,14.0,170619.0,419,325000,Q3,135062,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1200,ARG
+subst,10:00,1787003697000,24,28,SUBST,Substitution out,14.0,159332.0,420,326000,Q3,135062,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1200,ARG
+subst,10:00,1787003697000,24,28,SUBST,Substitution in,14.0,221602.0,421,327000,Q3,135062,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1200,ARG
+subst,10:00,1787003697000,24,28,SUBST,Substitution in,14.0,302892.0,422,328000,Q3,135062,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1200,ARG
+subst,10:00,1787003697000,24,28,SUBST,Substitution out,113.0,377527.0,423,329000,Q3,135062,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1200,NZL
+subst,10:00,1787003697000,24,28,SUBST,Substitution out,113.0,296082.0,424,330000,Q3,135062,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1200,NZL
+subst,10:00,1787003697000,24,28,SUBST,Substitution out,113.0,261208.0,425,331000,Q3,135062,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1200,NZL
+subst,10:00,1787003697000,24,28,SUBST,Substitution in,113.0,328255.0,426,332000,Q3,135062,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1200,NZL
+subst,10:00,1787003697000,24,28,SUBST,Substitution in,113.0,206251.0,427,333000,Q3,135062,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1200,NZL
+subst,10:00,1787003697000,24,28,SUBST,Substitution in,113.0,317318.0,428,334000,Q3,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1200,NZL
+periods,10:00,1787003703000,24,28,STARTP,Start of period,,,429,335000,Q3,135062,,,,,,,,,,,Q3,,,,1200,
+unknwown,9:39,1787003732000,24,28,FOUL,Personal foul,113.0,206251.0,434,340000,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1221,NZL
+unknwown,9:39,1787003732000,24,28,RFOUL,foul drawn,14.0,163689.0,435,340002,Q3,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1221,ARG
+shot,9:25,1787003757000,24,28,P3,3pt jump shot missed,14.0,221602.0,437,342000,Q3,135062,False,3.0,28.0,134.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,14.6,8-16 ft.,1235,ARG
+unknwown,9:22,1787003760000,24,28,REB,defensive rebound,113.0,239275.0,438,342002,Q3,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1238,NZL
+unknwown,9:15,1787003767000,24,28,TO,turnover; ball handling,113.0,206251.0,439,343000,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1245,NZL
+unknwown,9:15,1787003767000,24,28,ST,steal,14.0,153423.0,440,343001,Q3,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q3,,,,1245,ARG
+shot,8:59,1787003786000,24,28,P3,3pt jump shot missed,14.0,221602.0,443,346000,Q3,135062,False,3.0,16.0,103.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,13.9,8-16 ft.,1261,ARG
+unknwown,8:57,1787003795000,24,28,TREB,team offensive rebound,14.0,,445,346002,Q3,135062,,,,,,,,,,,Q3,,,,1263,
+subst,8:57,1787003801000,24,28,SUBST,Substitution out,113.0,206251.0,446,348000,Q3,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1263,NZL
+subst,8:57,1787003801000,24,28,SUBST,Substitution in,113.0,219363.0,447,349000,Q3,135062,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1263,NZL
+shot,8:45,1787003818000,24,28,P2,"2PtsFG inside left, points from second chance + after turnover, jump shot missed",14.0,153423.0,449,351000,Q3,135062,False,2.0,60.0,65.0,,,14.0,Agostina Burani,Argentina,10.0,Q3,Mid-Range,8.4,8-16 ft.,1275,ARG
+unknwown,8:42,1787003821000,24,28,REB,offensive rebound,14.0,302892.0,450,351002,Q3,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1278,ARG
+shot,8:40,1787003823000,24,28,P3,3pt jump shot missed,14.0,221602.0,451,352000,Q3,135062,False,3.0,251.0,127.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,14.1,8-16 ft.,1280,ARG
+unknwown,8:36,1787003827000,24,28,REB,defensive rebound,113.0,219363.0,452,352002,Q3,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1284,NZL
+subst,8:15,1787003859000,24,28,SUBST,Substitution out,113.0,328255.0,456,356000,Q3,135062,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1305,NZL
+subst,8:15,1787003859000,24,28,SUBST,Substitution in,113.0,296082.0,457,357000,Q3,135062,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1305,NZL
+shot,8:12,1787003881000,24,28,P2,2pt jump shot missed,113.0,258137.0,459,359000,Q3,135062,False,2.0,55.0,43.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Mid-Range,8.5,8-16 ft.,1308,NZL
+unknwown,8:09,1787003883000,24,28,REB,offensive rebound,113.0,317318.0,460,359002,Q3,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1311,NZL
+shot,8:09,1787003884000,24,28,P2,2pt turnaround jump shot missed,113.0,317318.0,461,360000,Q3,135062,False,2.0,161.0,54.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,In The Paint (Non-RA),2.5,Less Than 8 ft.,1311,NZL
+unknwown,8:05,1787003888000,24,28,REB,defensive rebound,14.0,153423.0,462,360002,Q3,135062,,,,,,,14.0,Agostina Burani,Argentina,10.0,Q3,,,,1315,ARG
+shot,7:50,1787003926000,24,28,P2,"2PtsFG inside center, jump shot missed",14.0,214723.0,465,363000,Q3,135062,False,2.0,136.0,109.0,,,14.0,Florencia Chagas,Argentina,14.0,Q3,Mid-Range,6.9,Less Than 8 ft.,1330,ARG
+unknwown,7:47,1787003928000,24,28,REB,defensive rebound,113.0,219363.0,466,363002,Q3,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1333,NZL
+unknwown,7:33,1787003948000,24,28,TO,turnover; bad pass,113.0,258137.0,470,367000,Q3,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1347,NZL
+shot,7:14,1787003998000,24,28,P2,"2PtsFG under the basket, points after turnover, jump shot missed",14.0,221602.0,478,375000,Q3,135062,False,2.0,155.0,37.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1366,ARG
+unknwown,7:09,1787004002000,24,28,REB,defensive rebound,113.0,296082.0,479,375002,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1371,NZL
+shot,7:07,1787004005000,24,28,P2,"2PtsFG under the basket, floating jump shot missed",113.0,239275.0,480,376000,Q3,135062,False,2.0,125.0,33.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,Restricted Area,1.7,Less Than 8 ft.,1373,NZL
+unknwown,7:07,1787004005000,24,28,BS,blocked the shot,14.0,302892.0,481,376001,Q3,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1373,ARG
+unknwown,7:02,1787004009000,24,28,REB,defensive rebound,14.0,302892.0,482,376002,Q3,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1378,ARG
+shot,6:49,1787004022000,24,28,P2,2pt floating jump shot missed,14.0,302892.0,483,377000,Q3,135062,False,2.0,124.0,52.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,In The Paint (Non-RA),2.0,Less Than 8 ft.,1391,ARG
+unknwown,6:46,1787004025000,24,28,REB,offensive rebound,14.0,221602.0,484,377002,Q3,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1394,ARG
+shot,6:39,1787004032000,24,28,P3,3pt jump shot missed,14.0,153423.0,485,378000,Q3,135062,False,3.0,22.0,122.0,,,14.0,Agostina Burani,Argentina,10.0,Q3,Above the Break 3,14.4,8-16 ft.,1401,ARG
+unknwown,6:38,1787004035000,24,28,TREB,team defensive rebound,113.0,,487,378002,Q3,135062,,,,,,,,,,,Q3,,,,1402,
+shot,6:25,1787004057000,24,28,P2,2pt driving layup missed,113.0,317318.0,489,381000,Q3,135062,False,2.0,163.0,41.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,2.3,Less Than 8 ft.,1415,NZL
+unknwown,6:22,1787004060000,24,28,REB,defensive rebound,14.0,302892.0,490,381002,Q3,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1418,ARG
+subst,6:14,1787004087000,24,28,SUBST,Substitution out,113.0,317318.0,494,385000,Q3,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1426,NZL
+subst,6:14,1787004087000,24,28,SUBST,Substitution in,113.0,206251.0,495,386000,Q3,135062,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1426,NZL
+subst,6:14,1787004218000,24,28,SUBST,Substitution out,14.0,153423.0,496,387000,Q3,135062,,,,,,OUT,14.0,Agostina Burani,Argentina,10.0,Q3,,,,1426,ARG
+subst,6:14,1787004218000,24,28,SUBST,Substitution in,14.0,301664.0,497,388000,Q3,135062,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1426,ARG
+shot,6:09,1787004228000,24,28,P3,3pt jump shot missed,14.0,221602.0,499,390000,Q3,135062,False,3.0,271.0,21.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Left Corner 3,13.2,8-16 ft.,1431,ARG
+unknwown,6:06,1787004230000,24,28,REB,defensive rebound,113.0,206251.0,500,390002,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1434,NZL
+unknwown,5:49,1787004263000,24,28,FOUL,Personal foul; 2 free throws awarded,14.0,214723.0,504,394000,Q3,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1451,ARG
+unknwown,5:49,1787004263000,24,28,RFOUL,foul drawn,113.0,206251.0,505,394002,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1451,NZL
+shot,5:49,1787004276000,24,28,FT,1st of 2 free throws missed,113.0,206251.0,506,395000,Q3,135062,False,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,14.6,8-16 ft.,1451,NZL
+shot,5:49,1787004286000,24,28,FT,2nd of 2 free throws missed,113.0,206251.0,507,396000,Q3,135062,False,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,14.6,8-16 ft.,1451,NZL
+unknwown,5:49,1787004289000,24,28,REB,offensive rebound,113.0,219363.0,509,396002,Q3,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1451,NZL
+unknwown,5:44,1787004297000,24,28,JS,jump ball situation; throw-in,113.0,,513,401000,Q3,135062,,,,,,,,,,,Q3,,,,1456,
+unknwown,5:41,1787004331000,24,28,FOUL,Offensive foul,113.0,296082.0,518,405000,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1459,NZL
+unknwown,5:41,1787004331000,24,28,TO,turnover,113.0,296082.0,519,405001,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1459,NZL
+unknwown,5:41,1787004331000,24,28,RFOUL,foul drawn,14.0,301664.0,520,405002,Q3,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1459,ARG
+shot,5:25,1787004355000,27,28,P3,3pt jump shot made,14.0,214723.0,522,407000,Q3,135062,True,3.0,8.0,86.0,,,14.0,Florencia Chagas,Argentina,14.0,Q3,Above the Break 3,14.0,8-16 ft.,1475,ARG
+unknwown,5:25,1787004355000,27,28,ASS,made the assist,14.0,163689.0,523,407001,Q3,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1475,ARG
+shot,5:05,1787004380000,27,30,P2,"2PtsFG under the basket, driving layup made",113.0,219363.0,527,411000,Q3,135062,True,2.0,155.0,32.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,Restricted Area,1.7,Less Than 8 ft.,1495,NZL
+unknwown,5:05,1787004393000,27,30,FOUL,Personal foul; 1 free throw awarded,14.0,302892.0,528,412000,Q3,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1495,ARG
+unknwown,5:05,1787004393000,27,30,RFOUL,foul drawn,113.0,219363.0,529,412002,Q3,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1495,NZL
+subst,5:05,1787004408000,27,30,SUBST,Substitution out,14.0,302892.0,530,413000,Q3,135062,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1495,ARG
+subst,5:05,1787004408000,27,30,SUBST,Substitution in,14.0,170619.0,531,414000,Q3,135062,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1495,ARG
+shot,5:05,1787004411000,27,30,FT,1st free throw missed,113.0,219363.0,532,415000,Q3,135062,False,1.0,0.0,0.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,14.6,8-16 ft.,1495,NZL
+unknwown,5:05,1787004416000,27,30,REB,offensive rebound,113.0,258137.0,534,415002,Q3,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1495,NZL
+shot,5:04,1787004417000,27,32,P2,"2PtsFG under the basket, layup made",113.0,258137.0,535,417000,Q3,135062,True,2.0,155.0,44.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1496,NZL
+shot,4:56,1787004435000,27,32,P2,2pt jump shot missed,14.0,301664.0,537,419000,Q3,135062,False,2.0,114.0,71.0,,,14.0,Julia Fernandez,Argentina,3.0,Q3,In The Paint (Non-RA),4.0,Less Than 8 ft.,1504,ARG
+unknwown,4:56,1787004435000,27,32,BS,blocked the shot,113.0,206251.0,538,419001,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1504,NZL
+unknwown,4:56,1787004440000,27,32,REB,defensive rebound,113.0,296082.0,539,419002,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1504,NZL
+unknwown,4:56,1787004443000,27,32,TO,turnover; bad pass,113.0,206251.0,540,420000,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1504,NZL
+unknwown,4:56,1787004443000,27,32,ST,steal,14.0,163689.0,541,420001,Q3,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1504,ARG
+shot,4:45,1787004463000,27,32,P3,3pt jump shot missed,14.0,301664.0,543,422000,Q3,135062,False,3.0,53.0,171.0,,,14.0,Julia Fernandez,Argentina,3.0,Q3,Above the Break 3,15.7,8-16 ft.,1515,ARG
+unknwown,4:42,1787004465000,27,32,REB,defensive rebound,113.0,219363.0,544,422002,Q3,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1518,NZL
+subst,4:18,1787004492000,27,32,SUBST,Substitution out,113.0,219363.0,545,423000,Q3,135062,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1542,NZL
+subst,4:18,1787004492000,27,32,SUBST,Substitution in,113.0,317318.0,546,424000,Q3,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1542,NZL
+subst,4:04,1787004505000,27,32,SUBST,Substitution out,14.0,163689.0,547,425000,Q3,135062,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1556,ARG
+subst,4:04,1787004505000,27,32,SUBST,Substitution in,14.0,401377.0,548,426000,Q3,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1556,ARG
+unknwown,3:50,1787004522000,27,32,FOUL,Personal foul; 2 free throws awarded,14.0,170619.0,554,432000,Q3,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1570,ARG
+unknwown,3:50,1787004522000,27,32,RFOUL,foul drawn,113.0,317318.0,555,432002,Q3,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1570,NZL
+subst,3:50,1787004547000,27,32,SUBST,Substitution out,113.0,258137.0,556,433000,Q3,135062,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1570,NZL
+subst,3:50,1787004547000,27,32,SUBST,Substitution out,113.0,239275.0,557,434000,Q3,135062,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1570,NZL
+subst,3:50,1787004547000,27,32,SUBST,Substitution in,113.0,328112.0,558,435000,Q3,135062,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1570,NZL
+subst,3:50,1787004547000,27,32,SUBST,Substitution in,113.0,261208.0,559,436000,Q3,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1570,NZL
+shot,3:50,1787004549000,27,32,FT,1st of 2 free throws missed,113.0,317318.0,560,437000,Q3,135062,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,14.6,8-16 ft.,1570,NZL
+shot,3:50,1787004570000,27,33,FT,2nd of 2 free throws made,113.0,317318.0,561,438000,Q3,135062,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,14.6,8-16 ft.,1570,NZL
+unknwown,3:50,1787004570000,27,33,ASS,made the assist,113.0,206251.0,562,438001,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1570,NZL
+shot,3:36,1787004588000,27,33,P2,"2PtsFG inside center, jump shot missed",14.0,301664.0,564,440000,Q3,135062,False,2.0,132.0,119.0,,,14.0,Julia Fernandez,Argentina,3.0,Q3,Mid-Range,7.9,Less Than 8 ft.,1584,ARG
+unknwown,3:31,1787004592000,27,33,REB,defensive rebound,113.0,328112.0,565,440002,Q3,135062,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1589,NZL
+shot,3:18,1787004607000,27,33,P2,"2PtsFG under the basket, turnaround jump shot missed",113.0,317318.0,566,441000,Q3,135062,False,2.0,159.0,38.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1602,NZL
+unknwown,3:10,1787004613000,27,33,REB,defensive rebound,14.0,170619.0,567,441002,Q3,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1610,ARG
+shot,3:00,1787004625000,27,33,P3,3pt jump shot missed,14.0,401377.0,568,442000,Q3,135062,False,3.0,271.0,60.0,,,14.0,Sofia Lombardero,Argentina,13.0,Q3,Left Corner 3,13.3,8-16 ft.,1620,ARG
+unknwown,2:57,1787004638000,27,33,TREB,team defensive rebound,113.0,,570,442002,Q3,135062,,,,,,,,,,,Q3,,,,1623,
+unknwown,2:57,1787004647000,27,33,FOUL,Personal foul,14.0,301664.0,571,444000,Q3,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1623,ARG
+unknwown,2:57,1787004648000,27,33,RFOUL,foul drawn,113.0,261208.0,572,444002,Q3,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1623,NZL
+subst,2:57,1787004687000,27,33,SUBST,Substitution out,113.0,261208.0,573,445000,Q3,135062,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1623,NZL
+subst,2:57,1787004687000,27,33,SUBST,Substitution in,113.0,258137.0,574,446000,Q3,135062,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1623,NZL
+subst,2:51,1787004707000,27,33,SUBST,Substitution out,14.0,301664.0,577,449000,Q3,135062,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1629,ARG
+subst,2:51,1787004707000,27,33,SUBST,Substitution in,14.0,328245.0,578,450000,Q3,135062,,,,,,IN,14.0,Milagros Morell,Argentina,15.0,Q3,,,,1629,ARG
+unknwown,2:40,1787004719000,27,33,FOUL,Offensive foul,113.0,206251.0,581,453000,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1640,NZL
+unknwown,2:40,1787004719000,27,33,TO,turnover,113.0,206251.0,582,453001,Q3,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1640,NZL
+unknwown,2:40,1787004719000,27,33,RFOUL,foul drawn,14.0,214723.0,583,453002,Q3,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1640,ARG
+subst,2:32,1787004743000,27,33,SUBST,Substitution out,113.0,328112.0,586,456000,Q3,135062,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1648,NZL
+subst,2:32,1787004743000,27,33,SUBST,Substitution out,113.0,206251.0,587,457000,Q3,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1648,NZL
+subst,2:32,1787004743000,27,33,SUBST,Substitution in,113.0,261208.0,588,458000,Q3,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1648,NZL
+subst,2:32,1787004743000,27,33,SUBST,Substitution in,113.0,239275.0,589,459000,Q3,135062,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1648,NZL
+subst,2:25,1787004762000,27,33,SUBST,Substitution out,14.0,401377.0,594,464000,Q3,135062,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1655,ARG
+subst,2:25,1787004762000,27,33,SUBST,Substitution in,14.0,159332.0,595,465000,Q3,135062,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1655,ARG
+shot,2:25,1787004766000,30,33,P3,3pt jump shot made,14.0,159332.0,597,467000,Q3,135062,True,3.0,204.0,169.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,Above the Break 3,14.4,8-16 ft.,1655,ARG
+unknwown,2:20,1787004772000,30,33,TO,turnover; ball handling,113.0,296082.0,598,468000,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1660,NZL
+shot,2:03,1787004788000,30,33,P3,3pt jump shot missed,14.0,328245.0,599,469000,Q3,135062,False,3.0,30.0,142.0,,,14.0,Milagros Morell,Argentina,15.0,Q3,Above the Break 3,15.0,8-16 ft.,1677,ARG
+unknwown,2:00,1787004791000,30,33,REB,defensive rebound,113.0,317318.0,600,469002,Q3,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1680,NZL
+shot,1:52,1787004799000,30,36,P3,3pt jump shot made,113.0,317318.0,601,470000,Q3,135062,True,3.0,84.0,184.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Above the Break 3,15.5,8-16 ft.,1688,NZL
+unknwown,1:52,1787004799000,30,36,ASS,made the assist,113.0,296082.0,602,470001,Q3,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1688,NZL
+shot,1:35,1787004816000,32,36,P2,"2PtsFG under the basket, turnaround jump shot made",14.0,170619.0,603,471000,Q3,135062,True,2.0,149.0,43.0,,,14.0,Diana Cabrera,Argentina,7.0,Q3,Restricted Area,0.9,Less Than 8 ft.,1705,ARG
+unknwown,1:35,1787004816000,32,36,ASS,made the assist,14.0,221602.0,604,471001,Q3,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1705,ARG
+unknwown,1:00,1787004851000,32,36,TO,turnover; bad pass,113.0,317318.0,605,472000,Q3,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1740,NZL
+subst,0:55,1787004873000,32,36,SUBST,Substitution out,14.0,221602.0,608,475000,Q3,135062,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1745,ARG
+subst,0:55,1787004873000,32,36,SUBST,Substitution in,14.0,200337.0,610,477000,Q3,135062,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1745,ARG
+subst,0:55,1787004873000,32,36,SUBST,Substitution out,113.0,317318.0,612,479000,Q3,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1745,NZL
+subst,0:55,1787004873000,32,36,SUBST,Substitution in,113.0,219363.0,613,480000,Q3,135062,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1745,NZL
+shot,0:40,1787004880000,32,36,P3,3pt jump shot missed,14.0,159332.0,614,481000,Q3,135062,False,3.0,231.0,140.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,Above the Break 3,13.5,8-16 ft.,1760,ARG
+unknwown,0:39,1787004883000,32,36,TREB,team defensive rebound,113.0,,616,481002,Q3,135062,,,,,,,,,,,Q3,,,,1761,
+shot,0:25,1787004903000,32,36,P3,3pt jump shot from center missed,113.0,296082.0,620,486000,Q3,135062,False,3.0,148.0,179.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Above the Break 3,13.9,8-16 ft.,1775,NZL
+unknwown,0:17,1787004912000,32,36,REB,defensive rebound,14.0,328245.0,621,486002,Q3,135062,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q3,,,,1783,ARG
+subst,0:17,1787004981000,32,36,SUBST,Substitution in,14.0,401377.0,629,489250,Q3,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1783,ARG
+subst,0:17,1787004981000,32,36,SUBST,Substitution out,14.0,328245.0,628,489500,Q3,135062,,,,,,OUT,14.0,Milagros Morell,Argentina,15.0,Q3,,,,1783,ARG
+periods,0:00,1787005071000,32,36,ENDP,End of period,,,632,495000,Q3,135062,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787005098000,32,36,SUBST,Substitution out,14.0,200337.0,633,496000,Q4,135062,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution out,14.0,214723.0,634,497000,Q4,135062,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution out,14.0,401377.0,635,498000,Q4,135062,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution in,14.0,221602.0,636,499000,Q4,135062,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution in,14.0,163689.0,637,500000,Q4,135062,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution in,14.0,328245.0,638,501000,Q4,135062,,,,,,IN,14.0,Milagros Morell,Argentina,15.0,Q4,,,,1800,ARG
+subst,10:00,1787005098000,32,36,SUBST,Substitution out,113.0,261208.0,639,502000,Q4,135062,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,1800,NZL
+subst,10:00,1787005098000,32,36,SUBST,Substitution in,113.0,317318.0,640,503000,Q4,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1800,NZL
+unknwown,9:44,1787005101000,32,36,TO,turnover; bad pass,14.0,163689.0,643,503500,Q4,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1816,ARG
+unknwown,9:44,1787005101000,32,36,ST,steal,113.0,317318.0,644,503501,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1816,NZL
+periods,10:00,1787005099000,32,36,STARTP,Start of period,,,641,504000,Q4,135062,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:41,1787005108000,32,36,TO,turnover; bad pass,113.0,317318.0,645,507750,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1819,NZL
+unknwown,9:41,1787005108000,32,36,ST,steal,14.0,159332.0,646,507751,Q4,135062,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1819,ARG
+unknwown,9:20,1787005139000,32,36,TO,turnover; bad pass,14.0,170619.0,647,508000,Q4,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1840,ARG
+shot,8:59,1787005161000,32,39,P3,3pt jump shot made,113.0,296082.0,648,509000,Q4,135062,True,3.0,275.0,25.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,Left Corner 3,13.6,8-16 ft.,1861,NZL
+unknwown,8:59,1787005161000,32,39,ASS,made the assist,113.0,239275.0,649,509001,Q4,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1861,NZL
+unknwown,8:41,1787005180000,32,39,TO,turnover; bad pass,14.0,170619.0,651,511000,Q4,135062,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1879,ARG
+shot,8:20,1787005209000,32,39,P2,"2PtsFG under the basket, points after turnover, driving layup missed",113.0,317318.0,654,514000,Q4,135062,False,2.0,136.0,26.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.5,Less Than 8 ft.,1900,NZL
+unknwown,8:19,1787005217000,32,39,TREB,team defensive rebound,14.0,,655,514002,Q4,135062,,,,,,,,,,,Q4,,,,1901,
+subst,8:14,1787005237000,32,39,SUBST,Substitution out,14.0,328245.0,658,517000,Q4,135062,,,,,,OUT,14.0,Milagros Morell,Argentina,15.0,Q4,,,,1906,ARG
+subst,8:14,1787005237000,32,39,SUBST,Substitution out,14.0,159332.0,659,518000,Q4,135062,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1906,ARG
+subst,8:14,1787005237000,32,39,SUBST,Substitution in,14.0,200337.0,660,519000,Q4,135062,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,1906,ARG
+subst,8:14,1787005237000,32,39,SUBST,Substitution in,14.0,214723.0,661,520000,Q4,135062,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,1906,ARG
+unknwown,7:50,1787005291000,32,39,TO,turnover; bad pass,14.0,163689.0,668,527000,Q4,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1930,ARG
+unknwown,7:34,1787005320000,32,39,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,673,532000,Q4,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1946,ARG
+unknwown,7:34,1787005320000,32,39,RFOUL,foul drawn,113.0,258137.0,674,532002,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,1946,NZL
+subst,7:34,1787005336000,32,39,SUBST,Substitution out,113.0,296082.0,675,533000,Q4,135062,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1946,NZL
+subst,7:34,1787005336000,32,39,SUBST,Substitution in,113.0,328255.0,676,534000,Q4,135062,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,1946,NZL
+shot,7:34,1787005368000,32,40,FT,1st of 2 free throws made,113.0,258137.0,677,535000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,1946,NZL
+unknwown,7:34,1787005369000,32,40,ASS,made the assist,113.0,219363.0,873,535001,Q4,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,1946,NZL
+shot,7:34,1787005385000,32,40,FT,2nd of 2 free throws missed,113.0,258137.0,678,536000,Q4,135062,False,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,1946,NZL
+unknwown,7:34,1787005386000,32,40,REB,defensive rebound,14.0,221602.0,680,536002,Q4,135062,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1946,ARG
+shot,7:13,1787005407000,32,40,P3,3pt jump shot from center missed,14.0,163689.0,681,538000,Q4,135062,False,3.0,128.0,181.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Above the Break 3,14.2,8-16 ft.,1967,ARG
+unknwown,7:10,1787005410000,32,40,REB,defensive rebound,113.0,219363.0,682,538002,Q4,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,1970,NZL
+shot,6:50,1787005434000,32,42,P2,"2PtsFG under the basket, layup made",113.0,317318.0,684,540000,Q4,135062,True,2.0,132.0,34.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.0,Less Than 8 ft.,1990,NZL
+unknwown,6:50,1787005434000,32,42,ASS,made the assist,113.0,239275.0,685,540001,Q4,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1990,NZL
+timeout,6:46,1787005446000,32,42,TIMO,Timeout,14.0,,688,543000,Q4,135062,,,,,,,,,,,Q4,,,,1994,
+subst,6:46,1787005523000,32,42,SUBST,Substitution out,113.0,317318.0,689,544000,Q4,135062,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1994,NZL
+subst,6:46,1787005523000,32,42,SUBST,Substitution in,113.0,206251.0,690,545000,Q4,135062,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1994,NZL
+shot,6:31,1787005546000,32,42,P2,"2PtsFG inside left, jump shot missed",14.0,200337.0,692,547000,Q4,135062,False,2.0,51.0,108.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Mid-Range,11.2,8-16 ft.,2009,ARG
+unknwown,6:28,1787005548000,32,42,REB,defensive rebound,113.0,239275.0,693,547002,Q4,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2012,NZL
+unknwown,6:15,1787005568000,32,42,FOUL,Personal foul; 2 free throws awarded,14.0,214723.0,697,551000,Q4,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2025,ARG
+unknwown,6:15,1787005568000,32,42,RFOUL,foul drawn,113.0,258137.0,698,551002,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2025,NZL
+subst,6:15,1787005583000,32,42,SUBST,Substitution out,14.0,170619.0,699,552000,Q4,135062,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2025,ARG
+subst,6:15,1787005583000,32,42,SUBST,Substitution in,14.0,302892.0,700,553000,Q4,135062,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2025,ARG
+shot,6:15,1787005598000,32,43,FT,1st of 2 free throws made,113.0,258137.0,701,554000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2025,NZL
+shot,6:15,1787005615000,32,44,FT,2nd of 2 free throws made,113.0,258137.0,702,555000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2025,NZL
+unknwown,5:58,1787005641000,32,44,FOUL,Personal foul,113.0,328255.0,705,558000,Q4,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2042,NZL
+unknwown,5:58,1787005641000,32,44,RFOUL,foul drawn,14.0,200337.0,706,558002,Q4,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2042,ARG
+shot,5:55,1787005659000,32,44,P2,"2PtsFG inside right wing, jump shot missed",14.0,200337.0,708,560000,Q4,135062,False,2.0,211.0,38.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Mid-Range,7.1,Less Than 8 ft.,2045,ARG
+unknwown,5:50,1787005664000,32,44,REB,defensive rebound,113.0,206251.0,709,560002,Q4,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2050,NZL
+unknwown,5:50,1787005672000,32,44,JS,jump ball situation; throw-in,113.0,,711,562000,Q4,135062,,,,,,,,,,,Q4,,,,2050,
+unknwown,5:44,1787005698000,32,44,FOUL,Offensive foul,113.0,258137.0,716,567000,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2056,NZL
+unknwown,5:44,1787005698000,32,44,TO,turnover,113.0,258137.0,717,567001,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2056,NZL
+unknwown,5:44,1787005698000,32,44,RFOUL,foul drawn,14.0,163689.0,718,567002,Q4,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2056,ARG
+shot,5:40,1787005718000,32,44,P3,3pt jump shot missed,14.0,221602.0,720,569000,Q4,135062,False,3.0,259.0,105.0,,,14.0,Dalma Piri,Argentina,2.0,Q4,Above the Break 3,13.6,8-16 ft.,2060,ARG
+unknwown,5:37,1787005720000,32,44,REB,defensive rebound,113.0,219363.0,721,569002,Q4,135062,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2063,NZL
+shot,5:17,1787005741000,32,47,P3,3pt jump shot made,113.0,206251.0,722,570000,Q4,135062,True,3.0,220.0,151.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Above the Break 3,13.7,8-16 ft.,2083,NZL
+unknwown,5:17,1787005741000,32,47,ASS,made the assist,113.0,328255.0,723,570001,Q4,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2083,NZL
+unknwown,5:04,1787005761000,32,47,FOUL,Personal foul,113.0,328255.0,725,572000,Q4,135062,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2096,NZL
+unknwown,5:04,1787005761000,32,47,RFOUL,foul drawn,14.0,163689.0,726,572002,Q4,135062,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2096,ARG
+subst,5:04,1787005781000,32,47,SUBST,Substitution out,113.0,258137.0,727,573000,Q4,135062,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2096,NZL
+subst,5:04,1787005781000,32,47,SUBST,Substitution out,113.0,239275.0,728,574000,Q4,135062,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2096,NZL
+subst,5:04,1787005781000,32,47,SUBST,Substitution out,113.0,219363.0,729,575000,Q4,135062,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2096,NZL
+subst,5:04,1787005781000,32,47,SUBST,Substitution in,113.0,296082.0,730,576000,Q4,135062,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2096,NZL
+subst,5:04,1787005781000,32,47,SUBST,Substitution in,113.0,261208.0,731,577000,Q4,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2096,NZL
+subst,5:04,1787005781000,32,47,SUBST,Substitution in,113.0,317318.0,732,578000,Q4,135062,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2096,NZL
+unknwown,4:58,1787005799000,32,47,FOUL,Offensive foul,14.0,302892.0,739,585000,Q4,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2102,ARG
+unknwown,4:58,1787005799000,32,47,TO,turnover,14.0,302892.0,740,585001,Q4,135062,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2102,ARG
+unknwown,4:58,1787005799000,32,47,RFOUL,foul drawn,113.0,261208.0,741,585002,Q4,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2102,NZL
+shot,4:40,1787005830000,32,49,P2,"2PtsFG under the basket, points after turnover, jump shot made",113.0,206251.0,743,587000,Q4,135062,True,2.0,130.0,34.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2120,NZL
+unknwown,4:40,1787005830000,32,49,ASS,made the assist,113.0,317318.0,745,587001,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2120,NZL
+unknwown,4:36,1787005977000,32,49,VTR,Head coach's challenge unsuccessful,14.0,,748,591000,Q4,135062,,,,,,,,,,,Q4,,,,2124,
+subst,4:36,1787006038000,32,49,SUBST,Substitution out,14.0,221602.0,749,592000,Q4,135062,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2124,ARG
+subst,4:36,1787006038000,32,49,SUBST,Substitution in,14.0,159332.0,750,593000,Q4,135062,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2124,ARG
+shot,4:19,1787006066000,32,49,P3,3pt jump shot missed,14.0,159332.0,752,595000,Q4,135062,False,3.0,64.0,158.0,,,14.0,Macarena D'urso,Argentina,20.0,Q4,Above the Break 3,14.0,8-16 ft.,2141,ARG
+unknwown,4:18,1787006072000,32,49,TREB,team offensive rebound,14.0,,754,595002,Q4,135062,,,,,,,,,,,Q4,,,,2142,
+subst,4:15,1787006088000,32,49,SUBST,Substitution out,14.0,163689.0,757,599000,Q4,135062,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2145,ARG
+subst,4:15,1787006088000,32,49,SUBST,Substitution in,14.0,419538.0,758,600000,Q4,135062,,,,,,IN,14.0,Olivia Oltmann,Argentina,21.0,Q4,,,,2145,ARG
+shot,4:08,1787006102000,35,49,P3,3pt jump shot made,14.0,159332.0,762,604000,Q4,135062,True,3.0,270.0,26.0,,,14.0,Macarena D'urso,Argentina,20.0,Q4,Left Corner 3,13.1,8-16 ft.,2152,ARG
+unknwown,4:08,1787006103000,35,49,ASS,made the assist,14.0,200337.0,763,604001,Q4,135062,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2152,ARG
+unknwown,3:45,1787006130000,35,49,FOUL,Personal foul; 2 free throws awarded,14.0,419538.0,769,610000,Q4,135062,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q4,,,,2175,ARG
+unknwown,3:45,1787006130000,35,49,RFOUL,foul drawn,113.0,296082.0,770,610002,Q4,135062,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2175,NZL
+subst,3:45,1787006149000,35,49,SUBST,Substitution out,113.0,328255.0,771,611000,Q4,135062,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2175,NZL
+subst,3:45,1787006149000,35,49,SUBST,Substitution out,113.0,261208.0,772,612000,Q4,135062,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2175,NZL
+subst,3:45,1787006149000,35,49,SUBST,Substitution in,113.0,258137.0,773,613000,Q4,135062,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2175,NZL
+subst,3:45,1787006149000,35,49,SUBST,Substitution in,113.0,239275.0,774,614000,Q4,135062,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2175,NZL
+shot,3:45,1787006154000,35,49,FT,1st of 2 free throws missed,113.0,296082.0,775,615000,Q4,135062,False,1.0,0.0,0.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,14.6,8-16 ft.,2175,NZL
+shot,3:45,1787006164000,35,49,FT,2nd of 2 free throws missed,113.0,296082.0,776,616000,Q4,135062,False,1.0,0.0,0.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,14.6,8-16 ft.,2175,NZL
+unknwown,3:45,1787006165000,35,49,REB,defensive rebound,14.0,214723.0,778,616002,Q4,135062,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2175,ARG
+shot,3:36,1787006175000,35,49,P2,"2PtsFG inside left, jump shot missed",14.0,214723.0,779,618000,Q4,135062,False,2.0,51.0,61.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Mid-Range,9.1,8-16 ft.,2184,ARG
+unknwown,3:33,1787006178000,35,49,REB,defensive rebound,113.0,206251.0,780,618002,Q4,135062,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2187,NZL
+shot,3:13,1787006197000,35,51,P2,"2PtsFG under the basket, turnaround jump shot made",113.0,317318.0,781,619000,Q4,135062,True,2.0,152.0,35.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2207,NZL
+unknwown,3:13,1787006197000,35,51,ASS,made the assist,113.0,239275.0,782,619001,Q4,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2207,NZL
+shot,2:53,1787006218000,35,51,P3,3pt jump shot missed,14.0,200337.0,783,620000,Q4,135062,False,3.0,49.0,148.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Above the Break 3,14.1,8-16 ft.,2227,ARG
+unknwown,2:50,1787006220000,35,51,REB,defensive rebound,113.0,258137.0,784,620002,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2230,NZL
+shot,2:39,1787006234000,35,54,P3,3pt jump shot made,113.0,296082.0,789,625000,Q4,135062,True,3.0,8.0,18.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,Right Corner 3,13.4,8-16 ft.,2241,NZL
+unknwown,2:39,1787006234000,35,54,ASS,made the assist,113.0,239275.0,790,625001,Q4,135062,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2241,NZL
+shot,2:20,1787006253000,35,54,P3,3pt jump shot missed,14.0,214723.0,793,628000,Q4,135062,False,3.0,7.0,43.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Right Corner 3,13.3,8-16 ft.,2260,ARG
+unknwown,2:17,1787006256000,35,54,REB,defensive rebound,113.0,317318.0,794,628002,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2263,NZL
+shot,2:07,1787006266000,35,54,P2,"2PtsFG inside left, jump shot missed",113.0,239275.0,795,629000,Q4,135062,False,2.0,66.0,49.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,Mid-Range,7.5,Less Than 8 ft.,2273,NZL
+unknwown,2:03,1787006269000,35,54,REB,offensive rebound,113.0,258137.0,796,629002,Q4,135062,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2277,NZL
+shot,1:59,1787006274000,35,54,P3,3pt jump shot missed,113.0,206251.0,797,630000,Q4,135062,False,3.0,65.0,147.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Above the Break 3,13.1,8-16 ft.,2281,NZL
+unknwown,1:55,1787006277000,35,54,REB,defensive rebound,14.0,419538.0,798,630002,Q4,135062,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q4,,,,2285,ARG
+shot,1:44,1787006289000,35,54,P3,3pt jump shot missed,14.0,159332.0,800,632000,Q4,135062,False,3.0,20.0,109.0,,,14.0,Macarena D'urso,Argentina,20.0,Q4,Above the Break 3,13.8,8-16 ft.,2296,ARG
+unknwown,1:44,1787006294000,35,54,TREB,team defensive rebound,113.0,,801,632002,Q4,135062,,,,,,,,,,,Q4,,,,2296,
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,14.0,302892.0,804,635000,Q4,135062,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,14.0,200337.0,805,636000,Q4,135062,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,14.0,214723.0,806,637000,Q4,135062,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,14.0,301664.0,807,638000,Q4,135062,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,14.0,401377.0,808,639000,Q4,135062,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,14.0,328245.0,809,640000,Q4,135062,,,,,,IN,14.0,Milagros Morell,Argentina,15.0,Q4,,,,2298,ARG
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,113.0,258137.0,810,641000,Q4,135062,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,113.0,296082.0,811,642000,Q4,135062,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,113.0,206251.0,812,643000,Q4,135062,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution out,113.0,239275.0,813,644000,Q4,135062,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,113.0,328112.0,814,645000,Q4,135062,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,113.0,328255.0,815,646000,Q4,135062,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,113.0,377527.0,816,647000,Q4,135062,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q4,,,,2298,NZL
+subst,1:42,1787006338000,35,54,SUBST,Substitution in,113.0,261208.0,817,648000,Q4,135062,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2298,NZL
+unknwown,1:41,1787006340000,35,54,TO,turnover; bad pass,113.0,317318.0,819,650000,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2299,NZL
+unknwown,1:41,1787006340000,35,54,ST,steal,14.0,401377.0,820,650001,Q4,135062,,,,,,,14.0,Sofia Lombardero,Argentina,13.0,Q4,,,,2299,ARG
+shot,1:21,1787006360000,35,54,P3,3pt jump shot missed,14.0,159332.0,821,651000,Q4,135062,False,3.0,215.0,147.0,,,14.0,Macarena D'urso,Argentina,20.0,Q4,Above the Break 3,13.1,8-16 ft.,2319,ARG
+unknwown,1:20,1787006362000,35,54,REB,defensive rebound,113.0,261208.0,823,651002,Q4,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2320,NZL
+unknwown,1:20,1787006367000,35,54,FOUL,Personal foul; 2 free throws awarded,14.0,401377.0,824,653000,Q4,135062,,,,,,,14.0,Sofia Lombardero,Argentina,13.0,Q4,,,,2320,ARG
+unknwown,1:20,1787006367000,35,54,RFOUL,foul drawn,113.0,261208.0,825,653002,Q4,135062,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2320,NZL
+timeout,1:17,1787006382000,35,54,TIMO,Timeout,14.0,,828,656000,Q4,135062,,,,,,,,,,,Q4,,,,2323,
+shot,1:17,1787006461000,35,55,FT,1st of 2 free throws made,113.0,261208.0,829,657000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,14.6,8-16 ft.,2323,NZL
+shot,1:17,1787006471000,35,56,FT,2nd of 2 free throws made,113.0,261208.0,830,658000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,14.6,8-16 ft.,2323,NZL
+unknwown,1:11,1787006486000,35,56,TO,turnover; bad pass,14.0,419538.0,835,663000,Q4,135062,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q4,,,,2329,ARG
+shot,0:55,1787006514000,35,56,P3,3pt jump shot missed,113.0,328112.0,840,668000,Q4,135062,False,3.0,249.0,128.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q4,Above the Break 3,14.0,8-16 ft.,2345,NZL
+unknwown,0:55,1787006521000,35,56,TREB,team defensive rebound,14.0,,841,668002,Q4,135062,,,,,,,,,,,Q4,,,,2345,
+unknwown,0:44,1787006541000,35,56,TO,turnover; bad pass,14.0,159332.0,843,670000,Q4,135062,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2356,ARG
+unknwown,0:44,1787006541000,35,56,ST,steal,113.0,317318.0,844,670001,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2356,NZL
+unknwown,0:30,1787006565000,35,56,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,848,674000,Q4,135062,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2370,ARG
+unknwown,0:30,1787006565000,35,56,RFOUL,foul drawn,113.0,317318.0,849,674002,Q4,135062,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2370,NZL
+subst,0:30,1787006578000,35,56,SUBST,Substitution out,14.0,301664.0,850,675000,Q4,135062,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2370,ARG
+subst,0:30,1787006578000,35,56,SUBST,Substitution in,14.0,302892.0,851,676000,Q4,135062,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2370,ARG
+shot,0:30,1787006589000,35,56,FT,1st of 2 free throws missed,113.0,317318.0,852,677000,Q4,135062,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,2370,NZL
+shot,0:30,1787006599000,35,57,FT,2nd of 2 free throws made,113.0,317318.0,853,678000,Q4,135062,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,2370,NZL
+shot,0:06,1787006633000,35,57,P3,3pt jump shot from center missed,14.0,401377.0,860,685000,Q4,135062,False,3.0,160.0,172.0,,,14.0,Sofia Lombardero,Argentina,13.0,Q4,Above the Break 3,13.4,8-16 ft.,2394,ARG
+unknwown,0:06,1787006635000,35,57,TREB,team defensive rebound,113.0,,861,685002,Q4,135062,,,,,,,,,,,Q4,,,,2394,
+periods,0:00,1787006779000,35,57,ENDP,End of period,,,868,692000,Q4,135062,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787006787000,35,57,ENDG,End of game,,,869,693000,Q4,135062,,,,,,,,,,,Q4,,,,2400,
