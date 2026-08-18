@@ -340,7 +340,14 @@ def scrape_game(url: str) -> dict | None:
     competitors = pd.DataFrame(competitors)
 
     # --- box scores --------------------------------------------------------
-    team_nodes = node["gameDetails"]["c"]
+    # FIBA marks a game final on the schedule before the game page itself is
+    # populated, so gameDetails can still be absent here. Skip the game rather
+    # than failing the run: it has not been recorded, so the next run retries.
+    game_details_node = clean(node.get("gameDetails"))
+    if not isinstance(game_details_node, dict) or "c" not in game_details_node:
+        print("  box score not published yet — will retry next run")
+        return None
+    team_nodes = game_details_node["c"]
     box_rows, team_rows = [], []
     for idx, tnode in enumerate(team_nodes):
         for child in tnode.get("Children") or []:
@@ -368,7 +375,10 @@ def scrape_game(url: str) -> dict | None:
 
     # --- play-by-play ------------------------------------------------------
     pbp_rows = []
-    for period_id, period in (node.get("playByPlay", {}).get("items") or {}).items():
+    # Play-by-play can also lag behind the box score, so treat it as optional.
+    pbp_node = clean(node.get("playByPlay"))
+    pbp_items = pbp_node.get("items") if isinstance(pbp_node, dict) else None
+    for period_id, period in (pbp_items or {}).items():
         for ev in period.get("items") or []:
             row = {k: clean(v) for k, v in ev.items()}
             row["period"] = period_id
