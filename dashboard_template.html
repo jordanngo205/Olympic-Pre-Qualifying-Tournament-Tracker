@@ -142,7 +142,12 @@
 
   /* ── AWARDS SECTION ─────────────────────────── */
   .awards-grid-outer { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
-  .award-tile { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; box-shadow: 0 1px 3px rgba(0,0,0,.05); position: relative; overflow: hidden; transition: box-shadow .15s, transform .15s; }
+  /* Each award already owns a colour; wash it across the card so the grid
+     reads as colour-coded at a glance instead of a wall of white. */
+  .award-tile { background: linear-gradient(142deg, var(--c-fill) 0%, var(--surface) 62%);
+                border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px;
+                box-shadow: 0 1px 3px rgba(16,24,40,.05); position: relative; overflow: hidden;
+                transition: box-shadow .15s, transform .15s; }
   .award-tile:hover { box-shadow: 0 4px 14px rgba(0,0,0,.08); transform: translateY(-1px); }
   .award-tile::before { content: ''; position: absolute; top: 0; left: 0; width: 4px; height: 100%; background: var(--c-mid); }
   .award-tile-top { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }
@@ -183,8 +188,36 @@
   .net-panels { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
   @media (max-width: 1100px) { .net-panels { grid-template-columns: 1fr 1fr; } }
   @media (max-width: 680px)  { .net-panels { grid-template-columns: 1fr; } }
-  .net-panel { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.04); }
-  .net-panel-title { font-size: 12px; font-weight: 800; text-align: center; padding: 9px 14px; background: var(--surface2); border-bottom: 1px solid var(--border); letter-spacing: .2px; color: var(--text); }
+  /* Each panel answers a different question, so each carries its own colour:
+     a tinted header fading into the card, and a matching rule beneath it. */
+  .net-panel { background: linear-gradient(180deg, var(--p-fill) 0%, var(--surface) 340px);
+               border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+               box-shadow: 0 1px 3px rgba(16,24,40,.04); }
+  .net-panel-title { font-size: 12.5px; font-weight: 800; text-align: center; padding: 11px 14px;
+                     background: linear-gradient(135deg, var(--p-mid) 0%, var(--p-deep) 100%);
+                     border-bottom: 1px solid var(--border); letter-spacing: .2px; color: #fff;
+                     text-shadow: 0 1px 2px rgba(0,0,0,.18); }
+  /* Panel palettes — one hue per question, kept clear of the status colours
+     used for good/bad values inside the tables. */
+  .np-overall { --p-fill:#eef2ff; --p-mid:#4f46e5; --p-deep:#3730a3; }
+  .np-off     { --p-fill:#fff7ed; --p-mid:#ea580c; --p-deep:#9a3412; }
+  .np-def     { --p-fill:#f5f3ff; --p-mid:#7c3aed; --p-deep:#5b21b6; }
+  .np-zone    { --p-fill:#ecfeff; --p-mid:#0891b2; --p-deep:#155e75; }
+  .np-three   { --p-fill:#eff6ff; --p-mid:#0284c7; --p-deep:#075985; }
+  .np-glass   { --p-fill:#fdf2f8; --p-mid:#db2777; --p-deep:#9d174d; }
+
+  /* These panels are long stacks of dense tables. Without banding they read
+     as one white sheet, so tint every other row and key the section labels to
+     the panel's own hue — the good/bad status colours stay reserved for the
+     "worst" and "other" labels. */
+  .net-panel .player-table tbody tr:nth-child(even) { background: var(--p-fill); }
+  .net-panel .player-table tbody tr:hover { background: var(--p-fill); filter: brightness(.96); }
+  .net-panel .sub-label { color: var(--p-deep); background: var(--p-fill);
+                          border-top-color: var(--p-mid); border-bottom-color: var(--p-mid); }
+  .net-panel .sub-label.worst { color: var(--red); background: var(--red-bg);
+                                border-top-color: var(--red-border); border-bottom-color: var(--red-border); }
+  .net-panel .sub-label.other { color: var(--amber); background: var(--amber-bg);
+                                border-top-color: #fde68a; border-bottom-color: #fde68a; }
   .sub-label { font-size: 10px; font-weight: 700; text-align: center; padding: 6px 10px; color: var(--accent); background: var(--accent-light); border-bottom: 1px solid var(--border); border-top: 1px solid var(--border); text-transform: uppercase; letter-spacing: .8px; }
   .sub-label.worst { color: var(--red); background: var(--red-bg); border-color: var(--red-border); }
   .sub-label.other { color: var(--amber); background: var(--amber-bg); border-color: #fde68a; }
@@ -208,7 +241,7 @@
   body { transition: background-color .25s ease, color .25s ease; }
   .zone { border-color: var(--zone-border); }
   .header { background: var(--accent); }
-  .game-card, .net-panel { box-shadow: 0 1px 3px var(--shadow); }
+  .game-card { box-shadow: 0 1px 3px var(--shadow); }
   .net-pos-mid { background: var(--green-bg); color: var(--green); border-color: var(--green-border); }
   .net-neg-mid { background: var(--red-bg); color: var(--red); border-color: var(--red-border); }
   .sub-label.other { border-color: var(--amber-bg); }
@@ -903,12 +936,12 @@ function renderNetPanels() {
     ${makeTable(byPF.slice(0,5).map(p=>pRow(p,`<span class="nneg">${p.PF}</span>`,``)),['Player','PF','W/L'])}`;
 
   document.getElementById('netPanels').innerHTML = `
-    <div class="net-panel"><div class="net-panel-title">📊 Overall Net Points</div>${panel1}</div>
-    <div class="net-panel"><div class="net-panel-title">⚡ Offensive Net Points</div>${panel2}</div>
-    <div class="net-panel"><div class="net-panel-title">🛡️ Defensive Net Points</div>${panel3}</div>
-    <div class="net-panel"><div class="net-panel-title">🎯 Shot Zone Breakdown</div>${panel4}</div>
-    <div class="net-panel"><div class="net-panel-title">🌧️ 3-Pointers & Transition</div>${panel5}</div>
-    <div class="net-panel"><div class="net-panel-title">💪 Glass, Hustle & Fouls</div>${panel6}</div>`;
+    <div class="net-panel np-overall"><div class="net-panel-title">📊 Overall Net Points</div>${panel1}</div>
+    <div class="net-panel np-off"><div class="net-panel-title">⚡ Offensive Net Points</div>${panel2}</div>
+    <div class="net-panel np-def"><div class="net-panel-title">🛡️ Defensive Net Points</div>${panel3}</div>
+    <div class="net-panel np-zone"><div class="net-panel-title">🎯 Shot Zone Breakdown</div>${panel4}</div>
+    <div class="net-panel np-three"><div class="net-panel-title">🌧️ 3-Pointers & Transition</div>${panel5}</div>
+    <div class="net-panel np-glass"><div class="net-panel-title">💪 Glass, Hustle & Fouls</div>${panel6}</div>`;
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
