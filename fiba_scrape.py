@@ -669,7 +669,8 @@ FLAG_MAP = {
 
 
 def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
-                    template: Path, spots: int = 4, event=None):
+                    template: Path, spots: int = 4, event=None,
+                    last_updated: str = ""):
     if not template.exists():
         print(f"\nTemplate not found at '{template.name}' — skipping HTML output.")
         print("Save your dashboard HTML as dashboard_template.html and rerun.")
@@ -743,7 +744,7 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         # The event's own name and dates, so the header shows the real
         # tournament window rather than only the days already played.
         to_js("EVENT_META", event_meta),
-        to_js("GENERATED_AT", datetime.now(timezone.utc).isoformat()),
+        to_js("GENERATED_AT", last_updated),
         to_js("FLAG_MAP", FLAG_MAP),
         "// %%DATA_END%%",
     ]
@@ -905,9 +906,21 @@ def run_once(ev, competition: str, args) -> int:
     print(f"   → {len(awards)} daily award rows "
           f"({enriched['date'].nunique()} dates x {len(AWARDS)} awards)")
 
+    # The stamp in the header answers "how old is this data", not "when did the
+    # build last run". A scheduled run that finds no finished game must leave it
+    # untouched — otherwise the page changes on every run, which both misleads
+    # the reader and defeats the workflow's commit-only-if-changed check.
+    stamp_file = datadir / "last_updated.txt"
+    scraped_any = any(f is not None and not f.empty for f in new["details"])
+    if scraped_any or not stamp_file.exists():
+        last_updated = datetime.now(timezone.utc).isoformat()
+        stamp_file.write_text(last_updated, encoding="utf-8")
+    else:
+        last_updated = stamp_file.read_text(encoding="utf-8").strip()
+
     write_dashboard(outdir, competition, details, team_adv_u, enriched,
                     Path(__file__).parent / "dashboard_template.html",
-                    spots=args.qualify_spots, event=ev)
+                    spots=args.qualify_spots, event=ev, last_updated=last_updated)
     return pending
 
 
