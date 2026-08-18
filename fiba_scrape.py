@@ -184,7 +184,7 @@ def resolve_event(query: str, events: pd.DataFrame) -> pd.Series:
 # Schedule discovery
 # ---------------------------------------------------------------------------
 
-def event_games(slug: str, played_only: bool = True) -> tuple[pd.DataFrame, int]:
+def event_games(slug: str, played_only: bool = True) -> tuple[pd.DataFrame, int, dict]:
     """The event's full schedule, as game rows with a built game URL."""
     url = f"{BASE}/en/events/{slug}/games"
     print(f"Reading schedule from {url}")
@@ -216,9 +216,29 @@ def event_games(slug: str, played_only: bool = True) -> tuple[pd.DataFrame, int]
             "round": (clean(g.get("round")) or {}).get("roundName", ""),
             "stat_status": clean(g.get("gameStatisticStatusCode")),
             "is_live": bool(clean(g.get("isLive"))),
+            # Group letter for group-phase fixtures. Knockout games reuse this
+            # field for a bracket slot number, so only keep real group codes.
+            "group": (str(clean(g.get("groupPairingCode"))).strip().upper()
+                      if clean(g.get("groupPairingCode"))
+                      and str(clean(g.get("groupPairingCode"))).strip().isalpha() else None),
         }
 
     sched = pd.DataFrame(rows.values())
+
+    # Every team in each group, taken from the whole schedule rather than from
+    # finished games only — otherwise a group shows just the teams that have
+    # already played, and a side sitting at 0-0 looks like it is not competing.
+    groups: dict[str, list[str]] = {}
+    for r in rows.values():
+        g = r.get("group")
+        if not g:
+            continue
+        for code in (r["home"], r["away"]):
+            if code:
+                groups.setdefault(g, [])
+                if code not in groups[g]:
+                    groups[g].append(code)
+    groups = {g: sorted(v) for g, v in sorted(groups.items())}
     # The R script's header warns you to wait until games are FINAL, because a
     # game that has not finished has no usable box score. Enforce that here:
     # gameStatisticStatusCode flips EMPTY -> VALID once stats exist, isLive
@@ -248,7 +268,7 @@ def event_games(slug: str, played_only: bool = True) -> tuple[pd.DataFrame, int]
         for r in sched.itertuples()
     ]
     print(f"Found {len(sched)} playable game(s) across {sched['round'].nunique()} round(s).")
-    return sched, pending
+    return sched, pending, groups
 
 
 # ---------------------------------------------------------------------------
@@ -700,7 +720,7 @@ TEAM_COLORS = {
 
 def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
                     template: Path, spots: int = 4, event=None,
-                    last_updated: str = ""):
+                    last_updated: str = "", groups: dict | None = None):
     if not template.exists():
         print(f"\nTemplate not found at '{template.name}' — skipping HTML output.")
         print("Save your dashboard HTML as dashboard_template.html and rerun.")
@@ -731,6 +751,9 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
     ])
     wins["win"] = (wins["score"] > wins["opp"]).astype(int)
     wins["diff"] = wins["score"] - wins["opp"]
+    # Rank on FIBA competition points — 2 for a win, 1 for a loss — so this
+    # agrees with the Qualification board rather than ranking on wins alone.
+    wins["win"] = wins["win"] * 2 + (1 - wins["win"])
 
     # `spots` counts places per group when the event has groups, matching how
     # FIBA actually advances teams (e.g. top 2 of Group A and top 2 of Group B).
@@ -777,6 +800,7 @@ def write_dashboard(outdir: Path, competition: str, details, team_adv, enriched,
         to_js("GENERATED_AT", last_updated),
         to_js("FLAG_MAP", FLAG_MAP),
         to_js("TEAM_COLORS", TEAM_COLORS),
+        to_js("GROUPS", groups or {}),
         "// %%DATA_END%%",
     ]
     out = lines[:starts[0]] + block + lines[ends[0] + 1:]
@@ -867,7 +891,7 @@ def run_once(ev, competition: str, args) -> int:
     db = {k: load_csv(p(k)) for k in
           ("game details", "participant log", "player box scores", "pbp", "team box scores")}
 
-    sched, pending = event_games(ev["slug"], played_only=not args.all_games)
+    sched, pending, groups = event_games(ev["slug"], played_only=not args.all_games)
     if not db["game details"].empty:
         done = set(db["game details"]["game_link"])
         sched = sched[~sched["game_link"].isin(done)]
@@ -951,7 +975,8 @@ def run_once(ev, competition: str, args) -> int:
 
     write_dashboard(outdir, competition, details, team_adv_u, enriched,
                     Path(__file__).parent / "dashboard_template.html",
-                    spots=args.qualify_spots, event=ev, last_updated=last_updated)
+                    spots=args.qualify_spots, event=ev, last_updated=last_updated,
+                    groups=groups)
     return pending
 
 

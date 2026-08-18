@@ -1225,3 +1225,529 @@ shot,0:06,1787006633000,35,57,P3,3pt jump shot from center missed,14.0,401377.0,
 unknwown,0:06,1787006635000,35,57,TREB,team defensive rebound,113.0,,861,685002,Q4,135062,,,,,,,,,,,Q4,,,,2394,
 periods,0:00,1787006779000,35,57,ENDP,End of period,,,868,692000,Q4,135062,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787006787000,35,57,ENDG,End of game,,,869,693000,Q4,135062,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787009421000,0,0,STARTG,Start of game,,,1,1000,Q1,135067,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787009421000,0,0,STARTP,Start of period,,,2,2000,Q1,135067,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787009421000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135067,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787009422000,0,0,JB,jump ball won,134.0,290089.0,5,4001,Q1,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,1,SEN
+unknwown,9:59,1787009422000,0,0,JB,jump ball lost,34.0,161433.0,6,4002,Q1,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,1,CAN
+shot,9:42,1787009440000,0,0,P2,2pt step back jump shot missed,134.0,273042.0,7,5000,Q1,135067,False,2.0,49.0,98.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Mid-Range,10.8,8-16 ft.,18,SEN
+unknwown,9:33,1787009447000,0,0,REB,defensive rebound,34.0,161433.0,8,5002,Q1,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,27,CAN
+shot,9:21,1787009460000,0,0,P2,2pt turnaround jump shot missed,34.0,161433.0,9,6000,Q1,135067,False,2.0,110.0,34.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,In The Paint (Non-RA),3.1,Less Than 8 ft.,39,CAN
+unknwown,9:03,1787009478000,0,0,REB,defensive rebound,134.0,203560.0,10,6002,Q1,135067,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,57,SEN
+shot,9:01,1787009484000,0,0,P3,3pt jump shot from center missed,134.0,290089.0,12,8000,Q1,135067,False,3.0,174.0,159.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,Above the Break 3,12.4,8-16 ft.,59,SEN
+unknwown,9:01,1787009486000,0,0,TREB,team defensive rebound,34.0,,13,8002,Q1,135067,,,,,,,,,,,Q1,,,,59,
+unknwown,8:39,1787009541000,0,0,TTO,team turnover; shot clock violation,34.0,,18,13000,Q1,135067,,,,,,,,,,,Q1,,,,81,
+shot,8:26,1787009570000,0,2,P2,2pt floating jump shot made,134.0,274485.0,21,16000,Q1,135067,True,2.0,65.0,32.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,Mid-Range,7.5,Less Than 8 ft.,94,SEN
+unknwown,8:26,1787009578000,0,2,FOUL,Personal foul; 1 free throw awarded,34.0,188714.0,22,17000,Q1,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,94,CAN
+unknwown,8:26,1787009578000,0,2,RFOUL,foul drawn,134.0,274485.0,23,17002,Q1,135067,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,94,SEN
+shot,8:26,1787009598000,0,2,FT,1st free throw missed,134.0,274485.0,24,18000,Q1,135067,False,1.0,0.0,0.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,14.6,8-16 ft.,94,SEN
+unknwown,8:26,1787009600000,0,2,REB,defensive rebound,34.0,161433.0,26,18002,Q1,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,94,CAN
+shot,8:10,1787009617000,0,2,P3,3pt jump shot missed,34.0,318775.0,27,20000,Q1,135067,False,3.0,7.0,25.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Right Corner 3,13.4,8-16 ft.,110,CAN
+unknwown,8:06,1787009620000,0,2,REB,offensive rebound,34.0,172742.0,28,20002,Q1,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,114,CAN
+shot,8:03,1787009624000,3,2,P3,3pt jump shot made,34.0,188714.0,29,21000,Q1,135067,True,3.0,235.0,130.0,,,34.0,Sami Hill,Canada,4.0,Q1,Above the Break 3,13.1,8-16 ft.,117,CAN
+unknwown,8:03,1787009624000,3,2,ASS,made the assist,34.0,320676.0,30,21001,Q1,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,117,CAN
+shot,7:38,1787009649000,3,2,P2,"2PtsFG inside left, jump shot missed",134.0,290089.0,31,22000,Q1,135067,False,2.0,78.0,74.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,Mid-Range,7.1,Less Than 8 ft.,142,SEN
+unknwown,7:35,1787009658000,3,2,REB,offensive rebound,134.0,274485.0,33,22002,Q1,135067,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,145,SEN
+unknwown,7:35,1787009661000,3,2,FOUL,Personal foul,34.0,188714.0,34,24000,Q1,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,145,CAN
+unknwown,7:35,1787009661000,3,2,RFOUL,foul drawn,134.0,274485.0,35,24002,Q1,135067,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,145,SEN
+subst,7:35,1787009674000,3,2,SUBST,Substitution out,34.0,188714.0,36,25000,Q1,135067,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q1,,,,145,CAN
+subst,7:35,1787009674000,3,2,SUBST,Substitution in,34.0,369879.0,37,26000,Q1,135067,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q1,,,,145,CAN
+shot,7:27,1787009688000,3,5,P3,3pt jump shot made,134.0,273042.0,39,28000,Q1,135067,True,3.0,27.0,116.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,13.6,8-16 ft.,153,SEN
+unknwown,7:27,1787009688000,3,5,ASS,made the assist,134.0,203560.0,40,28001,Q1,135067,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,153,SEN
+unknwown,7:02,1787009718000,3,5,FOUL,Personal foul,134.0,186583.0,42,30000,Q1,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,,,,178,SEN
+unknwown,7:02,1787009718000,3,5,RFOUL,foul drawn,34.0,318775.0,43,30002,Q1,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,178,CAN
+shot,6:56,1787009747000,3,5,P3,3pt jump shot missed,34.0,369879.0,45,32000,Q1,135067,False,3.0,7.0,34.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Right Corner 3,13.3,8-16 ft.,184,CAN
+unknwown,6:52,1787009751000,3,5,REB,defensive rebound,134.0,290089.0,46,32002,Q1,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,188,SEN
+shot,6:45,1787009758000,3,5,P2,"2PtsFG under the basket, driving layup missed",134.0,273042.0,47,33000,Q1,135067,False,2.0,121.0,30.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Restricted Area,2.1,Less Than 8 ft.,195,SEN
+unknwown,6:38,1787009764000,3,5,REB,defensive rebound,34.0,161433.0,48,33002,Q1,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,202,CAN
+shot,6:34,1787009769000,5,5,P2,2pt jump shot made,34.0,161433.0,49,34000,Q1,135067,True,2.0,147.0,92.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,In The Paint (Non-RA),5.2,Less Than 8 ft.,206,CAN
+unknwown,6:34,1787009769000,5,5,ASS,made the assist,34.0,318775.0,50,34001,Q1,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,206,CAN
+shot,6:13,1787009790000,5,5,P2,"2PtsFG inside right, jump shot missed",134.0,290089.0,51,35000,Q1,135067,False,2.0,198.0,96.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,Mid-Range,8.1,8-16 ft.,227,SEN
+unknwown,6:10,1787009792000,5,5,REB,defensive rebound,34.0,172742.0,52,35002,Q1,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,230,CAN
+shot,5:56,1787009808000,7,5,P2,2pt jump shot made,34.0,161433.0,54,36000,Q1,135067,True,2.0,94.0,104.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,Mid-Range,7.9,Less Than 8 ft.,244,CAN
+unknwown,5:56,1787009808000,7,5,ASS,made the assist,34.0,320676.0,55,36001,Q1,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,244,CAN
+shot,5:32,1787009831000,7,5,P3,3pt jump shot missed,134.0,186583.0,56,37000,Q1,135067,False,3.0,270.0,35.0,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,Left Corner 3,13.0,8-16 ft.,268,SEN
+unknwown,5:29,1787009834000,7,5,REB,offensive rebound,134.0,203560.0,57,37002,Q1,135067,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,271,SEN
+shot,5:24,1787009840000,7,5,P2,"2PtsFG inside center, jump shot missed",134.0,273042.0,58,38000,Q1,135067,False,2.0,100.0,113.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Mid-Range,8.3,8-16 ft.,276,SEN
+unknwown,5:20,1787009843000,7,5,REB,defensive rebound,34.0,369879.0,59,38002,Q1,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,280,CAN
+shot,5:05,1787009858000,7,5,P2,"2PtsFG inside right, jump shot missed",34.0,369879.0,60,39000,Q1,135067,False,2.0,209.0,49.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Mid-Range,7.0,Less Than 8 ft.,295,CAN
+unknwown,5:01,1787009861000,7,5,REB,offensive rebound,34.0,172742.0,61,39002,Q1,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,299,CAN
+shot,4:59,1787009870000,10,5,P3,3pt jump shot made,34.0,320676.0,63,41000,Q1,135067,True,3.0,11.0,48.0,,,34.0,Syla Swords,Canada,12.0,Q1,Right Corner 3,12.9,8-16 ft.,301,CAN
+unknwown,4:59,1787009870000,10,5,ASS,made the assist,34.0,172742.0,64,41001,Q1,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,301,CAN
+timeout,4:59,1787009876000,10,5,TIMO,Timeout,134.0,,65,42000,Q1,135067,,,,,,,,,,,Q1,,,,301,
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,34.0,318775.0,66,43000,Q1,135067,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,301,CAN
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,34.0,161433.0,67,44000,Q1,135067,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q1,,,,301,CAN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,34.0,217051.0,68,45000,Q1,135067,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q1,,,,301,CAN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,34.0,250669.0,69,46000,Q1,135067,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q1,,,,301,CAN
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,134.0,203560.0,70,47000,Q1,135067,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,134.0,186583.0,71,48000,Q1,135067,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,134.0,290089.0,72,49000,Q1,135067,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution out,134.0,274485.0,73,50000,Q1,135067,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,134.0,278227.0,74,51000,Q1,135067,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,134.0,272478.0,75,52000,Q1,135067,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,134.0,287408.0,76,53000,Q1,135067,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,301,SEN
+subst,4:59,1787009964000,10,5,SUBST,Substitution in,134.0,231012.0,77,54000,Q1,135067,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,301,SEN
+shot,4:41,1787009990000,10,5,P2,2pt driving layup missed,134.0,287408.0,79,56000,Q1,135067,False,2.0,99.0,57.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,In The Paint (Non-RA),4.4,Less Than 8 ft.,319,SEN
+unknwown,4:37,1787009994000,10,5,REB,defensive rebound,34.0,369879.0,80,56002,Q1,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,323,CAN
+shot,4:34,1787009998000,12,5,P2,"2PtsFG under the basket, fast break, driving layup made",34.0,369879.0,81,57000,Q1,135067,True,2.0,158.0,43.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Restricted Area,1.8,Less Than 8 ft.,326,CAN
+shot,4:14,1787010018000,12,7,P2,2pt jump shot made,134.0,231012.0,82,58000,Q1,135067,True,2.0,174.0,92.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,In The Paint (Non-RA),6.2,Less Than 8 ft.,346,SEN
+unknwown,4:14,1787010018000,12,7,ASS,made the assist,134.0,273042.0,83,58001,Q1,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,346,SEN
+shot,3:56,1787010037000,15,7,P3,3pt jump shot made,34.0,320676.0,84,59000,Q1,135067,True,3.0,267.0,57.0,,,34.0,Syla Swords,Canada,12.0,Q1,Left Corner 3,12.8,8-16 ft.,364,CAN
+unknwown,3:56,1787010037000,15,7,ASS,made the assist,34.0,217051.0,85,59001,Q1,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,364,CAN
+shot,3:34,1787010058000,15,7,P2,2pt jump shot missed,134.0,231012.0,86,60000,Q1,135067,False,2.0,84.0,24.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,Mid-Range,5.8,Less Than 8 ft.,386,SEN
+unknwown,3:30,1787010061000,15,7,REB,defensive rebound,34.0,369879.0,87,60002,Q1,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,390,CAN
+shot,3:25,1787010067000,17,7,P2,"2PtsFG inside center, jump shot made",34.0,250669.0,88,61000,Q1,135067,True,2.0,118.0,116.0,,,34.0,Faith Dut,Canada,25.0,Q1,Mid-Range,7.9,Less Than 8 ft.,395,CAN
+unknwown,3:25,1787010067000,17,7,ASS,made the assist,34.0,172742.0,89,61001,Q1,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,395,CAN
+unknwown,3:00,1787010097000,17,7,FOUL,Personal foul; 2 free throws awarded,34.0,369879.0,91,63000,Q1,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,420,CAN
+unknwown,3:00,1787010097000,17,7,RFOUL,foul drawn,134.0,273042.0,92,63002,Q1,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,420,SEN
+subst,3:00,1787010110000,17,7,SUBST,Substitution out,34.0,172742.0,93,64000,Q1,135067,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,420,CAN
+subst,3:00,1787010110000,17,7,SUBST,Substitution out,34.0,320676.0,94,65000,Q1,135067,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q1,,,,420,CAN
+subst,3:00,1787010110000,17,7,SUBST,Substitution in,34.0,297698.0,95,66000,Q1,135067,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q1,,,,420,CAN
+subst,3:00,1787010110000,17,7,SUBST,Substitution in,34.0,342479.0,96,67000,Q1,135067,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q1,,,,420,CAN
+shot,3:00,1787010124000,17,8,FT,1st of 2 free throws made,134.0,273042.0,97,68000,Q1,135067,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,420,SEN
+shot,3:00,1787010137000,17,9,FT,2nd of 2 free throws made,134.0,273042.0,98,69000,Q1,135067,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,420,SEN
+shot,2:49,1787010151000,17,9,P3,3pt jump shot from center missed,34.0,342479.0,100,71000,Q1,135067,False,3.0,111.0,168.0,,,34.0,Cearah Parchment,Canada,30.0,Q1,Above the Break 3,13.1,8-16 ft.,431,CAN
+unknwown,2:47,1787010155000,17,9,TREB,team defensive rebound,134.0,,102,71002,Q1,135067,,,,,,,,,,,Q1,,,,433,
+unknwown,2:30,1787010190000,17,9,TO,turnover; ball handling,134.0,287408.0,105,75000,Q1,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,450,SEN
+unknwown,2:21,1787010216000,17,9,FOUL,Personal foul,134.0,278227.0,108,78000,Q1,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,459,SEN
+unknwown,2:21,1787010216000,17,9,RFOUL,foul drawn,34.0,217051.0,109,78002,Q1,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,459,CAN
+unknwown,2:18,1787010235000,17,9,TO,turnover; bad pass,34.0,250669.0,112,81000,Q1,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,462,CAN
+unknwown,1:56,1787010264000,17,9,TO,turnover; bad pass,134.0,272478.0,114,83000,Q1,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,484,SEN
+unknwown,1:56,1787010264000,17,9,ST,steal,34.0,250669.0,115,83001,Q1,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,484,CAN
+shot,1:45,1787010276000,17,9,P3,3pt jump shot missed,34.0,342479.0,116,84000,Q1,135067,False,3.0,10.0,26.0,,,34.0,Cearah Parchment,Canada,30.0,Q1,Right Corner 3,13.1,8-16 ft.,495,CAN
+unknwown,1:39,1787010280000,17,9,REB,defensive rebound,134.0,231012.0,117,84002,Q1,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,501,SEN
+unknwown,1:38,1787010282000,17,9,TO,turnover; bad pass,134.0,231012.0,118,85000,Q1,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,502,SEN
+unknwown,1:38,1787010282000,17,9,ST,steal,34.0,297698.0,119,85001,Q1,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,502,CAN
+shot,1:34,1787010287000,19,9,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",34.0,297698.0,120,86000,Q1,135067,True,2.0,135.0,30.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Restricted Area,1.1,Less Than 8 ft.,506,CAN
+unknwown,1:34,1787010287000,19,9,ASS,made the assist,34.0,217051.0,121,86001,Q1,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,506,CAN
+shot,1:20,1787010302000,19,9,P3,3pt jump shot missed,134.0,273042.0,124,89000,Q1,135067,False,3.0,18.0,98.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,13.5,8-16 ft.,520,SEN
+unknwown,1:16,1787010305000,19,9,REB,defensive rebound,34.0,342479.0,125,89002,Q1,135067,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q1,,,,524,CAN
+unknwown,1:05,1787010320000,19,9,TO,turnover; out of bounds,34.0,369879.0,127,91000,Q1,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,535,CAN
+subst,1:05,1787010342000,19,9,SUBST,Substitution out,34.0,217051.0,128,92000,Q1,135067,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q1,,,,535,CAN
+subst,1:05,1787010342000,19,9,SUBST,Substitution in,34.0,318775.0,129,93000,Q1,135067,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,535,CAN
+unknwown,0:56,1787010359000,19,9,TO,turnover; bad pass,134.0,272478.0,132,96000,Q1,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,544,SEN
+subst,0:56,1787010367000,19,9,SUBST,Substitution out,134.0,231012.0,133,97000,Q1,135067,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,544,SEN
+subst,0:56,1787010367000,19,9,SUBST,Substitution in,134.0,290189.0,134,98000,Q1,135067,,,,,,IN,134.0,Fatou Kine Filor,Senegal,12.0,Q1,,,,544,SEN
+shot,0:47,1787010380000,19,9,P2,2pt jump shot missed,34.0,318775.0,136,100000,Q1,135067,False,2.0,177.0,70.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,In The Paint (Non-RA),4.8,Less Than 8 ft.,553,CAN
+unknwown,0:44,1787010382000,19,9,REB,offensive rebound,34.0,250669.0,137,100002,Q1,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,556,CAN
+shot,0:43,1787010384000,19,9,P2,2pt jump shot inside the paint missed,34.0,250669.0,138,101000,Q1,135067,False,2.0,181.0,88.0,,,34.0,Faith Dut,Canada,25.0,Q1,In The Paint (Non-RA),6.3,Less Than 8 ft.,557,CAN
+unknwown,0:40,1787010386000,19,9,REB,defensive rebound,134.0,272478.0,139,101002,Q1,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,560,SEN
+unknwown,0:38,1787010408000,19,9,FOUL,Personal foul; 2 free throws awarded,34.0,297698.0,142,103000,Q1,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,562,CAN
+unknwown,0:38,1787010408000,19,9,RFOUL,foul drawn,134.0,287408.0,143,103002,Q1,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,562,SEN
+subst,0:38,1787010423000,19,9,SUBST,Substitution out,34.0,369879.0,144,104000,Q1,135067,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q1,,,,562,CAN
+subst,0:38,1787010423000,19,9,SUBST,Substitution in,34.0,320676.0,145,105000,Q1,135067,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q1,,,,562,CAN
+shot,0:38,1787010425000,19,10,FT,1st of 2 free throws made,134.0,287408.0,146,106000,Q1,135067,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,562,SEN
+shot,0:38,1787010440000,19,11,FT,2nd of 2 free throws made,134.0,287408.0,147,107000,Q1,135067,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,562,SEN
+subst,0:38,1787010445000,19,11,SUBST,Substitution out,34.0,250669.0,148,108000,Q1,135067,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q1,,,,562,CAN
+subst,0:38,1787010445000,19,11,SUBST,Substitution in,34.0,161433.0,149,109000,Q1,135067,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q1,,,,562,CAN
+shot,0:32,1787010458000,22,11,P3,3pt jump shot made,34.0,320676.0,151,111000,Q1,135067,True,3.0,7.0,26.0,,,34.0,Syla Swords,Canada,12.0,Q1,Right Corner 3,13.4,8-16 ft.,568,CAN
+unknwown,0:32,1787010458000,22,11,ASS,made the assist,34.0,297698.0,152,111001,Q1,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,568,CAN
+shot,0:14,1787010476000,22,14,P3,3pt jump shot made,134.0,273042.0,153,112000,Q1,135067,True,3.0,226.0,131.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,12.5,8-16 ft.,586,SEN
+unknwown,0:04,1787010490000,22,14,FOUL,Personal foul,134.0,272478.0,157,116000,Q1,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,596,SEN
+unknwown,0:04,1787010490000,22,14,RFOUL,foul drawn,34.0,318775.0,158,116002,Q1,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,596,CAN
+subst,0:04,1787010499000,22,14,SUBST,Substitution out,134.0,272478.0,159,117000,Q1,135067,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,596,SEN
+subst,0:04,1787010499000,22,14,SUBST,Substitution in,134.0,186583.0,160,118000,Q1,135067,,,,,,IN,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,,,,596,SEN
+shot,0:01,1787010512000,22,14,P3,3pt jump shot from center missed,34.0,318775.0,162,120000,Q1,135067,False,3.0,158.0,184.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Above the Break 3,14.5,8-16 ft.,599,CAN
+unknwown,0:00,1787010516000,22,14,REB,defensive rebound,134.0,290189.0,164,120002,Q1,135067,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q1,,,,600,SEN
+periods,0:00,1787010527000,22,14,ENDP,End of period,,,165,122000,Q1,135067,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787010653000,22,14,SUBST,Substitution out,34.0,342479.0,166,123000,Q2,135067,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q2,,,,600,CAN
+subst,10:00,1787010653000,22,14,SUBST,Substitution in,34.0,172742.0,167,124000,Q2,135067,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,600,CAN
+periods,10:00,1787010666000,22,14,STARTP,Start of period,,,168,125000,Q2,135067,,,,,,,,,,,Q2,,,,600,
+shot,9:41,1787010686000,25,14,P3,3pt jump shot made,34.0,297698.0,170,127000,Q2,135067,True,3.0,74.0,148.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Above the Break 3,12.7,8-16 ft.,619,CAN
+unknwown,9:41,1787010686000,25,14,ASS,made the assist,34.0,320676.0,171,127001,Q2,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,619,CAN
+shot,9:29,1787010698000,25,14,P2,2pt driving layup missed,134.0,287408.0,172,128000,Q2,135067,False,2.0,102.0,83.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,In The Paint (Non-RA),5.7,Less Than 8 ft.,631,SEN
+unknwown,9:25,1787010701000,25,14,REB,defensive rebound,34.0,161433.0,173,128002,Q2,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,635,CAN
+shot,9:20,1787010707000,27,14,P2,"2PtsFG inside center, jump shot made",34.0,161433.0,174,129000,Q2,135067,True,2.0,114.0,111.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Mid-Range,7.6,Less Than 8 ft.,640,CAN
+unknwown,9:20,1787010707000,27,14,ASS,made the assist,34.0,297698.0,175,129001,Q2,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,640,CAN
+unknwown,9:08,1787010722000,27,14,TTO,team turnover; 8 seconds violation,134.0,,178,131000,Q2,135067,,,,,,,,,,,Q2,,,,652,
+shot,8:56,1787010749000,27,14,P3,3pt jump shot missed,34.0,320676.0,180,133000,Q2,135067,False,3.0,166.0,170.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,13.3,8-16 ft.,664,CAN
+unknwown,8:52,1787010752000,27,14,REB,defensive rebound,134.0,186583.0,181,133002,Q2,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q2,,,,668,SEN
+shot,8:45,1787010760000,27,16,P2,"2PtsFG inside right wing, jump shot made",134.0,273042.0,182,134000,Q2,135067,True,2.0,189.0,35.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Mid-Range,4.9,Less Than 8 ft.,675,SEN
+shot,8:30,1787010774000,29,16,P2,"2PtsFG under the basket, layup made",34.0,161433.0,183,135000,Q2,135067,True,2.0,143.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Restricted Area,0.6,Less Than 8 ft.,690,CAN
+unknwown,8:30,1787010774000,29,16,ASS,made the assist,34.0,297698.0,184,135001,Q2,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,690,CAN
+unknwown,8:14,1787010794000,29,16,FOUL,Personal foul; 2 free throws awarded,34.0,297698.0,186,137000,Q2,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,706,CAN
+unknwown,8:14,1787010794000,29,16,RFOUL,foul drawn,134.0,273042.0,187,137002,Q2,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,706,SEN
+subst,8:14,1787010812000,29,16,SUBST,Substitution out,34.0,297698.0,188,138000,Q2,135067,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q2,,,,706,CAN
+subst,8:14,1787010812000,29,16,SUBST,Substitution in,34.0,368225.0,189,139000,Q2,135067,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q2,,,,706,CAN
+subst,8:14,1787010812000,29,16,SUBST,Substitution out,134.0,278227.0,190,140000,Q2,135067,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,706,SEN
+subst,8:14,1787010812000,29,16,SUBST,Substitution in,134.0,303627.0,191,141000,Q2,135067,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q2,,,,706,SEN
+shot,8:14,1787010832000,29,17,FT,1st of 2 free throws made,134.0,273042.0,192,142000,Q2,135067,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,706,SEN
+shot,8:14,1787010837000,29,18,FT,2nd of 2 free throws made,134.0,273042.0,193,143000,Q2,135067,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,706,SEN
+shot,8:05,1787010851000,29,18,P3,3pt jump shot missed,34.0,368225.0,195,145000,Q2,135067,False,3.0,270.0,37.0,,,34.0,Avery Howell,Canada,23.0,Q2,Left Corner 3,13.0,8-16 ft.,715,CAN
+unknwown,8:01,1787010854000,29,18,REB,defensive rebound,134.0,303627.0,196,145002,Q2,135067,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,719,SEN
+shot,7:54,1787010862000,29,18,P2,2pt turnaround jump shot missed,134.0,290189.0,197,146000,Q2,135067,False,2.0,171.0,43.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,In The Paint (Non-RA),3.1,Less Than 8 ft.,726,SEN
+unknwown,7:52,1787010867000,29,18,TREB,team defensive rebound,34.0,,199,146002,Q2,135067,,,,,,,,,,,Q2,,,,728,
+shot,7:33,1787010893000,31,18,P2,2pt jump shot made,34.0,161433.0,201,149000,Q2,135067,True,2.0,176.0,53.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,In The Paint (Non-RA),3.8,Less Than 8 ft.,747,CAN
+unknwown,7:33,1787010893000,31,18,ASS,made the assist,34.0,368225.0,202,149001,Q2,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q2,,,,747,CAN
+unknwown,7:22,1787010909000,31,18,FOUL,Personal foul,34.0,368225.0,204,151000,Q2,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q2,,,,758,CAN
+unknwown,7:22,1787010909000,31,18,RFOUL,foul drawn,134.0,303627.0,205,151002,Q2,135067,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,758,SEN
+shot,7:10,1787010939000,31,20,P2,2pt step back jump shot made,134.0,273042.0,207,153000,Q2,135067,True,2.0,68.0,102.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Mid-Range,9.5,8-16 ft.,770,SEN
+shot,6:52,1787010956000,31,20,P2,"2PtsFG inside right, jump shot missed",34.0,161433.0,210,156000,Q2,135067,False,2.0,200.0,70.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Mid-Range,6.7,Less Than 8 ft.,788,CAN
+unknwown,6:49,1787010958000,31,20,REB,defensive rebound,134.0,287408.0,211,156002,Q2,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,791,SEN
+shot,6:41,1787010966000,31,22,P2,"2PtsFG under the basket, driving layup made",134.0,287408.0,212,157000,Q2,135067,True,2.0,156.0,37.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,Restricted Area,1.6,Less Than 8 ft.,799,SEN
+shot,6:29,1787010979000,33,22,P2,"2PtsFG under the basket, reverse lay-up made",34.0,172742.0,213,158000,Q2,135067,True,2.0,149.0,30.0,,,34.0,Yvonne Ejim,Canada,9.0,Q2,Restricted Area,1.3,Less Than 8 ft.,811,CAN
+unknwown,6:29,1787010979000,33,22,ASS,made the assist,34.0,161433.0,214,158001,Q2,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,811,CAN
+subst,6:15,1787011004000,33,22,SUBST,Substitution out,34.0,161433.0,216,160000,Q2,135067,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q2,,,,825,CAN
+subst,6:15,1787011004000,33,22,SUBST,Substitution in,34.0,250669.0,217,161000,Q2,135067,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q2,,,,825,CAN
+unknwown,6:05,1787011019000,33,22,TO,turnover; bad pass,134.0,273042.0,219,163000,Q2,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,835,SEN
+unknwown,6:05,1787011019000,33,22,ST,steal,34.0,320676.0,220,163001,Q2,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,835,CAN
+unknwown,6:01,1787011023000,33,22,TO,turnover; bad pass,34.0,320676.0,221,164000,Q2,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,839,CAN
+unknwown,6:01,1787011023000,33,22,ST,steal,134.0,273042.0,222,164001,Q2,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,839,SEN
+subst,5:56,1787011035000,33,22,SUBST,Substitution out,134.0,287408.0,224,166000,Q2,135067,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,844,SEN
+subst,5:56,1787011035000,33,22,SUBST,Substitution in,134.0,274485.0,225,167000,Q2,135067,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,844,SEN
+subst,5:56,1787011041000,33,22,SUBST,Substitution out,34.0,320676.0,226,168000,Q2,135067,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q2,,,,844,CAN
+subst,5:56,1787011041000,33,22,SUBST,Substitution in,34.0,297698.0,227,169000,Q2,135067,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q2,,,,844,CAN
+shot,5:56,1787011085000,33,25,P3,3pt jump shot made,134.0,273042.0,228,170000,Q2,135067,True,3.0,10.0,53.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Right Corner 3,13.1,8-16 ft.,844,SEN
+unknwown,5:56,1787011085000,33,25,ASS,made the assist,134.0,274485.0,229,170001,Q2,135067,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,844,SEN
+shot,5:56,1787011105000,36,25,P3,3pt jump shot made,34.0,368225.0,230,171000,Q2,135067,True,3.0,226.0,140.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,13.2,8-16 ft.,844,CAN
+unknwown,5:56,1787011105000,36,25,ASS,made the assist,34.0,172742.0,232,171001,Q2,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,844,CAN
+timeout,5:30,1787011135000,36,25,TIMO,Timeout,134.0,,234,174000,Q2,135067,,,,,,,,,,,Q2,,,,870,
+subst,5:30,1787011215000,36,25,SUBST,Substitution out,34.0,318775.0,235,175000,Q2,135067,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,870,CAN
+subst,5:30,1787011215000,36,25,SUBST,Substitution in,34.0,217051.0,236,176000,Q2,135067,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q2,,,,870,CAN
+subst,5:30,1787011215000,36,25,SUBST,Substitution out,134.0,186583.0,237,177000,Q2,135067,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q2,,,,870,SEN
+subst,5:30,1787011215000,36,25,SUBST,Substitution in,134.0,272478.0,238,178000,Q2,135067,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,870,SEN
+shot,5:27,1787011221000,36,25,P2,2pt step back jump shot missed,134.0,303627.0,241,180000,Q2,135067,False,2.0,238.0,40.0,,,134.0,Lena Timera,Senegal,77.0,Q2,Mid-Range,9.8,8-16 ft.,873,SEN
+unknwown,5:22,1787011224000,36,25,REB,defensive rebound,34.0,172742.0,242,180002,Q2,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,878,CAN
+shot,5:19,1787011229000,36,25,P3,3pt jump shot missed,34.0,368225.0,243,181000,Q2,135067,False,3.0,267.0,93.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,13.8,8-16 ft.,881,CAN
+unknwown,5:15,1787011234000,36,25,TREB,team offensive rebound,34.0,,245,181002,Q2,135067,,,,,,,,,,,Q2,,,,885,
+shot,4:50,1787011272000,36,25,P2,2pt fadeaway jump shot missed,34.0,217051.0,249,186000,Q2,135067,False,2.0,177.0,96.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,In The Paint (Non-RA),6.7,Less Than 8 ft.,910,CAN
+unknwown,4:47,1787011276000,36,25,TREB,team defensive rebound,134.0,,251,186002,Q2,135067,,,,,,,,,,,Q2,,,,913,
+subst,4:47,1787011284000,36,25,SUBST,Substitution out,134.0,303627.0,252,188000,Q2,135067,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q2,,,,913,SEN
+subst,4:47,1787011284000,36,25,SUBST,Substitution in,134.0,420942.0,253,189000,Q2,135067,,,,,,IN,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,913,SEN
+unknwown,4:39,1787011299000,36,25,FOUL,Offensive foul,134.0,272478.0,256,192000,Q2,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,921,SEN
+unknwown,4:39,1787011299000,36,25,TO,turnover,134.0,272478.0,257,192001,Q2,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,921,SEN
+unknwown,4:39,1787011299000,36,25,RFOUL,foul drawn,34.0,217051.0,258,192002,Q2,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,921,CAN
+unknwown,4:13,1787011334000,36,25,TO,turnover; bad pass,34.0,217051.0,260,194000,Q2,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,947,CAN
+unknwown,4:13,1787011334000,36,25,ST,steal,134.0,272478.0,261,194001,Q2,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,947,SEN
+shot,4:08,1787011340000,36,25,P2,layup missed,134.0,272478.0,262,195000,Q2,135067,False,2.0,98.0,41.0,,,134.0,Fanta Gassama,Senegal,10.0,Q2,In The Paint (Non-RA),4.2,Less Than 8 ft.,952,SEN
+unknwown,4:04,1787011343000,36,25,REB,offensive rebound,134.0,290189.0,263,195002,Q2,135067,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,956,SEN
+shot,4:03,1787011344000,36,27,P2,"2PtsFG under the basket, points from second chance + after turnover, layup made",134.0,290189.0,264,196000,Q2,135067,True,2.0,140.0,43.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,Restricted Area,0.3,Less Than 8 ft.,957,SEN
+shot,3:37,1787011373000,36,27,P2,2pt step back jump shot missed,34.0,217051.0,266,198000,Q2,135067,False,2.0,32.0,88.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Mid-Range,11.8,8-16 ft.,983,CAN
+unknwown,3:36,1787011376000,36,27,TREB,team defensive rebound,134.0,,267,198002,Q2,135067,,,,,,,,,,,Q2,,,,984,
+subst,3:36,1787011396000,36,27,SUBST,Substitution out,34.0,297698.0,268,199000,Q2,135067,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q2,,,,984,CAN
+subst,3:36,1787011396000,36,27,SUBST,Substitution out,34.0,217051.0,269,200000,Q2,135067,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q2,,,,984,CAN
+subst,3:36,1787011396000,36,27,SUBST,Substitution in,34.0,318775.0,270,201000,Q2,135067,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,984,CAN
+subst,3:36,1787011396000,36,27,SUBST,Substitution in,34.0,320676.0,271,202000,Q2,135067,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q2,,,,984,CAN
+subst,3:36,1787011396000,36,27,SUBST,Substitution out,134.0,273042.0,272,203000,Q2,135067,,,,,,OUT,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,984,SEN
+subst,3:36,1787011396000,36,27,SUBST,Substitution out,134.0,290189.0,273,204000,Q2,135067,,,,,,OUT,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,984,SEN
+subst,3:36,1787011396000,36,27,SUBST,Substitution in,134.0,278227.0,274,205000,Q2,135067,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,984,SEN
+subst,3:36,1787011396000,36,27,SUBST,Substitution in,134.0,290089.0,275,206000,Q2,135067,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q2,,,,984,SEN
+shot,3:23,1787011410000,36,27,P2,2pt driving layup missed,134.0,278227.0,277,208000,Q2,135067,False,2.0,170.0,36.0,,,134.0,Sabou Gueye,Senegal,7.0,Q2,In The Paint (Non-RA),3.0,Less Than 8 ft.,997,SEN
+unknwown,3:17,1787011416000,36,27,REB,defensive rebound,34.0,250669.0,278,208002,Q2,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q2,,,,1003,CAN
+shot,3:07,1787011428000,36,27,P3,3pt jump shot missed,34.0,368225.0,280,209000,Q2,135067,False,3.0,7.0,23.0,,,34.0,Avery Howell,Canada,23.0,Q2,Right Corner 3,13.4,8-16 ft.,1013,CAN
+unknwown,3:03,1787011432000,36,27,TREB,team defensive rebound,134.0,,282,209002,Q2,135067,,,,,,,,,,,Q2,,,,1017,
+subst,3:03,1787011438000,36,27,SUBST,Substitution out,34.0,250669.0,283,211000,Q2,135067,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q2,,,,1017,CAN
+subst,3:03,1787011438000,36,27,SUBST,Substitution in,34.0,161433.0,284,212000,Q2,135067,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q2,,,,1017,CAN
+shot,2:47,1787011464000,36,27,P2,layup missed,134.0,420942.0,287,215000,Q2,135067,False,2.0,102.0,27.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,In The Paint (Non-RA),4.0,Less Than 8 ft.,1033,SEN
+unknwown,2:47,1787011464000,36,27,BS,blocked the shot,34.0,161433.0,288,215001,Q2,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,1033,CAN
+unknwown,2:47,1787011475000,36,27,TREB,team offensive rebound,134.0,,289,215002,Q2,135067,,,,,,,,,,,Q2,,,,1033,
+shot,2:43,1787011488000,36,27,P3,3pt jump shot missed,134.0,272478.0,291,217000,Q2,135067,False,3.0,11.0,42.0,,,134.0,Fanta Gassama,Senegal,10.0,Q2,Right Corner 3,12.9,8-16 ft.,1037,SEN
+unknwown,2:38,1787011492000,36,27,REB,defensive rebound,34.0,172742.0,292,217002,Q2,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1042,CAN
+shot,2:19,1787011511000,36,27,P2,"2PtsFG under the basket, jump shot missed",34.0,320676.0,293,218000,Q2,135067,False,2.0,119.0,24.0,,,34.0,Syla Swords,Canada,12.0,Q2,Restricted Area,2.6,Less Than 8 ft.,1061,CAN
+unknwown,2:14,1787011516000,36,27,REB,offensive rebound,34.0,320676.0,294,218002,Q2,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,1066,CAN
+shot,2:14,1787011516000,38,27,P2,2PtsFG under the basket made,34.0,320676.0,295,219000,Q2,135067,True,2.0,140.0,31.0,,,34.0,Syla Swords,Canada,12.0,Q2,Restricted Area,0.9,Less Than 8 ft.,1066,CAN
+shot,1:56,1787011535000,38,30,P3,3pt step back jump shot made,134.0,420942.0,296,220000,Q2,135067,True,3.0,249.0,113.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,Above the Break 3,13.1,8-16 ft.,1084,SEN
+shot,1:42,1787011549000,38,30,P3,3pt jump shot missed,34.0,368225.0,297,221000,Q2,135067,False,3.0,247.0,129.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,13.9,8-16 ft.,1098,CAN
+unknwown,1:38,1787011552000,38,30,REB,defensive rebound,134.0,420942.0,298,221002,Q2,135067,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,1102,SEN
+shot,1:21,1787011570000,38,30,P2,layup missed,134.0,278227.0,299,222000,Q2,135067,False,2.0,128.0,56.0,,,134.0,Sabou Gueye,Senegal,7.0,Q2,In The Paint (Non-RA),2.0,Less Than 8 ft.,1119,SEN
+unknwown,1:15,1787011575000,38,30,REB,offensive rebound,134.0,290089.0,300,222002,Q2,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,1125,SEN
+shot,1:15,1787011576000,38,30,P2,layup missed,134.0,290089.0,301,223000,Q2,135067,False,2.0,145.0,52.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,In The Paint (Non-RA),1.3,Less Than 8 ft.,1125,SEN
+unknwown,1:12,1787011578000,38,30,REB,defensive rebound,34.0,368225.0,302,223002,Q2,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q2,,,,1128,CAN
+shot,1:09,1787011582000,38,30,P3,3pt jump shot missed,34.0,368225.0,303,224000,Q2,135067,False,3.0,195.0,155.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,12.7,8-16 ft.,1131,CAN
+unknwown,1:07,1787011591000,38,30,REB,defensive rebound,134.0,290089.0,305,224002,Q2,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,1133,SEN
+unknwown,1:07,1787011592000,38,30,FOUL,Personal foul,34.0,172742.0,306,226000,Q2,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1133,CAN
+unknwown,1:07,1787011592000,38,30,RFOUL,foul drawn,134.0,290089.0,307,226002,Q2,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,1133,SEN
+subst,1:07,1787011604000,38,30,SUBST,Substitution out,34.0,368225.0,308,227000,Q2,135067,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q2,,,,1133,CAN
+subst,1:07,1787011604000,38,30,SUBST,Substitution in,34.0,369879.0,309,228000,Q2,135067,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q2,,,,1133,CAN
+subst,1:07,1787011604000,38,30,SUBST,Substitution out,134.0,278227.0,310,229000,Q2,135067,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,1133,SEN
+subst,1:07,1787011604000,38,30,SUBST,Substitution in,134.0,273042.0,311,230000,Q2,135067,,,,,,IN,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,1133,SEN
+shot,0:56,1787011623000,38,33,P3,3pt jump shot made,134.0,420942.0,313,232000,Q2,135067,True,3.0,238.0,127.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,Above the Break 3,13.1,8-16 ft.,1144,SEN
+unknwown,0:56,1787011623000,38,33,ASS,made the assist,134.0,273042.0,314,232001,Q2,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,1144,SEN
+unknwown,0:38,1787011641000,38,33,TO,turnover; bad pass,34.0,369879.0,315,233000,Q2,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,1162,CAN
+unknwown,0:38,1787011641000,38,33,ST,steal,134.0,420942.0,316,233001,Q2,135067,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,1162,SEN
+shot,0:28,1787011652000,38,33,P2,"2PtsFG inside left, points after turnover, jump shot missed",134.0,273042.0,317,234000,Q2,135067,False,2.0,56.0,48.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Mid-Range,8.4,8-16 ft.,1172,SEN
+unknwown,0:17,1787011661000,38,33,REB,defensive rebound,34.0,161433.0,318,234002,Q2,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,1183,CAN
+shot,0:11,1787011668000,41,33,P3,3pt jump shot made,34.0,318775.0,319,235000,Q2,135067,True,3.0,5.0,34.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Right Corner 3,13.5,8-16 ft.,1189,CAN
+unknwown,0:11,1787011668000,41,33,ASS,made the assist,34.0,369879.0,320,235001,Q2,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,1189,CAN
+shot,0:05,1787011674000,41,33,P3,3pt jump shot from center missed,134.0,273042.0,321,236000,Q2,135067,False,3.0,95.0,155.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,12.3,8-16 ft.,1195,SEN
+unknwown,0:02,1787011676000,41,33,REB,defensive rebound,34.0,369879.0,322,236002,Q2,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,1198,CAN
+shot,0:00,1787011695000,41,33,P3,"3PtsFG back court, jump shot missed",34.0,369879.0,327,241000,Q2,135067,False,3.0,152.0,254.0,,,34.0,Agot Makeer,Canada,1.0,Q2,Above the Break 3,21.4,16-22 ft.,1200,CAN
+periods,0:00,1787011771000,41,33,ENDP,End of period,,,330,244000,Q2,135067,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787012582000,41,33,SUBST,Substitution out,34.0,369879.0,331,245000,Q3,135067,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q3,,,,1200,CAN
+subst,10:00,1787012582000,41,33,SUBST,Substitution in,34.0,188714.0,332,246000,Q3,135067,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q3,,,,1200,CAN
+subst,10:00,1787012582000,41,33,SUBST,Substitution out,134.0,272478.0,333,247000,Q3,135067,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1200,SEN
+subst,10:00,1787012582000,41,33,SUBST,Substitution out,134.0,274485.0,334,248000,Q3,135067,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1200,SEN
+subst,10:00,1787012582000,41,33,SUBST,Substitution out,134.0,420942.0,335,249000,Q3,135067,,,,,,OUT,134.0,Nogaye Diagne,Senegal,66.0,Q3,,,,1200,SEN
+subst,10:00,1787012582000,41,33,SUBST,Substitution in,134.0,278227.0,336,250000,Q3,135067,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1200,SEN
+subst,10:00,1787012582000,41,33,SUBST,Substitution in,134.0,186583.0,337,251000,Q3,135067,,,,,,IN,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1200,SEN
+subst,10:00,1787012582000,41,33,SUBST,Substitution in,134.0,287408.0,338,252000,Q3,135067,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1200,SEN
+periods,10:00,1787012591000,41,33,STARTP,Start of period,,,339,253000,Q3,135067,,,,,,,,,,,Q3,,,,1200,
+shot,9:44,1787012608000,41,33,P2,layup missed,134.0,290089.0,341,255000,Q3,135067,False,2.0,176.0,26.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,In The Paint (Non-RA),3.9,Less Than 8 ft.,1216,SEN
+unknwown,9:39,1787012613000,41,33,REB,offensive rebound,134.0,290089.0,342,255002,Q3,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1221,SEN
+shot,9:38,1787012614000,41,35,P2,"2PtsFG under the basket, layup made",134.0,290089.0,344,256000,Q3,135067,True,2.0,160.0,39.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1222,SEN
+shot,9:21,1787012631000,41,35,P2,2pt jump shot missed,34.0,161433.0,345,257000,Q3,135067,False,2.0,128.0,53.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,In The Paint (Non-RA),1.8,Less Than 8 ft.,1239,CAN
+unknwown,9:16,1787012635000,41,35,REB,defensive rebound,134.0,287408.0,346,257002,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1244,SEN
+shot,9:10,1787012642000,41,38,P3,3pt jump shot made,134.0,273042.0,347,258000,Q3,135067,True,3.0,73.0,159.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Above the Break 3,13.7,8-16 ft.,1250,SEN
+unknwown,9:10,1787012642000,41,38,ASS,made the assist,134.0,287408.0,348,258001,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1250,SEN
+shot,8:52,1787012661000,41,38,P3,3pt jump shot missed,34.0,320676.0,350,260000,Q3,135067,False,3.0,38.0,130.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.6,8-16 ft.,1268,CAN
+unknwown,8:52,1787012671000,41,38,TREB,team offensive rebound,34.0,,351,260002,Q3,135067,,,,,,,,,,,Q3,,,,1268,
+unknwown,8:52,1787012673000,41,38,FOUL,Personal foul,134.0,290089.0,352,261000,Q3,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1268,SEN
+unknwown,8:52,1787012673000,41,38,RFOUL,foul drawn,34.0,161433.0,353,261002,Q3,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1268,CAN
+shot,8:52,1787012690000,43,38,P2,"2PtsFG under the basket, layup made",34.0,161433.0,355,263000,Q3,135067,True,2.0,147.0,32.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1268,CAN
+unknwown,8:52,1787012690000,43,38,ASS,made the assist,34.0,318775.0,356,263001,Q3,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1268,CAN
+unknwown,8:36,1787012715000,43,38,FOUL,Personal foul,34.0,161433.0,358,265000,Q3,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1284,CAN
+unknwown,8:36,1787012715000,43,38,RFOUL,foul drawn,134.0,278227.0,359,265002,Q3,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1284,SEN
+unknwown,8:31,1787012778000,43,38,FOUL,Offensive foul,134.0,186583.0,362,268000,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1289,SEN
+unknwown,8:31,1787012778000,43,38,TO,turnover,134.0,186583.0,363,268001,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1289,SEN
+unknwown,8:31,1787012778000,43,38,RFOUL,foul drawn,34.0,188714.0,364,268002,Q3,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1289,CAN
+unknwown,8:31,1787012796000,43,38,TO,turnover; ball handling,34.0,188714.0,366,270000,Q3,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1289,CAN
+unknwown,8:31,1787012796000,43,38,ST,steal,134.0,290089.0,367,270001,Q3,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1289,SEN
+shot,8:13,1787012812000,43,40,P2,"2PtsFG under the basket, points after turnover, driving layup made",134.0,287408.0,368,271000,Q3,135067,True,2.0,139.0,41.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,Restricted Area,0.1,Less Than 8 ft.,1307,SEN
+unknwown,7:54,1787012833000,43,40,FOUL,Personal foul; 2 free throws awarded,134.0,186583.0,369,272000,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1326,SEN
+unknwown,7:54,1787012833000,43,40,RFOUL,foul drawn,34.0,161433.0,370,272002,Q3,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1326,CAN
+shot,7:45,1787012855000,44,40,FT,1st of 2 free throws made,34.0,161433.0,372,274000,Q3,135067,True,1.0,0.0,0.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,,14.6,8-16 ft.,1335,CAN
+unknwown,7:45,1787012855000,44,40,ASS,made the assist,34.0,318775.0,373,274001,Q3,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1335,CAN
+shot,7:45,1787012868000,45,40,FT,2nd of 2 free throws made,34.0,161433.0,374,275000,Q3,135067,True,1.0,0.0,0.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,,14.6,8-16 ft.,1335,CAN
+unknwown,7:26,1787012893000,45,40,FOUL,Personal foul; 2 free throws awarded,34.0,172742.0,377,278000,Q3,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1354,CAN
+unknwown,7:26,1787012893000,45,40,RFOUL,foul drawn,134.0,287408.0,378,278002,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1354,SEN
+shot,7:26,1787012921000,45,40,FT,1st of 2 free throws missed,134.0,287408.0,379,279000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1354,SEN
+shot,7:26,1787012932000,45,41,FT,2nd of 2 free throws made,134.0,287408.0,380,280000,Q3,135067,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1354,SEN
+shot,7:11,1787012951000,48,41,P3,3pt jump shot from center made,34.0,318775.0,382,282000,Q3,135067,True,3.0,93.0,158.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Above the Break 3,12.7,8-16 ft.,1369,CAN
+unknwown,6:45,1787012980000,48,41,FOUL,Personal foul; 3 free throws awarded,34.0,161433.0,384,284000,Q3,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1395,CAN
+unknwown,6:45,1787012980000,48,41,RFOUL,foul drawn,134.0,287408.0,385,284002,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1395,SEN
+shot,6:45,1787013014000,48,41,FT,1st of 3 free throws missed,134.0,287408.0,386,285000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1395,SEN
+shot,6:45,1787013025000,48,41,FT,2nd of 3 free throws missed,134.0,287408.0,387,286000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1395,SEN
+shot,6:45,1787013038000,48,42,FT,3rd of 3 free throws made,134.0,287408.0,388,287000,Q3,135067,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1395,SEN
+unknwown,6:36,1787013050000,48,42,TO,turnover; bad pass,34.0,318775.0,390,289000,Q3,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1404,CAN
+unknwown,6:36,1787013050000,48,42,ST,steal,134.0,273042.0,391,289001,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1404,SEN
+unknwown,6:26,1787013059000,48,42,TO,turnover; bad pass,134.0,273042.0,392,290000,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1414,SEN
+unknwown,6:26,1787013059000,48,42,ST,steal,34.0,318775.0,393,290001,Q3,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1414,CAN
+shot,6:17,1787013068000,48,42,P3,3pt jump shot missed,34.0,318775.0,394,291000,Q3,135067,False,3.0,269.0,15.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Left Corner 3,13.1,8-16 ft.,1423,CAN
+unknwown,6:15,1787013070000,48,42,REB,defensive rebound,134.0,186583.0,395,291002,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1425,SEN
+unknwown,6:05,1787013085000,48,42,FOUL,Personal foul,34.0,188714.0,397,293000,Q3,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1435,CAN
+unknwown,6:05,1787013085000,48,42,RFOUL,foul drawn,134.0,287408.0,398,293002,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1435,SEN
+subst,6:05,1787013095000,48,42,SUBST,Substitution out,34.0,188714.0,399,294000,Q3,135067,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q3,,,,1435,CAN
+subst,6:05,1787013095000,48,42,SUBST,Substitution in,34.0,297698.0,400,295000,Q3,135067,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1435,CAN
+shot,5:43,1787013127000,48,45,P3,3pt jump shot made,134.0,287408.0,402,297000,Q3,135067,True,3.0,18.0,92.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,Above the Break 3,13.3,8-16 ft.,1457,SEN
+unknwown,5:43,1787013127000,48,45,ASS,made the assist,134.0,278227.0,403,297001,Q3,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1457,SEN
+unknwown,5:24,1787013146000,48,45,TO,turnover; bad pass,34.0,172742.0,404,298000,Q3,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1476,CAN
+unknwown,5:24,1787013146000,48,45,ST,steal,134.0,273042.0,405,298001,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1476,SEN
+shot,5:18,1787013152000,48,47,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",134.0,278227.0,406,299000,Q3,135067,True,2.0,156.0,29.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1482,SEN
+unknwown,5:18,1787013152000,48,47,ASS,made the assist,134.0,273042.0,407,299001,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1482,SEN
+unknwown,5:02,1787013176000,48,47,FOUL,Personal foul,134.0,290089.0,409,301000,Q3,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1498,SEN
+unknwown,5:02,1787013176000,48,47,RFOUL,foul drawn,34.0,161433.0,410,301002,Q3,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1498,CAN
+timeout,5:02,1787013198000,48,47,TIMO,Timeout,34.0,,411,302000,Q3,135067,,,,,,,,,,,Q3,,,,1498,
+subst,5:02,1787013301000,48,47,SUBST,Substitution out,34.0,318775.0,412,303000,Q3,135067,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution out,34.0,320676.0,413,304000,Q3,135067,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution out,34.0,161433.0,414,305000,Q3,135067,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution in,34.0,369879.0,415,306000,Q3,135067,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution in,34.0,217051.0,416,307000,Q3,135067,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution in,34.0,250669.0,417,308000,Q3,135067,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q3,,,,1498,CAN
+subst,5:02,1787013301000,48,47,SUBST,Substitution out,134.0,287408.0,418,309000,Q3,135067,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1498,SEN
+subst,5:02,1787013301000,48,47,SUBST,Substitution in,134.0,274485.0,419,310000,Q3,135067,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1498,SEN
+shot,5:00,1787013334000,51,47,P3,3pt jump shot made,34.0,297698.0,421,312000,Q3,135067,True,3.0,246.0,110.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Above the Break 3,12.7,8-16 ft.,1500,CAN
+unknwown,5:00,1787013334000,51,47,ASS,made the assist,34.0,217051.0,422,312001,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1500,CAN
+shot,4:44,1787013358000,51,47,P3,3pt jump shot missed,134.0,273042.0,425,315000,Q3,135067,False,3.0,74.0,148.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Above the Break 3,12.7,8-16 ft.,1516,SEN
+unknwown,4:41,1787013360000,51,47,REB,defensive rebound,34.0,217051.0,426,315002,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1519,CAN
+unknwown,4:36,1787013369000,51,47,TO,turnover; out of bounds,34.0,369879.0,428,317000,Q3,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1524,CAN
+shot,4:24,1787013398000,51,47,P2,2pt jump shot missed,134.0,290089.0,430,319000,Q3,135067,False,2.0,170.0,33.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,In The Paint (Non-RA),3.1,Less Than 8 ft.,1536,SEN
+unknwown,4:20,1787013401000,51,47,REB,defensive rebound,34.0,250669.0,431,319002,Q3,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1540,CAN
+shot,4:10,1787013411000,53,47,P2,"2PtsFG under the basket, jump shot made",34.0,369879.0,432,320000,Q3,135067,True,2.0,128.0,35.0,,,34.0,Agot Makeer,Canada,1.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1550,CAN
+unknwown,4:10,1787013411000,53,47,ASS,made the assist,34.0,217051.0,433,320001,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1550,CAN
+shot,3:50,1787013431000,53,47,P2,"2PtsFG under the basket, layup missed",134.0,290089.0,434,321000,Q3,135067,False,2.0,162.0,29.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,2.5,Less Than 8 ft.,1570,SEN
+unknwown,3:46,1787013434000,53,47,REB,defensive rebound,34.0,250669.0,435,321002,Q3,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1574,CAN
+shot,3:41,1787013441000,55,47,P2,"2PtsFG under the basket, driving layup made",34.0,217051.0,437,323000,Q3,135067,True,2.0,157.0,32.0,,,34.0,Shaina Pellington,Canada,7.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1579,CAN
+unknwown,3:41,1787013449000,55,47,FOUL,Personal foul; 1 free throw awarded,134.0,278227.0,438,324000,Q3,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1579,SEN
+unknwown,3:41,1787013449000,55,47,RFOUL,foul drawn,34.0,217051.0,439,324002,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1579,CAN
+subst,3:41,1787013457000,55,47,SUBST,Substitution out,134.0,290089.0,440,325000,Q3,135067,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1579,SEN
+subst,3:41,1787013457000,55,47,SUBST,Substitution in,134.0,290189.0,441,326000,Q3,135067,,,,,,IN,134.0,Fatou Kine Filor,Senegal,12.0,Q3,,,,1579,SEN
+shot,3:41,1787013476000,56,47,FT,1st free throw made,34.0,217051.0,442,327000,Q3,135067,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q3,,14.6,8-16 ft.,1579,CAN
+shot,3:23,1787013495000,56,47,P2,"2PtsFG under the basket, layup missed",134.0,273042.0,444,329000,Q3,135067,False,2.0,131.0,31.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1597,SEN
+unknwown,3:20,1787013498000,56,47,REB,defensive rebound,34.0,172742.0,445,329002,Q3,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1600,CAN
+unknwown,3:04,1787013516000,56,47,TO,turnover; bad pass,34.0,297698.0,447,330000,Q3,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1616,CAN
+unknwown,3:04,1787013516000,56,47,ST,steal,134.0,273042.0,448,330001,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1616,SEN
+unknwown,3:00,1787013522000,56,47,FOUL,Personal foul; 2 free throws awarded,34.0,217051.0,450,332000,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1620,CAN
+unknwown,3:00,1787013522000,56,47,RFOUL,foul drawn,134.0,278227.0,451,332002,Q3,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1620,SEN
+subst,3:00,1787013550000,56,47,SUBST,Substitution out,34.0,297698.0,452,333000,Q3,135067,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1620,CAN
+subst,3:00,1787013550000,56,47,SUBST,Substitution in,34.0,320676.0,453,334000,Q3,135067,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q3,,,,1620,CAN
+shot,3:00,1787013554000,56,47,FT,Free throw missed 1 of 2,134.0,278227.0,454,335000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,14.6,8-16 ft.,1620,SEN
+shot,3:00,1787013566000,56,47,FT,Free throw missed 2 of 2,134.0,278227.0,455,336000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,14.6,8-16 ft.,1620,SEN
+unknwown,3:00,1787013569000,56,47,REB,defensive rebound,34.0,250669.0,457,336002,Q3,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1620,CAN
+shot,2:39,1787013591000,56,47,P2,"2PtsFG under the basket, driving layup missed",34.0,320676.0,460,340000,Q3,135067,False,2.0,117.0,38.0,,,34.0,Syla Swords,Canada,12.0,Q3,Restricted Area,2.3,Less Than 8 ft.,1641,CAN
+unknwown,2:35,1787013594000,56,47,REB,defensive rebound,134.0,273042.0,461,340002,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1645,SEN
+unknwown,2:30,1787013600000,56,47,TO,turnover; bad pass,134.0,186583.0,462,341000,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1650,SEN
+unknwown,2:30,1787013600000,56,47,ST,steal,34.0,369879.0,463,341001,Q3,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1650,CAN
+shot,2:24,1787013606000,58,47,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",34.0,250669.0,464,342000,Q3,135067,True,2.0,150.0,32.0,,,34.0,Faith Dut,Canada,25.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1656,CAN
+unknwown,2:24,1787013606000,58,47,ASS,made the assist,34.0,217051.0,465,342001,Q3,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1656,CAN
+shot,2:06,1787013685000,58,47,P2,"2PtsFG under the basket, layup missed",134.0,278227.0,469,342500,Q3,135067,False,2.0,135.0,25.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1674,SEN
+unknwown,2:06,1787013685000,58,47,TREB,team offensive rebound,134.0,,470,342502,Q3,135067,,,,,,,,,,,Q3,,,,1674,
+unknwown,2:06,1787013632000,58,47,FOUL,Personal foul; 2 free throws awarded,34.0,172742.0,467,344000,Q3,135067,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1674,CAN
+unknwown,2:06,1787013632000,58,47,RFOUL,foul drawn,134.0,290189.0,468,344002,Q3,135067,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q3,,,,1674,SEN
+subst,2:04,1787015786000,58,47,SUBST,Substitution out,134.0,278227.0,471,344500,Q3,135067,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1676,SEN
+subst,2:04,1787015786000,58,47,SUBST,Substitution out,134.0,274485.0,472,345250,Q3,135067,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1676,SEN
+subst,2:04,1787015786000,58,47,SUBST,Substitution in,134.0,287408.0,473,346125,Q3,135067,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1676,SEN
+subst,2:04,1787015786000,58,47,SUBST,Substitution in,134.0,303627.0,474,347062,Q3,135067,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q3,,,,1676,SEN
+shot,2:04,1787013707000,58,47,FT,1st of 2 free throws missed,134.0,290189.0,476,350000,Q3,135067,False,1.0,0.0,0.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q3,,14.6,8-16 ft.,1676,SEN
+shot,2:03,1787013707000,58,48,FT,2nd of 2 free throws made,134.0,290189.0,477,351000,Q3,135067,True,1.0,0.0,0.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q3,,14.6,8-16 ft.,1677,SEN
+shot,1:58,1787013714000,58,48,P3,3pt jump shot missed,34.0,320676.0,478,352000,Q3,135067,False,3.0,34.0,130.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.9,8-16 ft.,1682,CAN
+unknwown,1:51,1787013719000,58,48,REB,defensive rebound,134.0,186583.0,479,352002,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1689,SEN
+shot,1:40,1787013731000,58,48,P3,3pt jump shot missed,134.0,273042.0,480,353000,Q3,135067,False,3.0,38.0,120.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Above the Break 3,13.0,8-16 ft.,1700,SEN
+unknwown,1:38,1787013733000,58,48,REB,defensive rebound,34.0,369879.0,481,353002,Q3,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1702,CAN
+subst,1:18,1787013757000,58,48,SUBST,Substitution out,34.0,320676.0,483,355000,Q3,135067,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q3,,,,1722,CAN
+subst,1:18,1787013757000,58,48,SUBST,Substitution in,34.0,297698.0,484,356000,Q3,135067,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1722,CAN
+unknwown,1:08,1787013773000,58,48,TO,turnover; travelling,34.0,297698.0,487,359000,Q3,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1732,CAN
+unknwown,0:54,1787013798000,58,48,TO,turnover; travelling,134.0,290189.0,490,362000,Q3,135067,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q3,,,,1746,SEN
+unknwown,0:37,1787013834000,58,48,TO,turnover; out of bounds,34.0,369879.0,493,365000,Q3,135067,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1763,CAN
+unknwown,0:20,1787013868000,58,48,TO,turnover; out of bounds,134.0,287408.0,496,368000,Q3,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1780,SEN
+subst,0:14,1787013881000,58,48,SUBST,Substitution out,34.0,172742.0,499,371000,Q3,135067,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1786,CAN
+subst,0:14,1787013881000,58,48,SUBST,Substitution in,34.0,320676.0,500,372000,Q3,135067,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q3,,,,1786,CAN
+shot,0:00,1787013903000,58,48,P3,3pt jump shot missed,34.0,320676.0,503,375000,Q3,135067,False,3.0,78.0,154.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.0,8-16 ft.,1800,CAN
+unknwown,0:00,1787013903000,58,48,BS,blocked the shot,134.0,186583.0,504,375001,Q3,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1800,SEN
+unknwown,0:00,1787013908000,58,48,REB,defensive rebound,134.0,273042.0,505,375002,Q3,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1800,SEN
+periods,0:00,1787013912000,58,48,ENDP,End of period,,,506,376000,Q3,135067,,,,,,,,,,,Q3,,,,1800,
+periods,10:00,1787014040000,58,48,STARTP,Start of period,,,507,377000,Q4,135067,,,,,,,,,,,Q4,,,,1800,
+subst,9:58,1787014060000,58,48,SUBST,Substitution out,34.0,369879.0,510,380000,Q4,135067,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution out,34.0,297698.0,511,381000,Q4,135067,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution out,34.0,217051.0,512,382000,Q4,135067,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution out,34.0,250669.0,513,383000,Q4,135067,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution in,34.0,188714.0,514,384000,Q4,135067,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution in,34.0,266912.0,515,385000,Q4,135067,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution in,34.0,318775.0,516,386000,Q4,135067,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution in,34.0,161433.0,517,387000,Q4,135067,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1802,CAN
+subst,9:58,1787014060000,58,48,SUBST,Substitution out,134.0,273042.0,518,388000,Q4,135067,,,,,,OUT,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1802,SEN
+subst,9:58,1787014060000,58,48,SUBST,Substitution in,134.0,278227.0,519,389000,Q4,135067,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,1802,SEN
+shot,9:40,1787014079000,58,48,P3,3pt jump shot missed,34.0,320676.0,521,391000,Q4,135067,False,3.0,269.0,31.0,,,34.0,Syla Swords,Canada,12.0,Q4,Left Corner 3,12.9,8-16 ft.,1820,CAN
+unknwown,9:36,1787014084000,58,48,REB,defensive rebound,134.0,290189.0,522,391002,Q4,135067,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q4,,,,1824,SEN
+shot,9:19,1787014101000,58,48,P3,3pt jump shot missed,134.0,287408.0,523,392000,Q4,135067,False,3.0,222.0,143.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Above the Break 3,13.2,8-16 ft.,1841,SEN
+unknwown,9:15,1787014105000,58,48,REB,defensive rebound,34.0,266912.0,524,392002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,1845,CAN
+shot,9:02,1787014119000,61,48,P3,3pt jump shot made,34.0,318775.0,525,393000,Q4,135067,True,3.0,26.0,115.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Above the Break 3,13.6,8-16 ft.,1858,CAN
+unknwown,9:02,1787014119000,61,48,ASS,made the assist,34.0,188714.0,526,393001,Q4,135067,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,1858,CAN
+unknwown,8:42,1787014142000,61,48,TO,turnover; out of bounds,134.0,287408.0,528,395000,Q4,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,1878,SEN
+subst,8:42,1787014154000,61,48,SUBST,Substitution out,134.0,290189.0,529,396000,Q4,135067,,,,,,OUT,134.0,Fatou Kine Filor,Senegal,12.0,Q4,,,,1878,SEN
+subst,8:42,1787014154000,61,48,SUBST,Substitution in,134.0,231012.0,530,397000,Q4,135067,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1878,SEN
+shot,8:23,1787014229000,61,48,P3,3pt jump shot missed,34.0,188714.0,532,399000,Q4,135067,False,3.0,56.0,140.0,,,34.0,Sami Hill,Canada,4.0,Q4,Above the Break 3,13.1,8-16 ft.,1897,CAN
+unknwown,8:19,1787014231000,61,48,REB,offensive rebound,34.0,266912.0,533,399002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,1901,CAN
+shot,8:14,1787014237000,61,48,P3,3pt jump shot missed,34.0,320676.0,534,400000,Q4,135067,False,3.0,34.0,124.0,,,34.0,Syla Swords,Canada,12.0,Q4,Above the Break 3,13.5,8-16 ft.,1906,CAN
+unknwown,8:11,1787014240000,61,48,REB,defensive rebound,134.0,231012.0,535,400002,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1909,SEN
+unknwown,8:06,1787014249000,61,48,FOUL,Personal foul; 2 free throws awarded,34.0,318775.0,537,402000,Q4,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1914,CAN
+unknwown,8:06,1787014249000,61,48,RFOUL,foul drawn,134.0,278227.0,538,402002,Q4,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,1914,SEN
+subst,8:06,1787014261000,61,48,SUBST,Substitution out,34.0,320676.0,539,403000,Q4,135067,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q4,,,,1914,CAN
+subst,8:06,1787014261000,61,48,SUBST,Substitution in,34.0,368225.0,540,404000,Q4,135067,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q4,,,,1914,CAN
+shot,8:06,1787014278000,61,49,FT,1st of 2 free throws made,134.0,278227.0,541,405000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,14.6,8-16 ft.,1914,SEN
+shot,8:06,1787014287000,61,49,FT,2nd of 2 free throws missed,134.0,278227.0,542,406000,Q4,135067,False,1.0,0.0,0.0,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,14.6,8-16 ft.,1914,SEN
+unknwown,8:06,1787014288000,61,49,REB,defensive rebound,34.0,161433.0,544,406002,Q4,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1914,CAN
+shot,8:00,1787014295000,61,49,P3,3pt jump shot missed,34.0,188714.0,545,408000,Q4,135067,False,3.0,272.0,48.0,,,34.0,Sami Hill,Canada,4.0,Q4,Left Corner 3,13.2,8-16 ft.,1920,CAN
+unknwown,7:56,1787014298000,61,49,REB,offensive rebound,34.0,266912.0,546,408002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,1924,CAN
+shot,7:54,1787014302000,61,49,P3,3pt jump shot missed,34.0,318775.0,547,409000,Q4,135067,False,3.0,218.0,140.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Above the Break 3,12.7,8-16 ft.,1926,CAN
+unknwown,7:50,1787014304000,61,49,REB,offensive rebound,34.0,266912.0,548,409002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,1930,CAN
+shot,7:46,1787014309000,61,49,P2,"2PtsFG inside left, jump shot missed",34.0,188714.0,549,410000,Q4,135067,False,2.0,93.0,104.0,,,34.0,Sami Hill,Canada,4.0,Q4,Mid-Range,7.9,Less Than 8 ft.,1934,CAN
+unknwown,7:42,1787014312000,61,49,REB,offensive rebound,34.0,368225.0,550,410002,Q4,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,1938,CAN
+shot,7:34,1787014321000,61,49,P3,3pt jump shot missed,34.0,188714.0,551,411000,Q4,135067,False,3.0,44.0,133.0,,,34.0,Sami Hill,Canada,4.0,Q4,Above the Break 3,13.4,8-16 ft.,1946,CAN
+unknwown,7:26,1787014329000,61,49,REB,defensive rebound,134.0,186583.0,552,411002,Q4,135067,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q4,,,,1954,SEN
+shot,7:16,1787014339000,61,51,P2,"2PtsFG inside center, jump shot made",134.0,278227.0,553,412000,Q4,135067,True,2.0,133.0,105.0,,,134.0,Sabou Gueye,Senegal,7.0,Q4,Mid-Range,6.5,Less Than 8 ft.,1964,SEN
+shot,7:00,1787014363000,61,51,P2,"2PtsFG under the basket, layup missed",34.0,188714.0,555,414000,Q4,135067,False,2.0,130.0,30.0,,,34.0,Sami Hill,Canada,4.0,Q4,Restricted Area,1.4,Less Than 8 ft.,1980,CAN
+unknwown,7:00,1787014363000,61,51,BS,blocked the shot,134.0,231012.0,556,414001,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1980,SEN
+unknwown,7:00,1787014367000,61,51,TREB,team offensive rebound,34.0,,557,414002,Q4,135067,,,,,,,,,,,Q4,,,,1980,
+subst,7:00,1787014375000,61,51,SUBST,Substitution out,134.0,303627.0,558,415000,Q4,135067,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q4,,,,1980,SEN
+subst,7:00,1787014375000,61,51,SUBST,Substitution in,134.0,273042.0,559,416000,Q4,135067,,,,,,IN,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1980,SEN
+subst,7:00,1787014389000,61,51,SUBST,Substitution out,134.0,186583.0,560,417000,Q4,135067,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q4,,,,1980,SEN
+subst,7:00,1787014389000,61,51,SUBST,Substitution in,134.0,272478.0,561,418000,Q4,135067,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,1980,SEN
+shot,6:55,1787014400000,61,51,P2,layup missed,34.0,188714.0,564,421000,Q4,135067,False,2.0,117.0,40.0,,,34.0,Sami Hill,Canada,4.0,Q4,Restricted Area,2.3,Less Than 8 ft.,1985,CAN
+unknwown,6:55,1787014402000,61,51,REB,defensive rebound,134.0,278227.0,565,421002,Q4,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,1985,SEN
+subst,6:50,1787014414000,61,51,SUBST,Substitution out,34.0,188714.0,568,424000,Q4,135067,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q4,,,,1990,CAN
+subst,6:50,1787014414000,61,51,SUBST,Substitution in,34.0,297698.0,569,425000,Q4,135067,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1990,CAN
+unknwown,6:36,1787014440000,61,51,TO,turnover; travelling,134.0,231012.0,573,428000,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2004,SEN
+shot,6:25,1787014468000,63,51,P2,"2PtsFG under the basket, points after turnover, layup made",34.0,161433.0,575,430000,Q4,135067,True,2.0,149.0,30.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2015,CAN
+unknwown,6:25,1787014468000,63,51,ASS,made the assist,34.0,318775.0,576,430001,Q4,135067,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2015,CAN
+unknwown,6:08,1787014485000,63,51,FOUL,Personal foul,34.0,368225.0,577,431000,Q4,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2032,CAN
+unknwown,6:08,1787014485000,63,51,RFOUL,foul drawn,134.0,287408.0,578,431002,Q4,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2032,SEN
+subst,6:02,1787014508000,63,51,SUBST,Substitution out,34.0,318775.0,582,435000,Q4,135067,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2038,CAN
+subst,6:02,1787014508000,63,51,SUBST,Substitution in,34.0,217051.0,583,436000,Q4,135067,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2038,CAN
+subst,6:02,1787014508000,63,51,SUBST,Substitution out,134.0,287408.0,584,437000,Q4,135067,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2038,SEN
+subst,6:02,1787014508000,63,51,SUBST,Substitution in,134.0,420942.0,585,438000,Q4,135067,,,,,,IN,134.0,Nogaye Diagne,Senegal,66.0,Q4,,,,2038,SEN
+unknwown,5:59,1787014513000,63,51,TO,turnover; bad pass,134.0,231012.0,587,440000,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2041,SEN
+unknwown,5:59,1787014513000,63,51,ST,steal,34.0,266912.0,588,440001,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2041,CAN
+shot,5:53,1787014518000,63,51,P3,3pt jump shot missed,34.0,368225.0,589,441000,Q4,135067,False,3.0,268.0,25.0,,,34.0,Avery Howell,Canada,23.0,Q4,Left Corner 3,12.9,8-16 ft.,2047,CAN
+unknwown,5:50,1787014521000,63,51,REB,offensive rebound,34.0,161433.0,590,441002,Q4,135067,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2050,CAN
+shot,5:44,1787014527000,63,51,P2,2pt driving layup missed,34.0,217051.0,591,442000,Q4,135067,False,2.0,115.0,43.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Restricted Area,2.5,Less Than 8 ft.,2056,CAN
+unknwown,5:40,1787014531000,63,51,REB,defensive rebound,134.0,278227.0,592,442002,Q4,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2060,SEN
+unknwown,5:37,1787014534000,63,51,TO,turnover; bad pass,134.0,278227.0,593,443000,Q4,135067,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2063,SEN
+unknwown,5:37,1787014534000,63,51,ST,steal,34.0,266912.0,594,443001,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2063,CAN
+shot,5:27,1787014544000,63,51,P3,3pt jump shot missed,34.0,368225.0,595,444000,Q4,135067,False,3.0,9.0,43.0,,,34.0,Avery Howell,Canada,23.0,Q4,Right Corner 3,13.1,8-16 ft.,2073,CAN
+unknwown,5:22,1787014548000,63,51,REB,offensive rebound,34.0,368225.0,596,444002,Q4,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2078,CAN
+unknwown,5:10,1787014569000,63,51,FOUL,Personal foul; 2 free throws awarded,134.0,272478.0,598,446000,Q4,135067,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,2090,SEN
+unknwown,5:10,1787014569000,63,51,RFOUL,foul drawn,34.0,297698.0,599,446002,Q4,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2090,CAN
+subst,5:10,1787014583000,63,51,SUBST,Substitution out,34.0,161433.0,600,447000,Q4,135067,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2090,CAN
+subst,5:10,1787014583000,63,51,SUBST,Substitution in,34.0,250669.0,601,448000,Q4,135067,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q4,,,,2090,CAN
+subst,5:10,1787014583000,63,51,SUBST,Substitution out,134.0,278227.0,602,449000,Q4,135067,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2090,SEN
+subst,5:10,1787014583000,63,51,SUBST,Substitution in,134.0,203560.0,603,450000,Q4,135067,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q4,,,,2090,SEN
+shot,5:10,1787014592000,64,51,FT,1st of 2 free throws made,34.0,297698.0,604,451000,Q4,135067,True,1.0,0.0,0.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,,14.6,8-16 ft.,2090,CAN
+shot,5:10,1787014604000,65,51,FT,2nd of 2 free throws made,34.0,297698.0,605,452000,Q4,135067,True,1.0,0.0,0.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,,14.6,8-16 ft.,2090,CAN
+unknwown,4:54,1787014629000,65,51,FOUL,Personal foul; 2 free throws awarded,34.0,368225.0,610,457000,Q4,135067,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2106,CAN
+unknwown,4:54,1787014629000,65,51,RFOUL,foul drawn,134.0,231012.0,611,457002,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2106,SEN
+subst,4:54,1787014643000,65,51,SUBST,Substitution out,34.0,368225.0,612,458000,Q4,135067,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q4,,,,2106,CAN
+subst,4:54,1787014643000,65,51,SUBST,Substitution in,34.0,320676.0,613,459000,Q4,135067,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q4,,,,2106,CAN
+shot,4:54,1787014672000,65,52,FT,1st of 2 free throws made,134.0,231012.0,614,460000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2106,SEN
+unknwown,4:54,1787014672000,65,52,ASS,made the assist,134.0,273042.0,615,460001,Q4,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2106,SEN
+shot,4:54,1787014682000,65,53,FT,2nd of 2 free throws made,134.0,231012.0,616,461000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2106,SEN
+unknwown,4:45,1787014697000,65,53,FOUL,Personal foul,134.0,420942.0,619,464000,Q4,135067,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,,,,2115,SEN
+unknwown,4:45,1787014697000,65,53,RFOUL,foul drawn,34.0,217051.0,620,464002,Q4,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2115,CAN
+shot,4:32,1787014725000,65,53,P2,"2PtsFG under the basket, reverse lay-up missed",34.0,217051.0,624,468000,Q4,135067,False,2.0,155.0,28.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2128,CAN
+unknwown,4:30,1787014732000,65,53,TTO,team turnover; shot clock violation,34.0,,626,470000,Q4,135067,,,,,,,,,,,Q4,,,,2130,
+unknwown,4:17,1787014761000,65,53,TO,turnover; bad pass,134.0,273042.0,629,473000,Q4,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2143,SEN
+unknwown,4:17,1787014761000,65,53,ST,steal,34.0,297698.0,630,473001,Q4,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2143,CAN
+unknwown,4:17,1787014766000,65,53,FOUL,Personal foul,134.0,231012.0,631,474000,Q4,135067,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2143,SEN
+unknwown,4:17,1787014766000,65,53,RFOUL,foul drawn,34.0,297698.0,632,474002,Q4,135067,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2143,CAN
+shot,3:54,1787014797000,68,53,P3,3pt jump shot made,34.0,297698.0,634,476000,Q4,135067,True,3.0,94.0,158.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,12.7,8-16 ft.,2166,CAN
+unknwown,3:54,1787014797000,68,53,ASS,made the assist,34.0,217051.0,635,476001,Q4,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2166,CAN
+shot,3:28,1787014823000,68,53,P2,"2PtsFG under the basket, driving layup missed",134.0,420942.0,636,477000,Q4,135067,False,2.0,116.0,29.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,Restricted Area,2.6,Less Than 8 ft.,2192,SEN
+unknwown,3:25,1787014825000,68,53,REB,defensive rebound,34.0,266912.0,637,477002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2195,CAN
+shot,3:19,1787014833000,70,53,P2,2pt pullup jump shot made,34.0,320676.0,638,478000,Q4,135067,True,2.0,155.0,114.0,,,34.0,Syla Swords,Canada,12.0,Q4,Mid-Range,7.6,Less Than 8 ft.,2201,CAN
+timeout,3:13,1787014849000,70,53,TIMO,Timeout,134.0,,640,480000,Q4,135067,,,,,,,,,,,Q4,,,,2207,
+subst,3:13,1787014934000,70,53,SUBST,Substitution out,134.0,272478.0,641,481000,Q4,135067,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,2207,SEN
+subst,3:13,1787014934000,70,53,SUBST,Substitution out,134.0,231012.0,642,482000,Q4,135067,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2207,SEN
+subst,3:13,1787014934000,70,53,SUBST,Substitution out,134.0,420942.0,643,483000,Q4,135067,,,,,,OUT,134.0,Nogaye Diagne,Senegal,66.0,Q4,,,,2207,SEN
+subst,3:13,1787014934000,70,53,SUBST,Substitution in,134.0,186583.0,644,484000,Q4,135067,,,,,,IN,134.0,Bintou Lo Sylla,Senegal,16.0,Q4,,,,2207,SEN
+subst,3:13,1787014934000,70,53,SUBST,Substitution in,134.0,290089.0,645,485000,Q4,135067,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2207,SEN
+subst,3:13,1787014934000,70,53,SUBST,Substitution in,134.0,287408.0,646,486000,Q4,135067,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2207,SEN
+unknwown,3:00,1787014957000,70,53,TO,turnover; bad pass,134.0,273042.0,649,489000,Q4,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2220,SEN
+shot,2:50,1787014973000,70,53,P3,3pt jump shot missed,34.0,297698.0,651,491000,Q4,135067,False,3.0,22.0,96.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,13.1,8-16 ft.,2230,CAN
+unknwown,2:47,1787014975000,70,53,REB,offensive rebound,34.0,266912.0,652,491002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2233,CAN
+shot,2:40,1787014983000,70,53,P2,2pt driving layup missed,34.0,217051.0,653,492000,Q4,135067,False,2.0,109.0,30.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,In The Paint (Non-RA),3.3,Less Than 8 ft.,2240,CAN
+unknwown,2:36,1787014986000,70,53,REB,defensive rebound,134.0,287408.0,654,492002,Q4,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2244,SEN
+shot,2:21,1787015002000,70,53,P2,"2PtsFG inside left, jump shot missed",134.0,290089.0,655,493000,Q4,135067,False,2.0,63.0,68.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Mid-Range,8.2,8-16 ft.,2259,SEN
+unknwown,2:18,1787015005000,70,53,TREB,team defensive rebound,34.0,,657,493002,Q4,135067,,,,,,,,,,,Q4,,,,2262,
+unknwown,2:08,1787015029000,70,53,FOUL,Personal foul,134.0,203560.0,660,497000,Q4,135067,,,,,,,134.0,Maty Fall,Senegal,4.0,Q4,,,,2272,SEN
+unknwown,2:08,1787015029000,70,53,RFOUL,foul drawn,34.0,217051.0,661,497002,Q4,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2272,CAN
+unknwown,2:02,1787015078000,70,53,VTR,Head coach's challenge successful,134.0,,664,500000,Q4,135067,,,,,,,,,,,Q4,,,,2278,
+unknwown,1:42,1787015625000,70,53,TO,turnover; ball handling,34.0,217051.0,709,500500,Q4,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2298,CAN
+shot,1:42,1787015231000,70,53,P2,"2PtsFG under the basket, points after turnover, jump shot missed",134.0,290089.0,666,502000,Q4,135067,False,2.0,121.0,37.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2298,SEN
+unknwown,1:42,1787015231000,70,53,BS,blocked the shot,34.0,250669.0,667,502001,Q4,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q4,,,,2298,CAN
+unknwown,1:37,1787015235000,70,53,REB,defensive rebound,34.0,217051.0,668,502002,Q4,135067,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2303,CAN
+shot,1:35,1787015240000,70,53,P2,2pt jump shot missed,34.0,297698.0,670,504000,Q4,135067,False,2.0,34.0,48.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Mid-Range,10.6,8-16 ft.,2305,CAN
+unknwown,1:35,1787015240000,70,53,BS,blocked the shot,134.0,290089.0,671,504001,Q4,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2305,SEN
+unknwown,1:35,1787015244000,70,53,TREB,team offensive rebound,34.0,,672,504002,Q4,135067,,,,,,,,,,,Q4,,,,2305,
+shot,1:27,1787015265000,70,53,P3,3pt jump shot missed,34.0,297698.0,674,506000,Q4,135067,False,3.0,233.0,127.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,12.7,8-16 ft.,2313,CAN
+unknwown,1:25,1787015270000,70,53,TREB,team defensive rebound,134.0,,676,506002,Q4,135067,,,,,,,,,,,Q4,,,,2315,
+shot,0:59,1787015303000,70,53,P2,2pt floating jump shot missed,134.0,287408.0,678,509000,Q4,135067,False,2.0,172.0,114.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Mid-Range,8.1,8-16 ft.,2341,SEN
+unknwown,0:54,1787015308000,70,53,REB,defensive rebound,34.0,250669.0,679,509002,Q4,135067,,,,,,,34.0,Faith Dut,Canada,25.0,Q4,,,,2346,CAN
+shot,0:34,1787015333000,70,53,P3,3pt jump shot from center missed,34.0,297698.0,681,511000,Q4,135067,False,3.0,147.0,165.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,12.5,8-16 ft.,2366,CAN
+unknwown,0:34,1787015333000,70,53,BS,blocked the shot,134.0,273042.0,682,511001,Q4,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2366,SEN
+unknwown,0:34,1787015338000,70,53,REB,defensive rebound,134.0,290089.0,683,511002,Q4,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2366,SEN
+shot,0:34,1787015341000,70,55,P2,"2PtsFG under the basket, fast break, layup made",134.0,287408.0,685,513000,Q4,135067,True,2.0,151.0,35.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2366,SEN
+unknwown,0:34,1787015341000,70,55,ASS,made the assist,134.0,273042.0,687,513001,Q4,135067,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2366,SEN
+timeout,0:30,1787015357000,70,55,TIMO,Timeout,134.0,,688,515000,Q4,135067,,,,,,,,,,,Q4,,,,2370,
+unknwown,0:24,1787015466000,70,55,FOUL,Personal foul; 2 free throws awarded,134.0,287408.0,691,518000,Q4,135067,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2376,SEN
+unknwown,0:24,1787015466000,70,55,RFOUL,foul drawn,34.0,266912.0,692,518002,Q4,135067,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2376,CAN
+shot,0:24,1787015486000,71,55,FT,1st of 2 free throws made,34.0,266912.0,693,519000,Q4,135067,True,1.0,0.0,0.0,,,34.0,Tara Wallack,Canada,8.0,Q4,,14.6,8-16 ft.,2376,CAN
+shot,0:24,1787015499000,72,55,FT,2nd of 2 free throws made,34.0,266912.0,694,520000,Q4,135067,True,1.0,0.0,0.0,,,34.0,Tara Wallack,Canada,8.0,Q4,,14.6,8-16 ft.,2376,CAN
+subst,0:24,1787015507000,72,55,SUBST,Substitution out,134.0,186583.0,695,521000,Q4,135067,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q4,,,,2376,SEN
+subst,0:24,1787015507000,72,55,SUBST,Substitution in,134.0,303627.0,696,522000,Q4,135067,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q4,,,,2376,SEN
+shot,0:10,1787015535000,72,55,P2,2pt step back jump shot missed,134.0,273042.0,698,524000,Q4,135067,False,2.0,219.0,105.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Mid-Range,10.2,8-16 ft.,2390,SEN
+unknwown,0:07,1787015537000,72,55,REB,offensive rebound,134.0,290089.0,700,524002,Q4,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2393,SEN
+unknwown,0:07,1787015546000,72,55,FOUL,Personal foul; 2 free throws awarded,34.0,320676.0,701,526000,Q4,135067,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2393,CAN
+unknwown,0:07,1787015546000,72,55,RFOUL,foul drawn,134.0,290089.0,702,526002,Q4,135067,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2393,SEN
+shot,0:07,1787015555000,72,56,FT,1st of 2 free throws made,134.0,290089.0,703,527000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,,14.6,8-16 ft.,2393,SEN
+shot,0:07,1787015566000,72,57,FT,2nd of 2 free throws made,134.0,290089.0,704,528000,Q4,135067,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,,14.6,8-16 ft.,2393,SEN
+periods,0:00,1787015758000,72,57,ENDP,End of period,,,710,533000,Q4,135067,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787015791000,72,57,ENDG,End of game,,,711,534000,Q4,135067,,,,,,,,,,,Q4,,,,2400,

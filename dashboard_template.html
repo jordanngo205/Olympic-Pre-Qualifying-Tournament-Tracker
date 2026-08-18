@@ -1082,12 +1082,25 @@ function qualRow(r, rank, inSpot) {
 
 function renderQualification() {
   const spots = (typeof QUALIFY_SPOTS !== 'undefined' && QUALIFY_SPOTS) ? QUALIFY_SPOTS : 2;
-  const groups = [...new Set(GAME_DETAILS.map(g => g.group).filter(Boolean))].sort();
+  const groups = (typeof GROUPS !== 'undefined' && GROUPS && Object.keys(GROUPS).length)
+    ? Object.keys(GROUPS).sort()
+    : [...new Set(GAME_DETAILS.map(g => g.group).filter(Boolean))].sort();
   const sub = document.getElementById('qualSub');
   const out = [];
 
   if (groups.length) {
     const rows = standingsRows(true);
+    // Seed every team FIBA lists in each group, so a side that has not played
+    // yet still appears at 0-0 rather than vanishing from its own group.
+    if (typeof GROUPS !== 'undefined' && GROUPS) {
+      const seen = new Set(rows.map(r => r.grp + '|' + r.sc));
+      Object.entries(GROUPS).forEach(([g, codes]) => codes.forEach(code => {
+        if (!seen.has(g + '|' + code)) {
+          rows.push({ t: code, sc: code, grp: g, W: 0, L: 0, D: 0, P: 0 });
+        }
+      }));
+      rows.sort((a, b) => b.P - a.P || b.D - a.D);
+    }
     sub.textContent = `Top ${spots} from each group advance — ranked on points ` +
       `(2 for a win, 1 for a loss), then point differential` +
       (activeDate === 'ALL' ? '' : ` — through ${dateLabel(activeDate)}`);
