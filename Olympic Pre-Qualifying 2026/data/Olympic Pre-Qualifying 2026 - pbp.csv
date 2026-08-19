@@ -2869,3 +2869,596 @@ shot,0:00,1787102480000,61,64,P3,3pt jump shot made,14.0,214723.0,878,704000,Q4,
 unknwown,0:00,1787102480000,61,64,ASS,made the assist,14.0,170619.0,879,704001,Q4,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2400,ARG
 periods,0:00,1787102688000,61,64,ENDP,End of period,,,882,707000,Q4,135064,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787102691000,61,64,ENDG,End of game,,,883,708000,Q4,135064,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787106629000,0,0,STARTG,Start of game,,,1,1000,Q1,135063,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787106629000,0,0,STARTP,Start of period,,,2,2000,Q1,135063,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787106629000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135063,,,,,,,,,,,Q1,,,,0,
+unknwown,9:57,1787106632000,0,0,JB,jump ball won,27.0,301995.0,5,4001,Q1,135063,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,3,BRA
+unknwown,9:57,1787106632000,0,0,JB,jump ball lost,113.0,206251.0,6,4002,Q1,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,3,NZL
+shot,9:44,1787106645000,0,0,P2,2pt driving layup missed,27.0,302154.0,7,5000,Q1,135063,False,2.0,103.0,39.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,In The Paint (Non-RA),3.7,Less Than 8 ft.,16,BRA
+unknwown,9:41,1787106648000,0,0,REB,defensive rebound,113.0,258137.0,8,5002,Q1,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,19,NZL
+shot,9:30,1787106661000,2,0,P2,"2PtsFG inside center, jump shot made",113.0,317318.0,9,6000,Q1,135063,True,2.0,136.0,112.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Mid-Range,7.2,Less Than 8 ft.,30,NZL
+unknwown,9:30,1787106661000,2,0,ASS,made the assist,113.0,328255.0,10,6001,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,30,NZL
+shot,9:09,1787106681000,2,3,P3,3pt jump shot made,27.0,302154.0,11,7000,Q1,135063,True,3.0,9.0,27.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Right Corner 3,13.2,8-16 ft.,51,BRA
+unknwown,9:09,1787106681000,2,3,ASS,made the assist,27.0,200399.0,12,7001,Q1,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,51,BRA
+unknwown,8:47,1787106703000,2,3,TO,turnover; ball handling,113.0,206251.0,13,8000,Q1,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,73,NZL
+unknwown,8:47,1787106703000,2,3,ST,steal,27.0,302154.0,14,8001,Q1,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,73,BRA
+shot,8:42,1787106707000,2,3,P2,"2PtsFG under the basket, points after turnover, driving layup missed",27.0,302154.0,15,9000,Q1,135063,False,2.0,147.0,31.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Restricted Area,1.1,Less Than 8 ft.,78,BRA
+unknwown,8:39,1787106710000,2,3,REB,defensive rebound,113.0,317318.0,16,9002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,81,NZL
+shot,8:27,1787106722000,2,3,P2,"2PtsFG under the basket, turnaround jump shot missed",113.0,206251.0,17,10000,Q1,135063,False,2.0,117.0,35.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,Restricted Area,2.4,Less Than 8 ft.,93,NZL
+unknwown,8:27,1787106722000,2,3,BS,blocked the shot,27.0,301995.0,18,10001,Q1,135063,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,93,BRA
+unknwown,8:23,1787106726000,2,3,REB,defensive rebound,27.0,200399.0,19,10002,Q1,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,97,BRA
+shot,8:12,1787106738000,2,3,P2,2pt step back jump shot missed,27.0,392716.0,20,11000,Q1,135063,False,2.0,185.0,110.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Mid-Range,8.3,8-16 ft.,108,BRA
+unknwown,8:09,1787106742000,2,3,TREB,team defensive rebound,113.0,,22,11002,Q1,135063,,,,,,,,,,,Q1,,,,111,
+unknwown,7:50,1787106772000,2,3,TO,turnover; bad pass,113.0,258137.0,24,14000,Q1,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,130,NZL
+unknwown,7:50,1787106772000,2,3,ST,steal,27.0,200399.0,25,14001,Q1,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,130,BRA
+shot,7:42,1787106781000,2,6,P3,3pt jump shot made,27.0,215026.0,26,15000,Q1,135063,True,3.0,211.0,149.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,13.0,8-16 ft.,138,BRA
+unknwown,7:42,1787106781000,2,6,ASS,made the assist,27.0,301995.0,27,15001,Q1,135063,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,138,BRA
+unknwown,7:28,1787106799000,2,6,TO,turnover; out of bounds,113.0,317318.0,29,17000,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,152,NZL
+subst,7:28,1787106809000,2,6,SUBST,Substitution out,113.0,206251.0,30,18000,Q1,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,152,NZL
+subst,7:28,1787106809000,2,6,SUBST,Substitution in,113.0,219363.0,31,19000,Q1,135063,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,152,NZL
+shot,7:17,1787106822000,2,9,P3,3pt jump shot made,27.0,302154.0,34,22000,Q1,135063,True,3.0,15.0,85.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,13.3,8-16 ft.,163,BRA
+unknwown,7:17,1787106822000,2,9,ASS,made the assist,27.0,301995.0,35,22001,Q1,135063,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,163,BRA
+timeout,7:17,1787106832000,2,9,TIMO,Timeout,113.0,,36,23000,Q1,135063,,,,,,,,,,,Q1,,,,163,
+shot,6:52,1787106929000,2,9,P3,3pt jump shot from center missed,113.0,219363.0,38,25000,Q1,135063,False,3.0,102.0,159.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,12.5,8-16 ft.,188,NZL
+unknwown,6:50,1787106933000,2,9,TREB,team defensive rebound,27.0,,40,25002,Q1,135063,,,,,,,,,,,Q1,,,,190,
+shot,6:34,1787106959000,2,9,P2,2pt step back jump shot missed,27.0,302154.0,42,28000,Q1,135063,False,2.0,107.0,114.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Mid-Range,8.1,8-16 ft.,206,BRA
+unknwown,6:31,1787106966000,2,9,TREB,team defensive rebound,113.0,,44,28002,Q1,135063,,,,,,,,,,,Q1,,,,209,
+shot,6:15,1787106989000,4,9,P2,"2PtsFG under the basket, turnaround jump shot made",113.0,317318.0,47,31000,Q1,135063,True,2.0,159.0,27.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,2.3,Less Than 8 ft.,225,NZL
+unknwown,6:15,1787106989000,4,9,ASS,made the assist,113.0,328255.0,48,31001,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,225,NZL
+unknwown,5:56,1787107011000,4,9,FOUL,Personal foul; 2 free throws awarded,113.0,258137.0,50,33000,Q1,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,244,NZL
+unknwown,5:56,1787107011000,4,9,RFOUL,foul drawn,27.0,215026.0,51,33002,Q1,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,244,BRA
+subst,5:56,1787107027000,4,9,SUBST,Substitution out,113.0,317318.0,52,34000,Q1,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,244,NZL
+subst,5:56,1787107027000,4,9,SUBST,Substitution in,113.0,206251.0,53,35000,Q1,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,244,NZL
+shot,5:56,1787107036000,4,10,FT,1st of 2 free throws made,27.0,215026.0,54,36000,Q1,135063,True,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,14.6,8-16 ft.,244,BRA
+shot,5:56,1787107046000,4,10,FT,2nd of 2 free throws missed,27.0,215026.0,55,37000,Q1,135063,False,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,14.6,8-16 ft.,244,BRA
+unknwown,5:56,1787107047000,4,10,REB,defensive rebound,113.0,258137.0,57,37002,Q1,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,244,NZL
+unknwown,5:46,1787107066000,4,10,FOUL,Personal foul,27.0,200399.0,60,40000,Q1,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,254,BRA
+unknwown,5:46,1787107066000,4,10,RFOUL,foul drawn,113.0,328255.0,61,40002,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,254,NZL
+subst,5:46,1787107077000,4,10,SUBST,Substitution out,113.0,328255.0,62,41000,Q1,135063,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,254,NZL
+subst,5:46,1787107077000,4,10,SUBST,Substitution in,113.0,296082.0,63,42000,Q1,135063,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,254,NZL
+subst,5:46,1787107077000,4,10,SUBST,Substitution out,27.0,200399.0,64,43000,Q1,135063,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q1,,,,254,BRA
+subst,5:46,1787107077000,4,10,SUBST,Substitution in,27.0,203242.0,65,44000,Q1,135063,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,254,BRA
+unknwown,5:35,1787107089000,4,10,TO,turnover; bad pass,113.0,258137.0,67,46000,Q1,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,265,NZL
+unknwown,5:35,1787107089000,4,10,ST,steal,27.0,203242.0,68,46001,Q1,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,265,BRA
+shot,5:16,1787107108000,4,10,P2,2pt turnaround jump shot missed,27.0,301995.0,69,47000,Q1,135063,False,2.0,178.0,32.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,In The Paint (Non-RA),3.9,Less Than 8 ft.,284,BRA
+unknwown,5:12,1787107111000,4,10,REB,defensive rebound,113.0,219363.0,70,47002,Q1,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,288,NZL
+shot,5:03,1787107121000,4,10,P2,"2PtsFG under the basket, reverse lay-up missed",113.0,219363.0,71,48000,Q1,135063,False,2.0,154.0,21.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Restricted Area,2.4,Less Than 8 ft.,297,NZL
+unknwown,5:03,1787107121000,4,10,BS,blocked the shot,27.0,203242.0,805,48001,Q1,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,297,BRA
+unknwown,5:03,1787107128000,4,10,REB,defensive rebound,27.0,392716.0,72,48002,Q1,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,297,BRA
+shot,4:48,1787107136000,4,12,P2,"2PtsFG under the basket, driving layup made",27.0,392716.0,74,49000,Q1,135063,True,2.0,147.0,19.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Restricted Area,2.2,Less Than 8 ft.,312,BRA
+subst,4:41,1787107155000,4,12,SUBST,Substitution out,113.0,258137.0,76,51000,Q1,135063,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,319,NZL
+subst,4:41,1787107155000,4,12,SUBST,Substitution in,113.0,261208.0,77,52000,Q1,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,319,NZL
+subst,4:41,1787107155000,4,12,SUBST,Substitution out,27.0,301995.0,78,53000,Q1,135063,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,319,BRA
+subst,4:41,1787107155000,4,12,SUBST,Substitution in,27.0,342721.0,79,54000,Q1,135063,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,319,BRA
+unknwown,4:33,1787107173000,4,12,TO,turnover; ball handling,113.0,239275.0,81,56000,Q1,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,327,NZL
+unknwown,4:33,1787107173000,4,12,ST,steal,27.0,215026.0,82,56001,Q1,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,327,BRA
+shot,4:23,1787107184000,4,12,P3,3pt pullup jump shot missed,27.0,392716.0,83,57000,Q1,135063,False,3.0,160.0,162.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,12.4,8-16 ft.,337,BRA
+unknwown,4:18,1787107187000,4,12,REB,defensive rebound,113.0,261208.0,84,57002,Q1,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,342,NZL
+shot,4:11,1787107196000,4,12,P3,3pt jump shot missed,113.0,261208.0,85,58000,Q1,135063,False,3.0,268.0,41.0,,,113.0,Florence Dallow,New Zealand,12.0,Q1,Left Corner 3,12.8,8-16 ft.,349,NZL
+unknwown,4:07,1787107198000,4,12,REB,defensive rebound,27.0,392716.0,86,58002,Q1,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,353,BRA
+shot,3:51,1787107214000,4,12,P2,"2PtsFG under the basket, driving layup missed",27.0,392716.0,87,59000,Q1,135063,False,2.0,122.0,38.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Restricted Area,1.8,Less Than 8 ft.,369,BRA
+unknwown,3:48,1787107217000,4,12,REB,defensive rebound,113.0,296082.0,88,59002,Q1,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,372,NZL
+unknwown,3:46,1787107220000,4,12,TO,turnover; bad pass,113.0,296082.0,90,61000,Q1,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,374,NZL
+subst,3:46,1787107242000,4,12,SUBST,Substitution out,113.0,261208.0,91,62000,Q1,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,374,NZL
+subst,3:46,1787107242000,4,12,SUBST,Substitution out,113.0,206251.0,92,63000,Q1,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,374,NZL
+subst,3:46,1787107242000,4,12,SUBST,Substitution in,113.0,328112.0,93,64000,Q1,135063,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,374,NZL
+subst,3:46,1787107242000,4,12,SUBST,Substitution in,113.0,317318.0,94,65000,Q1,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,374,NZL
+subst,3:46,1787107242000,4,12,SUBST,Substitution out,27.0,392716.0,95,66000,Q1,135063,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,374,BRA
+subst,3:46,1787107242000,4,12,SUBST,Substitution in,27.0,393736.0,96,67000,Q1,135063,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q1,,,,374,BRA
+subst,3:34,1787107271000,4,12,SUBST,Substitution out,113.0,239275.0,101,72000,Q1,135063,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,386,NZL
+subst,3:34,1787107271000,4,12,SUBST,Substitution out,113.0,219363.0,102,73000,Q1,135063,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,386,NZL
+subst,3:34,1787107271000,4,12,SUBST,Substitution in,113.0,261208.0,103,74000,Q1,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,386,NZL
+subst,3:34,1787107271000,4,12,SUBST,Substitution in,113.0,206251.0,104,75000,Q1,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,386,NZL
+shot,3:33,1787107290000,4,12,P3,3pt jump shot missed,27.0,302154.0,107,77000,Q1,135063,False,3.0,170.0,165.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,12.9,8-16 ft.,387,BRA
+unknwown,3:28,1787107295000,4,12,TREB,team offensive rebound,27.0,,108,77002,Q1,135063,,,,,,,,,,,Q1,,,,392,
+unknwown,3:26,1787107306000,4,12,FOUL,Personal foul,113.0,317318.0,110,78000,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,394,NZL
+unknwown,3:26,1787107306000,4,12,RFOUL,foul drawn,27.0,342721.0,111,78002,Q1,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,394,BRA
+shot,3:09,1787107314000,4,12,P3,3pt jump shot missed,27.0,393736.0,112,79000,Q1,135063,False,3.0,273.0,30.0,,,27.0,Maisa Marçal,Brazil,32.0,Q1,Left Corner 3,13.3,8-16 ft.,411,BRA
+unknwown,3:04,1787107326000,4,12,REB,defensive rebound,113.0,317318.0,114,79002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,416,NZL
+unknwown,3:01,1787107342000,4,12,FOUL,Personal foul,27.0,342721.0,117,83000,Q1,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,419,BRA
+unknwown,3:01,1787107342000,4,12,RFOUL,foul drawn,113.0,317318.0,118,83002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,419,NZL
+shot,2:58,1787107361000,4,12,P2,2pt jump shot missed,113.0,261208.0,120,85000,Q1,135063,False,2.0,171.0,24.0,,,113.0,Florence Dallow,New Zealand,12.0,Q1,In The Paint (Non-RA),3.5,Less Than 8 ft.,422,NZL
+unknwown,2:56,1787107373000,4,12,REB,offensive rebound,113.0,261208.0,122,85002,Q1,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,424,NZL
+unknwown,2:56,1787107375000,4,12,FOUL,Personal foul,27.0,203242.0,123,87000,Q1,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,424,BRA
+unknwown,2:56,1787107375000,4,12,RFOUL,foul drawn,113.0,261208.0,124,87002,Q1,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,424,NZL
+shot,2:43,1787107406000,4,12,P2,2pt driving layup missed,113.0,296082.0,127,90000,Q1,135063,False,2.0,185.0,60.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,In The Paint (Non-RA),4.9,Less Than 8 ft.,437,NZL
+unknwown,2:43,1787107409000,4,12,TREB,team defensive rebound,27.0,,128,90002,Q1,135063,,,,,,,,,,,Q1,,,,437,
+subst,2:43,1787107415000,4,12,SUBST,Substitution out,113.0,296082.0,129,91000,Q1,135063,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,437,NZL
+subst,2:43,1787107415000,4,12,SUBST,Substitution in,113.0,328255.0,130,92000,Q1,135063,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,437,NZL
+shot,2:24,1787107444000,4,12,P2,2pt driving layup missed,27.0,203242.0,132,94000,Q1,135063,False,2.0,147.0,66.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,In The Paint (Non-RA),2.7,Less Than 8 ft.,456,BRA
+unknwown,2:20,1787107446000,4,12,REB,defensive rebound,113.0,317318.0,133,94002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,460,NZL
+unknwown,2:14,1787107453000,4,12,TO,turnover; bad pass,113.0,328255.0,134,95000,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,466,NZL
+unknwown,2:14,1787107453000,4,12,ST,steal,27.0,393736.0,135,95001,Q1,135063,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q1,,,,466,BRA
+subst,2:06,1787107470000,4,12,SUBST,Substitution out,113.0,261208.0,137,97000,Q1,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,474,NZL
+subst,2:06,1787107470000,4,12,SUBST,Substitution in,113.0,258137.0,138,98000,Q1,135063,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,474,NZL
+subst,2:06,1787107480000,4,12,SUBST,Substitution out,27.0,302154.0,139,99000,Q1,135063,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,474,BRA
+subst,2:06,1787107480000,4,12,SUBST,Substitution out,27.0,215026.0,140,100000,Q1,135063,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,474,BRA
+subst,2:06,1787107480000,4,12,SUBST,Substitution in,27.0,392716.0,141,101000,Q1,135063,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,474,BRA
+subst,2:06,1787107480000,4,12,SUBST,Substitution in,27.0,178708.0,142,102000,Q1,135063,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,474,BRA
+shot,1:59,1787107494000,4,12,P3,3pt jump shot missed,27.0,392716.0,144,104000,Q1,135063,False,3.0,250.0,109.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,13.0,8-16 ft.,481,BRA
+unknwown,1:56,1787107497000,4,12,REB,defensive rebound,113.0,206251.0,145,104002,Q1,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,484,NZL
+unknwown,1:48,1787107508000,4,12,TO,turnover; travelling,113.0,328255.0,147,106000,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,492,NZL
+shot,1:32,1787107534000,4,12,P3,3pt jump shot missed,27.0,392716.0,149,108000,Q1,135063,False,3.0,186.0,161.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,12.9,8-16 ft.,508,BRA
+unknwown,1:28,1787107537000,4,12,REB,defensive rebound,113.0,206251.0,150,108002,Q1,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,512,NZL
+shot,1:07,1787107558000,4,12,P2,2pt jump shot missed,113.0,258137.0,151,109000,Q1,135063,False,2.0,82.0,33.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Mid-Range,5.8,Less Than 8 ft.,533,NZL
+unknwown,1:03,1787107562000,4,12,REB,defensive rebound,27.0,203242.0,152,109002,Q1,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,537,BRA
+shot,0:50,1787107577000,4,12,P3,3pt jump shot missed,27.0,203242.0,153,110000,Q1,135063,False,3.0,34.0,118.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,Above the Break 3,13.2,8-16 ft.,550,BRA
+unknwown,0:45,1787107580000,4,12,REB,defensive rebound,113.0,317318.0,154,110002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,555,NZL
+shot,0:43,1787107582000,6,12,P2,"2PtsFG under the basket, fast break, layup made",113.0,328112.0,155,111000,Q1,135063,True,2.0,128.0,28.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,Restricted Area,1.7,Less Than 8 ft.,557,NZL
+unknwown,0:43,1787107582000,6,12,ASS,made the assist,113.0,328255.0,157,111001,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,557,NZL
+shot,0:22,1787107606000,6,12,P2,"2PtsFG under the basket, turnaround jump shot missed",27.0,203242.0,159,114000,Q1,135063,False,2.0,133.0,43.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,Restricted Area,0.8,Less Than 8 ft.,578,BRA
+unknwown,0:19,1787107608000,6,12,REB,defensive rebound,113.0,206251.0,160,114002,Q1,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,581,NZL
+unknwown,0:09,1787107624000,6,12,FOUL,Personal foul,27.0,178708.0,162,116000,Q1,135063,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,591,BRA
+unknwown,0:09,1787107624000,6,12,RFOUL,foul drawn,113.0,328255.0,163,116002,Q1,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,591,NZL
+subst,0:09,1787107635000,6,12,SUBST,Substitution out,113.0,206251.0,164,117000,Q1,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,591,NZL
+subst,0:09,1787107635000,6,12,SUBST,Substitution in,113.0,219363.0,165,118000,Q1,135063,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,591,NZL
+unknwown,0:04,1787107662000,6,12,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,170,123000,Q1,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,596,BRA
+unknwown,0:04,1787107662000,6,12,RFOUL,foul drawn,113.0,317318.0,171,123002,Q1,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,596,NZL
+subst,0:04,1787107695000,6,12,SUBST,Substitution out,27.0,178708.0,172,124000,Q1,135063,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,596,BRA
+subst,0:04,1787107695000,6,12,SUBST,Substitution out,27.0,393736.0,173,125000,Q1,135063,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q1,,,,596,BRA
+subst,0:04,1787107695000,6,12,SUBST,Substitution in,27.0,302154.0,174,126000,Q1,135063,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,596,BRA
+subst,0:04,1787107695000,6,12,SUBST,Substitution in,27.0,215026.0,175,127000,Q1,135063,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,596,BRA
+shot,0:04,1787107700000,7,12,FT,1st of 2 free throws made,113.0,317318.0,176,128000,Q1,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,596,NZL
+shot,0:04,1787107712000,8,12,FT,2nd of 2 free throws made,113.0,317318.0,177,129000,Q1,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,596,NZL
+shot,0:00,1787107752000,8,12,P3,3pt jump shot missed,27.0,215026.0,181,133000,Q1,135063,False,3.0,31.0,137.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,14.6,8-16 ft.,600,BRA
+periods,0:00,1787107785000,8,12,ENDP,End of period,,,184,136000,Q1,135063,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787107875000,8,12,SUBST,Substitution out,27.0,203242.0,185,137000,Q2,135063,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,600,BRA
+subst,10:00,1787107875000,8,12,SUBST,Substitution in,27.0,200399.0,186,138000,Q2,135063,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,600,BRA
+periods,10:00,1787107884000,8,12,STARTP,Start of period,,,187,139000,Q2,135063,,,,,,,,,,,Q2,,,,600,
+unknwown,9:41,1787107905000,8,12,FOUL,Personal foul; 2 free throws awarded,27.0,200399.0,190,142000,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,619,BRA
+unknwown,9:41,1787107905000,8,12,RFOUL,foul drawn,113.0,317318.0,191,142002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,619,NZL
+shot,9:41,1787107936000,8,12,FT,1st of 2 free throws missed,113.0,317318.0,192,143000,Q2,135063,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,619,NZL
+shot,9:41,1787107949000,8,12,FT,2nd of 2 free throws missed,113.0,317318.0,193,144000,Q2,135063,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,619,NZL
+unknwown,9:41,1787107951000,8,12,REB,defensive rebound,27.0,200399.0,195,144002,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,619,BRA
+shot,9:17,1787107976000,8,14,P2,2pt jump shot made,27.0,342721.0,196,146000,Q2,135063,True,2.0,161.0,48.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,Restricted Area,2.2,Less Than 8 ft.,643,BRA
+unknwown,9:17,1787107976000,8,14,ASS,made the assist,27.0,200399.0,197,146001,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,643,BRA
+unknwown,9:02,1787107990000,8,14,TO,turnover; bad pass,113.0,258137.0,198,147000,Q2,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,658,NZL
+unknwown,9:02,1787107990000,8,14,ST,steal,27.0,302154.0,199,147001,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,658,BRA
+shot,8:59,1787107994000,8,16,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",27.0,302154.0,200,148000,Q2,135063,True,2.0,141.0,38.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,Restricted Area,0.2,Less Than 8 ft.,661,BRA
+shot,8:39,1787108013000,8,16,P2,"2PtsFG under the basket, layup missed",113.0,258137.0,201,149000,Q2,135063,False,2.0,121.0,38.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,Restricted Area,1.9,Less Than 8 ft.,681,NZL
+unknwown,8:36,1787108016000,8,16,REB,defensive rebound,27.0,342721.0,202,149002,Q2,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,684,BRA
+shot,8:24,1787108028000,8,16,P2,2pt pullup jump shot missed,27.0,302154.0,203,150000,Q2,135063,False,2.0,175.0,96.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,In The Paint (Non-RA),6.6,Less Than 8 ft.,696,BRA
+unknwown,8:19,1787108032000,8,16,REB,defensive rebound,113.0,317318.0,204,150002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,701,NZL
+unknwown,8:17,1787108037000,8,16,FOUL,Personal foul; 2 free throws awarded,27.0,215026.0,206,152000,Q2,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,703,BRA
+unknwown,8:17,1787108037000,8,16,RFOUL,foul drawn,113.0,317318.0,207,152002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,703,NZL
+shot,8:17,1787108071000,9,16,FT,1st of 2 free throws made,113.0,317318.0,208,153000,Q2,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,703,NZL
+shot,8:17,1787108084000,9,16,FT,2nd of 2 free throws missed,113.0,317318.0,209,154000,Q2,135063,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,703,NZL
+unknwown,8:17,1787108085000,9,16,REB,defensive rebound,27.0,342721.0,211,154002,Q2,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,703,BRA
+unknwown,8:09,1787108096000,9,16,TTO,team turnover; 8 seconds violation,27.0,,213,157000,Q2,135063,,,,,,,,,,,Q2,,,,711,
+subst,8:09,1787108105000,9,16,SUBST,Substitution out,113.0,328112.0,214,158000,Q2,135063,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,711,NZL
+subst,8:09,1787108105000,9,16,SUBST,Substitution in,113.0,239275.0,215,159000,Q2,135063,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,711,NZL
+shot,7:50,1787108143000,9,16,P3,3pt step back jump shot missed,113.0,258137.0,217,161000,Q2,135063,False,3.0,30.0,105.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,Above the Break 3,12.8,8-16 ft.,730,NZL
+unknwown,7:48,1787108149000,9,16,REB,defensive rebound,27.0,342721.0,219,161002,Q2,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,732,BRA
+unknwown,7:48,1787108155000,9,16,FOUL,Personal foul,113.0,258137.0,220,163000,Q2,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,732,NZL
+unknwown,7:48,1787108155000,9,16,RFOUL,foul drawn,27.0,200399.0,221,163002,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,732,BRA
+subst,7:48,1787108165000,9,16,SUBST,Substitution out,113.0,258137.0,222,164000,Q2,135063,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,732,NZL
+subst,7:48,1787108165000,9,16,SUBST,Substitution out,113.0,328255.0,223,165000,Q2,135063,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,732,NZL
+subst,7:48,1787108165000,9,16,SUBST,Substitution in,113.0,296082.0,224,166000,Q2,135063,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,732,NZL
+subst,7:48,1787108165000,9,16,SUBST,Substitution in,113.0,261208.0,225,167000,Q2,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,732,NZL
+unknwown,7:38,1787108184000,9,16,FOUL,Personal foul,113.0,219363.0,228,170000,Q2,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,742,NZL
+unknwown,7:38,1787108184000,9,16,RFOUL,foul drawn,27.0,200399.0,229,170002,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,742,BRA
+unknwown,7:34,1787108207000,9,16,TO,turnover; bad pass,27.0,200399.0,231,172000,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,746,BRA
+unknwown,7:34,1787108207000,9,16,ST,steal,113.0,317318.0,232,172001,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,746,NZL
+subst,7:24,1787108233000,9,16,SUBST,Substitution out,27.0,200399.0,234,174000,Q2,135063,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,756,BRA
+subst,7:24,1787108233000,9,16,SUBST,Substitution out,27.0,342721.0,235,175000,Q2,135063,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,756,BRA
+subst,7:24,1787108233000,9,16,SUBST,Substitution in,27.0,203242.0,236,176000,Q2,135063,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,756,BRA
+subst,7:24,1787108233000,9,16,SUBST,Substitution in,27.0,301995.0,237,177000,Q2,135063,,,,,,IN,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,756,BRA
+shot,7:14,1787108252000,9,16,P2,"2PtsFG under the basket, points after turnover, driving layup missed",113.0,317318.0,239,179000,Q2,135063,False,2.0,155.0,27.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Restricted Area,2.0,Less Than 8 ft.,766,NZL
+unknwown,7:12,1787108255000,9,16,REB,defensive rebound,27.0,203242.0,240,179002,Q2,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,768,BRA
+unknwown,6:59,1787108270000,9,16,TO,turnover; bad pass,27.0,302154.0,242,181000,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,781,BRA
+shot,6:41,1787108294000,11,16,P2,"2PtsFG under the basket, points after turnover, layup made",113.0,317318.0,244,183000,Q2,135063,True,2.0,121.0,31.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Restricted Area,2.1,Less Than 8 ft.,799,NZL
+unknwown,6:41,1787108294000,11,16,ASS,made the assist,113.0,296082.0,245,183001,Q2,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,799,NZL
+shot,6:20,1787108316000,11,18,P2,2pt turnaround jump shot made,27.0,301995.0,246,184000,Q2,135063,True,2.0,131.0,55.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,In The Paint (Non-RA),1.7,Less Than 8 ft.,820,BRA
+unknwown,6:20,1787108316000,11,18,ASS,made the assist,27.0,203242.0,247,184001,Q2,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,820,BRA
+unknwown,6:14,1787108325000,11,18,FOUL,Offensive foul,113.0,219363.0,249,186000,Q2,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,826,NZL
+unknwown,6:14,1787108325000,11,18,TO,turnover,113.0,219363.0,250,186001,Q2,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,826,NZL
+unknwown,6:14,1787108325000,11,18,RFOUL,foul drawn,27.0,302154.0,251,186002,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,826,BRA
+subst,6:14,1787108343000,11,18,SUBST,Substitution out,113.0,219363.0,252,187000,Q2,135063,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,826,NZL
+subst,6:14,1787108343000,11,18,SUBST,Substitution in,113.0,206251.0,253,188000,Q2,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,826,NZL
+unknwown,5:55,1787108372000,11,18,TO,turnover; bad pass,27.0,302154.0,256,191000,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,845,BRA
+shot,5:47,1787108394000,11,18,P3,3pt jump shot missed,113.0,317318.0,258,193000,Q2,135063,False,3.0,79.0,153.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Above the Break 3,12.8,8-16 ft.,853,NZL
+unknwown,5:45,1787108398000,11,18,TREB,team offensive rebound,113.0,,260,193002,Q2,135063,,,,,,,,,,,Q2,,,,855,
+shot,5:38,1787108422000,11,18,P3,3pt jump shot missed,113.0,296082.0,262,196000,Q2,135063,False,3.0,213.0,164.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,14.4,8-16 ft.,862,NZL
+unknwown,5:35,1787108424000,11,18,REB,defensive rebound,27.0,302154.0,263,196002,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,865,BRA
+shot,5:26,1787108433000,11,18,P3,3pt jump shot from center missed,27.0,203242.0,264,197000,Q2,135063,False,3.0,177.0,163.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,Above the Break 3,12.8,8-16 ft.,874,BRA
+unknwown,5:24,1787108435000,11,18,REB,defensive rebound,113.0,296082.0,265,197002,Q2,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,876,NZL
+shot,5:17,1787108443000,13,18,P2,"2PtsFG under the basket, layup made",113.0,317318.0,267,199000,Q2,135063,True,2.0,152.0,35.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Restricted Area,1.3,Less Than 8 ft.,883,NZL
+unknwown,5:17,1787108443000,13,18,ASS,made the assist,113.0,239275.0,268,199001,Q2,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,883,NZL
+timeout,5:17,1787108448000,13,18,TIMO,Timeout,27.0,,269,200000,Q2,135063,,,,,,,,,,,Q2,,,,883,
+subst,5:17,1787108536000,13,18,SUBST,Substitution out,27.0,203242.0,270,201000,Q2,135063,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,883,BRA
+subst,5:17,1787108536000,13,18,SUBST,Substitution in,27.0,200399.0,271,202000,Q2,135063,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,883,BRA
+unknwown,4:58,1787108566000,13,18,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,276,207000,Q2,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,902,NZL
+unknwown,4:58,1787108566000,13,18,RFOUL,foul drawn,27.0,301995.0,277,207002,Q2,135063,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,902,BRA
+shot,4:58,1787108591000,13,19,FT,1st of 2 free throws made,27.0,301995.0,278,208000,Q2,135063,True,1.0,0.0,0.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,14.6,8-16 ft.,902,BRA
+unknwown,4:58,1787108591000,13,19,ASS,made the assist,27.0,302154.0,279,208001,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,902,BRA
+shot,4:58,1787108611000,13,19,FT,2nd of 2 free throws missed,27.0,301995.0,280,209000,Q2,135063,False,1.0,0.0,0.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,14.6,8-16 ft.,902,BRA
+unknwown,4:58,1787108613000,13,19,REB,defensive rebound,113.0,317318.0,282,209002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,902,NZL
+unknwown,4:43,1787108632000,13,19,FOUL,Offensive foul,113.0,317318.0,286,214000,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,917,NZL
+unknwown,4:43,1787108632000,13,19,TO,turnover,113.0,317318.0,287,214001,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,917,NZL
+unknwown,4:43,1787108632000,13,19,RFOUL,foul drawn,27.0,215026.0,288,214002,Q2,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,917,BRA
+subst,4:43,1787108652000,13,19,SUBST,Substitution out,113.0,317318.0,289,215000,Q2,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,917,NZL
+subst,4:43,1787108652000,13,19,SUBST,Substitution in,113.0,219363.0,290,216000,Q2,135063,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,917,NZL
+unknwown,4:22,1787108688000,13,19,TO,turnover; bad pass,27.0,200399.0,292,218000,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,938,BRA
+unknwown,4:22,1787108688000,13,19,ST,steal,113.0,239275.0,293,218001,Q2,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,938,NZL
+shot,4:04,1787108707000,13,19,P3,3pt step back jump shot missed,113.0,219363.0,294,219000,Q2,135063,False,3.0,148.0,169.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,Above the Break 3,12.9,8-16 ft.,956,NZL
+unknwown,4:00,1787108710000,13,19,REB,defensive rebound,27.0,302154.0,295,219002,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,960,BRA
+unknwown,3:55,1787108722000,13,19,FOUL,Personal foul; 2 free throws awarded,113.0,219363.0,297,221000,Q2,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,965,NZL
+unknwown,3:55,1787108722000,13,19,RFOUL,foul drawn,27.0,302154.0,298,221002,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,965,BRA
+subst,3:55,1787108732000,13,19,SUBST,Substitution out,113.0,219363.0,299,222000,Q2,135063,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,965,NZL
+subst,3:55,1787108732000,13,19,SUBST,Substitution in,113.0,317318.0,300,223000,Q2,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,965,NZL
+shot,3:55,1787108745000,13,19,FT,1st of 2 free throws missed,27.0,302154.0,301,224000,Q2,135063,False,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,14.6,8-16 ft.,965,BRA
+shot,3:55,1787108755000,13,20,FT,2nd of 2 free throws made,27.0,302154.0,302,225000,Q2,135063,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,14.6,8-16 ft.,965,BRA
+subst,3:55,1787108760000,13,20,SUBST,Substitution out,27.0,215026.0,303,226000,Q2,135063,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,965,BRA
+subst,3:55,1787108760000,13,20,SUBST,Substitution in,27.0,302000.0,304,227000,Q2,135063,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,965,BRA
+unknwown,3:47,1787108773000,13,20,TO,turnover; ball handling,113.0,296082.0,306,229000,Q2,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,973,NZL
+unknwown,3:47,1787108773000,13,20,ST,steal,27.0,302154.0,307,229001,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,973,BRA
+shot,3:41,1787108779000,13,20,P3,3pt jump shot missed,27.0,392716.0,308,230000,Q2,135063,False,3.0,63.0,148.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Above the Break 3,13.3,8-16 ft.,979,BRA
+unknwown,3:38,1787108781000,13,20,REB,defensive rebound,113.0,317318.0,309,230002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,982,NZL
+unknwown,3:30,1787108796000,13,20,FOUL,Personal foul; 3 free throws awarded,27.0,302154.0,311,232000,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,990,BRA
+unknwown,3:30,1787108796000,13,20,RFOUL,foul drawn,113.0,261208.0,312,232002,Q2,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,990,NZL
+subst,3:29,1787108808000,13,20,SUBST,Substitution out,113.0,296082.0,313,233000,Q2,135063,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,991,NZL
+subst,3:29,1787108808000,13,20,SUBST,Substitution in,113.0,328255.0,314,234000,Q2,135063,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,991,NZL
+shot,3:29,1787108818000,14,20,FT,1st of 3 free throws made,113.0,261208.0,315,235000,Q2,135063,True,1.0,0.0,0.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,14.6,8-16 ft.,991,NZL
+unknwown,3:29,1787108818000,14,20,ASS,made the assist,113.0,239275.0,316,235001,Q2,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,991,NZL
+shot,3:29,1787108830000,14,20,FT,2nd of 3 free throws missed,113.0,261208.0,317,236000,Q2,135063,False,1.0,0.0,0.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,14.6,8-16 ft.,991,NZL
+shot,3:29,1787108842000,15,20,FT,3rd of 3 free throws made,113.0,261208.0,318,237000,Q2,135063,True,1.0,0.0,0.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,14.6,8-16 ft.,991,NZL
+shot,3:04,1787108871000,15,20,P2,"2PtsFG inside right, jump shot missed",27.0,301995.0,321,240000,Q2,135063,False,2.0,192.0,43.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,Mid-Range,5.2,Less Than 8 ft.,1016,BRA
+unknwown,3:03,1787108881000,15,20,TTO,team turnover; shot clock violation,27.0,,322,241000,Q2,135063,,,,,,,,,,,Q2,,,,1017,
+shot,2:46,1787108902000,18,20,P3,3pt jump shot made,113.0,317318.0,324,243000,Q2,135063,True,3.0,270.0,39.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Left Corner 3,13.0,8-16 ft.,1034,NZL
+unknwown,2:46,1787108902000,18,20,ASS,made the assist,113.0,261208.0,325,243001,Q2,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1034,NZL
+unknwown,2:20,1787108927000,18,20,TO,turnover; bad pass,27.0,200399.0,326,244000,Q2,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1060,BRA
+unknwown,2:20,1787108927000,18,20,ST,steal,113.0,239275.0,327,244001,Q2,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,1060,NZL
+shot,2:06,1787108943000,20,20,P2,"2PtsFG under the basket, points after turnover, driving layup made",113.0,239275.0,329,246000,Q2,135063,True,2.0,158.0,29.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,Restricted Area,2.1,Less Than 8 ft.,1074,NZL
+unknwown,2:06,1787108948000,20,20,FOUL,Personal foul; 1 free throw awarded,27.0,392716.0,330,247000,Q2,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1074,BRA
+unknwown,2:06,1787108948000,20,20,RFOUL,foul drawn,113.0,239275.0,331,247002,Q2,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,1074,NZL
+timeout,2:06,1787108970000,20,20,TIMO,Timeout,27.0,,332,248000,Q2,135063,,,,,,,,,,,Q2,,,,1074,
+subst,2:06,1787109048000,20,20,SUBST,Substitution out,27.0,392716.0,333,249000,Q2,135063,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1074,BRA
+subst,2:06,1787109048000,20,20,SUBST,Substitution out,27.0,200399.0,334,250000,Q2,135063,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,1074,BRA
+subst,2:06,1787109048000,20,20,SUBST,Substitution out,27.0,301995.0,335,251000,Q2,135063,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q2,,,,1074,BRA
+subst,2:06,1787109048000,20,20,SUBST,Substitution in,27.0,215026.0,336,252000,Q2,135063,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,1074,BRA
+subst,2:06,1787109048000,20,20,SUBST,Substitution in,27.0,342721.0,337,253000,Q2,135063,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1074,BRA
+subst,2:06,1787109048000,20,20,SUBST,Substitution in,27.0,203242.0,338,254000,Q2,135063,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1074,BRA
+shot,2:06,1787109064000,21,20,FT,1st free throw made,113.0,239275.0,339,255000,Q2,135063,True,1.0,0.0,0.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,14.6,8-16 ft.,1074,NZL
+unknwown,1:50,1787109087000,21,20,FOUL,Offensive foul,27.0,342721.0,342,258000,Q2,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1090,BRA
+unknwown,1:50,1787109087000,21,20,TO,turnover,27.0,342721.0,343,258001,Q2,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1090,BRA
+unknwown,1:50,1787109087000,21,20,RFOUL,foul drawn,113.0,261208.0,344,258002,Q2,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1090,NZL
+shot,1:29,1787109118000,21,20,P2,"2PtsFG under the basket, points after turnover, driving layup missed",113.0,239275.0,346,260000,Q2,135063,False,2.0,124.0,30.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,Restricted Area,1.9,Less Than 8 ft.,1111,NZL
+unknwown,1:29,1787109118000,21,20,BS,blocked the shot,27.0,203242.0,348,260001,Q2,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1111,BRA
+unknwown,1:27,1787109125000,21,20,TREB,team defensive rebound,27.0,,349,260002,Q2,135063,,,,,,,,,,,Q2,,,,1113,
+shot,1:09,1787109149000,21,22,P2,"2PtsFG inside left, jump shot made",27.0,342721.0,351,263000,Q2,135063,True,2.0,83.0,98.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,Mid-Range,8.1,8-16 ft.,1131,BRA
+unknwown,1:09,1787109149000,21,22,ASS,made the assist,27.0,302000.0,352,263001,Q2,135063,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1131,BRA
+timeout,0:52,1787109192000,21,22,TIMO,Timeout,113.0,,354,265000,Q2,135063,,,,,,,,,,,Q2,,,,1148,
+unknwown,0:46,1787109288000,21,22,FOUL,Personal foul; 2 free throws awarded,27.0,215026.0,357,268000,Q2,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,1154,BRA
+unknwown,0:46,1787109288000,21,22,RFOUL,foul drawn,113.0,317318.0,358,268002,Q2,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1154,NZL
+shot,0:46,1787109320000,21,22,FT,1st of 2 free throws missed,113.0,317318.0,359,269000,Q2,135063,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,1154,NZL
+shot,0:46,1787109331000,22,22,FT,2nd of 2 free throws made,113.0,317318.0,360,270000,Q2,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,1154,NZL
+subst,0:46,1787109337000,22,22,SUBST,Substitution out,113.0,317318.0,361,271000,Q2,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1154,NZL
+subst,0:46,1787109337000,22,22,SUBST,Substitution in,113.0,377527.0,362,272000,Q2,135063,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,1154,NZL
+shot,0:38,1787109350000,22,22,P2,2pt driving layup missed,27.0,302154.0,364,274000,Q2,135063,False,2.0,166.0,36.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,In The Paint (Non-RA),2.6,Less Than 8 ft.,1162,BRA
+unknwown,0:35,1787109352000,22,22,REB,defensive rebound,113.0,328255.0,365,274002,Q2,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1165,NZL
+shot,0:15,1787109373000,22,22,P3,3pt jump shot missed,113.0,261208.0,366,275000,Q2,135063,False,3.0,268.0,31.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,Left Corner 3,12.8,8-16 ft.,1185,NZL
+unknwown,0:12,1787109375000,22,22,REB,defensive rebound,27.0,302154.0,367,275002,Q2,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1188,BRA
+shot,0:01,1787109389000,22,22,P3,3pt pullup jump shot missed,27.0,302154.0,370,278000,Q2,135063,False,3.0,98.0,162.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,Above the Break 3,12.9,8-16 ft.,1199,BRA
+periods,0:00,1787109396000,22,22,ENDP,End of period,,,372,280000,Q2,135063,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787110241000,22,22,SUBST,Substitution out,113.0,377527.0,373,281000,Q3,135063,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1200,NZL
+subst,10:00,1787110241000,22,22,SUBST,Substitution out,113.0,261208.0,374,282000,Q3,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1200,NZL
+subst,10:00,1787110241000,22,22,SUBST,Substitution in,113.0,258137.0,375,283000,Q3,135063,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1200,NZL
+subst,10:00,1787110241000,22,22,SUBST,Substitution in,113.0,317318.0,376,284000,Q3,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1200,NZL
+subst,10:00,1787110241000,22,22,SUBST,Substitution out,27.0,203242.0,377,285000,Q3,135063,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1200,BRA
+subst,10:00,1787110241000,22,22,SUBST,Substitution out,27.0,302000.0,378,286000,Q3,135063,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1200,BRA
+subst,10:00,1787110241000,22,22,SUBST,Substitution in,27.0,392716.0,379,287000,Q3,135063,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1200,BRA
+subst,10:00,1787110241000,22,22,SUBST,Substitution in,27.0,200399.0,380,288000,Q3,135063,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q3,,,,1200,BRA
+periods,10:00,1787110296000,22,22,STARTP,Start of period,,,381,289000,Q3,135063,,,,,,,,,,,Q3,,,,1200,
+shot,9:44,1787110312000,22,24,P2,"2PtsFG under the basket, layup made",27.0,200399.0,383,291000,Q3,135063,True,2.0,153.0,36.0,,,27.0,Aline Moura,Brazil,12.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1216,BRA
+unknwown,9:44,1787110312000,22,24,ASS,made the assist,27.0,302154.0,384,291001,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1216,BRA
+shot,9:22,1787110334000,22,24,P2,2pt turnaround jump shot missed,113.0,328255.0,385,292000,Q3,135063,False,2.0,131.0,87.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,In The Paint (Non-RA),4.8,Less Than 8 ft.,1238,NZL
+unknwown,9:19,1787110337000,22,24,REB,defensive rebound,27.0,215026.0,386,292002,Q3,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1241,BRA
+shot,9:03,1787110353000,22,27,P3,3pt jump shot made,27.0,302154.0,387,293000,Q3,135063,True,3.0,16.0,99.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,Above the Break 3,13.7,8-16 ft.,1257,BRA
+shot,8:45,1787110372000,22,27,P3,3pt jump shot missed,113.0,317318.0,388,294000,Q3,135063,False,3.0,90.0,159.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Above the Break 3,12.9,8-16 ft.,1275,NZL
+unknwown,8:40,1787110376000,22,27,REB,offensive rebound,113.0,206251.0,389,294002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1280,NZL
+shot,8:36,1787110380000,24,27,P2,"2PtsFG under the basket, turnaround jump shot made",113.0,317318.0,390,295000,Q3,135063,True,2.0,150.0,47.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1284,NZL
+unknwown,8:23,1787110398000,24,27,FOUL,Personal foul,113.0,239275.0,392,297000,Q3,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1297,NZL
+unknwown,8:23,1787110398000,24,27,RFOUL,foul drawn,27.0,392716.0,393,297002,Q3,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1297,BRA
+unknwown,8:12,1787110431000,24,27,FOUL,Personal foul; 3 free throws awarded,113.0,239275.0,396,300000,Q3,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1308,NZL
+unknwown,8:12,1787110431000,24,27,RFOUL,foul drawn,27.0,392716.0,397,300002,Q3,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1308,BRA
+shot,8:12,1787110461000,24,28,FT,1st of 3 free throws made,27.0,392716.0,398,301000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1308,BRA
+unknwown,8:12,1787110461000,24,28,ASS,made the assist,27.0,302154.0,399,301001,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1308,BRA
+shot,8:12,1787110473000,24,29,FT,2nd of 3 free throws made,27.0,392716.0,400,302000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1308,BRA
+shot,8:12,1787110484000,24,30,FT,3rd of 3 free throws made,27.0,392716.0,401,303000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,14.6,8-16 ft.,1308,BRA
+unknwown,8:02,1787110533000,24,30,TO,turnover; travelling,113.0,328255.0,404,306000,Q3,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1318,NZL
+shot,7:41,1787110560000,24,33,P3,3pt step back jump shot made,27.0,215026.0,406,308000,Q3,135063,True,3.0,187.0,161.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,Above the Break 3,13.0,8-16 ft.,1339,BRA
+shot,7:13,1787110587000,24,33,P2,layup missed,113.0,239275.0,407,309000,Q3,135063,False,2.0,162.0,41.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,Restricted Area,2.2,Less Than 8 ft.,1367,NZL
+unknwown,7:12,1787110591000,24,33,TREB,team offensive rebound,113.0,,409,309002,Q3,135063,,,,,,,,,,,Q3,,,,1368,
+subst,7:12,1787110596000,24,33,SUBST,Substitution out,113.0,328255.0,410,311000,Q3,135063,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1368,NZL
+subst,7:12,1787110596000,24,33,SUBST,Substitution in,113.0,296082.0,411,312000,Q3,135063,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1368,NZL
+shot,7:01,1787110613000,24,33,P2,"2PtsFG under the basket, layup missed",113.0,206251.0,413,314000,Q3,135063,False,2.0,122.0,32.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1379,NZL
+unknwown,6:58,1787110616000,24,33,REB,defensive rebound,27.0,342721.0,414,314002,Q3,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1382,BRA
+shot,6:51,1787110623000,24,33,P2,"2PtsFG under the basket, turnaround jump shot missed",27.0,342721.0,415,315000,Q3,135063,False,2.0,132.0,46.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1389,BRA
+unknwown,6:48,1787110625000,24,33,REB,defensive rebound,113.0,206251.0,416,315002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1392,NZL
+shot,6:25,1787110650000,24,33,P3,3pt jump shot missed,113.0,296082.0,418,317000,Q3,135063,False,3.0,207.0,162.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Above the Break 3,13.9,8-16 ft.,1415,NZL
+unknwown,6:24,1787110653000,24,33,TTO,team turnover; shot clock violation,113.0,,419,318000,Q3,135063,,,,,,,,,,,Q3,,,,1416,
+subst,6:24,1787110667000,24,33,SUBST,Substitution out,113.0,239275.0,420,319000,Q3,135063,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1416,NZL
+subst,6:24,1787110667000,24,33,SUBST,Substitution in,113.0,328112.0,421,320000,Q3,135063,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1416,NZL
+unknwown,6:13,1787110692000,24,33,FOUL,Offensive foul,27.0,215026.0,424,323000,Q3,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1427,BRA
+unknwown,6:13,1787110692000,24,33,TO,turnover,27.0,215026.0,425,323001,Q3,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1427,BRA
+unknwown,6:13,1787110692000,24,33,RFOUL,foul drawn,113.0,206251.0,426,323002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1427,NZL
+subst,6:13,1787110723000,24,33,SUBST,Substitution out,113.0,206251.0,427,324000,Q3,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1427,NZL
+subst,6:13,1787110723000,24,33,SUBST,Substitution in,113.0,219363.0,428,325000,Q3,135063,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1427,NZL
+subst,6:13,1787110723000,24,33,SUBST,Substitution out,27.0,215026.0,429,326000,Q3,135063,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1427,BRA
+subst,6:13,1787110723000,24,33,SUBST,Substitution in,27.0,178705.0,430,327000,Q3,135063,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1427,BRA
+unknwown,6:03,1787110766000,24,33,FOUL,Personal foul,27.0,178705.0,433,330000,Q3,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1437,BRA
+unknwown,6:03,1787110766000,24,33,RFOUL,foul drawn,113.0,219363.0,434,330002,Q3,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1437,NZL
+unknwown,6:01,1787110785000,24,33,TO,turnover; bad pass,113.0,317318.0,437,333000,Q3,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1439,NZL
+shot,5:49,1787110810000,24,33,P2,"2PtsFG under the basket, points after turnover, eurostep missed",27.0,302154.0,439,335000,Q3,135063,False,2.0,120.0,24.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,Restricted Area,2.6,Less Than 8 ft.,1451,BRA
+unknwown,5:44,1787110814000,24,33,REB,offensive rebound,27.0,178705.0,440,335002,Q3,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1456,BRA
+shot,5:37,1787110822000,24,35,P2,layup made,27.0,200399.0,441,336000,Q3,135063,True,2.0,179.0,28.0,,,27.0,Aline Moura,Brazil,12.0,Q3,In The Paint (Non-RA),4.1,Less Than 8 ft.,1463,BRA
+unknwown,5:37,1787110822000,24,35,ASS,made the assist,27.0,342721.0,443,336001,Q3,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1463,BRA
+timeout,5:36,1787110841000,24,35,TIMO,Timeout,113.0,,444,338000,Q3,135063,,,,,,,,,,,Q3,,,,1464,
+subst,5:36,1787110922000,24,35,SUBST,Substitution out,113.0,317318.0,445,339000,Q3,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1464,NZL
+subst,5:36,1787110922000,24,35,SUBST,Substitution in,113.0,261208.0,446,340000,Q3,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1464,NZL
+unknwown,5:28,1787110933000,24,35,TTO,team turnover; 8 seconds violation,113.0,,449,343000,Q3,135063,,,,,,,,,,,Q3,,,,1472,
+unknwown,5:14,1787110970000,24,35,TTO,team turnover; shot clock violation,27.0,,452,346000,Q3,135063,,,,,,,,,,,Q3,,,,1486,
+shot,4:58,1787111000000,24,35,P3,3pt jump shot missed,113.0,261208.0,454,348000,Q3,135063,False,3.0,272.0,23.0,,,113.0,Florence Dallow,New Zealand,12.0,Q3,Left Corner 3,13.3,8-16 ft.,1502,NZL
+unknwown,4:55,1787111002000,24,35,REB,offensive rebound,113.0,296082.0,455,348002,Q3,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1505,NZL
+shot,4:48,1787111010000,26,35,P2,2pt fadeaway jump shot made,113.0,258137.0,456,349000,Q3,135063,True,2.0,139.0,73.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,In The Paint (Non-RA),3.3,Less Than 8 ft.,1512,NZL
+shot,4:31,1787111027000,26,35,P2,2pt pullup jump shot missed,27.0,392716.0,457,350000,Q3,135063,False,2.0,77.0,52.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Mid-Range,6.4,Less Than 8 ft.,1529,BRA
+unknwown,4:27,1787111030000,26,35,REB,defensive rebound,113.0,219363.0,458,350002,Q3,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1533,NZL
+shot,4:17,1787111041000,26,35,P3,3pt jump shot from center missed,113.0,258137.0,459,351000,Q3,135063,False,3.0,185.0,159.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Above the Break 3,12.7,8-16 ft.,1543,NZL
+unknwown,4:14,1787111043000,26,35,REB,defensive rebound,27.0,200399.0,460,351002,Q3,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1546,BRA
+unknwown,4:07,1787111056000,26,35,FOUL,Personal foul,113.0,261208.0,462,353000,Q3,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1553,NZL
+unknwown,4:07,1787111056000,26,35,RFOUL,foul drawn,27.0,200399.0,463,353002,Q3,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1553,BRA
+subst,4:07,1787111068000,26,35,SUBST,Substitution out,113.0,258137.0,464,354000,Q3,135063,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1553,NZL
+subst,4:07,1787111068000,26,35,SUBST,Substitution in,113.0,317318.0,465,355000,Q3,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1553,NZL
+shot,4:03,1787111081000,26,35,P3,3pt jump shot missed,27.0,200399.0,467,357000,Q3,135063,False,3.0,14.0,73.0,,,27.0,Aline Moura,Brazil,12.0,Q3,Right Corner 3,13.0,8-16 ft.,1557,BRA
+unknwown,4:02,1787111084000,26,35,TREB,team offensive rebound,27.0,,469,357002,Q3,135063,,,,,,,,,,,Q3,,,,1558,
+unknwown,3:56,1787111107000,26,35,FOUL,Offensive foul,27.0,302154.0,472,361000,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1564,BRA
+unknwown,3:56,1787111107000,26,35,TO,turnover,27.0,302154.0,473,361001,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1564,BRA
+unknwown,3:56,1787111107000,26,35,RFOUL,foul drawn,113.0,296082.0,474,361002,Q3,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1564,NZL
+subst,3:56,1787111116000,26,35,SUBST,Substitution out,113.0,296082.0,475,362000,Q3,135063,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1564,NZL
+subst,3:56,1787111116000,26,35,SUBST,Substitution in,113.0,328255.0,476,363000,Q3,135063,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1564,NZL
+shot,3:37,1787111145000,26,35,P3,3pt jump shot missed,113.0,261208.0,478,365000,Q3,135063,False,3.0,166.0,164.0,,,113.0,Florence Dallow,New Zealand,12.0,Q3,Above the Break 3,12.7,8-16 ft.,1583,NZL
+unknwown,3:35,1787111162000,26,35,TREB,team defensive rebound,27.0,,480,365002,Q3,135063,,,,,,,,,,,Q3,,,,1585,
+unknwown,3:35,1787111167000,26,35,FOUL,Personal foul,113.0,219363.0,482,367000,Q3,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1585,NZL
+unknwown,3:35,1787111167000,26,35,RFOUL,foul drawn,27.0,342721.0,483,367002,Q3,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1585,BRA
+subst,3:35,1787111176000,26,35,SUBST,Substitution out,113.0,219363.0,484,368000,Q3,135063,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1585,NZL
+subst,3:35,1787111176000,26,35,SUBST,Substitution in,113.0,206251.0,485,369000,Q3,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1585,NZL
+shot,3:27,1787111190000,26,35,P3,3pt jump shot missed,27.0,392716.0,487,371000,Q3,135063,False,3.0,11.0,22.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Right Corner 3,13.0,8-16 ft.,1593,BRA
+unknwown,3:24,1787111193000,26,35,REB,offensive rebound,27.0,178705.0,488,371002,Q3,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1596,BRA
+shot,3:14,1787111205000,26,37,P2,2pt pullup jump shot made,27.0,302154.0,489,372000,Q3,135063,True,2.0,147.0,111.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,Mid-Range,7.1,Less Than 8 ft.,1606,BRA
+shot,2:58,1787111220000,26,37,P2,"2PtsFG inside center, jump shot missed",113.0,206251.0,490,373000,Q3,135063,False,2.0,99.0,119.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Mid-Range,8.9,8-16 ft.,1622,NZL
+unknwown,2:55,1787111222000,26,37,REB,defensive rebound,27.0,302154.0,491,373002,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1625,BRA
+shot,2:50,1787111228000,26,40,P3,3pt step back jump shot made,27.0,392716.0,492,374000,Q3,135063,True,3.0,245.0,115.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,12.9,8-16 ft.,1630,BRA
+unknwown,2:50,1787111228000,26,40,ASS,made the assist,27.0,302154.0,494,374001,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1630,BRA
+timeout,2:47,1787111241000,26,40,TIMO,Timeout,113.0,,495,376000,Q3,135063,,,,,,,,,,,Q3,,,,1633,
+subst,2:47,1787111327000,26,40,SUBST,Substitution out,113.0,328112.0,496,377000,Q3,135063,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1633,NZL
+subst,2:47,1787111327000,26,40,SUBST,Substitution in,113.0,239275.0,497,378000,Q3,135063,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1633,NZL
+shot,2:27,1787111357000,26,40,P3,3pt jump shot missed,113.0,261208.0,499,380000,Q3,135063,False,3.0,16.0,96.0,,,113.0,Florence Dallow,New Zealand,12.0,Q3,Above the Break 3,13.6,8-16 ft.,1653,NZL
+unknwown,2:24,1787111360000,26,40,TREB,team defensive rebound,27.0,,501,380002,Q3,135063,,,,,,,,,,,Q3,,,,1656,
+subst,2:24,1787111385000,26,40,SUBST,Substitution out,113.0,261208.0,502,382000,Q3,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1656,NZL
+subst,2:24,1787111385000,26,40,SUBST,Substitution in,113.0,258137.0,503,383000,Q3,135063,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1656,NZL
+shot,2:03,1787111413000,26,40,P3,3pt step back jump shot missed,27.0,392716.0,505,385000,Q3,135063,False,3.0,209.0,152.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,13.2,8-16 ft.,1677,BRA
+unknwown,1:59,1787111423000,26,40,REB,defensive rebound,113.0,206251.0,507,385002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1681,NZL
+unknwown,1:59,1787111424000,26,40,FOUL,Personal foul,27.0,200399.0,508,387000,Q3,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1681,BRA
+unknwown,1:59,1787111424000,26,40,RFOUL,foul drawn,113.0,206251.0,509,387002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1681,NZL
+unknwown,1:44,1787111459000,26,40,FOUL,Personal foul; 2 free throws awarded,27.0,178705.0,512,390000,Q3,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1696,BRA
+unknwown,1:44,1787111459000,26,40,RFOUL,foul drawn,113.0,328255.0,513,390002,Q3,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1696,NZL
+subst,1:44,1787111481000,26,40,SUBST,Substitution out,27.0,200399.0,514,391000,Q3,135063,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q3,,,,1696,BRA
+subst,1:44,1787111481000,26,40,SUBST,Substitution in,27.0,203242.0,515,392000,Q3,135063,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1696,BRA
+shot,1:44,1787111487000,27,40,FT,1st of 2 free throws made,113.0,328255.0,516,393000,Q3,135063,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,14.6,8-16 ft.,1696,NZL
+shot,1:44,1787111499000,28,40,FT,2nd of 2 free throws made,113.0,328255.0,517,394000,Q3,135063,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,14.6,8-16 ft.,1696,NZL
+unknwown,1:38,1787111523000,28,40,FOUL,Offensive foul,27.0,302154.0,521,397000,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1702,BRA
+unknwown,1:38,1787111523000,28,40,TO,turnover,27.0,302154.0,522,397001,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1702,BRA
+unknwown,1:38,1787111523000,28,40,RFOUL,foul drawn,113.0,328255.0,523,397002,Q3,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1702,NZL
+shot,1:25,1787111542000,30,40,P2,"2PtsFG under the basket, points after turnover, driving layup made",113.0,206251.0,525,399000,Q3,135063,True,2.0,124.0,26.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,2.1,Less Than 8 ft.,1715,NZL
+unknwown,1:15,1787111554000,30,40,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,527,401000,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1725,NZL
+unknwown,1:15,1787111554000,30,40,RFOUL,foul drawn,27.0,302154.0,528,401002,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1725,BRA
+subst,1:15,1787111565000,30,40,SUBST,Substitution out,27.0,178705.0,529,402000,Q3,135063,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1725,BRA
+subst,1:15,1787111565000,30,40,SUBST,Substitution in,27.0,215026.0,530,403000,Q3,135063,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1725,BRA
+shot,1:15,1787111582000,30,41,FT,1st of 2 free throws made,27.0,302154.0,531,404000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1725,BRA
+shot,1:15,1787111591000,30,41,FT,2nd of 2 free throws missed,27.0,302154.0,532,405000,Q3,135063,False,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1725,BRA
+unknwown,1:15,1787111593000,30,41,REB,offensive rebound,27.0,342721.0,534,405002,Q3,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1725,BRA
+shot,1:02,1787111606000,30,41,P2,2pt floating jump shot missed,27.0,302154.0,535,407000,Q3,135063,False,2.0,104.0,55.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,In The Paint (Non-RA),3.9,Less Than 8 ft.,1738,BRA
+unknwown,0:58,1787111609000,30,41,REB,defensive rebound,113.0,206251.0,536,407002,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1742,NZL
+shot,0:54,1787111615000,33,41,P3,3pt jump shot made,113.0,258137.0,537,408000,Q3,135063,True,3.0,59.0,148.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Above the Break 3,13.5,8-16 ft.,1746,NZL
+unknwown,0:54,1787111615000,33,41,ASS,made the assist,113.0,328255.0,538,408001,Q3,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1746,NZL
+unknwown,0:28,1787111640000,33,41,TO,turnover; bad pass,27.0,392716.0,539,409000,Q3,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1772,BRA
+unknwown,0:28,1787111640000,33,41,ST,steal,113.0,239275.0,540,409001,Q3,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1772,NZL
+shot,0:22,1787111647000,36,41,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot made",113.0,328255.0,541,410000,Q3,135063,True,3.0,49.0,139.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,Above the Break 3,13.4,8-16 ft.,1778,NZL
+unknwown,0:22,1787111647000,36,41,ASS,made the assist,113.0,258137.0,542,410001,Q3,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1778,NZL
+unknwown,0:06,1787111668000,36,41,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,544,412000,Q3,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1794,NZL
+unknwown,0:06,1787111668000,36,41,RFOUL,foul drawn,27.0,302154.0,545,412002,Q3,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1794,BRA
+subst,0:06,1787111687000,36,41,SUBST,Substitution out,113.0,206251.0,546,413000,Q3,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1794,NZL
+subst,0:06,1787111687000,36,41,SUBST,Substitution in,113.0,261208.0,547,414000,Q3,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1794,NZL
+subst,0:06,1787111702000,36,41,SUBST,Substitution out,113.0,317318.0,548,415000,Q3,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1794,NZL
+subst,0:06,1787111702000,36,41,SUBST,Substitution in,113.0,377527.0,549,416000,Q3,135063,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1794,NZL
+shot,0:06,1787111715000,36,42,FT,1st of 2 free throws made,27.0,302154.0,550,417000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1794,BRA
+shot,0:06,1787111725000,36,43,FT,2nd of 2 free throws made,27.0,302154.0,551,418000,Q3,135063,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1794,BRA
+subst,0:06,1787111732000,36,43,SUBST,Substitution out,27.0,302154.0,552,419000,Q3,135063,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1794,BRA
+subst,0:06,1787111732000,36,43,SUBST,Substitution out,27.0,342721.0,553,420000,Q3,135063,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1794,BRA
+subst,0:06,1787111732000,36,43,SUBST,Substitution in,27.0,178708.0,554,421000,Q3,135063,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1794,BRA
+subst,0:06,1787111732000,36,43,SUBST,Substitution in,27.0,178705.0,555,422000,Q3,135063,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1794,BRA
+periods,0:00,1787111826000,36,43,ENDP,End of period,,,558,425000,Q3,135063,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787111878000,36,43,SUBST,Substitution out,113.0,377527.0,559,426000,Q4,135063,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q4,,,,1800,NZL
+subst,10:00,1787111878000,36,43,SUBST,Substitution out,113.0,261208.0,560,427000,Q4,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,1800,NZL
+subst,10:00,1787111878000,36,43,SUBST,Substitution in,113.0,206251.0,561,428000,Q4,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1800,NZL
+subst,10:00,1787111878000,36,43,SUBST,Substitution in,113.0,317318.0,562,429000,Q4,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1800,NZL
+subst,10:00,1787111878000,36,43,SUBST,Substitution out,27.0,178705.0,563,430000,Q4,135063,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,1800,BRA
+subst,10:00,1787111878000,36,43,SUBST,Substitution in,27.0,200399.0,564,431000,Q4,135063,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q4,,,,1800,BRA
+periods,10:00,1787111885000,36,43,STARTP,Start of period,,,565,432000,Q4,135063,,,,,,,,,,,Q4,,,,1800,
+shot,9:49,1787111898000,38,43,P2,2pt jump shot made,113.0,206251.0,567,434000,Q4,135063,True,2.0,132.0,61.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,In The Paint (Non-RA),2.2,Less Than 8 ft.,1811,NZL
+unknwown,9:49,1787111898000,38,43,ASS,made the assist,113.0,239275.0,568,434001,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1811,NZL
+unknwown,9:30,1787111922000,38,43,FOUL,Personal foul,113.0,239275.0,570,436000,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1830,NZL
+unknwown,9:30,1787111922000,38,43,RFOUL,foul drawn,27.0,200399.0,571,436002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,1830,BRA
+unknwown,9:30,1787111940000,38,43,TO,turnover; 5 seconds violation,27.0,,572,437000,Q4,135063,,,,,,,,,,,Q4,,,,1830,
+subst,9:28,1787111960000,38,43,SUBST,Substitution out,113.0,328255.0,574,439000,Q4,135063,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,1832,NZL
+subst,9:28,1787111960000,38,43,SUBST,Substitution in,113.0,296082.0,575,440000,Q4,135063,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1832,NZL
+unknwown,9:16,1787111972000,38,43,TO,turnover; bad pass,113.0,258137.0,577,442000,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,1844,NZL
+shot,9:01,1787111995000,38,43,P3,3pt step back jump shot missed,27.0,392716.0,579,444000,Q4,135063,False,3.0,34.0,117.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Above the Break 3,13.1,8-16 ft.,1859,BRA
+unknwown,8:57,1787111998000,38,43,REB,offensive rebound,27.0,200399.0,580,444002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,1863,BRA
+shot,8:49,1787112006000,38,45,P2,2pt jump shot inside the paint made,27.0,200399.0,581,445000,Q4,135063,True,2.0,170.0,30.0,,,27.0,Aline Moura,Brazil,12.0,Q4,In The Paint (Non-RA),3.2,Less Than 8 ft.,1871,BRA
+unknwown,8:49,1787112006000,38,45,ASS,made the assist,27.0,392716.0,582,445001,Q4,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1871,BRA
+unknwown,8:44,1787112012000,38,45,TO,turnover; bad pass,113.0,296082.0,583,446000,Q4,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1876,NZL
+unknwown,8:44,1787112012000,38,45,ST,steal,27.0,200399.0,584,446001,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,1876,BRA
+shot,8:38,1787112017000,38,45,P2,"2PtsFG under the basket, points after turnover, driving layup missed",27.0,392716.0,585,447000,Q4,135063,False,2.0,155.0,27.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Restricted Area,2.0,Less Than 8 ft.,1882,BRA
+unknwown,8:35,1787112020000,38,45,REB,defensive rebound,113.0,317318.0,586,447002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1885,NZL
+unknwown,8:21,1787112047000,38,45,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,588,449000,Q4,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1899,BRA
+unknwown,8:21,1787112047000,38,45,RFOUL,foul drawn,113.0,317318.0,589,449002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1899,NZL
+subst,8:21,1787112058000,38,45,SUBST,Substitution out,113.0,239275.0,590,450000,Q4,135063,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1899,NZL
+subst,8:21,1787112058000,38,45,SUBST,Substitution in,113.0,328112.0,591,451000,Q4,135063,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,1899,NZL
+subst,8:21,1787112058000,38,45,SUBST,Substitution out,27.0,392716.0,592,452000,Q4,135063,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1899,BRA
+subst,8:21,1787112058000,38,45,SUBST,Substitution in,27.0,393736.0,593,453000,Q4,135063,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,1899,BRA
+shot,8:21,1787112079000,39,45,FT,1st of 2 free throws made,113.0,317318.0,594,454000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,1899,NZL
+shot,8:21,1787112088000,40,45,FT,2nd of 2 free throws made,113.0,317318.0,596,455000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,1899,NZL
+subst,8:21,1787112098000,40,45,SUBST,Substitution out,27.0,203242.0,597,456000,Q4,135063,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1899,BRA
+subst,8:21,1787112098000,40,45,SUBST,Substitution in,27.0,342721.0,598,457000,Q4,135063,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1899,BRA
+shot,8:02,1787112124000,40,47,P2,"2PtsFG under the basket, driving layup made",27.0,393736.0,600,459000,Q4,135063,True,2.0,153.0,29.0,,,27.0,Maisa Marçal,Brazil,32.0,Q4,Restricted Area,1.7,Less Than 8 ft.,1918,BRA
+unknwown,7:46,1787112141000,40,47,TO,turnover; bad pass,113.0,206251.0,601,460000,Q4,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1934,NZL
+unknwown,7:46,1787112141000,40,47,ST,steal,27.0,342721.0,602,460001,Q4,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1934,BRA
+shot,7:34,1787112153000,40,47,P3,3pt jump shot missed,27.0,215026.0,603,461000,Q4,135063,False,3.0,83.0,156.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Above the Break 3,12.9,8-16 ft.,1946,BRA
+unknwown,7:30,1787112156000,40,47,REB,defensive rebound,113.0,258137.0,604,461002,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,1950,NZL
+unknwown,7:21,1787112169000,40,47,FOUL,Personal foul,27.0,342721.0,606,463000,Q4,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1959,BRA
+unknwown,7:21,1787112169000,40,47,RFOUL,foul drawn,113.0,317318.0,607,463002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1959,NZL
+subst,7:21,1787112183000,40,47,SUBST,Substitution out,113.0,317318.0,608,464000,Q4,135063,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1959,NZL
+subst,7:21,1787112183000,40,47,SUBST,Substitution in,113.0,219363.0,609,465000,Q4,135063,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,1959,NZL
+shot,7:19,1787112199000,40,47,P2,"2PtsFG under the basket, layup missed",113.0,258137.0,611,467000,Q4,135063,False,2.0,121.0,28.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,2.2,Less Than 8 ft.,1961,NZL
+unknwown,7:17,1787112202000,40,47,TREB,team offensive rebound,113.0,,613,467002,Q4,135063,,,,,,,,,,,Q4,,,,1963,
+unknwown,7:07,1787112240000,40,47,FOUL,Personal foul; 2 free throws awarded,27.0,178708.0,616,471000,Q4,135063,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q4,,,,1973,BRA
+unknwown,7:07,1787112240000,40,47,RFOUL,foul drawn,113.0,296082.0,617,471002,Q4,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1973,NZL
+shot,7:07,1787112268000,41,47,FT,1st of 2 free throws made,113.0,296082.0,618,472000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,14.6,8-16 ft.,1973,NZL
+shot,7:07,1787112280000,42,47,FT,2nd of 2 free throws made,113.0,296082.0,619,473000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,14.6,8-16 ft.,1973,NZL
+unknwown,6:55,1787112298000,42,47,TO,turnover; bad pass,27.0,178708.0,622,476000,Q4,135063,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q4,,,,1985,BRA
+unknwown,6:44,1787112316000,42,47,TO,turnover; ball handling,113.0,296082.0,624,478000,Q4,135063,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1996,NZL
+unknwown,6:44,1787112316000,42,47,ST,steal,27.0,178708.0,625,478001,Q4,135063,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q4,,,,1996,BRA
+unknwown,6:38,1787112328000,42,47,FOUL,Personal foul; 2 free throws awarded,113.0,258137.0,627,480000,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2002,NZL
+unknwown,6:38,1787112328000,42,47,RFOUL,foul drawn,27.0,215026.0,628,480002,Q4,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2002,BRA
+subst,6:38,1787112358000,42,47,SUBST,Substitution out,113.0,328112.0,629,481000,Q4,135063,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,2002,NZL
+subst,6:38,1787112358000,42,47,SUBST,Substitution out,113.0,296082.0,630,482000,Q4,135063,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2002,NZL
+subst,6:38,1787112358000,42,47,SUBST,Substitution in,113.0,328255.0,631,483000,Q4,135063,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2002,NZL
+subst,6:38,1787112358000,42,47,SUBST,Substitution in,113.0,261208.0,632,484000,Q4,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2002,NZL
+subst,6:38,1787112358000,42,47,SUBST,Substitution out,27.0,178708.0,633,485000,Q4,135063,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q4,,,,2002,BRA
+subst,6:38,1787112358000,42,47,SUBST,Substitution in,27.0,302154.0,634,486000,Q4,135063,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2002,BRA
+shot,6:38,1787112361000,42,48,FT,Free throw made 1 of 2,27.0,215026.0,635,487000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,14.6,8-16 ft.,2002,BRA
+unknwown,6:38,1787112361000,42,48,ASS,made the assist,27.0,200399.0,636,487001,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2002,BRA
+shot,6:38,1787112372000,42,49,FT,Free throw made 2 of 2,27.0,215026.0,637,488000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,14.6,8-16 ft.,2002,BRA
+shot,6:22,1787112392000,42,49,P3,3pt jump shot missed,113.0,219363.0,639,490000,Q4,135063,False,3.0,218.0,143.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,Above the Break 3,12.9,8-16 ft.,2018,NZL
+unknwown,6:19,1787112395000,42,49,REB,offensive rebound,113.0,261208.0,640,490002,Q4,135063,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2021,NZL
+shot,6:08,1787112406000,42,49,P3,3pt jump shot missed,113.0,206251.0,641,491000,Q4,135063,False,3.0,188.0,157.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Above the Break 3,12.6,8-16 ft.,2032,NZL
+unknwown,6:04,1787112409000,42,49,REB,defensive rebound,27.0,200399.0,642,491002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2036,BRA
+unknwown,6:02,1787112417000,42,49,FOUL,Personal foul,113.0,258137.0,644,493000,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2038,NZL
+unknwown,6:02,1787112417000,42,49,RFOUL,foul drawn,27.0,393736.0,645,493002,Q4,135063,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2038,BRA
+subst,6:02,1787112433000,42,49,SUBST,Substitution out,113.0,258137.0,646,494000,Q4,135063,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2038,NZL
+subst,6:02,1787112433000,42,49,SUBST,Substitution out,113.0,206251.0,647,495000,Q4,135063,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2038,NZL
+subst,6:02,1787112433000,42,49,SUBST,Substitution in,113.0,239275.0,648,496000,Q4,135063,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2038,NZL
+subst,6:02,1787112433000,42,49,SUBST,Substitution in,113.0,317318.0,649,497000,Q4,135063,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2038,NZL
+shot,5:51,1787112454000,42,49,P2,"2PtsFG under the basket, turnaround jump shot missed",27.0,342721.0,651,499000,Q4,135063,False,2.0,124.0,45.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2049,BRA
+unknwown,5:48,1787112457000,42,49,REB,defensive rebound,113.0,239275.0,652,499002,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2052,NZL
+unknwown,5:41,1787112478000,42,49,TO,turnover; ball handling,113.0,328255.0,654,501000,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2059,NZL
+unknwown,5:31,1787112503000,42,49,FOUL,Offensive foul,27.0,342721.0,657,504000,Q4,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2069,BRA
+unknwown,5:31,1787112503000,42,49,TO,turnover,27.0,342721.0,658,504001,Q4,135063,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2069,BRA
+unknwown,5:31,1787112503000,42,49,RFOUL,foul drawn,113.0,219363.0,659,504002,Q4,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2069,NZL
+subst,5:31,1787112527000,42,49,SUBST,Substitution out,27.0,342721.0,661,506000,Q4,135063,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2069,BRA
+subst,5:31,1787112527000,42,49,SUBST,Substitution in,27.0,178705.0,662,507000,Q4,135063,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2069,BRA
+shot,5:15,1787112541000,42,49,P2,2pt fadeaway jump shot missed,113.0,317318.0,663,508000,Q4,135063,False,2.0,156.0,70.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,In The Paint (Non-RA),3.4,Less Than 8 ft.,2085,NZL
+unknwown,5:12,1787112546000,42,49,TREB,team offensive rebound,113.0,,665,508002,Q4,135063,,,,,,,,,,,Q4,,,,2088,
+unknwown,5:11,1787112569000,42,49,FOUL,Personal foul; 2 free throws awarded,27.0,393736.0,668,512000,Q4,135063,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2089,BRA
+unknwown,5:11,1787112569000,42,49,RFOUL,foul drawn,113.0,328255.0,669,512002,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2089,NZL
+shot,5:11,1787112591000,42,49,FT,1st of 2 free throws missed,113.0,328255.0,670,513000,Q4,135063,False,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,14.6,8-16 ft.,2089,NZL
+shot,5:11,1787112602000,43,49,FT,2nd of 2 free throws made,113.0,328255.0,671,514000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,14.6,8-16 ft.,2089,NZL
+shot,4:57,1787112618000,43,49,P3,3pt jump shot missed,27.0,215026.0,673,516000,Q4,135063,False,3.0,40.0,126.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Above the Break 3,13.2,8-16 ft.,2103,BRA
+unknwown,4:56,1787112625000,43,49,TREB,team offensive rebound,27.0,,675,516002,Q4,135063,,,,,,,,,,,Q4,,,,2104,
+unknwown,4:56,1787112630000,43,49,FOUL,Personal foul,113.0,219363.0,676,518000,Q4,135063,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2104,NZL
+unknwown,4:56,1787112630000,43,49,RFOUL,foul drawn,27.0,200399.0,677,518002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2104,BRA
+subst,4:56,1787112636000,43,49,SUBST,Substitution out,113.0,219363.0,678,519000,Q4,135063,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2104,NZL
+subst,4:56,1787112636000,43,49,SUBST,Substitution in,113.0,206251.0,679,520000,Q4,135063,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2104,NZL
+shot,4:48,1787112665000,43,49,P2,"2PtsFG under the basket, turnaround jump shot missed",27.0,200399.0,681,522000,Q4,135063,False,2.0,127.0,42.0,,,27.0,Aline Moura,Brazil,12.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2112,BRA
+unknwown,4:44,1787112669000,43,49,REB,defensive rebound,113.0,239275.0,682,522002,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2116,NZL
+shot,4:31,1787112682000,43,49,P2,2pt driving layup missed,113.0,206251.0,683,523000,Q4,135063,False,2.0,136.0,65.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,In The Paint (Non-RA),2.5,Less Than 8 ft.,2129,NZL
+unknwown,4:28,1787112684000,43,49,REB,defensive rebound,27.0,178705.0,684,523002,Q4,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2132,BRA
+shot,4:18,1787112694000,43,49,P2,2pt driving layup missed,27.0,215026.0,685,524000,Q4,135063,False,2.0,136.0,64.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,In The Paint (Non-RA),2.4,Less Than 8 ft.,2142,BRA
+unknwown,4:17,1787112697000,43,49,TREB,team offensive rebound,27.0,,687,524002,Q4,135063,,,,,,,,,,,Q4,,,,2143,
+subst,4:17,1787112703000,43,49,SUBST,Substitution out,27.0,393736.0,688,526000,Q4,135063,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2143,BRA
+subst,4:17,1787112703000,43,49,SUBST,Substitution in,27.0,392716.0,689,527000,Q4,135063,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2143,BRA
+timeout,4:17,1787112711000,43,49,TIMO,Timeout,27.0,,690,528000,Q4,135063,,,,,,,,,,,Q4,,,,2143,
+subst,4:17,1787112790000,43,49,SUBST,Substitution out,113.0,261208.0,691,529000,Q4,135063,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2143,NZL
+subst,4:17,1787112790000,43,49,SUBST,Substitution in,113.0,258137.0,692,530000,Q4,135063,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2143,NZL
+unknwown,4:15,1787112807000,43,49,TO,turnover; bad pass,27.0,392716.0,694,532000,Q4,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2145,BRA
+unknwown,4:15,1787112807000,43,49,ST,steal,113.0,239275.0,695,532001,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2145,NZL
+shot,4:03,1787112821000,46,49,P3,3pt jump shot made,113.0,258137.0,696,533000,Q4,135063,True,3.0,22.0,104.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Above the Break 3,13.4,8-16 ft.,2157,NZL
+unknwown,4:03,1787112821000,46,49,ASS,made the assist,113.0,317318.0,697,533001,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2157,NZL
+unknwown,3:50,1787112842000,46,49,FOUL,Personal foul,113.0,328255.0,700,535000,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2170,NZL
+unknwown,3:50,1787112842000,46,49,RFOUL,foul drawn,27.0,392716.0,701,535002,Q4,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2170,BRA
+shot,3:50,1787112871000,46,50,FT,1st of 2 free throws made,27.0,392716.0,702,536000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2170,BRA
+shot,3:50,1787112872000,46,51,FT,2nd of 2 free throws made,27.0,392716.0,703,537000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2170,BRA
+unknwown,3:28,1787112899000,46,51,TO,turnover; bad pass,113.0,206251.0,705,539000,Q4,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2192,NZL
+unknwown,3:28,1787112899000,46,51,ST,steal,27.0,178705.0,706,539001,Q4,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2192,BRA
+shot,3:01,1787112925000,46,53,P2,layup made,27.0,178705.0,707,540000,Q4,135063,True,2.0,143.0,53.0,,,27.0,Iza Sangalli,Brazil,77.0,Q4,In The Paint (Non-RA),1.3,Less Than 8 ft.,2219,BRA
+unknwown,3:01,1787112925000,46,53,ASS,made the assist,27.0,215026.0,708,540001,Q4,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2219,BRA
+shot,2:49,1787112937000,46,53,P3,3pt jump shot missed,113.0,328255.0,709,541000,Q4,135063,False,3.0,63.0,146.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,Above the Break 3,13.1,8-16 ft.,2231,NZL
+unknwown,2:46,1787112939000,46,53,REB,defensive rebound,27.0,392716.0,710,541002,Q4,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2234,BRA
+shot,2:38,1787112948000,46,53,P3,3pt jump shot missed,27.0,392716.0,711,542000,Q4,135063,False,3.0,7.0,29.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Right Corner 3,13.3,8-16 ft.,2242,BRA
+unknwown,2:34,1787112951000,46,53,REB,defensive rebound,113.0,317318.0,712,542002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2246,NZL
+shot,2:23,1787112964000,48,53,P2,"2PtsFG under the basket, layup made",113.0,317318.0,714,543000,Q4,135063,True,2.0,143.0,48.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2257,NZL
+unknwown,2:23,1787112964000,48,53,ASS,made the assist,113.0,328255.0,715,543001,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2257,NZL
+unknwown,2:05,1787112985000,48,53,FOUL,Personal foul; 2 free throws awarded,113.0,328255.0,717,545000,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2275,NZL
+unknwown,2:05,1787112985000,48,53,RFOUL,foul drawn,27.0,302154.0,718,545002,Q4,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2275,BRA
+unknwown,2:05,1787113001000,48,53,FOUL,Technical foul,27.0,302154.0,719,546000,Q4,135063,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2275,BRA
+unknwown,2:05,1787113015000,48,53,FOUL,Technical foul,113.0,328255.0,720,547000,Q4,135063,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2275,NZL
+shot,2:05,1787113045000,48,53,FT,1st of 2 free throws missed,27.0,302154.0,721,548000,Q4,135063,False,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,14.6,8-16 ft.,2275,BRA
+shot,2:05,1787113066000,48,54,FT,2nd of 2 free throws made,27.0,302154.0,722,549000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,14.6,8-16 ft.,2275,BRA
+shot,1:37,1787113103000,48,54,P2,layup missed,113.0,258137.0,727,553000,Q4,135063,False,2.0,161.0,59.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,In The Paint (Non-RA),2.8,Less Than 8 ft.,2303,NZL
+unknwown,1:37,1787113103000,48,54,BS,blocked the shot,27.0,200399.0,728,553001,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2303,BRA
+unknwown,1:32,1787113108000,48,54,REB,defensive rebound,27.0,200399.0,729,553002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2308,BRA
+shot,1:27,1787113114000,48,54,P2,2pt step back jump shot missed,27.0,302154.0,731,555000,Q4,135063,False,2.0,79.0,45.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Mid-Range,6.1,Less Than 8 ft.,2313,BRA
+unknwown,1:26,1787113122000,48,54,REB,offensive rebound,27.0,178705.0,732,555002,Q4,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2314,BRA
+unknwown,1:26,1787113124000,48,54,FOUL,Personal foul; 2 free throws awarded,113.0,239275.0,733,556000,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2314,NZL
+unknwown,1:26,1787113124000,48,54,RFOUL,foul drawn,27.0,178705.0,734,556002,Q4,135063,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2314,BRA
+shot,1:26,1787113151000,48,55,FT,1st of 2 free throws made,27.0,178705.0,735,557000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,14.6,8-16 ft.,2314,BRA
+shot,1:26,1787113162000,48,55,FT,2nd of 2 free throws missed,27.0,178705.0,736,558000,Q4,135063,False,1.0,0.0,0.0,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,14.6,8-16 ft.,2314,BRA
+unknwown,1:26,1787113164000,48,55,REB,defensive rebound,113.0,317318.0,738,558002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2314,NZL
+unknwown,1:25,1787113171000,48,55,FOUL,Unsportsmanlike foul; 2 free throws awarded,113.0,317318.0,740,561000,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2315,NZL
+unknwown,1:25,1787113171000,48,55,TO,turnover,113.0,317318.0,741,561001,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2315,NZL
+unknwown,1:25,1787113171000,48,55,RFOUL,foul drawn,27.0,200399.0,742,561002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2315,BRA
+unknwown,1:25,1787113294000,48,55,VTR,Head coach's challenge unsuccessful,113.0,,743,562000,Q4,135063,,,,,,,,,,,Q4,,,,2315,
+shot,1:25,1787113378000,48,55,FT,1st of 2 free throws missed,27.0,200399.0,744,563000,Q4,135063,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2315,BRA
+shot,1:25,1787113391000,48,55,FT,2nd of 2 free throws missed,27.0,200399.0,745,564000,Q4,135063,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2315,BRA
+shot,1:12,1787113421000,48,55,P3,3pt jump shot missed,27.0,215026.0,747,566000,Q4,135063,False,3.0,7.0,14.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Right Corner 3,13.6,8-16 ft.,2328,BRA
+unknwown,1:09,1787113424000,48,55,REB,defensive rebound,113.0,239275.0,748,566002,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2331,NZL
+shot,0:53,1787113440000,48,55,P2,layup missed,113.0,239275.0,751,569000,Q4,135063,False,2.0,129.0,63.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,In The Paint (Non-RA),2.5,Less Than 8 ft.,2347,NZL
+unknwown,0:52,1787113450000,48,55,REB,defensive rebound,27.0,200399.0,753,569002,Q4,135063,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2348,BRA
+unknwown,0:52,1787113458000,48,55,JS,jump ball situation; throw-in,27.0,,754,571000,Q4,135063,,,,,,,,,,,Q4,,,,2348,
+shot,0:30,1787113502000,48,55,P2,"2PtsFG inside right wing, jump shot missed",27.0,215026.0,756,573000,Q4,135063,False,2.0,196.0,34.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Mid-Range,5.6,Less Than 8 ft.,2370,BRA
+unknwown,0:27,1787113505000,48,55,REB,defensive rebound,113.0,317318.0,757,573002,Q4,135063,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2373,NZL
+shot,0:24,1787113510000,48,55,P3,3pt jump shot from center missed,113.0,258137.0,758,574000,Q4,135063,False,3.0,166.0,165.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Above the Break 3,12.8,8-16 ft.,2376,NZL
+unknwown,0:19,1787113516000,48,55,TREB,team offensive rebound,113.0,,761,574002,Q4,135063,,,,,,,,,,,Q4,,,,2381,
+timeout,0:19,1787113520000,48,55,TIMO,Timeout,113.0,,763,578000,Q4,135063,,,,,,,,,,,Q4,,,,2381,
+shot,0:18,1787113623000,51,55,P3,3pt jump shot made,113.0,258137.0,766,581000,Q4,135063,True,3.0,273.0,23.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Left Corner 3,13.4,8-16 ft.,2382,NZL
+unknwown,0:18,1787113623000,51,55,ASS,made the assist,113.0,239275.0,767,581001,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2382,NZL
+unknwown,0:18,1787113634000,51,55,FOUL,Personal foul; 1 free throw awarded,27.0,392716.0,768,582000,Q4,135063,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2382,BRA
+unknwown,0:18,1787113634000,51,55,RFOUL,foul drawn,113.0,258137.0,769,582002,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2382,NZL
+shot,0:18,1787113653000,52,55,FT,free throw made,113.0,258137.0,770,583000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2382,NZL
+unknwown,0:10,1787113671000,52,55,TO,turnover; ball handling,27.0,215026.0,773,586000,Q4,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2390,BRA
+unknwown,0:10,1787113671000,52,55,ST,steal,113.0,239275.0,774,586001,Q4,135063,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2390,NZL
+unknwown,0:10,1787113690000,52,55,JS,jump ball situation; throw-in,113.0,,775,587000,Q4,135063,,,,,,,,,,,Q4,,,,2390,
+subst,0:10,1787113699000,52,55,SUBST,Substitution out,27.0,302154.0,776,588000,Q4,135063,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2390,BRA
+subst,0:10,1787113699000,52,55,SUBST,Substitution in,27.0,393736.0,777,589000,Q4,135063,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2390,BRA
+unknwown,0:09,1787113725000,52,55,FOUL,Personal foul; 2 free throws awarded,27.0,393736.0,780,592000,Q4,135063,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2391,BRA
+unknwown,0:09,1787113725000,52,55,RFOUL,foul drawn,113.0,258137.0,781,592002,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2391,NZL
+subst,0:09,1787113740000,52,55,SUBST,Substitution out,27.0,392716.0,782,593000,Q4,135063,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2391,BRA
+subst,0:09,1787113740000,52,55,SUBST,Substitution out,27.0,393736.0,783,594000,Q4,135063,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2391,BRA
+subst,0:09,1787113740000,52,55,SUBST,Substitution in,27.0,302154.0,784,595000,Q4,135063,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2391,BRA
+subst,0:09,1787113740000,52,55,SUBST,Substitution in,27.0,203242.0,785,596000,Q4,135063,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2391,BRA
+shot,0:09,1787113758000,53,55,FT,1st of 2 free throws made,113.0,258137.0,786,597000,Q4,135063,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2391,NZL
+shot,0:09,1787113779000,53,55,FT,2nd of 2 free throws missed,113.0,258137.0,787,598000,Q4,135063,False,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2391,NZL
+unknwown,0:06,1787113784000,53,55,REB,defensive rebound,27.0,203242.0,789,598002,Q4,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2394,BRA
+unknwown,0:06,1787113789000,53,55,FOUL,Personal foul; 2 free throws awarded,113.0,258137.0,791,601000,Q4,135063,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2394,NZL
+unknwown,0:06,1787113789000,53,55,RFOUL,foul drawn,27.0,203242.0,792,601002,Q4,135063,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2394,BRA
+subst,0:06,1787113851000,53,55,SUBST,Substitution out,113.0,258137.0,793,602000,Q4,135063,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2394,NZL
+subst,0:06,1787113851000,53,55,SUBST,Substitution in,113.0,261208.0,794,603000,Q4,135063,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2394,NZL
+subst,0:06,1787113851000,53,55,SUBST,Substitution out,27.0,302154.0,795,604000,Q4,135063,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2394,BRA
+subst,0:06,1787113851000,53,55,SUBST,Substitution in,27.0,393736.0,796,605000,Q4,135063,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2394,BRA
+shot,0:06,1787113866000,53,55,FT,1st of 2 free throws missed,27.0,203242.0,797,606000,Q4,135063,False,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,14.6,8-16 ft.,2394,BRA
+shot,0:06,1787113881000,53,56,FT,2nd of 2 free throws made,27.0,203242.0,798,607000,Q4,135063,True,1.0,0.0,0.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,14.6,8-16 ft.,2394,BRA
+unknwown,0:04,1787113886000,53,56,TO,turnover; bad pass,113.0,206251.0,800,609000,Q4,135063,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2396,NZL
+unknwown,0:04,1787113886000,53,56,ST,steal,27.0,215026.0,801,609001,Q4,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2396,BRA
+periods,0:00,1787113912000,53,56,ENDP,End of period,,,803,611000,Q4,135063,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787113997000,53,56,ENDG,End of game,,,804,612000,Q4,135063,,,,,,,,,,,Q4,,,,2400,
