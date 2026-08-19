@@ -2305,3 +2305,567 @@ shot,0:00,1787027002000,60,58,FT,Free throw missed 1 of 2,104.0,319031.0,741,555
 shot,0:00,1787027024000,61,58,FT,Free throw made 2 of 2,104.0,319031.0,742,556000,Q4,135068,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2400,MEX
 periods,0:00,1787027049000,61,58,ENDP,End of period,,,745,559000,Q4,135068,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787027144000,61,58,ENDG,End of game,,,746,560000,Q4,135068,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787095841000,0,0,STARTG,Start of game,,,1,1000,Q1,135064,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787095841000,0,0,STARTP,Start of period,,,2,2000,Q1,135064,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787095841000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135064,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787095842000,0,0,JB,jump ball won,14.0,302892.0,5,4001,Q1,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,1,ARG
+unknwown,9:59,1787095842000,0,0,JB,jump ball lost,9716.0,373877.0,6,4002,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,1,SSD
+shot,9:45,1787095858000,0,0,P2,"2PtsFG inside right, jump shot missed",14.0,302892.0,10,8000,Q1,135064,False,2.0,208.0,50.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Mid-Range,6.9,Less Than 8 ft.,15,ARG
+unknwown,9:45,1787095858000,0,0,BS,blocked the shot,9716.0,373877.0,11,8001,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,15,SSD
+unknwown,9:45,1787095864000,0,0,TREB,team offensive rebound,14.0,,12,8002,Q1,135064,,,,,,,,,,,Q1,,,,15,
+shot,9:42,1787095875000,0,2,P2,"2PtsFG inside center, jump shot made",14.0,328245.0,14,10000,Q1,135064,True,2.0,188.0,111.0,,,14.0,Milagros Morell,Argentina,15.0,Q1,Mid-Range,8.6,8-16 ft.,18,ARG
+unknwown,9:42,1787095875000,0,2,ASS,made the assist,14.0,163689.0,15,10001,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,18,ARG
+unknwown,9:25,1787095898000,0,2,FOUL,Personal foul,14.0,328245.0,19,14000,Q1,135064,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,35,ARG
+unknwown,9:25,1787095898000,0,2,RFOUL,foul drawn,9716.0,217250.0,20,14002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,35,SSD
+shot,9:21,1787095912000,2,2,P2,2pt jump shot made,9716.0,374577.0,22,16000,Q1,135064,True,2.0,155.0,103.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Mid-Range,6.5,Less Than 8 ft.,39,SSD
+shot,8:57,1787095935000,2,2,P3,3pt jump shot from center missed,14.0,214723.0,23,17000,Q1,135064,False,3.0,159.0,186.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Above the Break 3,14.7,8-16 ft.,63,ARG
+unknwown,8:53,1787095938000,2,2,REB,defensive rebound,9716.0,373877.0,24,17002,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,67,SSD
+unknwown,8:45,1787095954000,2,2,FOUL,Personal foul,14.0,328245.0,28,21000,Q1,135064,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,75,ARG
+unknwown,8:45,1787095954000,2,2,RFOUL,foul drawn,9716.0,217250.0,29,21002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,75,SSD
+unknwown,8:37,1787095978000,2,2,TO,turnover; ball handling,9716.0,217250.0,31,23000,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,83,SSD
+unknwown,8:37,1787095978000,2,2,ST,steal,14.0,328245.0,32,23001,Q1,135064,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,83,ARG
+shot,8:29,1787095986000,2,4,P2,"2PtsFG under the basket, points from fastbreak + after turnover, reverse lay-up made",14.0,302892.0,33,24000,Q1,135064,True,2.0,143.0,36.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Restricted Area,0.5,Less Than 8 ft.,91,ARG
+unknwown,8:29,1787095986000,2,4,ASS,made the assist,14.0,163689.0,34,24001,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,91,ARG
+unknwown,8:09,1787096013000,2,4,FOUL,Personal foul,14.0,328245.0,38,28000,Q1,135064,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,111,ARG
+unknwown,8:09,1787096013000,2,4,RFOUL,foul drawn,9716.0,217250.0,39,28002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,111,SSD
+unknwown,8:08,1787096034000,2,4,TO,turnover; bad pass,9716.0,300673.0,42,31000,Q1,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,112,SSD
+shot,7:55,1787096057000,2,4,P2,2pt driving layup missed,14.0,214723.0,44,33000,Q1,135064,False,2.0,120.0,61.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,125,ARG
+unknwown,7:51,1787096061000,2,4,REB,defensive rebound,9716.0,217250.0,45,33002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,129,SSD
+shot,7:46,1787096066000,2,4,P3,3pt jump shot from center missed,9716.0,300668.0,46,34000,Q1,135064,False,3.0,110.0,164.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Above the Break 3,12.8,8-16 ft.,134,SSD
+unknwown,7:43,1787096069000,2,4,REB,defensive rebound,14.0,302892.0,47,34002,Q1,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,137,ARG
+unknwown,7:37,1787096081000,2,4,FOUL,Personal foul,9716.0,300673.0,51,38000,Q1,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,143,SSD
+unknwown,7:37,1787096081000,2,4,RFOUL,foul drawn,14.0,163689.0,52,38002,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,143,ARG
+subst,7:37,1787096094000,2,4,SUBST,Substitution out,14.0,328245.0,53,39000,Q1,135064,,,,,,OUT,14.0,Milagros Morell,Argentina,15.0,Q1,,,,143,ARG
+subst,7:37,1787096094000,2,4,SUBST,Substitution in,14.0,301664.0,54,40000,Q1,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,143,ARG
+shot,7:26,1787096106000,2,4,P2,"2PtsFG inside center, jump shot missed",14.0,302892.0,56,42000,Q1,135064,False,2.0,143.0,112.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Mid-Range,7.2,Less Than 8 ft.,154,ARG
+unknwown,7:23,1787096109000,2,4,REB,defensive rebound,9716.0,373877.0,57,42002,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,157,SSD
+unknwown,7:16,1787096117000,2,4,TO,turnover; ball handling,9716.0,374577.0,58,43000,Q1,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,164,SSD
+unknwown,7:16,1787096117000,2,4,ST,steal,14.0,221602.0,59,43001,Q1,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,164,ARG
+unknwown,6:59,1787096140000,2,4,FOUL,Personal foul; 2 free throws awarded,9716.0,300668.0,63,47000,Q1,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,181,SSD
+unknwown,6:59,1787096140000,2,4,RFOUL,foul drawn,14.0,214723.0,64,47002,Q1,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,181,ARG
+subst,6:59,1787096149000,2,4,SUBST,Substitution out,9716.0,300673.0,65,48000,Q1,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,181,SSD
+subst,6:59,1787096149000,2,4,SUBST,Substitution in,9716.0,300672.0,66,49000,Q1,135064,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,181,SSD
+shot,6:59,1787096163000,2,4,FT,1st of 2 free throws missed,14.0,214723.0,67,50000,Q1,135064,False,1.0,0.0,0.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,14.6,8-16 ft.,181,ARG
+shot,6:59,1787096173000,2,4,FT,2nd of 2 free throws missed,14.0,214723.0,68,51000,Q1,135064,False,1.0,0.0,0.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,14.6,8-16 ft.,181,ARG
+unknwown,6:59,1787096173000,2,4,REB,defensive rebound,9716.0,217250.0,70,51002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,181,SSD
+unknwown,6:52,1787096181000,2,4,TO,turnover; ball handling,9716.0,300668.0,71,53000,Q1,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,188,SSD
+unknwown,6:52,1787096181000,2,4,ST,steal,14.0,214723.0,72,53001,Q1,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,188,ARG
+shot,6:45,1787096188000,2,4,P2,layup missed,14.0,214723.0,73,54000,Q1,135064,False,2.0,123.0,53.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,In The Paint (Non-RA),2.1,Less Than 8 ft.,195,ARG
+unknwown,6:45,1787096188000,2,4,BS,blocked the shot,9716.0,300668.0,75,54001,Q1,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,195,SSD
+unknwown,6:39,1787096201000,2,4,REB,offensive rebound,14.0,214723.0,76,54002,Q1,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,201,ARG
+shot,6:39,1787096207000,2,6,P2,layup made,14.0,214723.0,77,56000,Q1,135064,True,2.0,119.0,89.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,In The Paint (Non-RA),5.3,Less Than 8 ft.,201,ARG
+unknwown,6:39,1787096217000,2,6,FOUL,Personal foul,14.0,221602.0,79,58000,Q1,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,201,ARG
+unknwown,6:39,1787096217000,2,6,RFOUL,foul drawn,9716.0,374577.0,80,58002,Q1,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,201,SSD
+shot,6:24,1787096231000,2,6,P3,3pt jump shot missed,9716.0,300672.0,81,59000,Q1,135064,False,3.0,206.0,179.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Above the Break 3,15.4,8-16 ft.,216,SSD
+unknwown,6:19,1787096234000,2,6,REB,defensive rebound,14.0,301664.0,82,59002,Q1,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,221,ARG
+unknwown,6:17,1787096243000,2,6,TO,turnover; travelling,14.0,301664.0,84,61000,Q1,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,223,ARG
+subst,6:17,1787096252000,2,6,SUBST,Substitution out,14.0,221602.0,85,62000,Q1,135064,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q1,,,,223,ARG
+subst,6:17,1787096252000,2,6,SUBST,Substitution in,14.0,159332.0,86,63000,Q1,135064,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,223,ARG
+unknwown,6:12,1787096265000,2,6,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,89,66000,Q1,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,228,ARG
+unknwown,6:12,1787096265000,2,6,RFOUL,foul drawn,9716.0,217250.0,90,66002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,228,SSD
+shot,6:12,1787096286000,3,6,FT,Free throw made 1 of 2,9716.0,217250.0,91,67000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,228,SSD
+shot,6:12,1787096299000,4,6,FT,Free throw made 2 of 2,9716.0,217250.0,92,68000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,228,SSD
+shot,6:01,1787096313000,4,6,P2,"2PtsFG inside center, jump shot missed",14.0,302892.0,94,70000,Q1,135064,False,2.0,90.0,112.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Mid-Range,8.8,8-16 ft.,239,ARG
+unknwown,5:58,1787096316000,4,6,REB,defensive rebound,9716.0,217250.0,95,70002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,242,SSD
+shot,5:46,1787096328000,6,6,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,96,71000,Q1,135064,True,2.0,133.0,32.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.1,Less Than 8 ft.,254,SSD
+shot,5:27,1787096348000,6,8,P2,"2PtsFG inside center, jump shot made",14.0,163689.0,97,72000,Q1,135064,True,2.0,158.0,139.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Mid-Range,10.1,8-16 ft.,273,ARG
+unknwown,5:15,1787096368000,6,8,FOUL,Offensive foul,9716.0,217250.0,101,76000,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,285,SSD
+unknwown,5:15,1787096368000,6,8,TO,turnover,9716.0,217250.0,102,76001,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,285,SSD
+unknwown,5:15,1787096368000,6,8,RFOUL,foul drawn,14.0,301664.0,103,76002,Q1,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,285,ARG
+subst,5:15,1787096388000,6,8,SUBST,Substitution out,14.0,302892.0,104,77000,Q1,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,285,ARG
+subst,5:15,1787096388000,6,8,SUBST,Substitution in,14.0,170619.0,105,78000,Q1,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,285,ARG
+shot,5:06,1787096406000,6,8,P3,3pt jump shot missed,14.0,159332.0,107,80000,Q1,135064,False,3.0,269.0,40.0,,,14.0,Macarena D'urso,Argentina,20.0,Q1,Left Corner 3,12.9,8-16 ft.,294,ARG
+unknwown,5:03,1787096409000,6,8,REB,defensive rebound,9716.0,217250.0,108,80002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,297,SSD
+shot,4:52,1787096420000,8,8,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,109,81000,Q1,135064,True,2.0,133.0,30.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.2,Less Than 8 ft.,308,SSD
+unknwown,4:52,1787096420000,8,8,ASS,made the assist,9716.0,217250.0,110,81001,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,308,SSD
+shot,4:35,1787096438000,8,8,P3,3pt jump shot missed,14.0,301664.0,111,82000,Q1,135064,False,3.0,233.0,146.0,,,14.0,Julia Fernandez,Argentina,3.0,Q1,Above the Break 3,14.1,8-16 ft.,325,ARG
+unknwown,4:32,1787096440000,8,8,REB,defensive rebound,9716.0,217250.0,112,82002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,328,SSD
+shot,4:18,1787096455000,8,8,P2,2pt pullup jump shot missed,9716.0,300672.0,113,83000,Q1,135064,False,2.0,79.0,44.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Mid-Range,6.1,Less Than 8 ft.,342,SSD
+unknwown,4:13,1787096459000,8,8,REB,defensive rebound,14.0,159332.0,114,83002,Q1,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,347,ARG
+shot,3:53,1787096470000,8,10,P2,"2PtsFG under the basket, reverse lay-up made",14.0,301664.0,115,84000,Q1,135064,True,2.0,126.0,36.0,,,14.0,Julia Fernandez,Argentina,3.0,Q1,Restricted Area,1.5,Less Than 8 ft.,367,ARG
+unknwown,3:53,1787096466000,8,10,ASS,made the assist,14.0,159332.0,886,84001,Q1,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,367,ARG
+unknwown,3:51,1787096539000,8,10,VTR,Head coach's challenge successful,9716.0,,117,86000,Q1,135064,,,,,,,,,,,Q1,,,,369,
+unknwown,3:51,1787096601000,8,10,FOUL,Unsportsmanlike foul; 2 free throws awarded,14.0,301664.0,118,87000,Q1,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,369,ARG
+unknwown,3:51,1787096601000,8,10,RFOUL,foul drawn,9716.0,217250.0,119,87002,Q1,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,369,SSD
+shot,3:51,1787096643000,9,10,FT,1st of 2 free throws made,9716.0,217250.0,120,88000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,369,SSD
+shot,3:51,1787096652000,10,10,FT,2nd of 2 free throws made,9716.0,217250.0,121,89000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,369,SSD
+subst,3:51,1787096676000,10,10,SUBST,Substitution out,9716.0,217250.0,122,90000,Q1,135064,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,369,SSD
+subst,3:51,1787096676000,10,10,SUBST,Substitution in,9716.0,259170.0,123,91000,Q1,135064,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,369,SSD
+shot,3:42,1787096693000,12,10,P2,"2PtsFG under the basket, jump shot made",9716.0,373877.0,125,93000,Q1,135064,True,2.0,156.0,31.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.8,Less Than 8 ft.,378,SSD
+unknwown,3:42,1787096693000,12,10,ASS,made the assist,9716.0,259170.0,126,93001,Q1,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,378,SSD
+shot,3:27,1787096708000,12,10,P2,2pt pullup jump shot missed,14.0,163689.0,127,94000,Q1,135064,False,2.0,140.0,125.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Mid-Range,8.5,8-16 ft.,393,ARG
+unknwown,3:24,1787096711000,12,10,REB,defensive rebound,9716.0,259170.0,128,94002,Q1,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,396,SSD
+shot,3:09,1787096726000,12,10,P3,3pt jump shot from center missed,9716.0,300672.0,129,95000,Q1,135064,False,3.0,92.0,165.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Above the Break 3,13.4,8-16 ft.,411,SSD
+unknwown,3:06,1787096730000,12,10,REB,offensive rebound,9716.0,259170.0,131,95002,Q1,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,414,SSD
+unknwown,3:04,1787096739000,12,10,FOUL,Personal foul; 2 free throws awarded,14.0,170619.0,134,99000,Q1,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,416,ARG
+unknwown,3:04,1787096739000,12,10,RFOUL,foul drawn,9716.0,373877.0,135,99002,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,416,SSD
+subst,3:04,1787096750000,12,10,SUBST,Substitution out,14.0,301664.0,136,100000,Q1,135064,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,416,ARG
+subst,3:04,1787096750000,12,10,SUBST,Substitution in,14.0,200337.0,137,101000,Q1,135064,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q1,,,,416,ARG
+shot,3:04,1787096763000,12,10,FT,1st of 2 free throws missed,9716.0,373877.0,138,102000,Q1,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,14.6,8-16 ft.,416,SSD
+shot,3:04,1787096775000,13,10,FT,2nd of 2 free throws made,9716.0,373877.0,139,103000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,14.6,8-16 ft.,416,SSD
+shot,2:58,1787096786000,13,12,P2,2pt floating jump shot made,14.0,214723.0,141,105000,Q1,135064,True,2.0,140.0,71.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,In The Paint (Non-RA),3.1,Less Than 8 ft.,422,ARG
+unknwown,2:44,1787096800000,13,12,TO,turnover; bad pass,9716.0,374577.0,142,106000,Q1,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,436,SSD
+unknwown,2:44,1787096800000,13,12,ST,steal,14.0,214723.0,143,106001,Q1,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,436,ARG
+unknwown,2:37,1787096810000,13,12,TO,turnover; travelling,14.0,200337.0,147,110000,Q1,135064,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q1,,,,443,ARG
+unknwown,2:18,1787096843000,13,12,TO,turnover; travelling,9716.0,300672.0,152,115000,Q1,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,462,SSD
+shot,2:05,1787096862000,13,12,P2,"2PtsFG inside right, points after turnover, jump shot missed",14.0,170619.0,154,117000,Q1,135064,False,2.0,206.0,59.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,Mid-Range,6.9,Less Than 8 ft.,475,ARG
+unknwown,2:03,1787096864000,13,12,REB,defensive rebound,9716.0,300672.0,155,117002,Q1,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,477,SSD
+unknwown,1:49,1787096880000,13,12,TO,turnover; bad pass,9716.0,259170.0,159,121000,Q1,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,491,SSD
+subst,1:49,1787096893000,13,12,SUBST,Substitution out,9716.0,259170.0,160,122000,Q1,135064,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q1,,,,491,SSD
+subst,1:49,1787096893000,13,12,SUBST,Substitution in,9716.0,217250.0,161,123000,Q1,135064,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,491,SSD
+subst,1:49,1787096893000,13,12,SUBST,Substitution out,14.0,214723.0,162,124000,Q1,135064,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,491,ARG
+subst,1:49,1787096893000,13,12,SUBST,Substitution in,14.0,419538.0,163,125000,Q1,135064,,,,,,IN,14.0,Olivia Oltmann,Argentina,21.0,Q1,,,,491,ARG
+shot,1:36,1787096913000,13,14,P2,2pt hook shot made,14.0,170619.0,165,127000,Q1,135064,True,2.0,141.0,76.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,In The Paint (Non-RA),3.6,Less Than 8 ft.,504,ARG
+unknwown,1:36,1787096913000,13,14,ASS,made the assist,14.0,163689.0,166,127001,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,504,ARG
+shot,1:26,1787096925000,13,14,P3,3pt jump shot missed,9716.0,217250.0,168,129000,Q1,135064,False,3.0,63.0,154.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,13.8,8-16 ft.,514,SSD
+unknwown,1:26,1787096930000,13,14,TREB,team offensive rebound,9716.0,,169,129002,Q1,135064,,,,,,,,,,,Q1,,,,514,
+unknwown,1:26,1787096936000,13,14,FOUL,Personal foul; 2 free throws awarded,14.0,159332.0,170,130000,Q1,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,514,ARG
+unknwown,1:26,1787096936000,13,14,RFOUL,foul drawn,9716.0,374577.0,171,130002,Q1,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,514,SSD
+shot,1:26,1787096972000,14,14,FT,1st of 2 free throws made,9716.0,374577.0,172,131000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,14.6,8-16 ft.,514,SSD
+shot,1:26,1787096985000,15,14,FT,2nd of 2 free throws made,9716.0,374577.0,173,132000,Q1,135064,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,14.6,8-16 ft.,514,SSD
+shot,1:17,1787097002000,15,17,P3,3pt jump shot from center made,14.0,200337.0,175,134000,Q1,135064,True,3.0,91.0,173.0,,,14.0,Julieta Mungo,Argentina,9.0,Q1,Above the Break 3,14.2,8-16 ft.,523,ARG
+unknwown,1:17,1787097002000,15,17,ASS,made the assist,14.0,163689.0,176,134001,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,523,ARG
+shot,1:02,1787097016000,15,17,P3,3pt jump shot missed,9716.0,300672.0,177,135000,Q1,135064,False,3.0,269.0,70.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Left Corner 3,13.2,8-16 ft.,538,SSD
+unknwown,0:59,1787097018000,15,17,REB,defensive rebound,14.0,163689.0,178,135002,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,541,ARG
+shot,0:51,1787097027000,15,17,P3,3pt jump shot missed,14.0,419538.0,179,136000,Q1,135064,False,3.0,34.0,135.0,,,14.0,Olivia Oltmann,Argentina,21.0,Q1,Above the Break 3,14.2,8-16 ft.,549,ARG
+unknwown,0:47,1787097030000,15,17,REB,defensive rebound,9716.0,373877.0,180,136002,Q1,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,553,SSD
+shot,0:30,1787097049000,15,17,P2,2pt pullup jump shot missed,9716.0,300672.0,181,137000,Q1,135064,False,2.0,199.0,95.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Mid-Range,8.1,8-16 ft.,570,SSD
+unknwown,0:26,1787097051000,15,17,REB,defensive rebound,14.0,170619.0,182,137002,Q1,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,574,ARG
+unknwown,0:03,1787097076000,15,17,TO,turnover; ball handling,14.0,163689.0,184,139000,Q1,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,597,ARG
+unknwown,0:03,1787097076000,15,17,ST,steal,9716.0,300672.0,185,139001,Q1,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,597,SSD
+periods,0:00,1787097165000,15,17,ENDP,End of period,,,188,142000,Q1,135064,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787097224000,15,17,SUBST,Substitution out,9716.0,373877.0,189,143000,Q2,135064,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,600,SSD
+subst,10:00,1787097224000,15,17,SUBST,Substitution out,9716.0,300672.0,190,144000,Q2,135064,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,600,SSD
+subst,10:00,1787097224000,15,17,SUBST,Substitution in,9716.0,374160.0,191,145000,Q2,135064,,,,,,IN,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,,,,600,SSD
+subst,10:00,1787097224000,15,17,SUBST,Substitution in,9716.0,363373.0,192,146000,Q2,135064,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,600,SSD
+subst,10:00,1787097224000,15,17,SUBST,Substitution out,14.0,163689.0,193,147000,Q2,135064,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,600,ARG
+subst,10:00,1787097224000,15,17,SUBST,Substitution out,14.0,419538.0,194,148000,Q2,135064,,,,,,OUT,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,600,ARG
+subst,10:00,1787097224000,15,17,SUBST,Substitution in,14.0,221602.0,195,149000,Q2,135064,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q2,,,,600,ARG
+subst,10:00,1787097224000,15,17,SUBST,Substitution in,14.0,214723.0,196,150000,Q2,135064,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,600,ARG
+periods,10:00,1787097226000,15,17,STARTP,Start of period,,,197,151000,Q2,135064,,,,,,,,,,,Q2,,,,600,
+unknwown,9:46,1787097244000,15,17,TO,turnover; bad pass,9716.0,217250.0,202,156000,Q2,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,614,SSD
+shot,9:37,1787097262000,15,17,P3,3pt jump shot missed,14.0,200337.0,206,160000,Q2,135064,False,3.0,226.0,147.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,13.7,8-16 ft.,623,ARG
+unknwown,9:31,1787097267000,15,17,REB,defensive rebound,9716.0,374160.0,207,160002,Q2,135064,,,,,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,,,,629,SSD
+shot,9:16,1787097298000,15,17,P2,2pt pullup jump shot missed,9716.0,374577.0,212,165000,Q2,135064,False,2.0,166.0,109.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Mid-Range,7.4,Less Than 8 ft.,644,SSD
+unknwown,9:11,1787097305000,15,17,REB,defensive rebound,14.0,170619.0,213,165002,Q2,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,649,ARG
+shot,9:06,1787097312000,15,20,P3,3pt jump shot made,14.0,221602.0,214,166000,Q2,135064,True,3.0,37.0,137.0,,,14.0,Dalma Piri,Argentina,2.0,Q2,Above the Break 3,14.1,8-16 ft.,654,ARG
+unknwown,9:06,1787097312000,15,20,ASS,made the assist,14.0,200337.0,215,166001,Q2,135064,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,654,ARG
+unknwown,8:41,1787097336000,15,20,TO,turnover; ball handling,9716.0,363373.0,216,167000,Q2,135064,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,679,SSD
+unknwown,8:41,1787097336000,15,20,ST,steal,14.0,214723.0,217,167001,Q2,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,679,ARG
+shot,8:32,1787097345000,15,20,P2,2pt floating jump shot missed,14.0,214723.0,218,168000,Q2,135064,False,2.0,158.0,82.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,In The Paint (Non-RA),4.6,Less Than 8 ft.,688,ARG
+unknwown,8:30,1787097347000,15,20,REB,defensive rebound,9716.0,363373.0,219,168002,Q2,135064,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,690,SSD
+shot,8:12,1787097367000,15,20,P2,"2PtsFG inside right wing, jump shot missed",9716.0,374160.0,221,170000,Q2,135064,False,2.0,256.0,30.0,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,Mid-Range,11.6,8-16 ft.,708,SSD
+unknwown,8:11,1787097375000,15,20,TREB,team offensive rebound,9716.0,,222,170002,Q2,135064,,,,,,,,,,,Q2,,,,709,
+unknwown,8:09,1787097384000,15,20,FOUL,Personal foul,14.0,221602.0,225,173000,Q2,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q2,,,,711,ARG
+unknwown,8:09,1787097380000,15,20,RFOUL,foul drawn,9716.0,374160.0,226,173002,Q2,135064,,,,,,,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,,,,711,SSD
+subst,8:09,1787097404000,15,20,SUBST,Substitution out,9716.0,374160.0,227,174000,Q2,135064,,,,,,OUT,9716.0,Shanyce Makuei,South Sudan,3.0,Q2,,,,711,SSD
+subst,8:09,1787097404000,15,20,SUBST,Substitution out,9716.0,363373.0,228,175000,Q2,135064,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,711,SSD
+subst,8:09,1787097404000,15,20,SUBST,Substitution in,9716.0,373877.0,229,176000,Q2,135064,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,711,SSD
+subst,8:09,1787097404000,15,20,SUBST,Substitution in,9716.0,300673.0,230,177000,Q2,135064,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,711,SSD
+subst,8:09,1787097404000,15,20,SUBST,Substitution out,14.0,221602.0,231,178000,Q2,135064,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q2,,,,711,ARG
+subst,8:09,1787097404000,15,20,SUBST,Substitution in,14.0,163689.0,232,179000,Q2,135064,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,711,ARG
+shot,8:01,1787097415000,15,20,P3,3pt jump shot missed,9716.0,217250.0,234,181000,Q2,135064,False,3.0,86.0,165.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Above the Break 3,13.6,8-16 ft.,719,SSD
+unknwown,7:59,1787097418000,15,20,TREB,team defensive rebound,14.0,,236,181002,Q2,135064,,,,,,,,,,,Q2,,,,721,
+shot,7:45,1787097441000,15,20,P2,2pt pullup jump shot missed,14.0,159332.0,238,184000,Q2,135064,False,2.0,156.0,114.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,Mid-Range,7.6,Less Than 8 ft.,735,ARG
+unknwown,7:41,1787097444000,15,20,REB,defensive rebound,9716.0,217250.0,239,184002,Q2,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,739,SSD
+shot,7:34,1787097452000,15,20,P3,3pt jump shot missed,9716.0,374577.0,240,185000,Q2,135064,False,3.0,33.0,134.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.2,8-16 ft.,746,SSD
+unknwown,7:31,1787097454000,15,20,REB,offensive rebound,9716.0,300673.0,241,185002,Q2,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,749,SSD
+shot,7:26,1787097459000,15,20,P3,3pt jump shot missed,9716.0,300673.0,242,186000,Q2,135064,False,3.0,68.0,147.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,Above the Break 3,12.9,8-16 ft.,754,SSD
+unknwown,7:24,1787097465000,15,20,TREB,team defensive rebound,14.0,,244,186002,Q2,135064,,,,,,,,,,,Q2,,,,756,
+shot,7:11,1787097487000,15,20,P3,3pt jump shot missed,14.0,200337.0,246,189000,Q2,135064,False,3.0,237.0,128.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,13.1,8-16 ft.,769,ARG
+unknwown,7:09,1787097492000,15,20,TREB,team offensive rebound,14.0,,248,189002,Q2,135064,,,,,,,,,,,Q2,,,,771,
+shot,7:04,1787097503000,15,20,P3,3pt jump shot missed,14.0,159332.0,252,194000,Q2,135064,False,3.0,16.0,109.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,Above the Break 3,14.2,8-16 ft.,776,ARG
+unknwown,7:01,1787097505000,15,20,REB,offensive rebound,14.0,163689.0,253,194002,Q2,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,779,ARG
+shot,6:51,1787097517000,15,20,P3,3pt jump shot missed,14.0,170619.0,256,197000,Q2,135064,False,3.0,17.0,97.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Above the Break 3,13.6,8-16 ft.,789,ARG
+unknwown,6:48,1787097520000,15,20,REB,defensive rebound,9716.0,217250.0,257,197002,Q2,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,792,SSD
+unknwown,6:30,1787097544000,15,20,TO,turnover; bad pass,9716.0,300673.0,261,201000,Q2,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,810,SSD
+shot,6:21,1787097558000,15,20,P2,2pt driving layup missed,14.0,214723.0,263,203000,Q2,135064,False,2.0,120.0,51.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,In The Paint (Non-RA),2.3,Less Than 8 ft.,819,ARG
+unknwown,6:18,1787097560000,15,20,REB,defensive rebound,9716.0,300668.0,264,203002,Q2,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,822,SSD
+unknwown,6:05,1787097578000,15,20,FOUL,Personal foul,14.0,170619.0,268,207000,Q2,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,835,ARG
+unknwown,6:05,1787097578000,15,20,RFOUL,foul drawn,9716.0,373877.0,269,207002,Q2,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,835,SSD
+subst,6:05,1787097598000,15,20,SUBST,Substitution out,14.0,170619.0,270,208000,Q2,135064,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,835,ARG
+subst,6:05,1787097598000,15,20,SUBST,Substitution out,14.0,159332.0,271,209000,Q2,135064,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,835,ARG
+subst,6:05,1787097598000,15,20,SUBST,Substitution in,14.0,302892.0,272,210000,Q2,135064,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,835,ARG
+subst,6:05,1787097598000,15,20,SUBST,Substitution in,14.0,419538.0,273,211000,Q2,135064,,,,,,IN,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,835,ARG
+shot,6:03,1787097607000,15,20,P3,3pt jump shot missed,9716.0,374577.0,275,213000,Q2,135064,False,3.0,14.0,82.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,13.3,8-16 ft.,837,SSD
+unknwown,5:59,1787097611000,15,20,REB,defensive rebound,14.0,163689.0,276,213002,Q2,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,841,ARG
+shot,5:51,1787097625000,15,22,P2,"2PtsFG under the basket, fast break, reverse lay-up made",14.0,200337.0,280,217000,Q2,135064,True,2.0,147.0,28.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,1.4,Less Than 8 ft.,849,ARG
+unknwown,5:51,1787097625000,15,22,ASS,made the assist,14.0,214723.0,281,217001,Q2,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,849,ARG
+timeout,5:51,1787097646000,15,22,TIMO,Timeout,9716.0,,282,218000,Q2,135064,,,,,,,,,,,Q2,,,,849,
+shot,5:29,1787097764000,17,22,P2,"2PtsFG under the basket, jump shot made",9716.0,374577.0,287,223000,Q2,135064,True,2.0,158.0,31.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Restricted Area,2.0,Less Than 8 ft.,871,SSD
+unknwown,5:29,1787097760000,17,22,ASS,made the assist,9716.0,373877.0,884,223001,Q2,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,871,SSD
+unknwown,5:29,1787097769000,17,22,FOUL,Personal foul; 1 free throw awarded,14.0,214723.0,288,224000,Q2,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,871,ARG
+unknwown,5:29,1787097769000,17,22,RFOUL,foul drawn,9716.0,374577.0,289,224002,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,871,SSD
+shot,5:29,1787097791000,18,22,FT,1st free throw made,9716.0,374577.0,290,225000,Q2,135064,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,14.6,8-16 ft.,871,SSD
+shot,5:12,1787097813000,18,22,P2,2pt floating jump shot missed,14.0,200337.0,292,227000,Q2,135064,False,2.0,130.0,102.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Mid-Range,6.3,Less Than 8 ft.,888,ARG
+unknwown,5:09,1787097815000,18,22,REB,defensive rebound,9716.0,373877.0,293,227002,Q2,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,891,SSD
+unknwown,5:04,1787097822000,18,22,TO,turnover; out of bounds,9716.0,300673.0,295,229000,Q2,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,896,SSD
+shot,4:47,1787097859000,18,25,P3,3pt jump shot made,14.0,419538.0,297,231000,Q2,135064,True,3.0,264.0,90.0,,,14.0,Olivia Oltmann,Argentina,21.0,Q2,Above the Break 3,13.4,8-16 ft.,913,ARG
+unknwown,4:47,1787097859000,18,25,ASS,made the assist,14.0,302892.0,298,231001,Q2,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,913,ARG
+shot,4:36,1787097870000,20,25,P2,2pt pullup jump shot made,9716.0,374577.0,299,232000,Q2,135064,True,2.0,75.0,46.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Mid-Range,6.5,Less Than 8 ft.,924,SSD
+shot,4:25,1787097881000,20,25,P2,"2PtsFG under the basket, driving layup missed",14.0,214723.0,300,233000,Q2,135064,False,2.0,125.0,39.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Restricted Area,1.5,Less Than 8 ft.,935,ARG
+unknwown,4:17,1787097888000,20,25,REB,defensive rebound,9716.0,217250.0,301,233002,Q2,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,943,SSD
+unknwown,4:16,1787097890000,20,25,TO,turnover; ball handling,9716.0,374577.0,302,234000,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,944,SSD
+unknwown,4:16,1787097890000,20,25,ST,steal,14.0,214723.0,303,234001,Q2,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,944,ARG
+shot,4:12,1787097894000,20,27,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,200337.0,304,235000,Q2,135064,True,2.0,143.0,39.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,0.3,Less Than 8 ft.,948,ARG
+unknwown,3:59,1787097915000,20,27,FOUL,Personal foul,14.0,302892.0,309,239000,Q2,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,961,ARG
+unknwown,3:59,1787097915000,20,27,RFOUL,foul drawn,9716.0,374577.0,310,239002,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,961,SSD
+subst,3:59,1787097934000,20,27,SUBST,Substitution out,9716.0,374577.0,311,240000,Q2,135064,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,961,SSD
+subst,3:59,1787097934000,20,27,SUBST,Substitution in,9716.0,300672.0,312,241000,Q2,135064,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,961,SSD
+shot,3:51,1787097944000,20,27,P3,3pt jump shot missed,9716.0,300673.0,314,243000,Q2,135064,False,3.0,21.0,98.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,Above the Break 3,13.2,8-16 ft.,969,SSD
+unknwown,3:49,1787097946000,20,27,REB,defensive rebound,14.0,163689.0,315,243002,Q2,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,971,ARG
+shot,3:31,1787097964000,20,30,P3,3pt jump shot made,14.0,214723.0,316,244000,Q2,135064,True,3.0,4.0,44.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Right Corner 3,13.6,8-16 ft.,989,ARG
+unknwown,3:31,1787097964000,20,30,ASS,made the assist,14.0,200337.0,317,244001,Q2,135064,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,989,ARG
+shot,3:16,1787097980000,20,30,P2,"2PtsFG under the basket, floating jump shot missed",9716.0,300672.0,318,245000,Q2,135064,False,2.0,130.0,42.0,,,9716.0,Perina Leime,South Sudan,21.0,Q2,Restricted Area,1.0,Less Than 8 ft.,1004,SSD
+unknwown,3:11,1787097984000,20,30,REB,defensive rebound,14.0,302892.0,319,245002,Q2,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,1009,ARG
+shot,3:02,1787097996000,20,32,P2,"2PtsFG under the basket, fast break, layup made",14.0,214723.0,323,249000,Q2,135064,True,2.0,148.0,37.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Restricted Area,0.9,Less Than 8 ft.,1018,ARG
+unknwown,3:02,1787097996000,20,32,ASS,made the assist,14.0,419538.0,324,249001,Q2,135064,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,1018,ARG
+timeout,3:02,1787098011000,20,32,TIMO,Timeout,9716.0,,325,250000,Q2,135064,,,,,,,,,,,Q2,,,,1018,
+subst,3:02,1787098088000,20,32,SUBST,Substitution out,9716.0,300673.0,326,251000,Q2,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,1018,SSD
+subst,3:02,1787098088000,20,32,SUBST,Substitution in,9716.0,374577.0,327,252000,Q2,135064,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1018,SSD
+subst,3:02,1787098088000,20,32,SUBST,Substitution out,14.0,163689.0,328,253000,Q2,135064,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1018,ARG
+subst,3:02,1787098088000,20,32,SUBST,Substitution in,14.0,159332.0,329,254000,Q2,135064,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1018,ARG
+shot,2:53,1787098103000,20,32,P2,"2PtsFG under the basket, jump shot missed",9716.0,300668.0,331,256000,Q2,135064,False,2.0,155.0,39.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,Restricted Area,1.5,Less Than 8 ft.,1027,SSD
+unknwown,2:52,1787098108000,20,32,TREB,team defensive rebound,14.0,,333,256002,Q2,135064,,,,,,,,,,,Q2,,,,1028,
+shot,2:32,1787098133000,20,35,P3,3pt step back jump shot made,14.0,200337.0,335,259000,Q2,135064,True,3.0,202.0,159.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,13.4,8-16 ft.,1048,ARG
+shot,2:11,1787098154000,20,35,P2,2pt jump shot missed,9716.0,300672.0,336,260000,Q2,135064,False,2.0,157.0,67.0,,,9716.0,Perina Leime,South Sudan,21.0,Q2,In The Paint (Non-RA),3.2,Less Than 8 ft.,1069,SSD
+unknwown,2:08,1787098156000,20,35,REB,offensive rebound,9716.0,300672.0,337,260002,Q2,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1072,SSD
+shot,2:06,1787098159000,20,35,P3,3pt jump shot missed,9716.0,300668.0,338,261000,Q2,135064,False,3.0,211.0,157.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,Above the Break 3,13.7,8-16 ft.,1074,SSD
+unknwown,2:03,1787098161000,20,35,REB,defensive rebound,14.0,159332.0,339,261002,Q2,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1077,ARG
+shot,1:44,1787098180000,20,35,P3,3pt jump shot missed,14.0,419538.0,340,262000,Q2,135064,False,3.0,270.0,23.0,,,14.0,Olivia Oltmann,Argentina,21.0,Q2,Left Corner 3,13.1,8-16 ft.,1096,ARG
+unknwown,1:41,1787098182000,20,35,REB,defensive rebound,9716.0,374577.0,341,262002,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1099,SSD
+unknwown,1:38,1787098187000,20,35,TO,turnover; ball handling,9716.0,374577.0,342,263000,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1102,SSD
+unknwown,1:38,1787098187000,20,35,ST,steal,14.0,159332.0,343,263001,Q2,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1102,ARG
+shot,1:33,1787098191000,20,35,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup missed",14.0,214723.0,344,264000,Q2,135064,False,2.0,143.0,40.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Restricted Area,0.3,Less Than 8 ft.,1107,ARG
+unknwown,1:29,1787098194000,20,35,REB,defensive rebound,9716.0,300668.0,345,264002,Q2,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1111,SSD
+unknwown,1:24,1787098220000,20,35,FOUL,Personal foul; 2 free throws awarded,14.0,419538.0,349,268000,Q2,135064,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,1116,ARG
+unknwown,1:24,1787098220000,20,35,RFOUL,foul drawn,9716.0,373877.0,350,268002,Q2,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1116,SSD
+shot,1:24,1787098228000,21,35,FT,1st of 2 free throws made,9716.0,373877.0,351,269000,Q2,135064,True,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,14.6,8-16 ft.,1116,SSD
+shot,1:24,1787098242000,21,35,FT,2nd of 2 free throws missed,9716.0,373877.0,352,270000,Q2,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,14.6,8-16 ft.,1116,SSD
+unknwown,1:24,1787098243000,21,35,REB,offensive rebound,9716.0,300668.0,354,270002,Q2,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1116,SSD
+subst,1:16,1787098262000,21,35,SUBST,Substitution out,9716.0,217250.0,356,273000,Q2,135064,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1124,SSD
+subst,1:16,1787098262000,21,35,SUBST,Substitution in,9716.0,259170.0,357,274000,Q2,135064,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1124,SSD
+subst,1:16,1787098262000,21,35,SUBST,Substitution out,14.0,159332.0,358,275000,Q2,135064,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1124,ARG
+subst,1:16,1787098262000,21,35,SUBST,Substitution in,14.0,163689.0,359,276000,Q2,135064,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1124,ARG
+shot,1:14,1787098272000,24,35,P3,3pt jump shot made,9716.0,374577.0,361,278000,Q2,135064,True,3.0,12.0,24.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Right Corner 3,12.9,8-16 ft.,1126,SSD
+unknwown,1:14,1787098268000,24,35,ASS,made the assist,9716.0,300672.0,362,278001,Q2,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1126,SSD
+shot,0:50,1787098295000,24,35,P3,3pt jump shot from center missed,14.0,163689.0,365,281000,Q2,135064,False,3.0,98.0,180.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,Above the Break 3,14.6,8-16 ft.,1150,ARG
+unknwown,0:49,1787098300000,24,35,TREB,team defensive rebound,9716.0,,367,281002,Q2,135064,,,,,,,,,,,Q2,,,,1151,
+unknwown,0:36,1787098321000,24,35,TO,turnover; ball handling,9716.0,374577.0,369,284000,Q2,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1164,SSD
+unknwown,0:36,1787098321000,24,35,ST,steal,14.0,419538.0,370,284001,Q2,135064,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,1164,ARG
+shot,0:28,1787098331000,24,37,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,200337.0,373,287000,Q2,135064,True,2.0,124.0,34.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,1.7,Less Than 8 ft.,1172,ARG
+unknwown,0:28,1787098331000,24,37,ASS,made the assist,14.0,214723.0,374,287001,Q2,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,1172,ARG
+unknwown,0:13,1787098347000,24,37,FOUL,Personal foul; 2 free throws awarded,14.0,302892.0,378,291000,Q2,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,1187,ARG
+unknwown,0:13,1787098347000,24,37,RFOUL,foul drawn,9716.0,373877.0,379,291002,Q2,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1187,SSD
+subst,0:13,1787098358000,24,37,SUBST,Substitution out,9716.0,374577.0,380,292000,Q2,135064,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1187,SSD
+subst,0:13,1787098358000,24,37,SUBST,Substitution in,9716.0,300673.0,381,293000,Q2,135064,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,1187,SSD
+timeout,0:13,1787098366000,24,37,TIMO,Timeout,14.0,,382,294000,Q2,135064,,,,,,,,,,,Q2,,,,1187,
+subst,0:13,1787098457000,24,37,SUBST,Substitution out,9716.0,300668.0,383,295000,Q2,135064,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1187,SSD
+subst,0:13,1787098457000,24,37,SUBST,Substitution out,9716.0,300672.0,384,296000,Q2,135064,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1187,SSD
+subst,0:13,1787098457000,24,37,SUBST,Substitution in,9716.0,300671.0,385,297000,Q2,135064,,,,,,IN,9716.0,Nyayongah Gony,South Sudan,14.0,Q2,,,,1187,SSD
+subst,0:13,1787098457000,24,37,SUBST,Substitution in,9716.0,363373.0,386,298000,Q2,135064,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1187,SSD
+subst,0:13,1787098457000,24,37,SUBST,Substitution out,14.0,302892.0,387,299000,Q2,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q2,,,,1187,ARG
+subst,0:13,1787098457000,24,37,SUBST,Substitution out,14.0,419538.0,388,300000,Q2,135064,,,,,,OUT,14.0,Olivia Oltmann,Argentina,21.0,Q2,,,,1187,ARG
+subst,0:13,1787098457000,24,37,SUBST,Substitution in,14.0,301664.0,389,301000,Q2,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,1187,ARG
+subst,0:13,1787098457000,24,37,SUBST,Substitution in,14.0,170619.0,390,302000,Q2,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,1187,ARG
+shot,0:13,1787098468000,24,37,FT,1st of 2 free throws missed,9716.0,373877.0,391,303000,Q2,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,14.6,8-16 ft.,1187,SSD
+shot,0:13,1787098487000,24,37,FT,2nd of 2 free throws missed,9716.0,373877.0,392,304000,Q2,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,14.6,8-16 ft.,1187,SSD
+unknwown,0:12,1787098488000,24,37,TREB,team defensive rebound,14.0,,394,304002,Q2,135064,,,,,,,,,,,Q2,,,,1188,
+timeout,0:11,1787098505000,24,37,TIMO,Timeout,14.0,,400,311000,Q2,135064,,,,,,,,,,,Q2,,,,1189,
+subst,0:11,1787098578000,24,37,SUBST,Substitution out,14.0,200337.0,401,312000,Q2,135064,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1189,ARG
+subst,0:11,1787098578000,24,37,SUBST,Substitution in,14.0,159332.0,402,313000,Q2,135064,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1189,ARG
+shot,0:02,1787098607000,24,37,P3,3pt jump shot missed,14.0,159332.0,405,316000,Q2,135064,False,3.0,26.0,126.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,Above the Break 3,14.3,8-16 ft.,1198,ARG
+unknwown,0:02,1787098611000,24,37,REB,defensive rebound,9716.0,363373.0,406,316002,Q2,135064,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1198,SSD
+periods,0:00,1787098762000,24,37,ENDP,End of period,,,409,319000,Q2,135064,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,9716.0,259170.0,410,320000,Q3,135064,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,9716.0,300671.0,411,321000,Q3,135064,,,,,,OUT,9716.0,Nyayongah Gony,South Sudan,14.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,9716.0,363373.0,412,322000,Q3,135064,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,9716.0,217250.0,413,323000,Q3,135064,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,9716.0,300668.0,414,324000,Q3,135064,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,9716.0,374577.0,415,325000,Q3,135064,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1200,SSD
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,14.0,301664.0,416,326000,Q3,135064,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1200,ARG
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,14.0,170619.0,417,327000,Q3,135064,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1200,ARG
+subst,10:00,1787099501000,24,37,SUBST,Substitution out,14.0,159332.0,418,328000,Q3,135064,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1200,ARG
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,14.0,221602.0,419,329000,Q3,135064,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1200,ARG
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,14.0,302892.0,420,330000,Q3,135064,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1200,ARG
+subst,10:00,1787099501000,24,37,SUBST,Substitution in,14.0,200337.0,421,331000,Q3,135064,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1200,ARG
+periods,10:00,1787099518000,24,37,STARTP,Start of period,,,422,332000,Q3,135064,,,,,,,,,,,Q3,,,,1200,
+shot,9:36,1787099546000,24,37,P2,2pt turnaround jump shot missed,14.0,200337.0,427,337000,Q3,135064,False,2.0,113.0,27.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,In The Paint (Non-RA),3.0,Less Than 8 ft.,1224,ARG
+unknwown,9:36,1787099551000,24,37,TREB,team offensive rebound,14.0,,428,337002,Q3,135064,,,,,,,,,,,Q3,,,,1224,
+shot,9:35,1787099570000,24,37,P3,3pt jump shot missed,14.0,214723.0,430,339000,Q3,135064,False,3.0,273.0,35.0,,,14.0,Florencia Chagas,Argentina,14.0,Q3,Left Corner 3,13.3,8-16 ft.,1225,ARG
+unknwown,9:31,1787099572000,24,37,REB,offensive rebound,14.0,163689.0,431,339002,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1229,ARG
+shot,9:28,1787099576000,24,37,P3,3pt jump shot missed,14.0,221602.0,432,340000,Q3,135064,False,3.0,205.0,175.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,15.0,8-16 ft.,1232,ARG
+unknwown,9:25,1787099579000,24,37,REB,defensive rebound,9716.0,300673.0,433,340002,Q3,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1235,SSD
+unknwown,9:13,1787099597000,24,37,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,437,344000,Q3,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1247,ARG
+unknwown,9:13,1787099597000,24,37,RFOUL,foul drawn,9716.0,374577.0,438,344002,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1247,SSD
+shot,9:13,1787099616000,25,37,FT,1st of 2 free throws made,9716.0,374577.0,439,345000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,14.6,8-16 ft.,1247,SSD
+shot,9:13,1787099627000,26,37,FT,2nd of 2 free throws made,9716.0,374577.0,440,346000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,14.6,8-16 ft.,1247,SSD
+shot,9:00,1787099645000,26,37,P2,2pt pullup jump shot missed,14.0,163689.0,442,348000,Q3,135064,False,2.0,211.0,43.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,Mid-Range,7.1,Less Than 8 ft.,1260,ARG
+unknwown,8:57,1787099647000,26,37,REB,defensive rebound,9716.0,373877.0,443,348002,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1263,SSD
+shot,8:46,1787099658000,28,37,P2,"2PtsFG under the basket, driving layup made",9716.0,373877.0,444,349000,Q3,135064,True,2.0,127.0,28.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1274,SSD
+unknwown,8:46,1787099658000,28,37,ASS,made the assist,9716.0,374577.0,445,349001,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1274,SSD
+shot,8:24,1787099680000,28,37,P3,3pt jump shot missed,14.0,302892.0,448,352000,Q3,135064,False,3.0,226.0,149.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,Above the Break 3,13.9,8-16 ft.,1296,ARG
+unknwown,8:22,1787099682000,28,37,REB,defensive rebound,9716.0,217250.0,449,352002,Q3,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1298,SSD
+shot,8:14,1787099690000,28,37,P2,"2PtsFG under the basket, pullup jump shot missed",9716.0,373877.0,450,353000,Q3,135064,False,2.0,146.0,30.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1306,SSD
+unknwown,8:14,1787099690000,28,37,BS,blocked the shot,14.0,214723.0,451,353001,Q3,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1306,ARG
+unknwown,8:08,1787099695000,28,37,REB,defensive rebound,14.0,163689.0,452,353002,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1312,ARG
+shot,7:55,1787099710000,28,37,P2,"2PtsFG under the basket, layup missed",14.0,200337.0,454,355000,Q3,135064,False,2.0,135.0,35.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1325,ARG
+unknwown,7:54,1787099715000,28,37,TREB,team defensive rebound,9716.0,,455,355002,Q3,135064,,,,,,,,,,,Q3,,,,1326,
+shot,7:43,1787099738000,30,37,P2,"2PtsFG under the basket, driving layup made",9716.0,374577.0,457,357000,Q3,135064,True,2.0,140.0,36.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Restricted Area,0.4,Less Than 8 ft.,1337,SSD
+shot,7:18,1787099762000,30,37,P2,2pt floating jump shot missed,14.0,221602.0,458,358000,Q3,135064,False,2.0,144.0,56.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,In The Paint (Non-RA),1.6,Less Than 8 ft.,1362,ARG
+unknwown,7:14,1787099765000,30,37,REB,defensive rebound,9716.0,300673.0,459,358002,Q3,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1366,SSD
+shot,7:01,1787099779000,30,37,P2,2pt jump shot missed,9716.0,217250.0,460,359000,Q3,135064,False,2.0,144.0,77.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,In The Paint (Non-RA),3.7,Less Than 8 ft.,1379,SSD
+unknwown,6:56,1787099783000,30,37,REB,defensive rebound,14.0,200337.0,461,359002,Q3,135064,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1384,ARG
+shot,6:50,1787099791000,30,37,P3,3pt jump shot missed,14.0,200337.0,462,360000,Q3,135064,False,3.0,268.0,84.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Above the Break 3,13.5,8-16 ft.,1390,ARG
+unknwown,6:47,1787099793000,30,37,REB,defensive rebound,9716.0,374577.0,463,360002,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1393,SSD
+unknwown,6:39,1787099801000,30,37,TO,turnover; ball handling,9716.0,374577.0,464,361000,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1401,SSD
+unknwown,6:39,1787099801000,30,37,ST,steal,14.0,214723.0,465,361001,Q3,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1401,ARG
+shot,6:34,1787099806000,30,39,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,200337.0,466,362000,Q3,135064,True,2.0,157.0,29.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1406,ARG
+unknwown,6:34,1787099806000,30,39,ASS,made the assist,14.0,163689.0,467,362001,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1406,ARG
+unknwown,6:09,1787099831000,30,39,TO,turnover; bad pass,9716.0,300673.0,468,363000,Q3,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1431,SSD
+unknwown,6:09,1787099831000,30,39,ST,steal,14.0,221602.0,469,363001,Q3,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1431,ARG
+shot,6:04,1787099836000,30,41,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,221602.0,470,364000,Q3,135064,True,2.0,130.0,39.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1436,ARG
+unknwown,6:04,1787099836000,30,41,ASS,made the assist,14.0,163689.0,471,364001,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1436,ARG
+shot,5:41,1787099859000,30,41,P2,"2PtsFG under the basket, turnaround jump shot missed",9716.0,373877.0,472,365000,Q3,135064,False,2.0,150.0,40.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1459,SSD
+unknwown,5:40,1787099867000,30,41,TREB,team offensive rebound,9716.0,,474,365002,Q3,135064,,,,,,,,,,,Q3,,,,1460,
+subst,5:37,1787099887000,30,41,SUBST,Substitution out,9716.0,217250.0,477,369000,Q3,135064,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1463,SSD
+subst,5:37,1787099887000,30,41,SUBST,Substitution out,9716.0,300673.0,478,370000,Q3,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1463,SSD
+subst,5:37,1787099887000,30,41,SUBST,Substitution in,9716.0,259170.0,479,371000,Q3,135064,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1463,SSD
+subst,5:37,1787099887000,30,41,SUBST,Substitution in,9716.0,300672.0,480,372000,Q3,135064,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1463,SSD
+subst,5:37,1787099887000,30,41,SUBST,Substitution out,14.0,221602.0,481,373000,Q3,135064,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1463,ARG
+subst,5:37,1787099887000,30,41,SUBST,Substitution in,14.0,159332.0,482,374000,Q3,135064,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1463,ARG
+shot,5:32,1787099900000,32,41,P2,"2PtsFG under the basket, jump shot made",9716.0,373877.0,486,378000,Q3,135064,True,2.0,146.0,35.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,0.8,Less Than 8 ft.,1468,SSD
+unknwown,5:32,1787099900000,32,41,ASS,made the assist,9716.0,374577.0,487,378001,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1468,SSD
+unknwown,5:32,1787099906000,32,41,FOUL,Personal foul; 1 free throw awarded,14.0,302892.0,488,379000,Q3,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1468,ARG
+unknwown,5:32,1787099906000,32,41,RFOUL,foul drawn,9716.0,373877.0,489,379002,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1468,SSD
+subst,5:32,1787099923000,32,41,SUBST,Substitution out,14.0,302892.0,490,380000,Q3,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1468,ARG
+subst,5:32,1787099923000,32,41,SUBST,Substitution in,14.0,170619.0,491,381000,Q3,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1468,ARG
+shot,5:32,1787099929000,32,41,FT,free throw missed,9716.0,373877.0,492,382000,Q3,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,14.6,8-16 ft.,1468,SSD
+unknwown,5:32,1787099932000,32,41,REB,offensive rebound,9716.0,373877.0,494,382002,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1468,SSD
+shot,5:21,1787099944000,32,41,P2,2pt floating jump shot missed,9716.0,300668.0,495,384000,Q3,135064,False,2.0,113.0,96.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,In The Paint (Non-RA),6.2,Less Than 8 ft.,1479,SSD
+unknwown,5:17,1787099952000,32,41,TREB,team defensive rebound,14.0,,497,384002,Q3,135064,,,,,,,,,,,Q3,,,,1483,
+unknwown,4:58,1787099991000,32,41,FOUL,Offensive foul,14.0,170619.0,504,392000,Q3,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1502,ARG
+unknwown,4:58,1787099991000,32,41,TO,turnover,14.0,170619.0,505,392001,Q3,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1502,ARG
+unknwown,4:58,1787099991000,32,41,RFOUL,foul drawn,9716.0,300672.0,506,392002,Q3,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1502,SSD
+unknwown,4:47,1787100017000,32,41,FOUL,Personal foul; 2 free throws awarded,14.0,214723.0,511,397000,Q3,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1513,ARG
+unknwown,4:47,1787100017000,32,41,RFOUL,foul drawn,9716.0,300668.0,512,397002,Q3,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1513,SSD
+shot,4:47,1787100035000,33,41,FT,1st of 2 free throws made,9716.0,300668.0,513,398000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,14.6,8-16 ft.,1513,SSD
+shot,4:47,1787100050000,34,41,FT,2nd of 2 free throws made,9716.0,300668.0,514,399000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,14.6,8-16 ft.,1513,SSD
+unknwown,4:32,1787100080000,34,41,FOUL,Personal foul,9716.0,300668.0,519,404000,Q3,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1528,SSD
+unknwown,4:32,1787100080000,34,41,RFOUL,foul drawn,14.0,214723.0,520,404002,Q3,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1528,ARG
+shot,4:25,1787100096000,34,41,P3,3pt jump shot missed,14.0,200337.0,522,406000,Q3,135064,False,3.0,10.0,57.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Right Corner 3,13.1,8-16 ft.,1535,ARG
+unknwown,4:22,1787100099000,34,41,REB,defensive rebound,9716.0,374577.0,523,406002,Q3,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1538,SSD
+shot,4:13,1787100108000,34,41,P2,"2PtsFG under the basket, turnaround jump shot missed",9716.0,300672.0,524,407000,Q3,135064,False,2.0,155.0,30.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1547,SSD
+unknwown,4:10,1787100111000,34,41,REB,defensive rebound,14.0,200337.0,525,407002,Q3,135064,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1550,ARG
+shot,3:49,1787100148000,34,44,P3,3pt jump shot made,14.0,200337.0,530,412000,Q3,135064,True,3.0,22.0,120.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Above the Break 3,14.3,8-16 ft.,1571,ARG
+unknwown,3:49,1787100148000,34,44,ASS,made the assist,14.0,159332.0,531,412001,Q3,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1571,ARG
+unknwown,3:37,1787100163000,34,44,FOUL,Personal foul; 2 free throws awarded,14.0,159332.0,535,416000,Q3,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1583,ARG
+unknwown,3:37,1787100163000,34,44,RFOUL,foul drawn,9716.0,300672.0,536,416002,Q3,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1583,SSD
+subst,3:37,1787100190000,34,44,SUBST,Substitution out,14.0,200337.0,537,417000,Q3,135064,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1583,ARG
+subst,3:37,1787100190000,34,44,SUBST,Substitution in,14.0,301664.0,538,418000,Q3,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1583,ARG
+shot,3:37,1787100192000,35,44,FT,1st of 2 free throws made,9716.0,300672.0,539,419000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,14.6,8-16 ft.,1583,SSD
+shot,3:37,1787100205000,36,44,FT,2nd of 2 free throws made,9716.0,300672.0,540,420000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,14.6,8-16 ft.,1583,SSD
+unknwown,3:27,1787100226000,36,44,FOUL,Personal foul,9716.0,373877.0,547,427000,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1593,SSD
+unknwown,3:27,1787100226000,36,44,RFOUL,foul drawn,14.0,301664.0,548,427002,Q3,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1593,ARG
+unknwown,3:22,1787100249000,36,44,FOUL,Personal foul,9716.0,373877.0,553,432000,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1598,SSD
+unknwown,3:22,1787100249000,36,44,RFOUL,foul drawn,14.0,170619.0,554,432002,Q3,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1598,ARG
+unknwown,3:12,1787100285000,36,44,TO,turnover; ball handling,14.0,214723.0,561,439000,Q3,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1608,ARG
+shot,3:07,1787100307000,36,44,P3,3pt jump shot missed,9716.0,300672.0,563,441000,Q3,135064,False,3.0,49.0,145.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Above the Break 3,13.9,8-16 ft.,1613,SSD
+unknwown,3:05,1787100312000,36,44,TREB,team defensive rebound,14.0,,565,441002,Q3,135064,,,,,,,,,,,Q3,,,,1615,
+subst,3:01,1787100323000,36,44,SUBST,Substitution out,14.0,214723.0,568,445000,Q3,135064,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1619,ARG
+subst,3:01,1787100323000,36,44,SUBST,Substitution in,14.0,419538.0,569,446000,Q3,135064,,,,,,IN,14.0,Olivia Oltmann,Argentina,21.0,Q3,,,,1619,ARG
+unknwown,2:52,1787100338000,36,44,TO,turnover; bad pass,14.0,419538.0,571,448000,Q3,135064,,,,,,,14.0,Olivia Oltmann,Argentina,21.0,Q3,,,,1628,ARG
+unknwown,2:52,1787100338000,36,44,ST,steal,9716.0,259170.0,572,448001,Q3,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1628,SSD
+shot,2:48,1787100342000,38,44,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",9716.0,259170.0,573,449000,Q3,135064,True,2.0,125.0,41.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1632,SSD
+shot,2:30,1787100361000,38,44,P2,"2PtsFG inside center, jump shot missed",14.0,163689.0,576,452000,Q3,135064,False,2.0,152.0,118.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,Mid-Range,7.9,Less Than 8 ft.,1650,ARG
+unknwown,2:26,1787100364000,38,44,REB,defensive rebound,9716.0,373877.0,577,452002,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1654,SSD
+shot,2:16,1787100376000,38,44,P2,"2PtsFG under the basket, layup missed",9716.0,373877.0,580,455000,Q3,135064,False,2.0,125.0,46.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1664,SSD
+unknwown,2:12,1787100379000,38,44,REB,defensive rebound,14.0,163689.0,581,455002,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1668,ARG
+shot,2:06,1787100385000,38,44,P2,"2PtsFG inside right, jump shot missed",14.0,159332.0,582,456000,Q3,135064,False,2.0,212.0,97.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,Mid-Range,9.2,8-16 ft.,1674,ARG
+unknwown,2:02,1787100389000,38,44,REB,defensive rebound,9716.0,259170.0,583,456002,Q3,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1678,SSD
+shot,1:50,1787100401000,40,44,P2,"2PtsFG under the basket, driving layup made",9716.0,300672.0,584,457000,Q3,135064,True,2.0,125.0,35.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1690,SSD
+shot,1:30,1787100426000,40,44,P2,2pt jump shot missed,14.0,163689.0,588,461000,Q3,135064,False,2.0,109.0,96.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,In The Paint (Non-RA),6.4,Less Than 8 ft.,1710,ARG
+unknwown,1:29,1787100428000,40,44,REB,offensive rebound,14.0,301664.0,589,461002,Q3,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1711,ARG
+unknwown,1:22,1787100437000,40,44,FOUL,Personal foul,9716.0,300668.0,592,464000,Q3,135064,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1718,SSD
+unknwown,1:22,1787100437000,40,44,RFOUL,foul drawn,14.0,301664.0,593,464002,Q3,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1718,ARG
+subst,1:22,1787100446000,40,44,SUBST,Substitution out,9716.0,300668.0,594,465000,Q3,135064,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1718,SSD
+subst,1:22,1787100446000,40,44,SUBST,Substitution in,9716.0,300673.0,595,466000,Q3,135064,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1718,SSD
+unknwown,1:16,1787100468000,40,44,FOUL,Personal foul; 2 free throws awarded,9716.0,373877.0,602,473000,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1724,SSD
+unknwown,1:16,1787100468000,40,44,RFOUL,foul drawn,14.0,170619.0,603,473002,Q3,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1724,ARG
+shot,1:16,1787100496000,40,44,FT,1st of 2 free throws missed,14.0,170619.0,604,474000,Q3,135064,False,1.0,0.0,0.0,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,14.6,8-16 ft.,1724,ARG
+shot,1:16,1787100509000,40,44,FT,2nd of 2 free throws missed,14.0,170619.0,605,475000,Q3,135064,False,1.0,0.0,0.0,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,14.6,8-16 ft.,1724,ARG
+unknwown,1:16,1787100510000,40,44,REB,defensive rebound,9716.0,373877.0,607,475002,Q3,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1724,SSD
+shot,1:00,1787100527000,42,44,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,373877.0,610,479000,Q3,135064,True,2.0,145.0,37.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,0.6,Less Than 8 ft.,1740,SSD
+unknwown,1:00,1787100527000,42,44,ASS,made the assist,9716.0,259170.0,613,479001,Q3,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1740,SSD
+unknwown,0:40,1787100553000,42,44,FOUL,Personal foul; 2 free throws awarded,9716.0,259170.0,619,487000,Q3,135064,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1760,SSD
+unknwown,0:40,1787100553000,42,44,RFOUL,foul drawn,14.0,159332.0,620,487002,Q3,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution out,9716.0,373877.0,621,488000,Q3,135064,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1760,SSD
+subst,0:40,1787100591000,42,44,SUBST,Substitution out,9716.0,300673.0,622,489000,Q3,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1760,SSD
+subst,0:40,1787100591000,42,44,SUBST,Substitution in,9716.0,217250.0,623,490000,Q3,135064,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1760,SSD
+subst,0:40,1787100591000,42,44,SUBST,Substitution in,9716.0,300668.0,624,491000,Q3,135064,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1760,SSD
+subst,0:40,1787100591000,42,44,SUBST,Substitution out,14.0,301664.0,625,492000,Q3,135064,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution out,14.0,170619.0,626,493000,Q3,135064,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution out,14.0,163689.0,627,494000,Q3,135064,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution in,14.0,302892.0,628,495000,Q3,135064,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution in,14.0,200337.0,629,496000,Q3,135064,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1760,ARG
+subst,0:40,1787100591000,42,44,SUBST,Substitution in,14.0,401377.0,630,497000,Q3,135064,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1760,ARG
+shot,0:40,1787100597000,42,45,FT,1st of 2 free throws made,14.0,159332.0,631,498000,Q3,135064,True,1.0,0.0,0.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,14.6,8-16 ft.,1760,ARG
+shot,0:40,1787100614000,42,45,FT,2nd of 2 free throws missed,14.0,159332.0,632,499000,Q3,135064,False,1.0,0.0,0.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,14.6,8-16 ft.,1760,ARG
+unknwown,0:40,1787100615000,42,45,REB,defensive rebound,9716.0,217250.0,634,499002,Q3,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1760,SSD
+unknwown,0:21,1787100640000,42,45,FOUL,Personal foul; 2 free throws awarded,14.0,159332.0,638,504000,Q3,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1779,ARG
+unknwown,0:21,1787100640000,42,45,RFOUL,foul drawn,9716.0,300672.0,639,504002,Q3,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1779,SSD
+unknwown,0:21,1787100653000,42,45,CFOUL,Technical foul bench,14.0,,640,505000,Q3,135064,,,,,,,,,,,Q3,,,,1779,
+shot,0:21,1787100670000,43,45,FT,1st free throw made,9716.0,217250.0,641,506000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1779,SSD
+subst,0:21,1787100679000,43,45,SUBST,Substitution out,9716.0,300668.0,642,507000,Q3,135064,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1779,SSD
+subst,0:21,1787100679000,43,45,SUBST,Substitution in,9716.0,300673.0,643,508000,Q3,135064,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1779,SSD
+shot,0:21,1787100693000,44,45,FT,1st of 2 free throws made,9716.0,300672.0,644,509000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,14.6,8-16 ft.,1779,SSD
+shot,0:21,1787100710000,45,45,FT,2nd of 2 free throws made,9716.0,300672.0,645,510000,Q3,135064,True,1.0,0.0,0.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,14.6,8-16 ft.,1779,SSD
+subst,0:21,1787100718000,45,45,SUBST,Substitution out,9716.0,217250.0,646,511000,Q3,135064,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1779,SSD
+subst,0:21,1787100718000,45,45,SUBST,Substitution in,9716.0,363373.0,647,512000,Q3,135064,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1779,SSD
+subst,0:21,1787100723000,45,45,SUBST,Substitution out,14.0,401377.0,648,513000,Q3,135064,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1779,ARG
+subst,0:21,1787100723000,45,45,SUBST,Substitution in,14.0,163689.0,649,514000,Q3,135064,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1779,ARG
+unknwown,0:05,1787100745000,45,45,FOUL,Personal foul; 2 free throws awarded,9716.0,363373.0,654,519000,Q3,135064,,,,,,,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1795,SSD
+unknwown,0:05,1787100745000,45,45,RFOUL,foul drawn,14.0,163689.0,655,519002,Q3,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1795,ARG
+subst,0:05,1787100774000,45,45,SUBST,Substitution out,9716.0,259170.0,656,520000,Q3,135064,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1795,SSD
+subst,0:05,1787100774000,45,45,SUBST,Substitution out,9716.0,300673.0,657,521000,Q3,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1795,SSD
+subst,0:05,1787100774000,45,45,SUBST,Substitution out,9716.0,363373.0,658,522000,Q3,135064,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1795,SSD
+subst,0:05,1787100774000,45,45,SUBST,Substitution in,9716.0,217250.0,659,523000,Q3,135064,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1795,SSD
+subst,0:05,1787100774000,45,45,SUBST,Substitution in,9716.0,373877.0,660,524000,Q3,135064,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1795,SSD
+subst,0:05,1787100774000,45,45,SUBST,Substitution in,9716.0,300668.0,661,525000,Q3,135064,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1795,SSD
+shot,0:05,1787100779000,45,46,FT,1st of 2 free throws made,14.0,163689.0,662,526000,Q3,135064,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,14.6,8-16 ft.,1795,ARG
+shot,0:05,1787100790000,45,47,FT,2nd of 2 free throws made,14.0,163689.0,663,527000,Q3,135064,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,14.6,8-16 ft.,1795,ARG
+subst,0:05,1787100797000,45,47,SUBST,Substitution out,14.0,163689.0,664,528000,Q3,135064,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1795,ARG
+subst,0:05,1787100797000,45,47,SUBST,Substitution in,14.0,401377.0,665,529000,Q3,135064,,,,,,IN,14.0,Sofia Lombardero,Argentina,13.0,Q3,,,,1795,ARG
+shot,0:01,1787100825000,45,47,P3,"3PtsFG back court, jump shot missed",9716.0,300672.0,668,532000,Q3,135064,False,3.0,252.0,243.0,,,9716.0,Perina Leime,South Sudan,21.0,Q3,Above the Break 3,23.2,22+ ft.,1799,SSD
+periods,0:00,1787100959000,45,47,ENDP,End of period,,,671,535000,Q3,135064,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787100979000,45,47,SUBST,Substitution out,14.0,302892.0,672,536000,Q4,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution out,14.0,401377.0,673,537000,Q4,135064,,,,,,OUT,14.0,Sofia Lombardero,Argentina,13.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution out,14.0,159332.0,674,538000,Q4,135064,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution out,14.0,419538.0,675,539000,Q4,135064,,,,,,OUT,14.0,Olivia Oltmann,Argentina,21.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution in,14.0,221602.0,676,540000,Q4,135064,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution in,14.0,170619.0,677,541000,Q4,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution in,14.0,163689.0,678,542000,Q4,135064,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1800,ARG
+subst,10:00,1787100979000,45,47,SUBST,Substitution in,14.0,214723.0,679,543000,Q4,135064,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,1800,ARG
+periods,10:00,1787100980000,45,47,STARTP,Start of period,,,680,544000,Q4,135064,,,,,,,,,,,Q4,,,,1800,
+shot,9:54,1787100986000,45,47,P2,2pt floating jump shot missed,9716.0,300672.0,682,546000,Q4,135064,False,2.0,210.0,41.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,Mid-Range,7.0,Less Than 8 ft.,1806,SSD
+unknwown,9:51,1787100990000,45,47,REB,offensive rebound,9716.0,217250.0,683,546002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1809,SSD
+shot,9:50,1787100991000,47,47,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,217250.0,684,547000,Q4,135064,True,2.0,133.0,30.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Restricted Area,1.2,Less Than 8 ft.,1810,SSD
+shot,9:26,1787101014000,47,47,P2,2pt floating jump shot missed,14.0,200337.0,685,548000,Q4,135064,False,2.0,148.0,61.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,In The Paint (Non-RA),2.2,Less Than 8 ft.,1834,ARG
+unknwown,9:24,1787101017000,47,47,REB,defensive rebound,9716.0,217250.0,686,548002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1836,SSD
+shot,9:15,1787101026000,49,47,P2,"2PtsFG under the basket, fast break, turnaround jump shot made",9716.0,373877.0,687,549000,Q4,135064,True,2.0,124.0,39.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,1.6,Less Than 8 ft.,1845,SSD
+unknwown,9:15,1787101026000,49,47,ASS,made the assist,9716.0,300672.0,688,549001,Q4,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1845,SSD
+shot,8:53,1787101048000,49,47,P2,"2PtsFG inside right, jump shot missed",14.0,214723.0,689,550000,Q4,135064,False,2.0,190.0,102.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Mid-Range,8.0,8-16 ft.,1867,ARG
+unknwown,8:50,1787101050000,49,47,REB,defensive rebound,9716.0,374577.0,690,550002,Q4,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1870,SSD
+shot,8:25,1787101079000,52,47,P3,3pt jump shot made,9716.0,300672.0,694,554000,Q4,135064,True,3.0,45.0,152.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,Above the Break 3,14.7,8-16 ft.,1895,SSD
+timeout,8:22,1787101091000,52,47,TIMO,Timeout,14.0,,697,557000,Q4,135064,,,,,,,,,,,Q4,,,,1898,
+subst,8:22,1787101184000,52,47,SUBST,Substitution out,14.0,221602.0,698,558000,Q4,135064,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1898,ARG
+subst,8:22,1787101184000,52,47,SUBST,Substitution out,14.0,200337.0,699,559000,Q4,135064,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,1898,ARG
+subst,8:22,1787101184000,52,47,SUBST,Substitution in,14.0,301664.0,701,561000,Q4,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,1898,ARG
+subst,8:22,1787101184000,52,47,SUBST,Substitution in,14.0,159332.0,703,563000,Q4,135064,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1898,ARG
+shot,8:03,1787101204000,52,49,P2,2pt pullup jump shot made,14.0,163689.0,705,565000,Q4,135064,True,2.0,223.0,72.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.9,8-16 ft.,1917,ARG
+unknwown,7:48,1787101221000,52,49,JS,jump ball situation; throw-in,14.0,,711,571000,Q4,135064,,,,,,,,,,,Q4,,,,1932,
+unknwown,7:48,1787101223000,52,49,TO,turnover; ball handling,9716.0,300672.0,712,572000,Q4,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1932,SSD
+unknwown,7:48,1787101223000,52,49,ST,steal,14.0,170619.0,713,572001,Q4,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1932,ARG
+unknwown,7:29,1787101252000,52,49,FOUL,Personal foul; 2 free throws awarded,9716.0,373877.0,718,577000,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1951,SSD
+unknwown,7:29,1787101252000,52,49,RFOUL,foul drawn,14.0,301664.0,719,577002,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,1951,ARG
+shot,7:29,1787101271000,52,50,FT,1st of 2 free throws made,14.0,301664.0,720,578000,Q4,135064,True,1.0,0.0,0.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,14.6,8-16 ft.,1951,ARG
+unknwown,7:29,1787101271000,52,50,ASS,made the assist,14.0,163689.0,721,578001,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1951,ARG
+shot,7:29,1787101285000,52,51,FT,2nd of 2 free throws made,14.0,301664.0,722,579000,Q4,135064,True,1.0,0.0,0.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,14.6,8-16 ft.,1951,ARG
+unknwown,7:11,1787101312000,52,51,FOUL,Personal foul; 2 free throws awarded,14.0,163689.0,727,584000,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1969,ARG
+unknwown,7:11,1787101312000,52,51,RFOUL,foul drawn,9716.0,217250.0,728,584002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1969,SSD
+shot,7:11,1787101339000,52,51,FT,1st of 2 free throws missed,9716.0,217250.0,729,585000,Q4,135064,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,1969,SSD
+shot,7:11,1787101346000,53,51,FT,2nd of 2 free throws made,9716.0,217250.0,730,586000,Q4,135064,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,1969,SSD
+shot,6:56,1787101366000,53,51,P2,2pt pullup jump shot missed,14.0,163689.0,732,588000,Q4,135064,False,2.0,70.0,88.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.5,8-16 ft.,1984,ARG
+unknwown,6:51,1787101371000,53,51,REB,defensive rebound,9716.0,217250.0,733,588002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1989,SSD
+unknwown,6:48,1787101383000,53,51,FOUL,Personal foul,14.0,170619.0,735,590000,Q4,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1992,ARG
+unknwown,6:48,1787101383000,53,51,RFOUL,foul drawn,9716.0,373877.0,736,590002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,1992,SSD
+subst,6:48,1787101395000,53,51,SUBST,Substitution out,14.0,170619.0,737,591000,Q4,135064,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1992,ARG
+subst,6:48,1787101395000,53,51,SUBST,Substitution in,14.0,302892.0,738,592000,Q4,135064,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,1992,ARG
+shot,6:42,1787101409000,53,51,P2,"2PtsFG under the basket, layup missed",9716.0,300668.0,742,596000,Q4,135064,False,2.0,141.0,30.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Restricted Area,1.0,Less Than 8 ft.,1998,SSD
+unknwown,6:39,1787101412000,53,51,REB,defensive rebound,14.0,163689.0,743,596002,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2001,ARG
+shot,6:34,1787101418000,53,53,P2,"2PtsFG under the basket, layup made",14.0,301664.0,744,597000,Q4,135064,True,2.0,133.0,44.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2006,ARG
+unknwown,6:34,1787101418000,53,53,ASS,made the assist,14.0,214723.0,746,597001,Q4,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2006,ARG
+unknwown,6:26,1787101438000,53,53,FOUL,Personal foul,14.0,159332.0,749,601000,Q4,135064,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2014,ARG
+unknwown,6:26,1787101438000,53,53,RFOUL,foul drawn,9716.0,374577.0,750,601002,Q4,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2014,SSD
+shot,6:17,1787101448000,53,53,P2,2pt fadeaway jump shot missed,9716.0,217250.0,752,603000,Q4,135064,False,2.0,113.0,76.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,In The Paint (Non-RA),4.5,Less Than 8 ft.,2023,SSD
+unknwown,6:12,1787101456000,53,53,REB,offensive rebound,9716.0,217250.0,753,603002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2028,SSD
+shot,6:11,1787101460000,53,53,P3,3pt jump shot missed,9716.0,300668.0,755,605000,Q4,135064,False,3.0,23.0,127.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Above the Break 3,14.6,8-16 ft.,2029,SSD
+unknwown,6:11,1787101463000,53,53,TREB,team defensive rebound,14.0,,756,605002,Q4,135064,,,,,,,,,,,Q4,,,,2029,
+unknwown,6:08,1787101477000,53,53,FOUL,Personal foul,9716.0,300672.0,759,608000,Q4,135064,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2032,SSD
+unknwown,6:08,1787101477000,53,53,RFOUL,foul drawn,14.0,163689.0,760,608002,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2032,ARG
+subst,6:03,1787101499000,53,53,SUBST,Substitution out,14.0,159332.0,762,610000,Q4,135064,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2037,ARG
+subst,6:03,1787101499000,53,53,SUBST,Substitution in,14.0,221602.0,763,611000,Q4,135064,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2037,ARG
+subst,6:03,1787101633000,53,53,SUBST,Substitution out,9716.0,300672.0,771,611250,Q4,135064,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2037,SSD
+subst,6:03,1787101633000,53,53,SUBST,Substitution in,9716.0,300673.0,772,611500,Q4,135064,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2037,SSD
+shot,5:54,1787101503000,53,53,P2,"2PtsFG under the basket, layup missed",14.0,301664.0,764,612000,Q4,135064,False,2.0,136.0,37.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,Restricted Area,0.5,Less Than 8 ft.,2046,ARG
+unknwown,5:51,1787101505000,53,53,REB,defensive rebound,9716.0,373877.0,765,612002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2049,SSD
+unknwown,5:50,1787101510000,53,53,TO,turnover; ball handling,9716.0,217250.0,767,614000,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2050,SSD
+unknwown,5:50,1787101506000,53,53,ST,steal,14.0,214723.0,885,614001,Q4,135064,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2050,ARG
+shot,5:50,1787101515000,53,53,P2,"2PtsFG inside paint, points from fastbreak + after turnover, layup missed",14.0,214723.0,768,615000,Q4,135064,False,2.0,162.0,41.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Restricted Area,2.2,Less Than 8 ft.,2050,ARG
+unknwown,5:50,1787101522000,53,53,REB,defensive rebound,9716.0,300673.0,769,615002,Q4,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2050,SSD
+unknwown,5:35,1787101553000,53,53,FOUL,Personal foul,9716.0,300673.0,775,621000,Q4,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2065,SSD
+unknwown,5:35,1787101553000,53,53,RFOUL,foul drawn,14.0,163689.0,776,621002,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2065,ARG
+shot,5:07,1787101585000,53,55,P2,"2PtsFG inside right wing, jump shot made",14.0,163689.0,780,625000,Q4,135064,True,2.0,209.0,40.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,6.9,Less Than 8 ft.,2093,ARG
+timeout,5:07,1787101591000,53,55,TIMO,Timeout,9716.0,,781,626000,Q4,135064,,,,,,,,,,,Q4,,,,2093,
+shot,4:44,1787101723000,53,55,P2,layup missed,9716.0,373877.0,783,628000,Q4,135064,False,2.0,118.0,43.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,2.2,Less Than 8 ft.,2116,SSD
+unknwown,4:40,1787101726000,53,55,REB,defensive rebound,14.0,302892.0,784,628002,Q4,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2120,ARG
+shot,4:37,1787101731000,53,55,P2,"2PtsFG inside center, fast break, jump shot missed",14.0,163689.0,785,629000,Q4,135064,False,2.0,181.0,109.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.0,8-16 ft.,2123,ARG
+unknwown,4:32,1787101735000,53,55,REB,defensive rebound,9716.0,217250.0,786,629002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2128,SSD
+shot,4:23,1787101744000,53,55,P3,3pt jump shot missed,9716.0,374577.0,787,630000,Q4,135064,False,3.0,211.0,164.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,14.3,8-16 ft.,2137,SSD
+unknwown,4:21,1787101746000,53,55,REB,defensive rebound,14.0,301664.0,788,630002,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2139,ARG
+unknwown,4:19,1787101756000,53,55,FOUL,Personal foul,9716.0,300673.0,790,632000,Q4,135064,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2141,SSD
+unknwown,4:19,1787101756000,53,55,RFOUL,foul drawn,14.0,301664.0,791,632002,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2141,ARG
+subst,4:19,1787101781000,53,55,SUBST,Substitution out,9716.0,300673.0,792,633000,Q4,135064,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2141,SSD
+subst,4:19,1787101781000,53,55,SUBST,Substitution in,9716.0,259170.0,793,634000,Q4,135064,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,2141,SSD
+shot,4:06,1787101799000,53,55,P3,3pt jump shot from center missed,14.0,301664.0,795,636000,Q4,135064,False,3.0,105.0,175.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,Above the Break 3,13.9,8-16 ft.,2154,ARG
+unknwown,4:03,1787101802000,53,55,REB,defensive rebound,9716.0,373877.0,796,636002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2157,SSD
+shot,3:51,1787101839000,53,55,P3,3pt jump shot missed,9716.0,374577.0,799,639000,Q4,135064,False,3.0,252.0,114.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.4,8-16 ft.,2169,SSD
+unknwown,3:49,1787101841000,53,55,REB,defensive rebound,14.0,221602.0,800,639002,Q4,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2171,ARG
+shot,3:35,1787101858000,53,57,P2,"2PtsFG under the basket, driving layup made",14.0,163689.0,803,642000,Q4,135064,True,2.0,147.0,41.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Restricted Area,0.7,Less Than 8 ft.,2185,ARG
+unknwown,3:17,1787101879000,53,57,FOUL,Personal foul,14.0,301664.0,807,646000,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2203,ARG
+unknwown,3:17,1787101879000,53,57,RFOUL,foul drawn,9716.0,217250.0,808,646002,Q4,135064,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2203,SSD
+shot,3:11,1787101904000,55,57,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,810,648000,Q4,135064,True,2.0,147.0,41.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,0.7,Less Than 8 ft.,2209,SSD
+unknwown,3:11,1787101904000,55,57,ASS,made the assist,9716.0,374577.0,811,648001,Q4,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2209,SSD
+unknwown,2:57,1787101925000,55,57,FOUL,Offensive foul,14.0,301664.0,815,652000,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2223,ARG
+unknwown,2:57,1787101925000,55,57,TO,turnover,14.0,301664.0,816,652001,Q4,135064,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2223,ARG
+unknwown,2:57,1787101925000,55,57,RFOUL,foul drawn,9716.0,374577.0,817,652002,Q4,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2223,SSD
+subst,2:57,1787101950000,55,57,SUBST,Substitution out,14.0,301664.0,818,653000,Q4,135064,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2223,ARG
+subst,2:57,1787101950000,55,57,SUBST,Substitution out,14.0,302892.0,819,654000,Q4,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2223,ARG
+subst,2:57,1787101950000,55,57,SUBST,Substitution in,14.0,170619.0,820,655000,Q4,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2223,ARG
+subst,2:57,1787101950000,55,57,SUBST,Substitution in,14.0,200337.0,821,656000,Q4,135064,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2223,ARG
+unknwown,2:41,1787101981000,55,57,TO,turnover; bad pass,9716.0,373877.0,824,659000,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2239,SSD
+shot,2:29,1787101999000,55,57,P2,"2PtsFG under the basket, points after turnover, layup missed",14.0,170619.0,826,661000,Q4,135064,False,2.0,140.0,28.0,,,14.0,Diana Cabrera,Argentina,7.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2251,ARG
+unknwown,2:26,1787102002000,55,57,REB,defensive rebound,9716.0,373877.0,827,661002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2254,SSD
+shot,2:10,1787102018000,58,57,P3,3pt jump shot made,9716.0,259170.0,828,662000,Q4,135064,True,3.0,264.0,99.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,Above the Break 3,13.7,8-16 ft.,2270,SSD
+unknwown,2:10,1787102018000,58,57,ASS,made the assist,9716.0,374577.0,829,662001,Q4,135064,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2270,SSD
+shot,1:47,1787102041000,58,59,P2,2pt pullup jump shot made,14.0,163689.0,830,663000,Q4,135064,True,2.0,198.0,99.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.3,8-16 ft.,2293,ARG
+unknwown,1:34,1787102081000,58,59,TTO,team turnover; 8 seconds violation,9716.0,,836,667000,Q4,135064,,,,,,,,,,,Q4,,,,2306,
+shot,1:23,1787102096000,58,59,P2,"2PtsFG inside paint, points after turnover, reverse lay-up missed",14.0,163689.0,838,669000,Q4,135064,False,2.0,183.0,36.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,In The Paint (Non-RA),4.3,Less Than 8 ft.,2317,ARG
+unknwown,1:20,1787102099000,58,59,REB,offensive rebound,14.0,163689.0,839,669002,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2320,ARG
+shot,1:10,1787102110000,58,59,P2,"2PtsFG inside center, points from second chance + after turnover, jump shot missed",14.0,214723.0,840,670000,Q4,135064,False,2.0,189.0,112.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Mid-Range,8.7,8-16 ft.,2330,ARG
+unknwown,1:07,1787102112000,58,59,REB,offensive rebound,14.0,221602.0,841,670002,Q4,135064,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2333,ARG
+shot,0:53,1787102130000,58,61,P2,"2PtsFG under the basket, points from second chance + after turnover, jump shot made",14.0,200337.0,845,674000,Q4,135064,True,2.0,154.0,31.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2347,ARG
+timeout,0:53,1787102142000,58,61,TIMO,Timeout,9716.0,,846,675000,Q4,135064,,,,,,,,,,,Q4,,,,2347,
+subst,0:53,1787102222000,58,61,SUBST,Substitution out,14.0,170619.0,847,676000,Q4,135064,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2347,ARG
+subst,0:53,1787102222000,58,61,SUBST,Substitution out,14.0,214723.0,848,677000,Q4,135064,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2347,ARG
+subst,0:53,1787102222000,58,61,SUBST,Substitution in,14.0,301664.0,849,678000,Q4,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2347,ARG
+subst,0:53,1787102222000,58,61,SUBST,Substitution in,14.0,302892.0,850,679000,Q4,135064,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2347,ARG
+unknwown,0:42,1787102254000,58,61,FOUL,Personal foul; 2 free throws awarded,14.0,302892.0,855,684000,Q4,135064,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2358,ARG
+unknwown,0:42,1787102254000,58,61,RFOUL,foul drawn,9716.0,373877.0,856,684002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2358,SSD
+subst,0:42,1787102272000,58,61,SUBST,Substitution out,14.0,301664.0,857,685000,Q4,135064,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2358,ARG
+subst,0:42,1787102272000,58,61,SUBST,Substitution out,14.0,302892.0,858,686000,Q4,135064,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q4,,,,2358,ARG
+subst,0:42,1787102272000,58,61,SUBST,Substitution in,14.0,170619.0,859,687000,Q4,135064,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2358,ARG
+subst,0:42,1787102272000,58,61,SUBST,Substitution in,14.0,214723.0,860,688000,Q4,135064,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2358,ARG
+shot,0:42,1787102286000,58,61,FT,1st of 2 free throws missed,9716.0,373877.0,861,689000,Q4,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,14.6,8-16 ft.,2358,SSD
+shot,0:42,1787102300000,58,61,FT,2nd of 2 free throws missed,9716.0,373877.0,862,690000,Q4,135064,False,1.0,0.0,0.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,14.6,8-16 ft.,2358,SSD
+unknwown,0:42,1787102301000,58,61,REB,defensive rebound,14.0,163689.0,864,690002,Q4,135064,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2358,ARG
+shot,0:19,1787102324000,58,61,P2,2pt floating jump shot missed,14.0,200337.0,865,692000,Q4,135064,False,2.0,213.0,84.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Mid-Range,8.5,8-16 ft.,2381,ARG
+unknwown,0:17,1787102327000,58,61,REB,defensive rebound,9716.0,373877.0,866,692002,Q4,135064,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2383,SSD
+shot,0:07,1787102341000,61,61,P3,3pt jump shot made,9716.0,374577.0,872,698000,Q4,135064,True,3.0,202.0,155.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.1,8-16 ft.,2393,SSD
+timeout,0:07,1787102353000,61,61,TIMO,Timeout,14.0,,873,699000,Q4,135064,,,,,,,,,,,Q4,,,,2393,
+subst,0:07,1787102442000,61,61,SUBST,Substitution out,14.0,200337.0,874,700000,Q4,135064,,,,,,OUT,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2393,ARG
+subst,0:07,1787102442000,61,61,SUBST,Substitution in,14.0,301664.0,875,701000,Q4,135064,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2393,ARG
+shot,0:00,1787102480000,61,64,P3,3pt jump shot made,14.0,214723.0,878,704000,Q4,135064,True,3.0,61.0,161.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Above the Break 3,14.5,8-16 ft.,2400,ARG
+unknwown,0:00,1787102480000,61,64,ASS,made the assist,14.0,170619.0,879,704001,Q4,135064,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2400,ARG
+periods,0:00,1787102688000,61,64,ENDP,End of period,,,882,707000,Q4,135064,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787102691000,61,64,ENDG,End of game,,,883,708000,Q4,135064,,,,,,,,,,,Q4,,,,2400,
