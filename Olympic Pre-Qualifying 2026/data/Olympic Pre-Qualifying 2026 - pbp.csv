@@ -4018,3 +4018,564 @@ shot,0:16,1787188049000,38,85,P2,"2PtsFG under the basket, pullup jump shot made
 shot,0:01,1787188065000,38,85,P3,3pt jump shot missed,122.0,323169.0,773,589000,Q4,135069,False,3.0,49.0,150.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,14.3,8-16 ft.,2399,PHI
 periods,0:00,1787188156000,38,85,ENDP,End of period,,,776,592000,Q4,135069,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787188192000,38,85,ENDG,End of game,,,777,593000,Q4,135069,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787193046000,0,0,STARTG,Start of game,,,1,1000,Q1,135070,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787193046000,0,0,STARTP,Start of period,,,2,2000,Q1,135070,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787193046000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135070,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787193047000,0,0,JB,jump ball won,134.0,290089.0,5,4001,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,1,SEN
+unknwown,9:59,1787193047000,0,0,JB,jump ball lost,104.0,268370.0,6,4002,Q1,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,1,MEX
+shot,9:54,1787193055000,2,0,P2,"2PtsFG under the basket, fast break, jump shot made",134.0,290089.0,8,6000,Q1,135070,True,2.0,141.0,26.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,Restricted Area,1.4,Less Than 8 ft.,6,SEN
+unknwown,9:54,1787193055000,2,0,ASS,made the assist,134.0,273042.0,9,6001,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,6,SEN
+unknwown,9:54,1787193060000,2,0,FOUL,Personal foul; 1 free throw awarded,104.0,215141.0,10,7000,Q1,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,6,MEX
+unknwown,9:54,1787193060000,2,0,RFOUL,foul drawn,134.0,290089.0,11,7002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,6,SEN
+shot,9:54,1787193076000,3,0,FT,1st free throw made,134.0,290089.0,12,8000,Q1,135070,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,6,SEN
+shot,9:27,1787193104000,3,0,P2,layup missed,104.0,215141.0,14,10000,Q1,135070,False,2.0,121.0,61.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,In The Paint (Non-RA),2.8,Less Than 8 ft.,33,MEX
+unknwown,9:27,1787193104000,3,0,BS,blocked the shot,134.0,287408.0,15,10001,Q1,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,33,SEN
+unknwown,9:24,1787193107000,3,0,REB,defensive rebound,134.0,290089.0,16,10002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,36,SEN
+unknwown,9:14,1787193123000,3,0,FOUL,Personal foul; 2 free throws awarded,104.0,319031.0,18,12000,Q1,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,46,MEX
+unknwown,9:14,1787193123000,3,0,RFOUL,foul drawn,134.0,287408.0,19,12002,Q1,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,46,SEN
+shot,9:14,1787193150000,3,0,FT,1st of 2 free throws missed,134.0,287408.0,20,13000,Q1,135070,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,46,SEN
+shot,9:14,1787193160000,4,0,FT,2nd of 2 free throws made,134.0,287408.0,21,14000,Q1,135070,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,46,SEN
+unknwown,9:14,1787193160000,4,0,ASS,made the assist,134.0,290089.0,22,14001,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,46,SEN
+unknwown,9:06,1787193170000,4,0,TO,turnover; ball handling,104.0,319031.0,24,16000,Q1,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,54,MEX
+unknwown,9:06,1787193170000,4,0,ST,steal,134.0,273042.0,25,16001,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,54,SEN
+shot,8:49,1787193188000,4,0,P3,3pt jump shot missed,134.0,273042.0,26,17000,Q1,135070,False,3.0,191.0,166.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,13.6,8-16 ft.,71,SEN
+unknwown,8:45,1787193191000,4,0,REB,offensive rebound,134.0,273042.0,27,17002,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,75,SEN
+shot,8:41,1787193196000,4,0,P3,3pt jump shot missed,134.0,287408.0,28,18000,Q1,135070,False,3.0,214.0,147.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,Above the Break 3,13.0,8-16 ft.,79,SEN
+unknwown,8:36,1787193199000,4,0,REB,defensive rebound,104.0,268370.0,29,18002,Q1,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,84,MEX
+shot,8:19,1787193237000,4,3,P3,3pt jump shot made,104.0,268451.0,34,23000,Q1,135070,True,3.0,207.0,149.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Above the Break 3,12.8,8-16 ft.,101,MEX
+unknwown,8:19,1787193237000,4,3,ASS,made the assist,104.0,215141.0,35,23001,Q1,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,101,MEX
+shot,7:56,1787193260000,4,3,P2,2pt jump shot missed,134.0,186583.0,36,24000,Q1,135070,False,2.0,30.0,36.0,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,Mid-Range,11.0,8-16 ft.,124,SEN
+unknwown,7:53,1787193262000,4,3,REB,defensive rebound,104.0,268370.0,37,24002,Q1,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,127,MEX
+shot,7:47,1787193268000,4,3,P2,"2PtsFG under the basket, driving layup missed",104.0,213361.0,38,25000,Q1,135070,False,2.0,157.0,42.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Restricted Area,1.7,Less Than 8 ft.,133,MEX
+unknwown,7:42,1787193273000,4,3,REB,offensive rebound,104.0,213361.0,39,25002,Q1,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,138,MEX
+shot,7:40,1787193275000,4,3,P3,3pt jump shot missed,104.0,268451.0,40,26000,Q1,135070,False,3.0,98.0,166.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Above the Break 3,13.3,8-16 ft.,140,MEX
+unknwown,7:38,1787193277000,4,3,REB,offensive rebound,104.0,268451.0,41,26002,Q1,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,142,MEX
+shot,7:32,1787193284000,4,5,P2,2pt fadeaway jump shot made,104.0,268370.0,42,27000,Q1,135070,True,2.0,79.0,54.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Mid-Range,6.3,Less Than 8 ft.,148,MEX
+shot,7:07,1787193308000,4,5,P2,2pt floating jump shot missed,134.0,278227.0,43,28000,Q1,135070,False,2.0,85.0,32.0,,,134.0,Sabou Gueye,Senegal,7.0,Q1,Mid-Range,5.6,Less Than 8 ft.,173,SEN
+unknwown,7:04,1787193311000,4,5,REB,offensive rebound,134.0,186583.0,44,28002,Q1,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,,,,176,SEN
+unknwown,7:03,1787193314000,4,5,TTO,team turnover; shot clock violation,134.0,,46,30000,Q1,135070,,,,,,,,,,,Q1,,,,177,
+shot,6:54,1787193346000,4,5,P3,3pt pullup jump shot missed,104.0,213361.0,48,32000,Q1,135070,False,3.0,140.0,171.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Above the Break 3,13.1,8-16 ft.,186,MEX
+unknwown,6:50,1787193349000,4,5,REB,offensive rebound,104.0,319031.0,49,32002,Q1,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,190,MEX
+shot,6:48,1787193352000,4,5,P3,3pt jump shot missed,104.0,268370.0,50,33000,Q1,135070,False,3.0,39.0,129.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,13.5,8-16 ft.,192,MEX
+unknwown,6:41,1787193358000,4,5,REB,defensive rebound,134.0,287408.0,51,33002,Q1,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,199,SEN
+unknwown,6:40,1787193360000,4,5,TO,turnover; ball handling,134.0,287408.0,52,34000,Q1,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,200,SEN
+unknwown,6:40,1787193360000,4,5,ST,steal,104.0,268451.0,53,34001,Q1,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,200,MEX
+shot,6:36,1787193364000,4,7,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",104.0,319031.0,54,35000,Q1,135070,True,2.0,120.0,36.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,2.0,Less Than 8 ft.,204,MEX
+unknwown,6:36,1787193364000,4,7,ASS,made the assist,104.0,268451.0,55,35001,Q1,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,204,MEX
+shot,6:15,1787193387000,6,7,P2,layup made,134.0,290089.0,58,38000,Q1,135070,True,2.0,167.0,36.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,In The Paint (Non-RA),2.7,Less Than 8 ft.,225,SEN
+unknwown,6:15,1787193387000,6,7,ASS,made the assist,134.0,273042.0,59,38001,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,225,SEN
+shot,5:54,1787193407000,6,10,P3,3pt jump shot made,104.0,268370.0,60,39000,Q1,135070,True,3.0,50.0,138.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,13.3,8-16 ft.,246,MEX
+unknwown,5:54,1787193407000,6,10,ASS,made the assist,104.0,215141.0,61,39001,Q1,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,246,MEX
+shot,5:35,1787193427000,6,10,P3,3pt jump shot from center missed,134.0,273042.0,62,40000,Q1,135070,False,3.0,138.0,166.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,12.6,8-16 ft.,265,SEN
+unknwown,5:29,1787193432000,6,10,REB,offensive rebound,134.0,290089.0,63,40002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,271,SEN
+unknwown,5:21,1787194228000,6,10,TO,turnover; ball handling,134.0,273042.0,162,41000,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,279,SEN
+unknwown,5:21,1787194228000,6,10,ST,steal,104.0,268451.0,163,41001,Q1,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,279,MEX
+shot,5:21,1787193443000,6,13,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot made",104.0,268370.0,67,42000,Q1,135070,True,3.0,58.0,142.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,13.1,8-16 ft.,279,MEX
+unknwown,5:21,1787193442000,6,13,ASS,made the assist,104.0,213361.0,68,42001,Q1,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,279,MEX
+unknwown,4:59,1787193463000,6,13,TO,turnover; ball handling,134.0,278227.0,70,44000,Q1,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,301,SEN
+subst,4:59,1787193475000,6,13,SUBST,Substitution out,134.0,186583.0,71,45000,Q1,135070,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q1,,,,301,SEN
+subst,4:59,1787193475000,6,13,SUBST,Substitution in,134.0,272478.0,72,46000,Q1,135070,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,301,SEN
+subst,4:59,1787193475000,6,13,SUBST,Substitution out,104.0,215141.0,73,47000,Q1,135070,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,301,MEX
+subst,4:59,1787193475000,6,13,SUBST,Substitution in,104.0,317694.0,74,48000,Q1,135070,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,301,MEX
+shot,4:52,1787193488000,6,13,P3,3pt jump shot missed,104.0,268370.0,76,50000,Q1,135070,False,3.0,83.0,157.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,13.0,8-16 ft.,308,MEX
+unknwown,4:47,1787193492000,6,13,REB,defensive rebound,134.0,290089.0,77,50002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,313,SEN
+shot,4:39,1787193500000,6,13,P2,"2PtsFG under the basket, turnaround jump shot missed",134.0,272478.0,78,51000,Q1,135070,False,2.0,126.0,27.0,,,134.0,Fanta Gassama,Senegal,10.0,Q1,Restricted Area,1.9,Less Than 8 ft.,321,SEN
+unknwown,4:36,1787193502000,6,13,REB,offensive rebound,134.0,290089.0,79,51002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,324,SEN
+shot,4:35,1787193504000,6,13,P2,"2PtsFG under the basket, jump shot missed",134.0,290089.0,80,52000,Q1,135070,False,2.0,136.0,32.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,Restricted Area,0.9,Less Than 8 ft.,325,SEN
+unknwown,4:32,1787193506000,6,13,REB,offensive rebound,134.0,272478.0,81,52002,Q1,135070,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,328,SEN
+shot,4:32,1787193508000,6,13,P2,"2PtsFG under the basket, jump shot missed",134.0,272478.0,82,53000,Q1,135070,False,2.0,150.0,26.0,,,134.0,Fanta Gassama,Senegal,10.0,Q1,Restricted Area,1.7,Less Than 8 ft.,328,SEN
+unknwown,4:32,1787193508000,6,13,BS,blocked the shot,104.0,268370.0,83,53001,Q1,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,328,MEX
+unknwown,4:28,1787193511000,6,13,REB,defensive rebound,104.0,268370.0,84,53002,Q1,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,332,MEX
+shot,4:18,1787193521000,6,13,P3,3pt jump shot missed,104.0,268451.0,85,54000,Q1,135070,False,3.0,8.0,42.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Right Corner 3,13.2,8-16 ft.,342,MEX
+unknwown,4:14,1787193525000,6,13,REB,defensive rebound,134.0,290089.0,86,54002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,346,SEN
+unknwown,3:57,1787193546000,6,13,FOUL,Personal foul; 2 free throws awarded,104.0,268451.0,88,56000,Q1,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,363,MEX
+unknwown,3:57,1787193546000,6,13,RFOUL,foul drawn,134.0,290089.0,89,56002,Q1,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,363,SEN
+subst,3:57,1787193595000,6,13,SUBST,Substitution out,134.0,278227.0,90,57000,Q1,135070,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,363,SEN
+subst,3:57,1787193595000,6,13,SUBST,Substitution out,134.0,287408.0,91,58000,Q1,135070,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,363,SEN
+subst,3:57,1787193595000,6,13,SUBST,Substitution in,134.0,203560.0,92,59000,Q1,135070,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q1,,,,363,SEN
+subst,3:57,1787193595000,6,13,SUBST,Substitution in,134.0,274485.0,93,60000,Q1,135070,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,363,SEN
+subst,3:57,1787193595000,6,13,SUBST,Substitution out,104.0,268370.0,94,61000,Q1,135070,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,363,MEX
+subst,3:57,1787193595000,6,13,SUBST,Substitution out,104.0,213361.0,95,62000,Q1,135070,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,363,MEX
+subst,3:57,1787193595000,6,13,SUBST,Substitution out,104.0,268451.0,96,63000,Q1,135070,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q1,,,,363,MEX
+subst,3:57,1787193595000,6,13,SUBST,Substitution in,104.0,227782.0,97,64000,Q1,135070,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q1,,,,363,MEX
+subst,3:57,1787193595000,6,13,SUBST,Substitution in,104.0,235869.0,98,65000,Q1,135070,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,363,MEX
+subst,3:57,1787193595000,6,13,SUBST,Substitution in,104.0,302969.0,99,66000,Q1,135070,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,363,MEX
+shot,3:57,1787193596000,7,13,FT,1st of 2 free throws made,134.0,290089.0,100,67000,Q1,135070,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,363,SEN
+shot,3:57,1787193604000,7,13,FT,2nd of 2 free throws missed,134.0,290089.0,102,68000,Q1,135070,False,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,363,SEN
+unknwown,3:56,1787193610000,7,13,TREB,team defensive rebound,104.0,,105,68002,Q1,135070,,,,,,,,,,,Q1,,,,364,
+subst,3:56,1787193615000,7,13,SUBST,Substitution out,134.0,290089.0,106,71000,Q1,135070,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q1,,,,364,SEN
+subst,3:56,1787193615000,7,13,SUBST,Substitution in,134.0,231012.0,107,72000,Q1,135070,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,364,SEN
+shot,3:32,1787193643000,7,13,P2,"2PtsFG under the basket, jump shot missed",104.0,235869.0,109,74000,Q1,135070,False,2.0,136.0,43.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,Restricted Area,0.5,Less Than 8 ft.,388,MEX
+unknwown,3:28,1787193646000,7,13,REB,defensive rebound,134.0,231012.0,110,74002,Q1,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,392,SEN
+shot,3:28,1787193648000,7,13,P3,3pt jump shot from center missed,134.0,274485.0,111,75000,Q1,135070,False,3.0,144.0,170.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,Above the Break 3,13.0,8-16 ft.,392,SEN
+unknwown,3:25,1787193650000,7,13,REB,defensive rebound,104.0,317694.0,112,75002,Q1,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,395,MEX
+shot,3:20,1787193655000,7,13,P2,"2PtsFG under the basket, layup missed",104.0,319031.0,113,76000,Q1,135070,False,2.0,136.0,35.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,0.6,Less Than 8 ft.,400,MEX
+unknwown,3:16,1787193658000,7,13,REB,defensive rebound,134.0,231012.0,114,76002,Q1,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,404,SEN
+unknwown,3:01,1787193680000,7,13,FOUL,Personal foul; 2 free throws awarded,104.0,227782.0,116,78000,Q1,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,419,MEX
+unknwown,3:01,1787193680000,7,13,RFOUL,foul drawn,134.0,273042.0,117,78002,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,419,SEN
+subst,3:01,1787193688000,7,13,SUBST,Substitution out,104.0,319031.0,118,79000,Q1,135070,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,419,MEX
+subst,3:01,1787193688000,7,13,SUBST,Substitution in,104.0,268375.0,119,80000,Q1,135070,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,419,MEX
+shot,3:01,1787193702000,7,13,FT,1st of 2 free throws missed,134.0,273042.0,120,81000,Q1,135070,False,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,419,SEN
+shot,3:01,1787193712000,8,13,FT,2nd of 2 free throws made,134.0,273042.0,121,82000,Q1,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,419,SEN
+shot,2:39,1787193739000,8,16,P3,3pt jump shot made,104.0,268375.0,123,84000,Q1,135070,True,3.0,8.0,37.0,,,104.0,Morelia Chavez,Mexico,18.0,Q1,Right Corner 3,13.2,8-16 ft.,441,MEX
+unknwown,2:39,1787193739000,8,16,ASS,made the assist,104.0,317694.0,124,84001,Q1,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,441,MEX
+shot,2:19,1787193760000,11,16,P3,3pt step back jump shot made,134.0,273042.0,125,85000,Q1,135070,True,3.0,105.0,167.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,13.2,8-16 ft.,461,SEN
+shot,2:00,1787193778000,11,18,P2,"2PtsFG inside paint, eurostep made",104.0,227782.0,126,86000,Q1,135070,True,2.0,135.0,62.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,In The Paint (Non-RA),2.3,Less Than 8 ft.,480,MEX
+unknwown,2:00,1787193778000,11,18,ASS,made the assist,104.0,302969.0,132,86001,Q1,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,480,MEX
+shot,1:39,1787193798000,11,18,P2,2pt turnaround jump shot missed,134.0,274485.0,127,87000,Q1,135070,False,2.0,201.0,36.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,Mid-Range,6.1,Less Than 8 ft.,501,SEN
+unknwown,1:37,1787193800000,11,18,REB,defensive rebound,104.0,302969.0,128,87002,Q1,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,503,MEX
+shot,1:33,1787193806000,11,21,P3,3pt pullup jump shot made,104.0,302969.0,129,88000,Q1,135070,True,3.0,22.0,122.0,,,104.0,Loriette Maciel,Mexico,27.0,Q1,Above the Break 3,14.4,8-16 ft.,507,MEX
+timeout,1:30,1787193818000,11,21,TIMO,Timeout,134.0,,131,90000,Q1,135070,,,,,,,,,,,Q1,,,,510,
+shot,1:11,1787193942000,11,21,P3,3pt jump shot missed,134.0,272478.0,134,92000,Q1,135070,False,3.0,272.0,60.0,,,134.0,Fanta Gassama,Senegal,10.0,Q1,Left Corner 3,13.4,8-16 ft.,529,SEN
+unknwown,1:08,1787193944000,11,21,REB,defensive rebound,104.0,227782.0,135,92002,Q1,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,532,MEX
+unknwown,1:04,1787193951000,11,21,FOUL,Personal foul; 3 free throws awarded,134.0,272478.0,137,94000,Q1,135070,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,536,SEN
+unknwown,1:04,1787193951000,11,21,RFOUL,foul drawn,104.0,227782.0,138,94002,Q1,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,536,MEX
+shot,1:03,1787193974000,11,22,FT,1st of 3 free throws made,104.0,227782.0,139,95000,Q1,135070,True,1.0,0.0,0.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,,14.6,8-16 ft.,537,MEX
+unknwown,1:03,1787193974000,11,22,ASS,made the assist,104.0,317694.0,140,95001,Q1,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,537,MEX
+shot,1:03,1787193988000,11,23,FT,2nd of 3 free throws made,104.0,227782.0,141,96000,Q1,135070,True,1.0,0.0,0.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,,14.6,8-16 ft.,537,MEX
+shot,1:03,1787194002000,11,24,FT,3rd of 3 free throws made,104.0,227782.0,142,97000,Q1,135070,True,1.0,0.0,0.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,,14.6,8-16 ft.,537,MEX
+unknwown,0:56,1787194020000,11,24,FOUL,Offensive foul,134.0,203560.0,145,100000,Q1,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,544,SEN
+unknwown,0:56,1787194020000,11,24,TO,turnover,134.0,203560.0,146,100001,Q1,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,544,SEN
+unknwown,0:56,1787194020000,11,24,RFOUL,foul drawn,104.0,227782.0,147,100002,Q1,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,544,MEX
+shot,0:36,1787194050000,11,24,P3,3pt jump shot missed,104.0,317694.0,149,102000,Q1,135070,False,3.0,246.0,123.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,13.5,8-16 ft.,564,MEX
+unknwown,0:33,1787194052000,11,24,REB,defensive rebound,134.0,272478.0,150,102002,Q1,135070,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,567,SEN
+shot,0:28,1787194057000,11,24,P3,3pt jump shot missed,134.0,273042.0,151,103000,Q1,135070,False,3.0,61.0,143.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Above the Break 3,13.0,8-16 ft.,572,SEN
+unknwown,0:22,1787194062000,11,24,REB,offensive rebound,134.0,273042.0,152,103002,Q1,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,578,SEN
+unknwown,0:21,1787194068000,11,24,TO,turnover; travelling,134.0,231012.0,154,105000,Q1,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,579,SEN
+shot,0:13,1787194090000,11,27,P3,3pt jump shot made,104.0,317694.0,156,107000,Q1,135070,True,3.0,266.0,78.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,13.2,8-16 ft.,587,MEX
+unknwown,0:13,1787194090000,11,27,ASS,made the assist,104.0,227782.0,157,107001,Q1,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,587,MEX
+periods,0:00,1787194190000,11,27,ENDP,End of period,,,161,110000,Q1,135070,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787194244000,11,27,SUBST,Substitution out,134.0,272478.0,164,111000,Q2,135070,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,600,SEN
+subst,10:00,1787194244000,11,27,SUBST,Substitution out,134.0,274485.0,165,112000,Q2,135070,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,600,SEN
+subst,10:00,1787194244000,11,27,SUBST,Substitution in,134.0,186583.0,166,113000,Q2,135070,,,,,,IN,134.0,Bintou Lo Sylla,Senegal,16.0,Q2,,,,600,SEN
+subst,10:00,1787194244000,11,27,SUBST,Substitution in,134.0,287408.0,167,114000,Q2,135070,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,600,SEN
+periods,10:00,1787194256000,11,27,STARTP,Start of period,,,168,115000,Q2,135070,,,,,,,,,,,Q2,,,,600,
+unknwown,9:41,1787194276000,11,27,TO,turnover; bad pass,104.0,317694.0,170,117000,Q2,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,619,MEX
+unknwown,9:41,1787194275000,11,27,ST,steal,134.0,273042.0,171,117001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,619,SEN
+unknwown,9:35,1787194290000,11,27,FOUL,Personal foul,104.0,302969.0,173,119000,Q2,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,625,MEX
+unknwown,9:35,1787194290000,11,27,RFOUL,foul drawn,134.0,273042.0,174,119002,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,625,SEN
+shot,9:26,1787194327000,13,27,P2,"2PtsFG under the basket, points after turnover, turnaround jump shot made",134.0,231012.0,177,122000,Q2,135070,True,2.0,153.0,30.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q2,Restricted Area,1.6,Less Than 8 ft.,634,SEN
+unknwown,9:26,1787194327000,13,27,ASS,made the assist,134.0,273042.0,178,122001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,634,SEN
+unknwown,9:26,1787194330000,13,27,FOUL,Personal foul; 1 free throw awarded,104.0,235869.0,179,123000,Q2,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,634,MEX
+unknwown,9:26,1787194330000,13,27,RFOUL,foul drawn,134.0,231012.0,180,123002,Q2,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,634,SEN
+shot,9:26,1787194352000,14,27,FT,1st free throw made,134.0,231012.0,181,124000,Q2,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q2,,14.6,8-16 ft.,634,SEN
+shot,9:08,1787194387000,14,27,P2,"2PtsFG under the basket, driving layup missed",104.0,235869.0,185,128000,Q2,135070,False,2.0,124.0,37.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,Restricted Area,1.6,Less Than 8 ft.,652,MEX
+unknwown,9:05,1787194389000,14,27,REB,offensive rebound,104.0,235869.0,186,128002,Q2,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,655,MEX
+shot,9:00,1787194395000,14,27,P3,3pt jump shot missed,104.0,227782.0,187,129000,Q2,135070,False,3.0,37.0,153.0,,,104.0,Karina Esquer,Mexico,4.0,Q2,Above the Break 3,15.3,8-16 ft.,660,MEX
+unknwown,8:57,1787194398000,14,27,TREB,team defensive rebound,134.0,,188,129002,Q2,135070,,,,,,,,,,,Q2,,,,663,
+shot,8:43,1787194420000,14,27,P2,2pt turnaround jump shot missed,134.0,287408.0,191,132000,Q2,135070,False,2.0,171.0,43.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,In The Paint (Non-RA),3.1,Less Than 8 ft.,677,SEN
+unknwown,8:36,1787194429000,14,27,TREB,team defensive rebound,104.0,,193,132002,Q2,135070,,,,,,,,,,,Q2,,,,684,
+subst,8:36,1787194439000,14,27,SUBST,Substitution out,104.0,235869.0,194,134000,Q2,135070,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,684,MEX
+subst,8:36,1787194439000,14,27,SUBST,Substitution out,104.0,302969.0,195,135000,Q2,135070,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,684,MEX
+subst,8:36,1787194439000,14,27,SUBST,Substitution in,104.0,268370.0,196,136000,Q2,135070,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,684,MEX
+subst,8:36,1787194439000,14,27,SUBST,Substitution in,104.0,268451.0,197,137000,Q2,135070,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q2,,,,684,MEX
+subst,8:36,1787194447000,14,27,SUBST,Substitution out,134.0,231012.0,198,138000,Q2,135070,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,684,SEN
+subst,8:36,1787194447000,14,27,SUBST,Substitution in,134.0,290189.0,199,139000,Q2,135070,,,,,,IN,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,684,SEN
+shot,8:16,1787194476000,14,27,P2,2pt turnaround jump shot missed,104.0,268370.0,201,141000,Q2,135070,False,2.0,136.0,53.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,In The Paint (Non-RA),1.4,Less Than 8 ft.,704,MEX
+unknwown,8:13,1787194479000,14,27,REB,defensive rebound,134.0,290189.0,202,141002,Q2,135070,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,707,SEN
+unknwown,8:06,1787194486000,14,27,TO,turnover; bad pass,134.0,273042.0,203,142000,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,714,SEN
+unknwown,8:06,1787194486000,14,27,ST,steal,104.0,227782.0,204,142001,Q2,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,714,MEX
+shot,8:00,1787194493000,14,30,P3,"3PtsFG outside right, points from fastbreak + after turnover, jump shot made",104.0,317694.0,206,144000,Q2,135070,True,3.0,267.0,83.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,13.4,8-16 ft.,720,MEX
+unknwown,8:00,1787194493000,14,30,ASS,made the assist,104.0,227782.0,207,144001,Q2,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,720,MEX
+unknwown,8:00,1787194499000,14,30,FOUL,Personal foul,134.0,287408.0,208,145000,Q2,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,720,SEN
+unknwown,8:00,1787194499000,14,30,RFOUL,foul drawn,104.0,317694.0,209,145002,Q2,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,720,MEX
+subst,8:00,1787194511000,14,30,SUBST,Substitution out,104.0,227782.0,210,146000,Q2,135070,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q2,,,,720,MEX
+subst,8:00,1787194511000,14,30,SUBST,Substitution in,104.0,213361.0,211,147000,Q2,135070,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,720,MEX
+subst,8:00,1787194937000,14,30,SUBST,Substitution out,134.0,203560.0,219,147250,Q2,135070,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q2,,,,720,SEN
+subst,8:00,1787194937000,14,30,SUBST,Substitution in,134.0,278227.0,220,147500,Q2,135070,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,720,SEN
+unknwown,7:51,1787194559000,14,30,TO,turnover; bad pass,104.0,268370.0,213,149000,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,729,MEX
+unknwown,7:51,1787194559000,14,30,ST,steal,134.0,273042.0,214,149001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,729,SEN
+shot,7:46,1787194564000,14,30,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,273042.0,215,150000,Q2,135070,False,2.0,145.0,32.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Restricted Area,0.9,Less Than 8 ft.,734,SEN
+unknwown,7:43,1787194567000,14,30,REB,defensive rebound,104.0,268370.0,216,150002,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,737,MEX
+shot,7:40,1787194572000,14,30,P3,3pt pullup jump shot missed,104.0,317694.0,217,151000,Q2,135070,False,3.0,25.0,118.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,13.9,8-16 ft.,740,MEX
+unknwown,7:34,1787194575000,14,30,REB,defensive rebound,134.0,186583.0,218,151002,Q2,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q2,,,,746,SEN
+shot,7:16,1787194594000,14,30,P3,3pt pullup jump shot missed,134.0,287408.0,221,154000,Q2,135070,False,3.0,171.0,166.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,Above the Break 3,13.0,8-16 ft.,764,SEN
+unknwown,7:13,1787194597000,14,30,REB,defensive rebound,104.0,268451.0,222,154002,Q2,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,767,MEX
+shot,6:58,1787194613000,14,32,P2,"2PtsFG under the basket, driving layup made",104.0,268375.0,224,155000,Q2,135070,True,2.0,155.0,35.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,Restricted Area,1.6,Less Than 8 ft.,782,MEX
+unknwown,6:58,1787194613000,14,32,ASS,made the assist,104.0,317694.0,721,155001,Q2,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,782,MEX
+shot,6:38,1787194633000,17,32,P3,3pt jump shot from center made,134.0,273042.0,225,156000,Q2,135070,True,3.0,147.0,165.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,12.5,8-16 ft.,802,SEN
+unknwown,6:38,1787194633000,17,32,ASS,made the assist,134.0,290189.0,226,156001,Q2,135070,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,802,SEN
+shot,6:17,1787194654000,17,32,P2,2pt floating jump shot missed,104.0,213361.0,227,157000,Q2,135070,False,2.0,83.0,28.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Mid-Range,5.8,Less Than 8 ft.,823,MEX
+unknwown,6:14,1787194656000,17,32,REB,defensive rebound,134.0,287408.0,228,157002,Q2,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,826,SEN
+unknwown,6:13,1787194658000,17,32,TO,turnover; ball handling,134.0,287408.0,229,158000,Q2,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,827,SEN
+unknwown,6:13,1787194658000,17,32,ST,steal,104.0,213361.0,230,158001,Q2,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,827,MEX
+shot,6:08,1787194662000,17,32,P2,2pt floating jump shot missed,104.0,213361.0,231,159000,Q2,135070,False,2.0,84.0,44.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Mid-Range,5.6,Less Than 8 ft.,832,MEX
+unknwown,6:05,1787194665000,17,32,REB,defensive rebound,134.0,290189.0,232,159002,Q2,135070,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,835,SEN
+shot,5:59,1787194671000,17,32,P2,2pt jump shot missed,134.0,290189.0,233,160000,Q2,135070,False,2.0,59.0,33.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,Mid-Range,8.1,8-16 ft.,841,SEN
+unknwown,5:57,1787194681000,17,32,TREB,team defensive rebound,104.0,,235,160002,Q2,135070,,,,,,,,,,,Q2,,,,843,
+unknwown,5:57,1787194683000,17,32,FOUL,Personal foul,134.0,186583.0,236,162000,Q2,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q2,,,,843,SEN
+unknwown,5:57,1787194683000,17,32,RFOUL,foul drawn,104.0,213361.0,237,162002,Q2,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,843,MEX
+subst,5:57,1787194697000,17,32,SUBST,Substitution out,134.0,290189.0,238,163000,Q2,135070,,,,,,OUT,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,843,SEN
+subst,5:57,1787194697000,17,32,SUBST,Substitution in,134.0,272478.0,239,164000,Q2,135070,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,843,SEN
+subst,5:57,1787194697000,17,32,SUBST,Substitution out,104.0,317694.0,240,165000,Q2,135070,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,843,MEX
+subst,5:57,1787194697000,17,32,SUBST,Substitution in,104.0,319031.0,241,166000,Q2,135070,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,843,MEX
+subst,5:57,1787194809000,17,32,SUBST,Substitution out,134.0,272478.0,243,166500,Q2,135070,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,843,SEN
+subst,5:57,1787194809000,17,32,SUBST,Substitution in,134.0,290089.0,244,166750,Q2,135070,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q2,,,,843,SEN
+shot,5:35,1787194721000,17,32,P3,3pt jump shot missed,104.0,268451.0,245,170000,Q2,135070,False,3.0,31.0,145.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Above the Break 3,15.1,8-16 ft.,865,MEX
+unknwown,5:31,1787194724000,17,32,REB,defensive rebound,134.0,278227.0,246,170002,Q2,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,869,SEN
+shot,5:11,1787194746000,19,32,P2,2pt floating jump shot made,134.0,287408.0,247,171000,Q2,135070,True,2.0,232.0,36.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,Mid-Range,9.2,8-16 ft.,889,SEN
+unknwown,5:11,1787194746000,19,32,ASS,made the assist,134.0,273042.0,248,171001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,889,SEN
+unknwown,4:52,1787194766000,19,32,FOUL,Personal foul; 2 free throws awarded,134.0,287408.0,250,173000,Q2,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,908,SEN
+unknwown,4:52,1787194766000,19,32,RFOUL,foul drawn,104.0,268375.0,251,173002,Q2,135070,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,908,MEX
+subst,4:52,1787194792000,19,32,SUBST,Substitution out,134.0,287408.0,252,174000,Q2,135070,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,908,SEN
+subst,4:52,1787194792000,19,32,SUBST,Substitution in,134.0,274485.0,253,175000,Q2,135070,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,908,SEN
+shot,4:52,1787194813000,19,33,FT,1st of 2 free throws made,104.0,268375.0,254,176000,Q2,135070,True,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,14.6,8-16 ft.,908,MEX
+unknwown,4:52,1787194813000,19,33,ASS,made the assist,104.0,213361.0,255,176001,Q2,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,908,MEX
+shot,4:52,1787194814000,19,33,FT,2nd of 2 free throws missed,104.0,268375.0,256,177000,Q2,135070,False,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,14.6,8-16 ft.,908,MEX
+unknwown,4:52,1787194815000,19,33,REB,defensive rebound,134.0,290089.0,258,177002,Q2,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,908,SEN
+shot,4:45,1787194822000,21,33,P2,"2PtsFG under the basket, jump shot made",134.0,290089.0,259,179000,Q2,135070,True,2.0,163.0,32.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,Restricted Area,2.4,Less Than 8 ft.,915,SEN
+unknwown,4:45,1787194822000,21,33,ASS,made the assist,134.0,278227.0,260,179001,Q2,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,915,SEN
+unknwown,4:28,1787194840000,21,33,TO,turnover; ball handling,104.0,268370.0,262,181000,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,932,MEX
+unknwown,4:28,1787194840000,21,33,ST,steal,134.0,273042.0,263,181001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,932,SEN
+unknwown,4:28,1787194845000,21,33,FOUL,Unsportsmanlike foul; 2 free throws awarded,104.0,268370.0,264,182000,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,932,MEX
+unknwown,4:28,1787194845000,21,33,RFOUL,foul drawn,134.0,273042.0,265,182002,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,932,SEN
+timeout,4:28,1787194871000,21,33,TIMO,Timeout,104.0,,266,183000,Q2,135070,,,,,,,,,,,Q2,,,,932,
+shot,4:28,1787194979000,21,33,FT,Free throw missed 1 of 2,134.0,273042.0,267,184000,Q2,135070,False,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,932,SEN
+shot,4:28,1787194982000,22,33,FT,Free throw made 2 of 2,134.0,273042.0,268,185000,Q2,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,932,SEN
+subst,4:28,1787194991000,22,33,SUBST,Substitution out,104.0,268375.0,269,186000,Q2,135070,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,932,MEX
+subst,4:28,1787194991000,22,33,SUBST,Substitution in,104.0,215141.0,270,187000,Q2,135070,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,932,MEX
+shot,4:16,1787195011000,24,33,P2,layup made,134.0,290089.0,272,189000,Q2,135070,True,2.0,164.0,40.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,Restricted Area,2.4,Less Than 8 ft.,944,SEN
+unknwown,4:16,1787195011000,24,33,ASS,made the assist,134.0,273042.0,273,189001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,944,SEN
+shot,3:53,1787195033000,24,33,P2,"2PtsFG under the basket, reverse lay-up missed",104.0,268370.0,274,190000,Q2,135070,False,2.0,130.0,32.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Restricted Area,1.3,Less Than 8 ft.,967,MEX
+unknwown,3:49,1787195042000,24,33,REB,offensive rebound,104.0,319031.0,276,190002,Q2,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,971,MEX
+unknwown,3:49,1787195044000,24,33,FOUL,Personal foul,134.0,290089.0,277,192000,Q2,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,971,SEN
+unknwown,3:49,1787195044000,24,33,RFOUL,foul drawn,104.0,319031.0,278,192002,Q2,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,971,MEX
+shot,3:36,1787195081000,24,33,P2,"2PtsFG under the basket, driving layup missed",104.0,268451.0,281,195000,Q2,135070,False,2.0,121.0,39.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Restricted Area,1.9,Less Than 8 ft.,984,MEX
+unknwown,3:36,1787195081000,24,33,BS,blocked the shot,134.0,273042.0,282,195001,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,984,SEN
+unknwown,3:36,1787195088000,24,33,TREB,team offensive rebound,104.0,,283,195002,Q2,135070,,,,,,,,,,,Q2,,,,984,
+shot,3:32,1787195094000,24,33,P3,3pt jump shot missed,104.0,319031.0,285,197000,Q2,135070,False,3.0,208.0,143.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,Above the Break 3,12.3,8-16 ft.,988,MEX
+unknwown,3:30,1787195096000,24,33,REB,offensive rebound,104.0,215141.0,286,197002,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,990,MEX
+shot,3:21,1787195106000,24,36,P3,3pt jump shot made,104.0,268370.0,287,198000,Q2,135070,True,3.0,44.0,141.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Above the Break 3,13.9,8-16 ft.,999,MEX
+unknwown,3:21,1787195106000,24,36,ASS,made the assist,104.0,213361.0,288,198001,Q2,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,999,MEX
+unknwown,3:01,1787195125000,24,36,TO,turnover; ball handling,134.0,274485.0,289,199000,Q2,135070,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,1019,SEN
+unknwown,3:01,1787195125000,24,36,ST,steal,104.0,215141.0,290,199001,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1019,MEX
+unknwown,2:51,1787195139000,24,36,FOUL,Personal foul; 2 free throws awarded,134.0,274485.0,292,201000,Q2,135070,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,1029,SEN
+unknwown,2:51,1787195139000,24,36,RFOUL,foul drawn,104.0,215141.0,293,201002,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1029,MEX
+subst,2:51,1787195158000,24,36,SUBST,Substitution out,134.0,274485.0,294,202000,Q2,135070,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,1029,SEN
+subst,2:51,1787195158000,24,36,SUBST,Substitution in,134.0,287408.0,295,203000,Q2,135070,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,1029,SEN
+shot,2:51,1787195174000,24,36,FT,Free throw missed 1 of 2,104.0,215141.0,296,204000,Q2,135070,False,1.0,0.0,0.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,14.6,8-16 ft.,1029,MEX
+shot,2:51,1787195190000,24,37,FT,Free throw made 2 of 2,104.0,215141.0,297,205000,Q2,135070,True,1.0,0.0,0.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,14.6,8-16 ft.,1029,MEX
+unknwown,2:51,1787195190000,24,37,ASS,made the assist,104.0,319031.0,298,205001,Q2,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1029,MEX
+shot,2:41,1787195205000,26,37,P2,"2PtsFG under the basket, layup made",134.0,290089.0,300,207000,Q2,135070,True,2.0,153.0,27.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,Restricted Area,1.8,Less Than 8 ft.,1039,SEN
+unknwown,2:18,1787195231000,26,37,FOUL,Offensive foul,104.0,268370.0,302,209000,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1062,MEX
+unknwown,2:18,1787195231000,26,37,TO,turnover,104.0,268370.0,303,209001,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1062,MEX
+unknwown,2:18,1787195231000,26,37,RFOUL,foul drawn,134.0,273042.0,304,209002,Q2,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,1062,SEN
+shot,1:59,1787195273000,26,37,P2,2pt turnaround jump shot missed,134.0,278227.0,306,211000,Q2,135070,False,2.0,132.0,69.0,,,134.0,Sabou Gueye,Senegal,7.0,Q2,In The Paint (Non-RA),3.0,Less Than 8 ft.,1081,SEN
+unknwown,1:56,1787195276000,26,37,REB,defensive rebound,104.0,268370.0,307,211002,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1084,MEX
+unknwown,1:51,1787195281000,26,37,TO,turnover; bad pass,104.0,213361.0,308,212000,Q2,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1089,MEX
+unknwown,1:51,1787195281000,26,37,ST,steal,134.0,278227.0,309,212001,Q2,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,1089,SEN
+unknwown,1:46,1787195286000,26,37,TO,turnover; bad pass,134.0,278227.0,310,213000,Q2,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,1094,SEN
+unknwown,1:46,1787195286000,26,37,ST,steal,104.0,215141.0,311,213001,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1094,MEX
+shot,1:30,1787195302000,26,40,P3,3pt jump shot made,104.0,268451.0,312,214000,Q2,135070,True,3.0,188.0,167.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Above the Break 3,13.6,8-16 ft.,1110,MEX
+unknwown,1:30,1787195302000,26,40,ASS,made the assist,104.0,215141.0,313,214001,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1110,MEX
+timeout,1:24,1787195311000,26,40,TIMO,Timeout,134.0,,315,216000,Q2,135070,,,,,,,,,,,Q2,,,,1116,
+subst,1:20,1787195405000,26,40,SUBST,Substitution out,134.0,278227.0,318,219000,Q2,135070,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q2,,,,1120,SEN
+subst,1:20,1787195405000,26,40,SUBST,Substitution in,134.0,303627.0,319,220000,Q2,135070,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q2,,,,1120,SEN
+subst,1:20,1787195405000,26,40,SUBST,Substitution out,104.0,213361.0,320,221000,Q2,135070,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1120,MEX
+subst,1:20,1787195405000,26,40,SUBST,Substitution in,104.0,227782.0,321,222000,Q2,135070,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q2,,,,1120,MEX
+shot,1:03,1787195441000,28,40,P2,"2PtsFG under the basket, driving layup made",134.0,273042.0,323,224000,Q2,135070,True,2.0,136.0,42.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Restricted Area,0.4,Less Than 8 ft.,1137,SEN
+shot,0:39,1787195465000,28,40,P2,2pt driving layup missed,104.0,319031.0,324,225000,Q2,135070,False,2.0,143.0,66.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,In The Paint (Non-RA),2.6,Less Than 8 ft.,1161,MEX
+unknwown,0:35,1787195467000,28,40,REB,defensive rebound,134.0,303627.0,325,225002,Q2,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,1165,SEN
+unknwown,0:34,1787195470000,28,40,TO,turnover; ball handling,134.0,303627.0,326,226000,Q2,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,1166,SEN
+unknwown,0:34,1787195470000,28,40,ST,steal,104.0,319031.0,327,226001,Q2,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1166,MEX
+shot,0:26,1787195580000,28,40,P2,"2PtsFG under the basket, points after turnover, layup missed",104.0,319031.0,334,226500,Q2,135070,False,2.0,148.0,39.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,Restricted Area,0.8,Less Than 8 ft.,1174,MEX
+unknwown,0:26,1787195580000,28,40,REB,offensive rebound,104.0,268370.0,335,226502,Q2,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1174,MEX
+shot,0:26,1787195482000,28,40,P2,"2PtsFG under the basket, points from second chance + after turnover, layup missed",104.0,268370.0,328,227000,Q2,135070,False,2.0,136.0,43.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Restricted Area,0.5,Less Than 8 ft.,1174,MEX
+unknwown,0:17,1787195486000,28,40,REB,defensive rebound,134.0,303627.0,329,227002,Q2,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,1183,SEN
+shot,0:08,1787195495000,28,40,P3,3pt pullup jump shot missed,134.0,273042.0,330,228000,Q2,135070,False,3.0,31.0,120.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,13.5,8-16 ft.,1192,SEN
+unknwown,0:03,1787195500000,28,40,REB,defensive rebound,104.0,215141.0,331,228002,Q2,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1197,MEX
+shot,0:00,1787195541000,28,40,P3,3pt jump shot missed,104.0,268451.0,333,228500,Q2,135070,False,3.0,42.0,140.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Above the Break 3,14.0,8-16 ft.,1200,MEX
+periods,0:00,1787195656000,28,40,ENDP,End of period,,,336,230000,Q2,135070,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787196429000,28,40,SUBST,Substitution out,134.0,303627.0,337,231000,Q3,135070,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q3,,,,1200,SEN
+subst,10:00,1787196429000,28,40,SUBST,Substitution in,134.0,278227.0,338,232000,Q3,135070,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1200,SEN
+subst,10:00,1787196429000,28,40,SUBST,Substitution out,104.0,268451.0,339,233000,Q3,135070,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1200,MEX
+subst,10:00,1787196429000,28,40,SUBST,Substitution in,104.0,317694.0,340,234000,Q3,135070,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1200,MEX
+periods,10:00,1787196430000,28,40,STARTP,Start of period,,,341,235000,Q3,135070,,,,,,,,,,,Q3,,,,1200,
+shot,9:43,1787196448000,28,40,P2,2pt driving layup missed,134.0,273042.0,343,237000,Q3,135070,False,2.0,106.0,40.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,In The Paint (Non-RA),3.4,Less Than 8 ft.,1217,SEN
+unknwown,9:39,1787196451000,28,40,REB,offensive rebound,134.0,290089.0,344,237002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1221,SEN
+shot,9:37,1787196453000,30,40,P2,2pt jump shot made,134.0,273042.0,345,238000,Q3,135070,True,2.0,109.0,43.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,In The Paint (Non-RA),3.1,Less Than 8 ft.,1223,SEN
+unknwown,9:37,1787196453000,30,40,ASS,made the assist,134.0,290089.0,346,238001,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1223,SEN
+unknwown,9:30,1787196461000,30,40,TO,turnover; ball handling,104.0,227782.0,347,239000,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1230,MEX
+unknwown,9:30,1787196461000,30,40,ST,steal,134.0,278227.0,348,239001,Q3,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1230,SEN
+shot,9:26,1787196464000,30,40,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,278227.0,349,240000,Q3,135070,False,2.0,156.0,28.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1234,SEN
+unknwown,9:23,1787196467000,30,40,REB,defensive rebound,104.0,227782.0,350,240002,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1237,MEX
+shot,9:21,1787196471000,30,43,P3,3pt jump shot made,104.0,317694.0,352,242000,Q3,135070,True,3.0,17.0,91.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,13.3,8-16 ft.,1239,MEX
+unknwown,9:21,1787196471000,30,43,ASS,made the assist,104.0,227782.0,353,242001,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1239,MEX
+unknwown,9:21,1787196477000,30,43,FOUL,Personal foul; 1 free throw awarded,134.0,273042.0,354,243000,Q3,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1239,SEN
+unknwown,9:21,1787196477000,30,43,RFOUL,foul drawn,104.0,317694.0,355,243002,Q3,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1239,MEX
+shot,9:21,1787196505000,30,44,FT,1st free throw made,104.0,317694.0,356,244000,Q3,135070,True,1.0,0.0,0.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,14.6,8-16 ft.,1239,MEX
+unknwown,9:03,1787196530000,30,44,TO,turnover; bad pass,134.0,287408.0,358,246000,Q3,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1257,SEN
+unknwown,9:03,1787196530000,30,44,ST,steal,104.0,317694.0,359,246001,Q3,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1257,MEX
+shot,8:54,1787196539000,30,44,P3,3pt jump shot missed,104.0,268370.0,360,247000,Q3,135070,False,3.0,65.0,144.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,12.8,8-16 ft.,1266,MEX
+unknwown,8:52,1787196541000,30,44,REB,defensive rebound,134.0,290089.0,361,247002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1268,SEN
+unknwown,8:30,1787196566000,30,44,TTO,team turnover; shot clock violation,134.0,,363,249000,Q3,135070,,,,,,,,,,,Q3,,,,1290,
+shot,8:08,1787196603000,30,44,P2,"2PtsFG inside left wing, points after turnover, jump shot missed",104.0,268370.0,365,251000,Q3,135070,False,2.0,26.0,33.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Mid-Range,11.4,8-16 ft.,1312,MEX
+unknwown,8:06,1787196606000,30,44,TREB,team offensive rebound,104.0,,367,251002,Q3,135070,,,,,,,,,,,Q3,,,,1314,
+shot,8:01,1787196631000,30,46,P2,2pt floating jump shot made,104.0,215141.0,371,256000,Q3,135070,True,2.0,176.0,45.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,In The Paint (Non-RA),3.6,Less Than 8 ft.,1319,MEX
+shot,7:36,1787196656000,32,46,P2,"2PtsFG under the basket, layup made",134.0,290089.0,372,257000,Q3,135070,True,2.0,127.0,37.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1344,SEN
+unknwown,7:36,1787196656000,32,46,ASS,made the assist,134.0,278227.0,373,257001,Q3,135070,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1344,SEN
+unknwown,7:26,1787196667000,32,46,TO,turnover; ball handling,104.0,227782.0,375,259000,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1354,MEX
+shot,7:08,1787196692000,32,46,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,186583.0,377,261000,Q3,135070,False,2.0,118.0,33.0,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,Restricted Area,2.3,Less Than 8 ft.,1372,SEN
+unknwown,7:04,1787196697000,32,46,REB,offensive rebound,134.0,290089.0,379,261002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1376,SEN
+unknwown,7:04,1787196703000,32,46,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,380,263000,Q3,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1376,MEX
+unknwown,7:04,1787196703000,32,46,RFOUL,foul drawn,134.0,290089.0,381,263002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1376,SEN
+subst,7:04,1787196719000,32,46,SUBST,Substitution out,104.0,268370.0,382,264000,Q3,135070,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1376,MEX
+subst,7:04,1787196719000,32,46,SUBST,Substitution in,104.0,235869.0,383,265000,Q3,135070,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1376,MEX
+shot,7:04,1787196738000,32,46,FT,1st of 2 free throws missed,134.0,290089.0,384,266000,Q3,135070,False,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1376,SEN
+shot,7:04,1787196752000,33,46,FT,2nd of 2 free throws made,134.0,290089.0,385,267000,Q3,135070,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1376,SEN
+shot,6:48,1787196773000,33,46,P3,3pt jump shot from center missed,104.0,227782.0,389,271000,Q3,135070,False,3.0,151.0,163.0,,,104.0,Karina Esquer,Mexico,4.0,Q3,Above the Break 3,12.3,8-16 ft.,1392,MEX
+unknwown,6:45,1787196776000,33,46,REB,defensive rebound,134.0,186583.0,390,271002,Q3,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1395,SEN
+shot,6:39,1787196782000,33,46,P2,2pt fadeaway jump shot missed,134.0,273042.0,391,272000,Q3,135070,False,2.0,124.0,116.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Mid-Range,7.8,Less Than 8 ft.,1401,SEN
+unknwown,6:36,1787196785000,33,46,REB,defensive rebound,104.0,227782.0,392,272002,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1404,MEX
+shot,6:30,1787196791000,33,49,P3,3pt jump shot made,104.0,317694.0,393,273000,Q3,135070,True,3.0,273.0,43.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Left Corner 3,13.3,8-16 ft.,1410,MEX
+unknwown,6:30,1787196791000,33,49,ASS,made the assist,104.0,227782.0,394,273001,Q3,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1410,MEX
+unknwown,6:08,1787196816000,33,49,FOUL,Offensive foul,134.0,186583.0,396,275000,Q3,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1432,SEN
+unknwown,6:08,1787196816000,33,49,TO,turnover,134.0,186583.0,397,275001,Q3,135070,,,,,,,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1432,SEN
+unknwown,6:08,1787196816000,33,49,RFOUL,foul drawn,104.0,319031.0,398,275002,Q3,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1432,MEX
+subst,6:08,1787196830000,33,49,SUBST,Substitution out,134.0,278227.0,399,276000,Q3,135070,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1432,SEN
+subst,6:08,1787196830000,33,49,SUBST,Substitution out,134.0,186583.0,400,277000,Q3,135070,,,,,,OUT,134.0,Bintou Lo Sylla,Senegal,16.0,Q3,,,,1432,SEN
+subst,6:08,1787196830000,33,49,SUBST,Substitution in,134.0,203560.0,401,278000,Q3,135070,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q3,,,,1432,SEN
+subst,6:08,1787196830000,33,49,SUBST,Substitution in,134.0,272478.0,402,279000,Q3,135070,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1432,SEN
+unknwown,5:54,1787196850000,33,49,TO,turnover; bad pass,104.0,215141.0,404,281000,Q3,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1446,MEX
+unknwown,5:54,1787196850000,33,49,ST,steal,134.0,272478.0,405,281001,Q3,135070,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1446,SEN
+unknwown,5:50,1787196862000,33,49,FOUL,Personal foul; 2 free throws awarded,104.0,215141.0,407,283000,Q3,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1450,MEX
+unknwown,5:50,1787196862000,33,49,RFOUL,foul drawn,134.0,287408.0,408,283002,Q3,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1450,SEN
+shot,5:50,1787196885000,33,49,FT,Free throw missed 1 of 2,134.0,287408.0,409,284000,Q3,135070,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1450,SEN
+shot,5:50,1787196898000,33,49,FT,Free throw missed 2 of 2,134.0,287408.0,410,285000,Q3,135070,False,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,14.6,8-16 ft.,1450,SEN
+unknwown,5:50,1787196900000,33,49,REB,defensive rebound,104.0,319031.0,412,285002,Q3,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1450,MEX
+shot,5:23,1787196927000,33,49,P2,2pt driving layup missed,104.0,319031.0,413,287000,Q3,135070,False,2.0,121.0,58.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,In The Paint (Non-RA),2.6,Less Than 8 ft.,1477,MEX
+unknwown,5:19,1787196930000,33,49,REB,defensive rebound,134.0,290089.0,414,287002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1481,SEN
+shot,4:58,1787196952000,33,49,P2,2pt driving layup missed,134.0,273042.0,415,288000,Q3,135070,False,2.0,130.0,66.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,In The Paint (Non-RA),2.8,Less Than 8 ft.,1502,SEN
+unknwown,4:54,1787196956000,33,49,REB,offensive rebound,134.0,290089.0,416,288002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1506,SEN
+shot,4:51,1787196959000,35,49,P2,"2PtsFG under the basket, jump shot made",134.0,290089.0,417,289000,Q3,135070,True,2.0,146.0,44.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1509,SEN
+shot,4:30,1787196980000,35,49,P3,3pt jump shot missed,104.0,317694.0,418,290000,Q3,135070,False,3.0,192.0,158.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,12.9,8-16 ft.,1530,MEX
+unknwown,4:28,1787196982000,35,49,REB,offensive rebound,104.0,215141.0,419,290002,Q3,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1532,MEX
+shot,4:26,1787196985000,35,52,P3,3pt jump shot made,104.0,317694.0,420,291000,Q3,135070,True,3.0,121.0,160.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,12.1,8-16 ft.,1534,MEX
+unknwown,4:26,1787196985000,35,52,ASS,made the assist,104.0,215141.0,421,291001,Q3,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1534,MEX
+unknwown,4:01,1787197011000,35,52,FOUL,Personal foul; 2 free throws awarded,104.0,235869.0,423,293000,Q3,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1559,MEX
+unknwown,4:01,1787197011000,35,52,RFOUL,foul drawn,134.0,273042.0,424,293002,Q3,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1559,SEN
+subst,4:01,1787197040000,35,52,SUBST,Substitution out,134.0,290089.0,425,294000,Q3,135070,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1559,SEN
+subst,4:01,1787197040000,35,52,SUBST,Substitution in,134.0,231012.0,426,295000,Q3,135070,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1559,SEN
+subst,4:01,1787197040000,35,52,SUBST,Substitution out,104.0,319031.0,427,296000,Q3,135070,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1559,MEX
+subst,4:01,1787197040000,35,52,SUBST,Substitution out,104.0,215141.0,428,297000,Q3,135070,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1559,MEX
+subst,4:01,1787197040000,35,52,SUBST,Substitution in,104.0,268375.0,429,298000,Q3,135070,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1559,MEX
+subst,4:01,1787197040000,35,52,SUBST,Substitution in,104.0,268451.0,430,299000,Q3,135070,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1559,MEX
+shot,4:01,1787197050000,36,52,FT,1st of 2 free throws made,134.0,273042.0,431,300000,Q3,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,14.6,8-16 ft.,1559,SEN
+shot,4:01,1787197062000,37,52,FT,2nd of 2 free throws made,134.0,273042.0,432,301000,Q3,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,14.6,8-16 ft.,1559,SEN
+unknwown,3:49,1787197082000,37,52,FOUL,Personal foul,134.0,287408.0,437,306000,Q3,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1571,SEN
+unknwown,3:49,1787197082000,37,52,RFOUL,foul drawn,104.0,317694.0,438,306002,Q3,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1571,MEX
+subst,3:49,1787197104000,37,52,SUBST,Substitution out,104.0,227782.0,439,307000,Q3,135070,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1571,MEX
+subst,3:49,1787197104000,37,52,SUBST,Substitution in,104.0,213361.0,440,308000,Q3,135070,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1571,MEX
+shot,3:36,1787197127000,37,55,P3,3pt jump shot made,104.0,268451.0,442,310000,Q3,135070,True,3.0,49.0,135.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,Above the Break 3,13.2,8-16 ft.,1584,MEX
+unknwown,3:36,1787197127000,37,55,ASS,made the assist,104.0,235869.0,443,310001,Q3,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1584,MEX
+timeout,3:31,1787197134000,37,55,TIMO,Timeout,134.0,,445,312000,Q3,135070,,,,,,,,,,,Q3,,,,1589,
+shot,3:12,1787197255000,39,55,P2,2pt driving layup made,134.0,287408.0,449,316000,Q3,135070,True,2.0,114.0,39.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,In The Paint (Non-RA),2.6,Less Than 8 ft.,1608,SEN
+shot,2:52,1787197274000,39,57,P2,"2PtsFG under the basket, driving layup made",104.0,235869.0,450,317000,Q3,135070,True,2.0,133.0,32.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1628,MEX
+unknwown,2:52,1787197274000,39,57,ASS,made the assist,104.0,317694.0,451,317001,Q3,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1628,MEX
+shot,2:36,1787197290000,39,57,P2,2pt driving layup missed,134.0,203560.0,452,318000,Q3,135070,False,2.0,164.0,35.0,,,134.0,Maty Fall,Senegal,4.0,Q3,Restricted Area,2.5,Less Than 8 ft.,1644,SEN
+unknwown,2:34,1787197292000,39,57,REB,defensive rebound,104.0,268451.0,453,318002,Q3,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1646,MEX
+unknwown,2:18,1787197309000,39,57,TO,turnover; ball handling,104.0,235869.0,454,319000,Q3,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1662,MEX
+unknwown,2:18,1787197309000,39,57,ST,steal,134.0,231012.0,455,319001,Q3,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1662,SEN
+unknwown,1:53,1787197335000,39,57,TTO,team turnover; shot clock violation,134.0,,457,321000,Q3,135070,,,,,,,,,,,Q3,,,,1687,
+subst,1:53,1787197361000,39,57,SUBST,Substitution out,134.0,287408.0,458,322000,Q3,135070,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1687,SEN
+subst,1:53,1787197361000,39,57,SUBST,Substitution in,134.0,274485.0,459,323000,Q3,135070,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1687,SEN
+subst,1:53,1787197361000,39,57,SUBST,Substitution out,104.0,235869.0,460,324000,Q3,135070,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1687,MEX
+subst,1:53,1787197361000,39,57,SUBST,Substitution in,104.0,227780.0,461,325000,Q3,135070,,,,,,IN,104.0,Angela Carrasco,Mexico,29.0,Q3,,,,1687,MEX
+unknwown,1:41,1787197391000,39,57,FOUL,Personal foul,134.0,272478.0,464,328000,Q3,135070,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1699,SEN
+unknwown,1:41,1787197391000,39,57,RFOUL,foul drawn,104.0,227780.0,465,328002,Q3,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q3,,,,1699,MEX
+unknwown,1:37,1787197415000,39,57,FOUL,Personal foul; 2 free throws awarded,134.0,231012.0,468,331000,Q3,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1703,SEN
+unknwown,1:37,1787197415000,39,57,RFOUL,foul drawn,104.0,268375.0,469,331002,Q3,135070,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1703,MEX
+shot,1:37,1787197433000,39,58,FT,1st of 2 free throws made,104.0,268375.0,470,332000,Q3,135070,True,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,14.6,8-16 ft.,1703,MEX
+shot,1:37,1787197446000,39,59,FT,2nd of 2 free throws made,104.0,268375.0,471,333000,Q3,135070,True,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,14.6,8-16 ft.,1703,MEX
+shot,1:20,1787197467000,39,59,P2,"2PtsFG inside center, jump shot missed",134.0,231012.0,473,335000,Q3,135070,False,2.0,90.0,111.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,Mid-Range,8.7,8-16 ft.,1720,SEN
+unknwown,1:16,1787197469000,39,59,REB,defensive rebound,104.0,227780.0,474,335002,Q3,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q3,,,,1724,MEX
+shot,1:11,1787197475000,39,59,P3,3pt jump shot missed,104.0,317694.0,475,336000,Q3,135070,False,3.0,37.0,116.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,12.8,8-16 ft.,1729,MEX
+unknwown,1:06,1787197479000,39,59,REB,offensive rebound,104.0,268375.0,476,336002,Q3,135070,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1734,MEX
+shot,1:05,1787197480000,39,59,P2,"2PtsFG under the basket, layup missed",104.0,268375.0,477,337000,Q3,135070,False,2.0,138.0,46.0,,,104.0,Morelia Chavez,Mexico,18.0,Q3,Restricted Area,0.6,Less Than 8 ft.,1735,MEX
+unknwown,1:02,1787197483000,39,59,REB,defensive rebound,134.0,231012.0,478,337002,Q3,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1738,SEN
+shot,1:00,1787197487000,39,59,P3,3pt jump shot missed,134.0,272478.0,479,338000,Q3,135070,False,3.0,5.0,29.0,,,134.0,Fanta Gassama,Senegal,10.0,Q3,Right Corner 3,13.5,8-16 ft.,1740,SEN
+unknwown,0:54,1787197491000,39,59,REB,defensive rebound,104.0,213361.0,480,338002,Q3,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1746,MEX
+shot,0:49,1787197497000,39,62,P3,3pt jump shot made,104.0,268451.0,481,339000,Q3,135070,True,3.0,272.0,25.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,Left Corner 3,13.3,8-16 ft.,1751,MEX
+unknwown,0:49,1787197497000,39,62,ASS,made the assist,104.0,317694.0,482,339001,Q3,135070,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1751,MEX
+unknwown,0:28,1787197525000,39,62,FOUL,Personal foul,104.0,268375.0,484,341000,Q3,135070,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1772,MEX
+unknwown,0:28,1787197525000,39,62,RFOUL,foul drawn,134.0,231012.0,485,341002,Q3,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1772,SEN
+subst,0:28,1787197543000,39,62,SUBST,Substitution out,134.0,272478.0,486,342000,Q3,135070,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1772,SEN
+subst,0:28,1787197543000,39,62,SUBST,Substitution in,134.0,290089.0,487,343000,Q3,135070,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1772,SEN
+unknwown,0:22,1787197570000,39,62,FOUL,Unsportsmanlike foul; 2 free throws awarded,104.0,227780.0,490,346000,Q3,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q3,,,,1778,MEX
+unknwown,0:22,1787197570000,39,62,RFOUL,foul drawn,134.0,290089.0,491,346002,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1778,SEN
+shot,0:22,1787197590000,40,62,FT,1st of 2 free throws made,134.0,290089.0,492,347000,Q3,135070,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1778,SEN
+unknwown,0:22,1787197590000,40,62,ASS,made the assist,134.0,203560.0,493,347001,Q3,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q3,,,,1778,SEN
+shot,0:22,1787197601000,41,62,FT,2nd of 2 free throws made,134.0,290089.0,494,348000,Q3,135070,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1778,SEN
+unknwown,0:10,1787197627000,41,62,TO,turnover; bad pass,134.0,290089.0,496,350000,Q3,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1790,SEN
+unknwown,0:10,1787197627000,41,62,ST,steal,104.0,268451.0,497,350001,Q3,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1790,MEX
+unknwown,0:01,1787197636000,41,62,TO,turnover; ball handling,104.0,213361.0,498,351000,Q3,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1799,MEX
+unknwown,0:01,1787197636000,41,62,ST,steal,134.0,203560.0,500,351001,Q3,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q3,,,,1799,SEN
+periods,0:00,1787197658000,41,62,ENDP,End of period,,,501,353000,Q3,135070,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787197793000,41,62,SUBST,Substitution out,104.0,268375.0,502,354000,Q4,135070,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,1800,MEX
+subst,10:00,1787197793000,41,62,SUBST,Substitution out,104.0,227780.0,503,355000,Q4,135070,,,,,,OUT,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,1800,MEX
+subst,10:00,1787197793000,41,62,SUBST,Substitution in,104.0,319031.0,504,356000,Q4,135070,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1800,MEX
+subst,10:00,1787197793000,41,62,SUBST,Substitution in,104.0,268370.0,505,357000,Q4,135070,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1800,MEX
+periods,10:00,1787197813000,41,62,STARTP,Start of period,,,506,358000,Q4,135070,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:37,1787197841000,41,62,FOUL,Personal foul; 2 free throws awarded,134.0,274485.0,509,361000,Q4,135070,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,1823,SEN
+unknwown,9:37,1787197841000,41,62,RFOUL,foul drawn,104.0,268370.0,510,361002,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1823,MEX
+shot,9:37,1787197875000,41,63,FT,1st of 2 free throws made,104.0,268370.0,511,362000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,14.6,8-16 ft.,1823,MEX
+unknwown,9:37,1787197875000,41,63,ASS,made the assist,104.0,268451.0,512,362001,Q4,135070,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,1823,MEX
+shot,9:37,1787197888000,41,64,FT,2nd of 2 free throws made,104.0,268370.0,513,363000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,14.6,8-16 ft.,1823,MEX
+shot,9:22,1787197906000,41,64,P2,"2PtsFG under the basket, jump shot missed",134.0,231012.0,517,367000,Q4,135070,False,2.0,156.0,35.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Restricted Area,1.7,Less Than 8 ft.,1838,SEN
+unknwown,9:17,1787197911000,41,64,REB,offensive rebound,134.0,290089.0,518,367002,Q4,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1843,SEN
+shot,9:14,1787197914000,41,64,P3,3pt jump shot missed,134.0,273042.0,519,368000,Q4,135070,False,3.0,171.0,162.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,12.6,8-16 ft.,1846,SEN
+unknwown,9:12,1787197916000,41,64,REB,offensive rebound,134.0,290089.0,520,368002,Q4,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1848,SEN
+shot,9:11,1787197918000,41,64,P2,"2PtsFG under the basket, layup missed",134.0,290089.0,521,369000,Q4,135070,False,2.0,120.0,41.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Restricted Area,2.0,Less Than 8 ft.,1849,SEN
+unknwown,9:08,1787197920000,41,64,REB,offensive rebound,134.0,231012.0,522,369002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1852,SEN
+shot,9:07,1787197922000,41,64,P2,"2PtsFG under the basket, jump shot missed",134.0,231012.0,523,370000,Q4,135070,False,2.0,128.0,40.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Restricted Area,1.2,Less Than 8 ft.,1853,SEN
+unknwown,9:07,1787197922000,41,64,BS,blocked the shot,104.0,319031.0,524,370001,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1853,MEX
+unknwown,9:03,1787197925000,41,64,REB,defensive rebound,104.0,319031.0,525,370002,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1857,MEX
+shot,8:58,1787197931000,41,64,P3,3pt jump shot missed,104.0,317694.0,526,371000,Q4,135070,False,3.0,272.0,33.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Left Corner 3,13.2,8-16 ft.,1862,MEX
+unknwown,8:55,1787197933000,41,64,REB,defensive rebound,134.0,203560.0,527,371002,Q4,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q4,,,,1865,SEN
+shot,8:48,1787197940000,41,64,P2,2pt floating jump shot missed,134.0,273042.0,528,372000,Q4,135070,False,2.0,150.0,78.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,In The Paint (Non-RA),3.9,Less Than 8 ft.,1872,SEN
+unknwown,8:47,1787197946000,41,64,TREB,team defensive rebound,104.0,,530,372002,Q4,135070,,,,,,,,,,,Q4,,,,1873,
+unknwown,8:47,1787197947000,41,64,FOUL,Personal foul,134.0,273042.0,531,374000,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1873,SEN
+unknwown,8:47,1787197947000,41,64,RFOUL,foul drawn,104.0,268370.0,532,374002,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1873,MEX
+unknwown,8:47,1787197982000,41,64,VTR,Head coach's challenge unsuccessful,104.0,,533,375000,Q4,135070,,,,,,,,,,,Q4,,,,1873,
+subst,8:47,1787198131000,41,64,SUBST,Substitution out,104.0,268370.0,535,377000,Q4,135070,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1873,MEX
+subst,8:47,1787198131000,41,64,SUBST,Substitution in,104.0,235869.0,536,378000,Q4,135070,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1873,MEX
+unknwown,8:25,1787198136000,41,64,FOUL,Offensive foul,104.0,235869.0,538,380000,Q4,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1895,MEX
+unknwown,8:25,1787198136000,41,64,TO,turnover,104.0,235869.0,539,380001,Q4,135070,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1895,MEX
+unknwown,8:25,1787198136000,41,64,RFOUL,foul drawn,134.0,231012.0,540,380002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1895,SEN
+unknwown,8:25,1787198141000,41,64,TO,turnover; bad pass,134.0,273042.0,541,381000,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1895,SEN
+unknwown,8:25,1787198141000,41,64,ST,steal,104.0,213361.0,542,381001,Q4,135070,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,1895,MEX
+unknwown,8:08,1787198164000,41,64,FOUL,Personal foul; 2 free throws awarded,134.0,203560.0,545,384000,Q4,135070,,,,,,,134.0,Maty Fall,Senegal,4.0,Q4,,,,1912,SEN
+unknwown,8:08,1787198164000,41,64,RFOUL,foul drawn,104.0,319031.0,546,384002,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1912,MEX
+subst,8:08,1787198185000,41,64,SUBST,Substitution out,104.0,235869.0,547,385000,Q4,135070,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1912,MEX
+subst,8:08,1787198185000,41,64,SUBST,Substitution out,104.0,213361.0,548,386000,Q4,135070,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,1912,MEX
+subst,8:08,1787198185000,41,64,SUBST,Substitution in,104.0,227782.0,549,387000,Q4,135070,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q4,,,,1912,MEX
+subst,8:08,1787198185000,41,64,SUBST,Substitution in,104.0,420702.0,550,388000,Q4,135070,,,,,,IN,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,1912,MEX
+subst,8:08,1787198194000,41,64,SUBST,Substitution out,134.0,203560.0,551,389000,Q4,135070,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q4,,,,1912,SEN
+subst,8:08,1787198194000,41,64,SUBST,Substitution in,134.0,303627.0,552,390000,Q4,135070,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q4,,,,1912,SEN
+shot,8:08,1787198208000,41,65,FT,1st of 2 free throws made,104.0,319031.0,553,391000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,1912,MEX
+shot,8:08,1787198220000,41,66,FT,2nd of 2 free throws made,104.0,319031.0,554,392000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,1912,MEX
+shot,7:49,1787198243000,41,66,P2,"2PtsFG inside left, jump shot missed",134.0,273042.0,558,396000,Q4,135070,False,2.0,80.0,45.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Mid-Range,6.0,Less Than 8 ft.,1931,SEN
+unknwown,7:47,1787198245000,41,66,REB,offensive rebound,134.0,231012.0,559,396002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1933,SEN
+shot,7:44,1787198249000,41,66,P2,"2PtsFG under the basket, layup missed",134.0,231012.0,560,397000,Q4,135070,False,2.0,155.0,36.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Restricted Area,1.6,Less Than 8 ft.,1936,SEN
+unknwown,7:44,1787198249000,41,66,BS,blocked the shot,104.0,319031.0,561,397001,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1936,MEX
+unknwown,7:40,1787198272000,41,66,REB,offensive rebound,134.0,231012.0,564,397002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1940,SEN
+unknwown,7:40,1787198265000,41,66,JS,jump ball situation; throw-in,134.0,,563,399000,Q4,135070,,,,,,,,,,,Q4,,,,1940,
+shot,7:37,1787198314000,43,66,P2,"2PtsFG under the basket, layup made",134.0,231012.0,566,401000,Q4,135070,True,2.0,132.0,30.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Restricted Area,1.3,Less Than 8 ft.,1943,SEN
+unknwown,7:37,1787198314000,43,66,ASS,made the assist,134.0,303627.0,567,401001,Q4,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q4,,,,1943,SEN
+shot,7:17,1787198333000,43,66,P2,2pt jump shot missed,104.0,317694.0,568,402000,Q4,135070,False,2.0,97.0,97.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,In The Paint (Non-RA),7.1,Less Than 8 ft.,1963,MEX
+unknwown,7:17,1787198337000,43,66,TREB,team defensive rebound,134.0,,570,402002,Q4,135070,,,,,,,,,,,Q4,,,,1963,
+unknwown,7:17,1787198342000,43,66,FOUL,Personal foul,104.0,420702.0,571,404000,Q4,135070,,,,,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,1963,MEX
+unknwown,7:17,1787198342000,43,66,RFOUL,foul drawn,134.0,290089.0,572,404002,Q4,135070,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1963,SEN
+shot,7:12,1787198365000,43,66,P2,2pt driving layup missed,134.0,273042.0,574,406000,Q4,135070,False,2.0,158.0,53.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,In The Paint (Non-RA),2.2,Less Than 8 ft.,1968,SEN
+unknwown,7:11,1787198368000,43,66,REB,offensive rebound,134.0,231012.0,576,406002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1969,SEN
+unknwown,7:11,1787198371000,43,66,FOUL,Personal foul,104.0,420702.0,577,408000,Q4,135070,,,,,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,1969,MEX
+unknwown,7:11,1787198371000,43,66,RFOUL,foul drawn,134.0,231012.0,578,408002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,1969,SEN
+subst,7:11,1787198385000,43,66,SUBST,Substitution out,104.0,319031.0,579,409000,Q4,135070,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1969,MEX
+subst,7:11,1787198385000,43,66,SUBST,Substitution in,104.0,268370.0,580,410000,Q4,135070,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1969,MEX
+shot,7:04,1787198405000,45,66,P2,2pt step back jump shot made,134.0,273042.0,582,412000,Q4,135070,True,2.0,157.0,122.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Mid-Range,8.4,8-16 ft.,1976,SEN
+shot,6:35,1787198432000,45,66,P2,"2PtsFG under the basket, layup missed",104.0,268370.0,583,413000,Q4,135070,False,2.0,155.0,36.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2005,MEX
+unknwown,6:35,1787198436000,45,66,TREB,team defensive rebound,134.0,,585,413002,Q4,135070,,,,,,,,,,,Q4,,,,2005,
+subst,6:35,1787198446000,45,66,SUBST,Substitution out,104.0,317694.0,586,415000,Q4,135070,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2005,MEX
+subst,6:35,1787198446000,45,66,SUBST,Substitution in,104.0,302969.0,587,416000,Q4,135070,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2005,MEX
+unknwown,6:27,1787198477000,45,66,FOUL,Personal foul,104.0,302969.0,590,419000,Q4,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2013,MEX
+unknwown,6:27,1787198477000,45,66,RFOUL,foul drawn,134.0,273042.0,591,419002,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2013,SEN
+shot,6:12,1787198509000,47,66,P2,2pt turnaround jump shot made,134.0,303627.0,593,421000,Q4,135070,True,2.0,195.0,47.0,,,134.0,Lena Timera,Senegal,77.0,Q4,Mid-Range,5.5,Less Than 8 ft.,2028,SEN
+unknwown,5:53,1787198533000,47,66,FOUL,Personal foul,134.0,274485.0,595,423000,Q4,135070,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,2047,SEN
+unknwown,5:53,1787198533000,47,66,RFOUL,foul drawn,104.0,268370.0,596,423002,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2047,MEX
+subst,5:53,1787198550000,47,66,SUBST,Substitution out,134.0,231012.0,597,424000,Q4,135070,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2047,SEN
+subst,5:53,1787198550000,47,66,SUBST,Substitution in,134.0,290189.0,598,425000,Q4,135070,,,,,,IN,134.0,Fatou Kine Filor,Senegal,12.0,Q4,,,,2047,SEN
+subst,5:53,1787198550000,47,66,SUBST,Substitution out,104.0,268451.0,599,426000,Q4,135070,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2047,MEX
+subst,5:53,1787198550000,47,66,SUBST,Substitution in,104.0,215141.0,600,427000,Q4,135070,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2047,MEX
+unknwown,5:50,1787198562000,47,66,TO,turnover; bad pass,104.0,420702.0,603,430000,Q4,135070,,,,,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,2050,MEX
+shot,5:40,1787198578000,49,66,P2,"2PtsFG under the basket, points after turnover, driving layup made",134.0,273042.0,606,433000,Q4,135070,True,2.0,152.0,29.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2060,SEN
+unknwown,5:40,1787198582000,49,66,FOUL,Personal foul; 1 free throw awarded,104.0,215141.0,607,434000,Q4,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2060,MEX
+unknwown,5:40,1787198582000,49,66,RFOUL,foul drawn,134.0,273042.0,608,434002,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2060,SEN
+shot,5:40,1787198605000,49,66,FT,1st free throw missed,134.0,273042.0,609,435000,Q4,135070,False,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,14.6,8-16 ft.,2060,SEN
+unknwown,5:40,1787198606000,49,66,REB,defensive rebound,104.0,302969.0,611,435002,Q4,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2060,MEX
+shot,5:25,1787198622000,49,68,P2,"2PtsFG under the basket, layup made",104.0,420702.0,612,437000,Q4,135070,True,2.0,126.0,30.0,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2075,MEX
+unknwown,5:25,1787198622000,49,68,ASS,made the assist,104.0,302969.0,613,437001,Q4,135070,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2075,MEX
+shot,5:11,1787198636000,49,68,P2,2pt driving layup missed,134.0,273042.0,614,438000,Q4,135070,False,2.0,160.0,56.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,In The Paint (Non-RA),2.6,Less Than 8 ft.,2089,SEN
+unknwown,5:08,1787198638000,49,68,REB,defensive rebound,104.0,215141.0,615,438002,Q4,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2092,MEX
+shot,5:05,1787198641000,49,70,P2,"2PtsFG under the basket, fast break, layup made",104.0,227782.0,616,439000,Q4,135070,True,2.0,136.0,30.0,,,104.0,Karina Esquer,Mexico,4.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2095,MEX
+unknwown,5:05,1787198641000,49,70,ASS,made the assist,104.0,215141.0,617,439001,Q4,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2095,MEX
+shot,4:48,1787198659000,51,70,P2,"2PtsFG under the basket, driving layup made",134.0,273042.0,618,440000,Q4,135070,True,2.0,123.0,36.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2112,SEN
+unknwown,4:37,1787198670000,51,70,TO,turnover; ball handling,104.0,227782.0,619,441000,Q4,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2123,MEX
+unknwown,4:37,1787198670000,51,70,ST,steal,134.0,303627.0,620,441001,Q4,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q4,,,,2123,SEN
+shot,4:32,1787198674000,51,70,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,303627.0,621,442000,Q4,135070,False,2.0,121.0,43.0,,,134.0,Lena Timera,Senegal,77.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2128,SEN
+unknwown,4:29,1787198677000,51,70,REB,defensive rebound,104.0,227782.0,622,442002,Q4,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2131,MEX
+unknwown,4:27,1787198679000,51,70,TO,turnover; ball handling,104.0,227782.0,623,443000,Q4,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2133,MEX
+unknwown,4:27,1787198679000,51,70,ST,steal,134.0,274485.0,624,443001,Q4,135070,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,2133,SEN
+unknwown,4:24,1787198684000,51,70,FOUL,Personal foul; 2 free throws awarded,104.0,420702.0,626,445000,Q4,135070,,,,,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,2136,MEX
+unknwown,4:24,1787198684000,51,70,RFOUL,foul drawn,134.0,273042.0,627,445002,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2136,SEN
+timeout,4:24,1787198697000,51,70,TIMO,Timeout,104.0,,628,446000,Q4,135070,,,,,,,,,,,Q4,,,,2136,
+shot,4:24,1787198806000,52,70,FT,Free throw made 1 of 2,134.0,273042.0,629,447000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,14.6,8-16 ft.,2136,SEN
+shot,4:24,1787198819000,53,70,FT,Free throw made 2 of 2,134.0,273042.0,630,448000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,14.6,8-16 ft.,2136,SEN
+shot,4:07,1787198838000,53,70,P3,3pt jump shot missed,104.0,302969.0,634,452000,Q4,135070,False,3.0,11.0,24.0,,,104.0,Loriette Maciel,Mexico,27.0,Q4,Right Corner 3,13.0,8-16 ft.,2153,MEX
+unknwown,4:04,1787198841000,53,70,REB,defensive rebound,134.0,273042.0,635,452002,Q4,135070,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2156,SEN
+shot,3:50,1787198856000,53,70,P3,3pt jump shot missed,134.0,274485.0,636,453000,Q4,135070,False,3.0,261.0,86.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,Above the Break 3,12.9,8-16 ft.,2170,SEN
+unknwown,3:45,1787198860000,53,70,REB,offensive rebound,134.0,290189.0,637,453002,Q4,135070,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q4,,,,2175,SEN
+shot,3:43,1787198863000,53,70,P2,"2PtsFG inside left, jump shot missed",134.0,290189.0,638,454000,Q4,135070,False,2.0,80.0,83.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q4,Mid-Range,7.4,Less Than 8 ft.,2177,SEN
+unknwown,3:40,1787198865000,53,70,REB,defensive rebound,104.0,268370.0,639,454002,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2180,MEX
+shot,3:35,1787198870000,53,72,P2,"2PtsFG under the basket, fast break, layup made",104.0,302969.0,640,455000,Q4,135070,True,2.0,155.0,26.0,,,104.0,Loriette Maciel,Mexico,27.0,Q4,Restricted Area,2.1,Less Than 8 ft.,2185,MEX
+unknwown,3:35,1787198870000,53,72,ASS,made the assist,104.0,227782.0,641,455001,Q4,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2185,MEX
+shot,3:15,1787198890000,53,72,P2,2pt driving layup missed,134.0,274485.0,642,456000,Q4,135070,False,2.0,110.0,39.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,In The Paint (Non-RA),3.0,Less Than 8 ft.,2205,SEN
+unknwown,3:11,1787198893000,53,72,REB,defensive rebound,104.0,227782.0,643,456002,Q4,135070,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2209,MEX
+subst,3:07,1787198992000,53,72,SUBST,Substitution out,134.0,290089.0,645,458000,Q4,135070,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2213,SEN
+subst,3:07,1787198992000,53,72,SUBST,Substitution in,134.0,231012.0,646,459000,Q4,135070,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2213,SEN
+shot,3:00,1787199014000,53,72,P2,"2PtsFG under the basket, layup missed",104.0,420702.0,648,461000,Q4,135070,False,2.0,141.0,40.0,,,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,Restricted Area,0.1,Less Than 8 ft.,2220,MEX
+unknwown,2:57,1787199017000,53,72,REB,defensive rebound,134.0,231012.0,650,461002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2223,SEN
+unknwown,2:57,1787199022000,53,72,FOUL,Personal foul; 2 free throws awarded,104.0,215141.0,651,463000,Q4,135070,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2223,MEX
+unknwown,2:57,1787199022000,53,72,RFOUL,foul drawn,134.0,231012.0,652,463002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2223,SEN
+subst,2:57,1787199044000,53,72,SUBST,Substitution out,104.0,215141.0,653,464000,Q4,135070,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2223,MEX
+subst,2:57,1787199044000,53,72,SUBST,Substitution in,104.0,319031.0,654,465000,Q4,135070,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2223,MEX
+shot,2:57,1787199051000,54,72,FT,1st of 2 free throws made,134.0,231012.0,655,466000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2223,SEN
+shot,2:57,1787199064000,55,72,FT,2nd of 2 free throws made,134.0,231012.0,656,467000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2223,SEN
+shot,2:37,1787199087000,55,74,P2,"2PtsFG under the basket, driving layup made",104.0,227782.0,658,469000,Q4,135070,True,2.0,159.0,25.0,,,104.0,Karina Esquer,Mexico,4.0,Q4,Restricted Area,2.4,Less Than 8 ft.,2243,MEX
+unknwown,2:37,1787199087000,55,74,ASS,made the assist,104.0,268370.0,659,469001,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2243,MEX
+shot,2:24,1787199100000,57,74,P2,"2PtsFG under the basket, driving layup made",134.0,273042.0,660,470000,Q4,135070,True,2.0,122.0,43.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Restricted Area,1.8,Less Than 8 ft.,2256,SEN
+unknwown,2:12,1787199118000,57,74,TO,turnover; backcourt violation,104.0,319031.0,662,472000,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2268,MEX
+subst,2:12,1787199135000,57,74,SUBST,Substitution out,134.0,274485.0,663,473000,Q4,135070,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,2268,SEN
+subst,2:12,1787199135000,57,74,SUBST,Substitution in,134.0,287408.0,664,474000,Q4,135070,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2268,SEN
+subst,2:12,1787199135000,57,74,SUBST,Substitution out,104.0,420702.0,665,475000,Q4,135070,,,,,,OUT,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,2268,MEX
+subst,2:12,1787199135000,57,74,SUBST,Substitution in,104.0,227780.0,666,476000,Q4,135070,,,,,,IN,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2268,MEX
+shot,2:06,1787199143000,57,74,P3,3pt pullup jump shot missed,134.0,273042.0,668,478000,Q4,135070,False,3.0,75.0,158.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,13.5,8-16 ft.,2274,SEN
+unknwown,2:02,1787199146000,57,74,REB,offensive rebound,134.0,231012.0,669,478002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2278,SEN
+unknwown,2:02,1787199160000,57,74,FOUL,Personal foul; 2 free throws awarded,104.0,227780.0,671,480000,Q4,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2278,MEX
+unknwown,2:02,1787199160000,57,74,RFOUL,foul drawn,134.0,231012.0,672,480002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2278,SEN
+shot,2:02,1787199195000,58,74,FT,1st of 2 free throws made,134.0,231012.0,673,481000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2278,SEN
+shot,2:02,1787199208000,59,74,FT,2nd of 2 free throws made,134.0,231012.0,674,482000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2278,SEN
+shot,1:50,1787199224000,59,77,P3,3pt pullup jump shot made,104.0,319031.0,676,484000,Q4,135070,True,3.0,197.0,155.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Above the Break 3,12.8,8-16 ft.,2290,MEX
+shot,1:31,1787199242000,59,77,P3,3pt jump shot missed,134.0,303627.0,677,485000,Q4,135070,False,3.0,265.0,65.0,,,134.0,Lena Timera,Senegal,77.0,Q4,Left Corner 3,12.7,8-16 ft.,2309,SEN
+unknwown,1:28,1787199246000,59,77,REB,offensive rebound,134.0,231012.0,679,485002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2312,SEN
+unknwown,1:28,1787199254000,59,77,FOUL,Personal foul; 2 free throws awarded,104.0,227780.0,680,487000,Q4,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2312,MEX
+unknwown,1:28,1787199254000,59,77,RFOUL,foul drawn,134.0,231012.0,681,487002,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2312,SEN
+shot,1:28,1787199267000,60,77,FT,1st of 2 free throws made,134.0,231012.0,682,488000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2312,SEN
+shot,1:28,1787199278000,61,77,FT,2nd of 2 free throws made,134.0,231012.0,683,489000,Q4,135070,True,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2312,SEN
+shot,1:18,1787199296000,61,77,P2,"2PtsFG under the basket, reverse lay-up missed",104.0,227780.0,687,493000,Q4,135070,False,2.0,124.0,31.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,Restricted Area,1.8,Less Than 8 ft.,2322,MEX
+unknwown,1:14,1787199298000,61,77,REB,defensive rebound,134.0,287408.0,688,493002,Q4,135070,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2326,SEN
+shot,1:11,1787199301000,63,77,P2,"2PtsFG under the basket, fast break, driving layup made",134.0,273042.0,689,494000,Q4,135070,True,2.0,147.0,35.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2329,SEN
+unknwown,0:54,1787199322000,63,77,TO,turnover; ball handling,104.0,268370.0,692,497000,Q4,135070,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2346,MEX
+unknwown,0:54,1787199322000,63,77,ST,steal,134.0,231012.0,693,497001,Q4,135070,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2346,SEN
+shot,0:36,1787199340000,63,77,P3,3pt jump shot missed,134.0,231012.0,694,498000,Q4,135070,False,3.0,55.0,140.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Above the Break 3,13.1,8-16 ft.,2364,SEN
+unknwown,0:31,1787199343000,63,77,REB,offensive rebound,134.0,290189.0,695,498002,Q4,135070,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q4,,,,2369,SEN
+shot,0:30,1787199345000,65,77,P2,layup made,134.0,290189.0,697,498250,Q4,135070,True,2.0,104.0,41.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q4,In The Paint (Non-RA),3.6,Less Than 8 ft.,2370,SEN
+timeout,0:30,1787199350000,65,77,TIMO,Timeout,104.0,,698,498500,Q4,135070,,,,,,,,,,,Q4,,,,2370,
+subst,0:29,1787199435000,65,77,SUBST,Substitution out,134.0,273042.0,699,502000,Q4,135070,,,,,,OUT,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2371,SEN
+subst,0:29,1787199435000,65,77,SUBST,Substitution in,134.0,203560.0,700,503000,Q4,135070,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q4,,,,2371,SEN
+subst,0:29,1787199435000,65,77,SUBST,Substitution out,104.0,268370.0,701,504000,Q4,135070,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2371,MEX
+subst,0:29,1787199435000,65,77,SUBST,Substitution out,104.0,302969.0,702,505000,Q4,135070,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2371,MEX
+subst,0:29,1787199435000,65,77,SUBST,Substitution in,104.0,268375.0,703,506000,Q4,135070,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,2371,MEX
+subst,0:29,1787199435000,65,77,SUBST,Substitution in,104.0,268451.0,704,507000,Q4,135070,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2371,MEX
+subst,0:29,1787199443000,65,77,SUBST,Substitution out,134.0,203560.0,705,508000,Q4,135070,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q4,,,,2371,SEN
+subst,0:29,1787199443000,65,77,SUBST,Substitution in,134.0,273042.0,706,509000,Q4,135070,,,,,,IN,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2371,SEN
+timeout,0:29,1787199457000,65,77,TIMO,Timeout,134.0,,707,510000,Q4,135070,,,,,,,,,,,Q4,,,,2371,
+shot,0:23,1787199541000,65,77,P2,"2PtsFG inside right wing, jump shot missed",104.0,268375.0,710,513000,Q4,135070,False,2.0,255.0,40.0,,,104.0,Morelia Chavez,Mexico,18.0,Q4,Mid-Range,11.5,8-16 ft.,2377,MEX
+unknwown,0:22,1787199545000,65,77,TREB,team offensive rebound,104.0,,711,513002,Q4,135070,,,,,,,,,,,Q4,,,,2378,
+unknwown,0:22,1787199559000,65,77,FOUL,Personal foul; 2 free throws awarded,134.0,303627.0,712,514000,Q4,135070,,,,,,,134.0,Lena Timera,Senegal,77.0,Q4,,,,2378,SEN
+unknwown,0:22,1787199559000,65,77,RFOUL,foul drawn,104.0,227780.0,713,514002,Q4,135070,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2378,MEX
+shot,0:22,1787199571000,65,78,FT,1st of 2 free throws made,104.0,227780.0,714,515000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,14.6,8-16 ft.,2378,MEX
+shot,0:22,1787199584000,65,79,FT,2nd of 2 free throws made,104.0,227780.0,715,516000,Q4,135070,True,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,14.6,8-16 ft.,2378,MEX
+shot,0:16,1787199594000,65,79,P3,3pt step back jump shot missed,134.0,273042.0,717,518000,Q4,135070,False,3.0,188.0,164.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,13.3,8-16 ft.,2384,SEN
+unknwown,0:11,1787199597000,65,79,REB,defensive rebound,104.0,319031.0,718,518002,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2389,MEX
+periods,0:00,1787199614000,65,79,ENDP,End of period,,,720,520000,Q4,135070,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787199952000,65,79,ENDG,End of game,,,722,521000,Q4,135070,,,,,,,,,,,Q4,,,,2400,
