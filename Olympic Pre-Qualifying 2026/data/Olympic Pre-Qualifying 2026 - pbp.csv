@@ -4579,3 +4579,534 @@ shot,0:16,1787199594000,65,79,P3,3pt step back jump shot missed,134.0,273042.0,7
 unknwown,0:11,1787199597000,65,79,REB,defensive rebound,104.0,319031.0,718,518002,Q4,135070,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2389,MEX
 periods,0:00,1787199614000,65,79,ENDP,End of period,,,720,520000,Q4,135070,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787199952000,65,79,ENDG,End of game,,,722,521000,Q4,135070,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787248837000,0,0,STARTG,Start of game,,,1,1000,Q1,135065,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787248837000,0,0,STARTP,Start of period,,,2,2000,Q1,135065,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787248837000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135065,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787248838000,0,0,JB,jump ball won,27.0,301995.0,5,4001,Q1,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,1,BRA
+unknwown,9:59,1787248838000,0,0,JB,jump ball lost,14.0,302892.0,6,4002,Q1,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,1,ARG
+unknwown,9:40,1787248860000,0,0,TO,turnover; bad pass,27.0,301995.0,8,6000,Q1,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,20,BRA
+shot,9:29,1787248877000,0,0,P2,"2PtsFG inside right, points after turnover, jump shot missed",14.0,302892.0,10,8000,Q1,135065,False,2.0,208.0,45.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Mid-Range,6.8,Less Than 8 ft.,31,ARG
+unknwown,9:26,1787248880000,0,0,REB,defensive rebound,27.0,301995.0,11,8002,Q1,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,34,BRA
+shot,9:16,1787248889000,2,0,P2,"2PtsFG under the basket, layup made",27.0,302154.0,12,9000,Q1,135065,True,2.0,154.0,34.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Restricted Area,1.5,Less Than 8 ft.,44,BRA
+shot,8:58,1787248907000,2,3,P3,3pt jump shot made,14.0,214723.0,13,10000,Q1,135065,True,3.0,7.0,31.0,,,14.0,Florencia Chagas,Argentina,14.0,Q1,Right Corner 3,13.3,8-16 ft.,62,ARG
+unknwown,8:58,1787248907000,2,3,ASS,made the assist,14.0,163689.0,14,10001,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,62,ARG
+unknwown,8:33,1787248939000,2,3,TO,turnover; travelling,27.0,301995.0,18,14000,Q1,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,87,BRA
+shot,8:10,1787248967000,2,5,P2,"2PtsFG inside left, points after turnover, jump shot made",14.0,163689.0,20,16000,Q1,135065,True,2.0,71.0,43.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Mid-Range,6.9,Less Than 8 ft.,110,ARG
+unknwown,7:54,1787248986000,2,5,FOUL,Personal foul,14.0,302892.0,24,20000,Q1,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,126,ARG
+unknwown,7:54,1787248986000,2,5,RFOUL,foul drawn,27.0,301995.0,25,20002,Q1,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,126,BRA
+shot,7:45,1787249012000,2,5,P3,3pt jump shot missed,27.0,215026.0,27,22000,Q1,135065,False,3.0,60.0,160.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,14.4,8-16 ft.,135,BRA
+unknwown,7:42,1787249015000,2,5,REB,defensive rebound,14.0,221602.0,28,22002,Q1,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,138,ARG
+shot,7:15,1787249055000,2,7,P2,"2PtsFG under the basket, reverse lay-up made",14.0,302892.0,31,25000,Q1,135065,True,2.0,118.0,30.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Restricted Area,2.4,Less Than 8 ft.,165,ARG
+unknwown,7:15,1787249055000,2,7,ASS,made the assist,14.0,163689.0,32,25001,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,165,ARG
+unknwown,6:58,1787249079000,2,7,FOUL,Personal foul; 2 free throws awarded,14.0,328245.0,34,27000,Q1,135065,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,182,ARG
+unknwown,6:58,1787249079000,2,7,RFOUL,foul drawn,27.0,200399.0,35,27002,Q1,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,182,BRA
+subst,6:58,1787249091000,2,7,SUBST,Substitution out,27.0,301995.0,36,28000,Q1,135065,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q1,,,,182,BRA
+subst,6:58,1787249091000,2,7,SUBST,Substitution in,27.0,342721.0,37,29000,Q1,135065,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,182,BRA
+shot,6:58,1787249104000,3,7,FT,1st of 2 free throws made,27.0,200399.0,38,30000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,182,BRA
+unknwown,6:58,1787249104000,3,7,ASS,made the assist,27.0,302154.0,39,30001,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,182,BRA
+shot,6:58,1787249119000,4,7,FT,2nd of 2 free throws made,27.0,200399.0,40,31000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,182,BRA
+unknwown,6:40,1787249145000,4,7,TO,turnover; bad pass,14.0,163689.0,44,35000,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,200,ARG
+unknwown,6:29,1787249166000,4,7,FOUL,Personal foul; 2 free throws awarded,14.0,214723.0,49,40000,Q1,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,211,ARG
+unknwown,6:29,1787249166000,4,7,RFOUL,foul drawn,27.0,200399.0,50,40002,Q1,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,211,BRA
+shot,6:29,1787249186000,4,7,FT,1st of 2 free throws missed,27.0,200399.0,51,41000,Q1,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,211,BRA
+shot,6:29,1787249203000,4,7,FT,2nd of 2 free throws missed,27.0,200399.0,52,42000,Q1,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,211,BRA
+unknwown,6:29,1787249204000,4,7,REB,offensive rebound,27.0,215026.0,54,42002,Q1,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,211,BRA
+unknwown,6:21,1787249213000,4,7,TO,turnover; bad pass,27.0,392716.0,55,44000,Q1,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,219,BRA
+unknwown,6:21,1787249213000,4,7,ST,steal,14.0,163689.0,56,44001,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,219,ARG
+shot,6:12,1787249221000,4,10,P3,"3PtsFG outside left wing, points from fastbreak + after turnover, jump shot made",14.0,221602.0,57,45000,Q1,135065,True,3.0,4.0,55.0,,,14.0,Dalma Piri,Argentina,2.0,Q1,Right Corner 3,13.7,8-16 ft.,228,ARG
+unknwown,6:12,1787249221000,4,10,ASS,made the assist,14.0,163689.0,58,45001,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,228,ARG
+shot,5:56,1787249238000,7,10,P3,3pt jump shot made,27.0,392716.0,59,46000,Q1,135065,True,3.0,217.0,164.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,14.6,8-16 ft.,244,BRA
+unknwown,5:56,1787249238000,7,10,ASS,made the assist,27.0,302154.0,61,46001,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,244,BRA
+shot,5:31,1787249287000,7,10,P2,"2PtsFG inside center, jump shot missed",14.0,163689.0,64,50000,Q1,135065,False,2.0,195.0,133.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Mid-Range,10.8,8-16 ft.,269,ARG
+unknwown,5:31,1787249291000,7,10,TREB,team defensive rebound,27.0,,65,50002,Q1,135065,,,,,,,,,,,Q1,,,,269,
+unknwown,5:12,1787249314000,7,10,FOUL,Offensive foul,27.0,342721.0,68,53000,Q1,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,288,BRA
+unknwown,5:12,1787249314000,7,10,TO,turnover,27.0,342721.0,69,53001,Q1,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,288,BRA
+unknwown,5:12,1787249314000,7,10,RFOUL,foul drawn,14.0,214723.0,70,53002,Q1,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,288,ARG
+unknwown,5:00,1787249348000,7,10,FOUL,Offensive foul,14.0,328245.0,73,56000,Q1,135065,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,300,ARG
+unknwown,5:00,1787249348000,7,10,TO,turnover,14.0,328245.0,74,56001,Q1,135065,,,,,,,14.0,Milagros Morell,Argentina,15.0,Q1,,,,300,ARG
+unknwown,5:00,1787249348000,7,10,RFOUL,foul drawn,27.0,215026.0,75,56002,Q1,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,300,BRA
+subst,4:54,1787249380000,7,10,SUBST,Substitution out,14.0,328245.0,80,61000,Q1,135065,,,,,,OUT,14.0,Milagros Morell,Argentina,15.0,Q1,,,,306,ARG
+subst,4:54,1787249380000,7,10,SUBST,Substitution in,14.0,301664.0,81,62000,Q1,135065,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,306,ARG
+shot,4:42,1787249406000,7,10,P3,3pt jump shot missed,27.0,302154.0,83,64000,Q1,135065,False,3.0,147.0,182.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Above the Break 3,14.2,8-16 ft.,318,BRA
+unknwown,4:39,1787249409000,7,10,REB,defensive rebound,14.0,214723.0,84,64002,Q1,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,321,ARG
+shot,4:23,1787249425000,7,12,P2,"2PtsFG under the basket, layup made",14.0,302892.0,85,65000,Q1,135065,True,2.0,134.0,35.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q1,Restricted Area,0.8,Less Than 8 ft.,337,ARG
+unknwown,4:23,1787249425000,7,12,ASS,made the assist,14.0,221602.0,86,65001,Q1,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q1,,,,337,ARG
+unknwown,4:03,1787249452000,7,12,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,89,68000,Q1,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,357,ARG
+unknwown,4:03,1787249452000,7,12,RFOUL,foul drawn,27.0,392716.0,90,68002,Q1,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,357,BRA
+subst,4:03,1787249466000,7,12,SUBST,Substitution out,27.0,215026.0,91,69000,Q1,135065,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,357,BRA
+subst,4:03,1787249466000,7,12,SUBST,Substitution in,27.0,302000.0,92,70000,Q1,135065,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,357,BRA
+subst,4:03,1787249466000,7,12,SUBST,Substitution out,14.0,302892.0,93,71000,Q1,135065,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q1,,,,357,ARG
+subst,4:03,1787249466000,7,12,SUBST,Substitution in,14.0,170619.0,94,72000,Q1,135065,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,357,ARG
+shot,4:03,1787249486000,8,12,FT,1st of 2 free throws made,27.0,392716.0,95,73000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,14.6,8-16 ft.,357,BRA
+shot,4:03,1787249499000,9,12,FT,2nd of 2 free throws made,27.0,392716.0,96,74000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,14.6,8-16 ft.,357,BRA
+unknwown,3:51,1787249519000,9,12,TO,turnover; ball handling,14.0,170619.0,99,77000,Q1,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,369,ARG
+unknwown,3:40,1787249542000,9,12,FOUL,Offensive foul,27.0,302154.0,103,81000,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,380,BRA
+unknwown,3:40,1787249542000,9,12,TO,turnover,27.0,302154.0,104,81001,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,380,BRA
+unknwown,3:40,1787249542000,9,12,RFOUL,foul drawn,14.0,163689.0,105,81002,Q1,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q1,,,,380,ARG
+shot,3:27,1787249565000,9,12,P2,"2PtsFG under the basket, points after turnover, layup missed",14.0,170619.0,107,83000,Q1,135065,False,2.0,123.0,37.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,Restricted Area,1.7,Less Than 8 ft.,393,ARG
+unknwown,3:24,1787249568000,9,12,REB,defensive rebound,27.0,342721.0,108,83002,Q1,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,396,BRA
+shot,3:06,1787249587000,12,12,P3,3pt step back jump shot made,27.0,392716.0,109,84000,Q1,135065,True,3.0,16.0,98.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,13.7,8-16 ft.,414,BRA
+unknwown,2:49,1787249603000,12,12,TO,turnover; bad pass,14.0,170619.0,110,85000,Q1,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,431,ARG
+unknwown,2:49,1787249603000,12,12,ST,steal,27.0,392716.0,111,85001,Q1,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,431,BRA
+shot,2:43,1787249609000,12,12,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup missed",27.0,302154.0,112,86000,Q1,135065,False,2.0,161.0,35.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,Restricted Area,2.2,Less Than 8 ft.,437,BRA
+unknwown,2:38,1787249613000,12,12,REB,offensive rebound,27.0,302154.0,113,86002,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,442,BRA
+unknwown,2:27,1787249628000,12,12,FOUL,Personal foul; 2 free throws awarded,14.0,170619.0,117,90000,Q1,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,453,ARG
+unknwown,2:27,1787249628000,12,12,RFOUL,foul drawn,27.0,302154.0,118,90002,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,453,BRA
+subst,2:27,1787249641000,12,12,SUBST,Substitution out,14.0,214723.0,119,91000,Q1,135065,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q1,,,,453,ARG
+subst,2:27,1787249641000,12,12,SUBST,Substitution in,14.0,159332.0,120,92000,Q1,135065,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,453,ARG
+timeout,2:27,1787249648000,12,12,TIMO,Timeout,14.0,,121,93000,Q1,135065,,,,,,,,,,,Q1,,,,453,
+shot,2:27,1787249749000,12,12,FT,1st of 2 free throws missed,27.0,302154.0,122,94000,Q1,135065,False,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,453,BRA
+shot,2:27,1787249762000,13,12,FT,2nd of 2 free throws made,27.0,302154.0,123,95000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,14.6,8-16 ft.,453,BRA
+subst,2:27,1787249773000,13,12,SUBST,Substitution out,27.0,200399.0,124,96000,Q1,135065,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q1,,,,453,BRA
+subst,2:27,1787249773000,13,12,SUBST,Substitution in,27.0,203242.0,125,97000,Q1,135065,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,453,BRA
+unknwown,2:15,1787249795000,13,12,FOUL,Offensive foul,14.0,301664.0,128,100000,Q1,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,465,ARG
+unknwown,2:15,1787249795000,13,12,TO,turnover,14.0,301664.0,129,100001,Q1,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,465,ARG
+unknwown,2:15,1787249797000,13,12,RFOUL,foul drawn,27.0,302000.0,130,100002,Q1,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,465,BRA
+unknwown,2:07,1787249821000,13,12,FOUL,Personal foul; 2 free throws awarded,14.0,159332.0,135,105000,Q1,135065,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q1,,,,473,ARG
+unknwown,2:07,1787249821000,13,12,RFOUL,foul drawn,27.0,392716.0,136,105002,Q1,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,473,BRA
+shot,2:07,1787249844000,13,12,FT,1st of 2 free throws missed,27.0,392716.0,137,106000,Q1,135065,False,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,14.6,8-16 ft.,473,BRA
+shot,2:07,1787249857000,14,12,FT,2nd of 2 free throws made,27.0,392716.0,138,107000,Q1,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,14.6,8-16 ft.,473,BRA
+shot,1:50,1787249878000,14,12,P2,2pt pullup jump shot missed,14.0,163689.0,140,109000,Q1,135065,False,2.0,185.0,109.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Mid-Range,8.2,8-16 ft.,490,ARG
+unknwown,1:49,1787249885000,14,12,TREB,team offensive rebound,14.0,,142,109002,Q1,135065,,,,,,,,,,,Q1,,,,491,
+unknwown,1:49,1787249887000,14,12,FOUL,Personal foul,27.0,342721.0,143,111000,Q1,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,491,BRA
+unknwown,1:49,1787249887000,14,12,RFOUL,foul drawn,14.0,170619.0,144,111002,Q1,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,491,ARG
+subst,1:49,1787249902000,14,12,SUBST,Substitution out,14.0,221602.0,145,112000,Q1,135065,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q1,,,,491,ARG
+subst,1:49,1787249902000,14,12,SUBST,Substitution in,14.0,200337.0,146,113000,Q1,135065,,,,,,IN,14.0,Julieta Mungo,Argentina,9.0,Q1,,,,491,ARG
+unknwown,1:49,1787249913000,14,12,FOUL,Personal foul,27.0,203242.0,147,114000,Q1,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,491,BRA
+unknwown,1:49,1787249913000,14,12,RFOUL,foul drawn,14.0,301664.0,148,114002,Q1,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,491,ARG
+shot,1:38,1787249935000,14,12,P2,"2PtsFG under the basket, layup missed",14.0,170619.0,150,116000,Q1,135065,False,2.0,131.0,37.0,,,14.0,Diana Cabrera,Argentina,7.0,Q1,Restricted Area,0.9,Less Than 8 ft.,502,ARG
+unknwown,1:33,1787249940000,14,12,REB,defensive rebound,27.0,302000.0,151,116002,Q1,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,507,BRA
+shot,1:29,1787249945000,14,12,P2,layup missed,27.0,342721.0,152,117000,Q1,135065,False,2.0,151.0,57.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,In The Paint (Non-RA),2.0,Less Than 8 ft.,511,BRA
+unknwown,1:25,1787249948000,14,12,REB,defensive rebound,14.0,301664.0,153,117002,Q1,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q1,,,,515,ARG
+shot,1:10,1787249963000,14,12,P3,3pt jump shot missed,14.0,200337.0,154,118000,Q1,135065,False,3.0,268.0,29.0,,,14.0,Julieta Mungo,Argentina,9.0,Q1,Left Corner 3,12.8,8-16 ft.,530,ARG
+unknwown,1:07,1787249966000,14,12,REB,defensive rebound,27.0,302154.0,155,118002,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,533,BRA
+shot,0:47,1787249987000,17,12,P3,3pt jump shot made,27.0,302000.0,156,119000,Q1,135065,True,3.0,7.0,37.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,Right Corner 3,13.3,8-16 ft.,553,BRA
+unknwown,0:47,1787249987000,17,12,ASS,made the assist,27.0,302154.0,157,119001,Q1,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q1,,,,553,BRA
+shot,0:28,1787250005000,17,12,P2,2pt driving layup missed,14.0,301664.0,158,120000,Q1,135065,False,2.0,106.0,74.0,,,14.0,Julia Fernandez,Argentina,3.0,Q1,In The Paint (Non-RA),4.8,Less Than 8 ft.,572,ARG
+unknwown,0:25,1787250008000,17,12,REB,defensive rebound,27.0,203242.0,159,120002,Q1,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q1,,,,575,BRA
+shot,0:05,1787250028000,17,12,P2,"2PtsFG under the basket, jump shot missed",27.0,342721.0,160,121000,Q1,135065,False,2.0,120.0,38.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,Restricted Area,2.0,Less Than 8 ft.,595,BRA
+unknwown,0:02,1787250031000,17,12,REB,defensive rebound,14.0,170619.0,161,121002,Q1,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q1,,,,598,ARG
+shot,0:01,1787250042000,17,12,P3,"3PtsFG back court, jump shot missed",14.0,163689.0,163,123000,Q1,135065,False,3.0,210.0,229.0,,,14.0,Melisa Gretter,Argentina,11.0,Q1,Above the Break 3,20.2,16-22 ft.,599,ARG
+periods,0:00,1787250173000,17,12,ENDP,End of period,,,166,126000,Q1,135065,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787250191000,17,12,SUBST,Substitution out,27.0,392716.0,167,127000,Q2,135065,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,600,BRA
+subst,10:00,1787250191000,17,12,SUBST,Substitution out,27.0,342721.0,168,128000,Q2,135065,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,600,BRA
+subst,10:00,1787250191000,17,12,SUBST,Substitution in,27.0,215026.0,169,129000,Q2,135065,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,600,BRA
+subst,10:00,1787250191000,17,12,SUBST,Substitution in,27.0,200399.0,170,130000,Q2,135065,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,600,BRA
+subst,10:00,1787250191000,17,12,SUBST,Substitution out,14.0,301664.0,171,131000,Q2,135065,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,600,ARG
+subst,10:00,1787250191000,17,12,SUBST,Substitution out,14.0,163689.0,172,132000,Q2,135065,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,600,ARG
+subst,10:00,1787250191000,17,12,SUBST,Substitution in,14.0,221602.0,173,133000,Q2,135065,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q2,,,,600,ARG
+subst,10:00,1787250191000,17,12,SUBST,Substitution in,14.0,214723.0,174,134000,Q2,135065,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,600,ARG
+periods,10:00,1787250193000,17,12,STARTP,Start of period,,,175,135000,Q2,135065,,,,,,,,,,,Q2,,,,600,
+shot,9:55,1787250198000,17,12,P2,layup missed,14.0,159332.0,177,137000,Q2,135065,False,2.0,132.0,73.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,In The Paint (Non-RA),3.4,Less Than 8 ft.,605,ARG
+unknwown,9:55,1787250198000,17,12,BS,blocked the shot,27.0,203242.0,178,137001,Q2,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,605,BRA
+unknwown,9:51,1787250202000,17,12,REB,defensive rebound,27.0,203242.0,179,137002,Q2,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,609,BRA
+unknwown,9:45,1787250212000,17,12,FOUL,Personal foul,14.0,200337.0,183,141000,Q2,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,615,ARG
+unknwown,9:45,1787250212000,17,12,RFOUL,foul drawn,27.0,200399.0,184,141002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,615,BRA
+shot,9:37,1787250236000,20,12,P3,3pt jump shot made,27.0,302000.0,186,143000,Q2,135065,True,3.0,9.0,28.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,Right Corner 3,13.2,8-16 ft.,623,BRA
+unknwown,9:37,1787250236000,20,12,ASS,made the assist,27.0,302154.0,187,143001,Q2,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,623,BRA
+shot,9:22,1787250250000,20,12,P3,3pt jump shot missed,14.0,214723.0,188,144000,Q2,135065,False,3.0,245.0,126.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Above the Break 3,13.6,8-16 ft.,638,ARG
+unknwown,9:19,1787250253000,20,12,REB,defensive rebound,27.0,302000.0,189,144002,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,641,BRA
+shot,9:09,1787250263000,22,12,P2,layup made,27.0,302154.0,190,145000,Q2,135065,True,2.0,144.0,52.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,In The Paint (Non-RA),1.3,Less Than 8 ft.,651,BRA
+unknwown,9:09,1787250263000,22,12,ASS,made the assist,27.0,200399.0,191,145001,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,651,BRA
+shot,8:55,1787250278000,22,14,P2,2pt floating jump shot made,14.0,221602.0,192,146000,Q2,135065,True,2.0,136.0,55.0,,,14.0,Dalma Piri,Argentina,2.0,Q2,In The Paint (Non-RA),1.6,Less Than 8 ft.,665,ARG
+unknwown,8:55,1787250278000,22,14,ASS,made the assist,14.0,200337.0,193,146001,Q2,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,665,ARG
+shot,8:30,1787250302000,22,14,P2,layup missed,27.0,215026.0,194,147000,Q2,135065,False,2.0,163.0,92.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,In The Paint (Non-RA),5.7,Less Than 8 ft.,690,BRA
+unknwown,8:27,1787250305000,22,14,REB,offensive rebound,27.0,215026.0,195,147002,Q2,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,693,BRA
+shot,8:12,1787250320000,24,14,P2,"2PtsFG under the basket, pullup jump shot made",27.0,203242.0,196,148000,Q2,135065,True,2.0,136.0,35.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,Restricted Area,0.6,Less Than 8 ft.,708,BRA
+unknwown,8:12,1787250320000,24,14,ASS,made the assist,27.0,302154.0,197,148001,Q2,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,708,BRA
+shot,7:57,1787250335000,24,14,P3,3pt jump shot missed,14.0,221602.0,198,149000,Q2,135065,False,3.0,30.0,134.0,,,14.0,Dalma Piri,Argentina,2.0,Q2,Above the Break 3,14.5,8-16 ft.,723,ARG
+unknwown,7:55,1787250340000,24,14,TREB,team offensive rebound,14.0,,200,149002,Q2,135065,,,,,,,,,,,Q2,,,,725,
+subst,7:57,1787250602000,24,14,SUBST,Substitution out,14.0,159332.0,207,149062,Q2,135065,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,723,ARG
+subst,7:57,1787250602000,24,14,SUBST,Substitution in,14.0,163689.0,208,149124,Q2,135065,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,723,ARG
+shot,7:49,1787250380000,24,16,P2,"2PtsFG inside left, jump shot made",14.0,200337.0,202,149250,Q2,135065,True,2.0,44.0,91.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Mid-Range,10.9,8-16 ft.,731,ARG
+unknwown,7:49,1787250380000,24,16,ASS,made the assist,14.0,163689.0,203,149251,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,731,ARG
+unknwown,7:39,1787250404000,24,16,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,205,154000,Q2,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q2,,,,741,ARG
+unknwown,7:39,1787250404000,24,16,RFOUL,foul drawn,27.0,302000.0,206,154002,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,741,BRA
+shot,7:39,1787250437000,25,16,FT,1st of 2 free throws made,27.0,302000.0,209,155000,Q2,135065,True,1.0,0.0,0.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,14.6,8-16 ft.,741,BRA
+shot,7:39,1787250438000,26,16,FT,2nd of 2 free throws made,27.0,302000.0,210,156000,Q2,135065,True,1.0,0.0,0.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,14.6,8-16 ft.,741,BRA
+subst,7:39,1787250455000,26,16,SUBST,Substitution out,27.0,200399.0,213,159000,Q2,135065,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,741,BRA
+subst,7:39,1787250455000,26,16,SUBST,Substitution in,27.0,178705.0,214,160000,Q2,135065,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,741,BRA
+shot,7:32,1787250463000,26,16,P3,3pt jump shot missed,14.0,200337.0,216,162000,Q2,135065,False,3.0,60.0,159.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Above the Break 3,14.3,8-16 ft.,748,ARG
+unknwown,7:29,1787250466000,26,16,TREB,team defensive rebound,27.0,,217,162002,Q2,135065,,,,,,,,,,,Q2,,,,751,
+unknwown,7:19,1787250476000,26,16,TO,turnover; bad pass,27.0,302154.0,218,163000,Q2,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,761,BRA
+unknwown,7:19,1787250476000,26,16,ST,steal,14.0,170619.0,219,163001,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,761,ARG
+shot,7:13,1787250481000,26,16,P2,"2PtsFG inside paint, points from fastbreak + after turnover, floating jump shot missed",14.0,170619.0,220,164000,Q2,135065,False,2.0,132.0,78.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,In The Paint (Non-RA),3.9,Less Than 8 ft.,767,ARG
+unknwown,7:09,1787250485000,26,16,REB,offensive rebound,14.0,170619.0,221,164002,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,771,ARG
+shot,7:04,1787250490000,26,16,P2,layup missed,14.0,221602.0,222,165000,Q2,135065,False,2.0,97.0,48.0,,,14.0,Dalma Piri,Argentina,2.0,Q2,In The Paint (Non-RA),4.4,Less Than 8 ft.,776,ARG
+unknwown,7:03,1787250499000,26,16,TREB,team defensive rebound,27.0,,224,165002,Q2,135065,,,,,,,,,,,Q2,,,,777,
+shot,6:54,1787250529000,28,16,P2,2pt pullup jump shot made,27.0,178705.0,226,168000,Q2,135065,True,2.0,225.0,58.0,,,27.0,Iza Sangalli,Brazil,77.0,Q2,Mid-Range,8.7,8-16 ft.,786,BRA
+unknwown,6:54,1787250529000,28,16,ASS,made the assist,27.0,302000.0,227,168001,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,786,BRA
+shot,6:37,1787250547000,28,16,P3,3pt jump shot missed,14.0,163689.0,228,169000,Q2,135065,False,3.0,42.0,142.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,Above the Break 3,14.1,8-16 ft.,803,ARG
+unknwown,6:34,1787250550000,28,16,REB,defensive rebound,27.0,178705.0,229,169002,Q2,135065,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,806,BRA
+shot,6:20,1787250563000,28,16,P2,2pt floating jump shot missed,27.0,203242.0,230,170000,Q2,135065,False,2.0,175.0,31.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,In The Paint (Non-RA),3.6,Less Than 8 ft.,820,BRA
+unknwown,6:17,1787250566000,28,16,REB,defensive rebound,14.0,170619.0,231,170002,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,823,ARG
+shot,6:15,1787250569000,28,18,P2,"2PtsFG under the basket, fast break, layup made",14.0,200337.0,232,171000,Q2,135065,True,2.0,124.0,35.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,1.7,Less Than 8 ft.,825,ARG
+unknwown,6:15,1787250569000,28,18,ASS,made the assist,14.0,163689.0,233,171001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,825,ARG
+unknwown,5:33,1787250613000,28,18,TTO,team turnover; shot clock violation,27.0,,236,174000,Q2,135065,,,,,,,,,,,Q2,,,,867,
+subst,5:27,1787250626000,28,18,SUBST,Substitution out,27.0,302154.0,240,178000,Q2,135065,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,873,BRA
+subst,5:27,1787250626000,28,18,SUBST,Substitution out,27.0,215026.0,241,179000,Q2,135065,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,873,BRA
+subst,5:27,1787250626000,28,18,SUBST,Substitution in,27.0,203532.0,242,180000,Q2,135065,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q2,,,,873,BRA
+subst,5:27,1787250626000,28,18,SUBST,Substitution in,27.0,392716.0,243,181000,Q2,135065,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,873,BRA
+shot,5:10,1787250645000,28,18,P2,2pt turnaround jump shot missed,14.0,170619.0,245,183000,Q2,135065,False,2.0,193.0,55.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Mid-Range,5.5,Less Than 8 ft.,890,ARG
+unknwown,5:06,1787250648000,28,18,REB,offensive rebound,14.0,200337.0,247,183002,Q2,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,894,ARG
+shot,5:06,1787250651000,28,20,P2,"2PtsFG under the basket, points from second chance + after turnover, pullup jump shot made",14.0,200337.0,249,186000,Q2,135065,True,2.0,130.0,33.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,1.2,Less Than 8 ft.,894,ARG
+timeout,5:06,1787250680000,28,20,TIMO,Timeout,27.0,,254,191000,Q2,135065,,,,,,,,,,,Q2,,,,894,
+subst,5:06,1787250751000,28,20,SUBST,Substitution out,27.0,178705.0,255,192000,Q2,135065,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,894,BRA
+subst,5:06,1787250751000,28,20,SUBST,Substitution in,27.0,200399.0,256,193000,Q2,135065,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,894,BRA
+subst,5:06,1787250751000,28,20,SUBST,Substitution out,14.0,221602.0,257,194000,Q2,135065,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q2,,,,894,ARG
+subst,5:06,1787250751000,28,20,SUBST,Substitution in,14.0,301664.0,258,195000,Q2,135065,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,894,ARG
+shot,4:43,1787250785000,28,20,P2,2pt pullup jump shot missed,27.0,203242.0,260,197000,Q2,135065,False,2.0,162.0,52.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,In The Paint (Non-RA),2.5,Less Than 8 ft.,917,BRA
+unknwown,4:40,1787250788000,28,20,REB,offensive rebound,27.0,200399.0,261,197002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,920,BRA
+shot,4:37,1787250790000,28,20,P3,3pt jump shot missed,27.0,203532.0,262,198000,Q2,135065,False,3.0,23.0,112.0,,,27.0,Maria Albiero,Brazil,5.0,Q2,Above the Break 3,13.7,8-16 ft.,923,BRA
+unknwown,4:35,1787250793000,28,20,REB,offensive rebound,27.0,203242.0,263,198002,Q2,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,925,BRA
+shot,4:31,1787250798000,28,20,P3,3pt jump shot missed,27.0,203532.0,265,200000,Q2,135065,False,3.0,19.0,112.0,,,27.0,Maria Albiero,Brazil,5.0,Q2,Above the Break 3,14.1,8-16 ft.,929,BRA
+unknwown,4:30,1787250805000,28,20,TREB,team offensive rebound,27.0,,266,200002,Q2,135065,,,,,,,,,,,Q2,,,,930,
+unknwown,4:30,1787250811000,28,20,FOUL,Technical foul; 1 free throw awarded,27.0,200399.0,267,201000,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,930,BRA
+shot,4:30,1787250837000,28,21,FT,1st free throw made,14.0,163689.0,268,202000,Q2,135065,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,14.6,8-16 ft.,930,ARG
+shot,4:26,1787250866000,28,21,P2,"2PtsFG under the basket, pullup jump shot missed",27.0,200399.0,270,204000,Q2,135065,False,2.0,128.0,35.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,1.3,Less Than 8 ft.,934,BRA
+unknwown,4:26,1787250866000,28,21,BS,blocked the shot,14.0,301664.0,272,204001,Q2,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,934,ARG
+unknwown,4:25,1787250888000,28,21,REB,offensive rebound,27.0,200399.0,273,204002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,935,BRA
+unknwown,4:25,1787250890000,28,21,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,274,206000,Q2,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,935,ARG
+unknwown,4:25,1787250890000,28,21,RFOUL,foul drawn,27.0,200399.0,275,206002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,935,BRA
+shot,4:25,1787250898000,28,21,FT,1st of 2 free throws missed,27.0,200399.0,276,207000,Q2,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q2,,14.6,8-16 ft.,935,BRA
+shot,4:25,1787250906000,28,21,FT,2nd of 2 free throws missed,27.0,200399.0,277,208000,Q2,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q2,,14.6,8-16 ft.,935,BRA
+unknwown,4:25,1787250907000,28,21,REB,offensive rebound,27.0,302000.0,279,208002,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,935,BRA
+shot,4:21,1787250912000,31,21,P3,3pt jump shot made,27.0,392716.0,280,210000,Q2,135065,True,3.0,65.0,159.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Above the Break 3,14.1,8-16 ft.,939,BRA
+unknwown,4:21,1787250912000,31,21,ASS,made the assist,27.0,302000.0,281,210001,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,939,BRA
+shot,4:02,1787250931000,31,23,P2,"2PtsFG under the basket, turnaround jump shot made",14.0,170619.0,282,211000,Q2,135065,True,2.0,140.0,48.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Restricted Area,0.8,Less Than 8 ft.,958,ARG
+unknwown,4:02,1787250931000,31,23,ASS,made the assist,14.0,163689.0,283,211001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,958,ARG
+unknwown,3:35,1787250964000,31,23,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,287,215000,Q2,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,985,ARG
+unknwown,3:35,1787250964000,31,23,RFOUL,foul drawn,27.0,200399.0,288,215002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,985,BRA
+subst,3:35,1787250974000,31,23,SUBST,Substitution out,14.0,301664.0,289,216000,Q2,135065,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,985,ARG
+subst,3:35,1787250974000,31,23,SUBST,Substitution in,14.0,159332.0,290,217000,Q2,135065,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,985,ARG
+shot,3:35,1787250992000,31,23,FT,1st of 2 free throws missed,27.0,200399.0,291,218000,Q2,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q2,,14.6,8-16 ft.,985,BRA
+shot,3:35,1787251004000,32,23,FT,2nd of 2 free throws made,27.0,200399.0,292,219000,Q2,135065,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q2,,14.6,8-16 ft.,985,BRA
+unknwown,3:35,1787251004000,32,23,ASS,made the assist,27.0,203532.0,293,219001,Q2,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,985,BRA
+shot,3:14,1787251028000,32,23,P2,2pt pullup jump shot missed,14.0,170619.0,295,221000,Q2,135065,False,2.0,133.0,105.0,,,14.0,Diana Cabrera,Argentina,7.0,Q2,Mid-Range,6.5,Less Than 8 ft.,1006,ARG
+unknwown,3:11,1787251031000,32,23,REB,defensive rebound,27.0,203242.0,296,221002,Q2,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1009,BRA
+unknwown,2:58,1787251045000,32,23,TO,turnover; bad pass,27.0,302000.0,297,222000,Q2,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1022,BRA
+unknwown,2:58,1787251045000,32,23,ST,steal,14.0,163689.0,298,222001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1022,ARG
+unknwown,2:46,1787251150000,32,23,TO,turnover; ball handling,14.0,200337.0,308,223000,Q2,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q2,,,,1034,ARG
+unknwown,2:46,1787251150000,32,23,ST,steal,27.0,203532.0,309,223001,Q2,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1034,BRA
+shot,2:44,1787256259000,32,23,P2,"2PtsFG under the basket, points after turnover, layup missed",27.0,392716.0,793,223500,Q2,135065,False,2.0,148.0,41.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Restricted Area,0.8,Less Than 8 ft.,1036,BRA
+unknwown,2:44,1787256259000,32,23,REB,offensive rebound,27.0,203242.0,794,223502,Q2,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1036,BRA
+shot,2:44,1787251061000,32,23,P2,"2PtsFG under the basket, points from second chance + after turnover, layup missed",27.0,203242.0,302,224000,Q2,135065,False,2.0,152.0,42.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,Restricted Area,1.2,Less Than 8 ft.,1036,BRA
+unknwown,2:44,1787251059000,32,23,BS,blocked the shot,14.0,159332.0,303,224001,Q2,135065,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q2,,,,1036,ARG
+unknwown,2:30,1787251072000,32,23,REB,offensive rebound,27.0,392716.0,304,224002,Q2,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1050,BRA
+unknwown,2:28,1787251078000,32,23,TTO,team turnover; shot clock violation,27.0,,306,226000,Q2,135065,,,,,,,,,,,Q2,,,,1052,
+timeout,2:28,1787251105000,32,23,TIMO,Timeout,14.0,,307,227000,Q2,135065,,,,,,,,,,,Q2,,,,1052,
+subst,2:28,1787251175000,32,23,SUBST,Substitution out,27.0,203532.0,310,228000,Q2,135065,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1052,BRA
+subst,2:28,1787251175000,32,23,SUBST,Substitution out,27.0,203242.0,311,229000,Q2,135065,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1052,BRA
+subst,2:28,1787251175000,32,23,SUBST,Substitution out,27.0,302000.0,312,230000,Q2,135065,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1052,BRA
+subst,2:28,1787251175000,32,23,SUBST,Substitution in,27.0,302154.0,313,231000,Q2,135065,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1052,BRA
+subst,2:28,1787251175000,32,23,SUBST,Substitution in,27.0,215026.0,314,232000,Q2,135065,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,1052,BRA
+subst,2:28,1787251175000,32,23,SUBST,Substitution in,27.0,342721.0,315,233000,Q2,135065,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1052,BRA
+shot,2:15,1787251196000,32,23,P3,3pt jump shot missed,14.0,159332.0,317,235000,Q2,135065,False,3.0,264.0,83.0,,,14.0,Macarena D'urso,Argentina,20.0,Q2,Above the Break 3,13.1,8-16 ft.,1065,ARG
+unknwown,2:12,1787251199000,32,23,REB,defensive rebound,27.0,215026.0,318,235002,Q2,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,1068,BRA
+unknwown,2:07,1787251204000,32,23,TO,turnover; bad pass,27.0,200399.0,319,236000,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1073,BRA
+unknwown,2:07,1787251204000,32,23,ST,steal,14.0,214723.0,320,236001,Q2,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,1073,ARG
+shot,2:02,1787251209000,32,23,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup missed",14.0,214723.0,321,237000,Q2,135065,False,2.0,139.0,24.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Restricted Area,1.6,Less Than 8 ft.,1078,ARG
+unknwown,1:58,1787251213000,33,23,REB,defensive rebound,27.0,392716.0,323,237002,Q2,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1082,BRA
+unknwown,1:59,1787251223000,32,23,CFOUL,Technical foul coach,14.0,,325,240000,Q2,135065,,,,,,,,,,,Q2,,,,1081,
+shot,1:59,1787251240000,33,23,FT,1st free throw made,27.0,392716.0,326,241000,Q2,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,14.6,8-16 ft.,1081,BRA
+unknwown,1:50,1787251281000,33,23,FOUL,Personal foul; 2 free throws awarded,14.0,170619.0,331,246000,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,1090,ARG
+unknwown,1:50,1787251281000,33,23,RFOUL,foul drawn,27.0,342721.0,332,246002,Q2,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1090,BRA
+shot,1:50,1787251298000,33,23,FT,1st of 2 free throws missed,27.0,342721.0,333,247000,Q2,135065,False,1.0,0.0,0.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,14.6,8-16 ft.,1090,BRA
+shot,1:50,1787251319000,34,23,FT,2nd of 2 free throws made,27.0,342721.0,334,248000,Q2,135065,True,1.0,0.0,0.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q2,,14.6,8-16 ft.,1090,BRA
+shot,1:44,1787251331000,34,23,P3,3pt jump shot missed,14.0,214723.0,336,250000,Q2,135065,False,3.0,10.0,73.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Right Corner 3,13.4,8-16 ft.,1096,ARG
+unknwown,1:40,1787251335000,34,23,REB,defensive rebound,27.0,200399.0,337,250002,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1100,BRA
+shot,1:34,1787251341000,34,23,P2,"2PtsFG under the basket, turnaround jump shot missed",27.0,302154.0,338,251000,Q2,135065,False,2.0,132.0,19.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,Restricted Area,2.2,Less Than 8 ft.,1106,BRA
+unknwown,1:31,1787251344000,34,23,REB,defensive rebound,14.0,170619.0,339,251002,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,1109,ARG
+unknwown,1:24,1787251358000,34,23,FOUL,Personal foul,27.0,200399.0,343,255000,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1116,BRA
+unknwown,1:24,1787251358000,34,23,RFOUL,foul drawn,14.0,163689.0,344,255002,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1116,ARG
+shot,1:20,1787251380000,34,25,P2,"2PtsFG under the basket, layup made",14.0,200337.0,346,257000,Q2,135065,True,2.0,148.0,35.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Restricted Area,0.9,Less Than 8 ft.,1120,ARG
+unknwown,1:20,1787251380000,34,25,ASS,made the assist,14.0,163689.0,347,257001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1120,ARG
+unknwown,0:51,1787251412000,34,25,TO,turnover; ball handling,27.0,200399.0,349,259000,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1149,BRA
+unknwown,0:51,1787251412000,34,25,ST,steal,14.0,170619.0,350,259001,Q2,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q2,,,,1149,ARG
+unknwown,0:51,1787251423000,34,25,FOUL,Personal foul,27.0,200399.0,351,260000,Q2,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,1149,BRA
+unknwown,0:51,1787251423000,34,25,RFOUL,foul drawn,14.0,163689.0,352,260002,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1149,ARG
+subst,0:51,1787251432000,34,25,SUBST,Substitution out,27.0,200399.0,353,261000,Q2,135065,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,1149,BRA
+subst,0:51,1787251432000,34,25,SUBST,Substitution in,27.0,203242.0,354,262000,Q2,135065,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1149,BRA
+shot,0:37,1787251450000,34,25,P3,3pt jump shot missed,14.0,200337.0,356,264000,Q2,135065,False,3.0,8.0,70.0,,,14.0,Julieta Mungo,Argentina,9.0,Q2,Right Corner 3,13.5,8-16 ft.,1163,ARG
+unknwown,0:33,1787251453000,34,25,REB,defensive rebound,27.0,302154.0,357,264002,Q2,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1167,BRA
+unknwown,0:19,1787251468000,34,25,TO,turnover; ball handling,27.0,302154.0,358,265000,Q2,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1181,BRA
+unknwown,0:19,1787251468000,34,25,ST,steal,14.0,163689.0,359,265001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1181,ARG
+shot,0:12,1787251480000,34,27,P2,"2PtsFG under the basket, points from fastbreak + after turnover, pullup jump shot made",14.0,214723.0,363,268000,Q2,135065,True,2.0,124.0,31.0,,,14.0,Florencia Chagas,Argentina,14.0,Q2,Restricted Area,1.8,Less Than 8 ft.,1188,ARG
+unknwown,0:12,1787251480000,34,27,ASS,made the assist,14.0,163689.0,366,268001,Q2,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1188,ARG
+timeout,0:11,1787251641000,34,27,TIMO,Timeout,27.0,,378,268500,Q2,135065,,,,,,,,,,,Q2,,,,1189,
+subst,0:11,1787251606000,34,27,SUBST,Substitution out,27.0,302154.0,367,271000,Q2,135065,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q2,,,,1189,BRA
+subst,0:11,1787251606000,34,27,SUBST,Substitution out,27.0,203242.0,368,272000,Q2,135065,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1189,BRA
+subst,0:11,1787251606000,34,27,SUBST,Substitution in,27.0,203532.0,369,273000,Q2,135065,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1189,BRA
+subst,0:11,1787251606000,34,27,SUBST,Substitution in,27.0,178705.0,370,274000,Q2,135065,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1189,BRA
+subst,0:11,1787251606000,34,27,SUBST,Substitution out,14.0,163689.0,371,275000,Q2,135065,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q2,,,,1189,ARG
+subst,0:11,1787251606000,34,27,SUBST,Substitution out,14.0,214723.0,372,276000,Q2,135065,,,,,,OUT,14.0,Florencia Chagas,Argentina,14.0,Q2,,,,1189,ARG
+subst,0:11,1787251606000,34,27,SUBST,Substitution in,14.0,221602.0,373,277000,Q2,135065,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q2,,,,1189,ARG
+subst,0:11,1787251606000,34,27,SUBST,Substitution in,14.0,301664.0,374,278000,Q2,135065,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q2,,,,1189,ARG
+shot,0:01,1787251620000,36,27,P2,2pt driving layup made,27.0,215026.0,377,281000,Q2,135065,True,2.0,164.0,35.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,Restricted Area,2.5,Less Than 8 ft.,1199,BRA
+periods,0:00,1787251785000,36,27,ENDP,End of period,,,381,284000,Q2,135065,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787252490000,36,27,SUBST,Substitution out,27.0,203532.0,382,285000,Q3,135065,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1200,BRA
+subst,10:00,1787252490000,36,27,SUBST,Substitution out,27.0,178705.0,383,286000,Q3,135065,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1200,BRA
+subst,10:00,1787252490000,36,27,SUBST,Substitution in,27.0,302154.0,384,287000,Q3,135065,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1200,BRA
+subst,10:00,1787252490000,36,27,SUBST,Substitution in,27.0,203242.0,385,288000,Q3,135065,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1200,BRA
+subst,10:00,1787252490000,36,27,SUBST,Substitution out,14.0,301664.0,386,289000,Q3,135065,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q3,,,,1200,ARG
+subst,10:00,1787252490000,36,27,SUBST,Substitution out,14.0,170619.0,387,290000,Q3,135065,,,,,,OUT,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1200,ARG
+subst,10:00,1787252490000,36,27,SUBST,Substitution out,14.0,159332.0,388,291000,Q3,135065,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1200,ARG
+subst,10:00,1787252490000,36,27,SUBST,Substitution in,14.0,302892.0,389,292000,Q3,135065,,,,,,IN,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1200,ARG
+subst,10:00,1787252490000,36,27,SUBST,Substitution in,14.0,163689.0,390,293000,Q3,135065,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1200,ARG
+subst,10:00,1787252490000,36,27,SUBST,Substitution in,14.0,214723.0,391,294000,Q3,135065,,,,,,IN,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1200,ARG
+periods,10:00,1787252516000,36,27,STARTP,Start of period,,,392,295000,Q3,135065,,,,,,,,,,,Q3,,,,1200,
+shot,9:48,1787252529000,36,27,P2,2pt pullup jump shot missed,14.0,214723.0,394,297000,Q3,135065,False,2.0,124.0,105.0,,,14.0,Florencia Chagas,Argentina,14.0,Q3,Mid-Range,6.7,Less Than 8 ft.,1212,ARG
+unknwown,9:44,1787252532000,36,27,REB,defensive rebound,27.0,342721.0,395,297002,Q3,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1216,BRA
+unknwown,9:21,1787252562000,36,27,TTO,team turnover; shot clock violation,27.0,,399,301000,Q3,135065,,,,,,,,,,,Q3,,,,1239,
+unknwown,9:02,1787252594000,36,27,FOUL,Personal foul; 2 free throws awarded,27.0,342721.0,404,306000,Q3,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1258,BRA
+unknwown,9:02,1787252594000,36,27,RFOUL,foul drawn,14.0,302892.0,405,306002,Q3,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1258,ARG
+shot,9:02,1787252610000,36,28,FT,1st of 2 free throws made,14.0,302892.0,406,307000,Q3,135065,True,1.0,0.0,0.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,14.6,8-16 ft.,1258,ARG
+shot,9:02,1787252622000,36,29,FT,2nd of 2 free throws made,14.0,302892.0,407,308000,Q3,135065,True,1.0,0.0,0.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,14.6,8-16 ft.,1258,ARG
+subst,9:02,1787252628000,36,29,SUBST,Substitution out,27.0,342721.0,408,309000,Q3,135065,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1258,BRA
+subst,9:02,1787252628000,36,29,SUBST,Substitution in,27.0,301995.0,409,310000,Q3,135065,,,,,,IN,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1258,BRA
+unknwown,8:43,1787252658000,36,29,TO,turnover; bad pass,27.0,301995.0,414,315000,Q3,135065,,,,,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1277,BRA
+unknwown,8:31,1787252684000,36,29,TO,turnover; bad pass,14.0,221602.0,419,320000,Q3,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1289,ARG
+unknwown,8:26,1787252705000,36,29,FOUL,Personal foul,14.0,163689.0,424,325000,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1294,ARG
+unknwown,8:26,1787252705000,36,29,RFOUL,foul drawn,27.0,302154.0,425,325002,Q3,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1294,BRA
+shot,8:12,1787252731000,36,29,P2,"2PtsFG under the basket, points after turnover, layup missed",27.0,301995.0,427,327000,Q3,135065,False,2.0,142.0,49.0,,,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,Restricted Area,0.9,Less Than 8 ft.,1308,BRA
+unknwown,8:11,1787252739000,36,29,REB,defensive rebound,14.0,163689.0,429,327002,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1309,ARG
+unknwown,8:11,1787252741000,36,29,FOUL,Personal foul,27.0,203242.0,430,329000,Q3,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1309,BRA
+unknwown,8:11,1787252741000,36,29,RFOUL,foul drawn,14.0,163689.0,431,329002,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1309,ARG
+shot,7:50,1787252768000,36,29,P3,3pt step back jump shot missed,14.0,200337.0,433,331000,Q3,135065,False,3.0,238.0,148.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Above the Break 3,14.6,8-16 ft.,1330,ARG
+unknwown,7:47,1787252770000,36,29,REB,defensive rebound,27.0,203242.0,434,331002,Q3,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1333,BRA
+shot,7:36,1787252782000,36,29,P3,3pt jump shot missed,27.0,302154.0,435,332000,Q3,135065,False,3.0,245.0,121.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,Above the Break 3,13.3,8-16 ft.,1344,BRA
+unknwown,7:32,1787252785000,36,29,REB,defensive rebound,14.0,221602.0,436,332002,Q3,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1348,ARG
+shot,7:13,1787252805000,36,32,P3,3pt step back jump shot made,14.0,221602.0,438,334000,Q3,135065,True,3.0,193.0,170.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,14.0,8-16 ft.,1367,ARG
+timeout,7:12,1787252818000,36,32,TIMO,Timeout,27.0,,442,337000,Q3,135065,,,,,,,,,,,Q3,,,,1368,
+subst,7:12,1787252909000,36,32,SUBST,Substitution out,27.0,215026.0,443,338000,Q3,135065,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1368,BRA
+subst,7:12,1787252909000,36,32,SUBST,Substitution out,27.0,203242.0,444,339000,Q3,135065,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1368,BRA
+subst,7:12,1787252909000,36,32,SUBST,Substitution in,27.0,200399.0,445,340000,Q3,135065,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q3,,,,1368,BRA
+subst,7:12,1787252909000,36,32,SUBST,Substitution in,27.0,302000.0,446,341000,Q3,135065,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1368,BRA
+unknwown,6:47,1787252943000,36,32,TTO,team turnover; shot clock violation,27.0,,449,344000,Q3,135065,,,,,,,,,,,Q3,,,,1393,
+subst,6:47,1787252960000,36,32,SUBST,Substitution out,27.0,302154.0,450,345000,Q3,135065,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1393,BRA
+subst,6:47,1787252960000,36,32,SUBST,Substitution out,27.0,301995.0,451,346000,Q3,135065,,,,,,OUT,27.0,Letycia Vasconcelos,Brazil,35.0,Q3,,,,1393,BRA
+subst,6:47,1787252960000,36,32,SUBST,Substitution in,27.0,203532.0,452,347000,Q3,135065,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1393,BRA
+subst,6:47,1787252960000,36,32,SUBST,Substitution in,27.0,178705.0,453,348000,Q3,135065,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1393,BRA
+unknwown,6:29,1787253009000,36,32,FOUL,Personal foul,27.0,302000.0,460,355000,Q3,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1411,BRA
+unknwown,6:29,1787253009000,36,32,RFOUL,foul drawn,14.0,214723.0,461,355002,Q3,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1411,ARG
+shot,6:20,1787253041000,36,34,P2,"2PtsFG under the basket, points after turnover, alley oop lay-up made",14.0,302892.0,463,357000,Q3,135065,True,2.0,136.0,37.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,Restricted Area,0.5,Less Than 8 ft.,1420,ARG
+unknwown,6:20,1787253041000,36,34,ASS,made the assist,14.0,163689.0,464,357001,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1420,ARG
+shot,5:56,1787253067000,39,34,P3,3pt jump shot made,27.0,392716.0,467,360000,Q3,135065,True,3.0,211.0,162.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,14.1,8-16 ft.,1444,BRA
+unknwown,5:56,1787253067000,39,34,ASS,made the assist,27.0,203532.0,468,360001,Q3,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1444,BRA
+unknwown,5:39,1787253113000,39,34,VTR,Head coach's challenge successful,14.0,,473,365000,Q3,135065,,,,,,,,,,,Q3,,,,1461,
+shot,5:33,1787253244000,39,34,P2,"2PtsFG under the basket, layup missed",14.0,302892.0,475,367000,Q3,135065,False,2.0,159.0,39.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1467,ARG
+unknwown,5:29,1787253247000,39,34,REB,offensive rebound,14.0,302892.0,476,367002,Q3,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1471,ARG
+shot,5:29,1787253863000,39,34,P2,"2PtsFG under the basket, layup missed",14.0,302892.0,551,367500,Q3,135065,False,2.0,140.0,41.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,Restricted Area,0.1,Less Than 8 ft.,1471,ARG
+unknwown,5:29,1787253863000,39,34,REB,offensive rebound,14.0,302892.0,552,367502,Q3,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1471,ARG
+shot,5:26,1787253883000,39,34,P2,"2PtsFG under the basket, layup missed",14.0,302892.0,553,367750,Q3,135065,False,2.0,134.0,38.0,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,Restricted Area,0.6,Less Than 8 ft.,1474,ARG
+unknwown,5:26,1787253883000,39,34,BS,blocked the shot,27.0,200399.0,554,367751,Q3,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1474,BRA
+unknwown,5:26,1787253883000,39,34,REB,offensive rebound,14.0,302892.0,555,367752,Q3,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1474,ARG
+shot,5:24,1787253255000,39,34,P3,3pt jump shot missed,14.0,214723.0,478,369000,Q3,135065,False,3.0,253.0,122.0,,,14.0,Florencia Chagas,Argentina,14.0,Q3,Above the Break 3,14.0,8-16 ft.,1476,ARG
+unknwown,5:24,1787253258000,39,34,TREB,team offensive rebound,14.0,,479,369002,Q3,135065,,,,,,,,,,,Q3,,,,1476,
+unknwown,5:24,1787253288000,39,34,FOUL,Personal foul,27.0,200399.0,481,371000,Q3,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1476,BRA
+unknwown,5:24,1787253288000,39,34,RFOUL,foul drawn,14.0,200337.0,482,371002,Q3,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1476,ARG
+shot,5:10,1787253296000,39,34,P2,"2PtsFG inside right, jump shot missed",14.0,163689.0,483,372000,Q3,135065,False,2.0,208.0,87.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,Mid-Range,8.3,8-16 ft.,1490,ARG
+unknwown,5:07,1787253299000,39,34,REB,defensive rebound,27.0,178705.0,484,372002,Q3,135065,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1493,BRA
+shot,4:45,1787253322000,39,34,P3,3pt jump shot missed,27.0,302000.0,485,373000,Q3,135065,False,3.0,202.0,170.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,Above the Break 3,14.4,8-16 ft.,1515,BRA
+unknwown,4:42,1787253324000,39,34,REB,defensive rebound,14.0,163689.0,486,373002,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1518,ARG
+shot,4:23,1787253344000,39,34,P2,2pt floating jump shot missed,14.0,221602.0,487,374000,Q3,135065,False,2.0,143.0,55.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,In The Paint (Non-RA),1.5,Less Than 8 ft.,1537,ARG
+unknwown,4:19,1787253346000,39,34,REB,offensive rebound,14.0,221602.0,488,374002,Q3,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1541,ARG
+shot,4:08,1787253359000,39,36,P2,"2PtsFG under the basket, driving layup made",14.0,200337.0,489,375000,Q3,135065,True,2.0,144.0,40.0,,,14.0,Julieta Mungo,Argentina,9.0,Q3,Restricted Area,0.4,Less Than 8 ft.,1552,ARG
+unknwown,4:08,1787253359000,39,36,ASS,made the assist,14.0,163689.0,503,375001,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1552,ARG
+shot,3:51,1787253376000,41,36,P2,"2PtsFG under the basket, pullup jump shot made",27.0,200399.0,490,376000,Q3,135065,True,2.0,142.0,26.0,,,27.0,Aline Moura,Brazil,12.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1569,BRA
+unknwown,3:51,1787253376000,41,36,ASS,made the assist,27.0,203532.0,491,376001,Q3,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1569,BRA
+shot,3:23,1787253403000,41,36,P2,"2PtsFG under the basket, layup missed",14.0,163689.0,492,377000,Q3,135065,False,2.0,132.0,38.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,Restricted Area,0.8,Less Than 8 ft.,1597,ARG
+unknwown,3:20,1787253406000,41,36,REB,defensive rebound,27.0,178705.0,493,377002,Q3,135065,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1600,BRA
+unknwown,3:17,1787253414000,41,36,FOUL,Personal foul,14.0,302892.0,495,379000,Q3,135065,,,,,,,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1603,ARG
+unknwown,3:17,1787253414000,41,36,RFOUL,foul drawn,27.0,178705.0,496,379002,Q3,135065,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution out,27.0,203532.0,497,380000,Q3,135065,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution out,27.0,200399.0,498,381000,Q3,135065,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution out,27.0,178705.0,499,382000,Q3,135065,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution in,27.0,302154.0,500,383000,Q3,135065,,,,,,IN,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution in,27.0,215026.0,501,384000,Q3,135065,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1603,BRA
+subst,3:17,1787253425000,41,36,SUBST,Substitution in,27.0,342721.0,502,385000,Q3,135065,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1603,BRA
+subst,3:11,1787253462000,41,36,SUBST,Substitution out,14.0,302892.0,505,387000,Q3,135065,,,,,,OUT,14.0,Nerea Lagowski,Argentina,5.0,Q3,,,,1609,ARG
+subst,3:11,1787253462000,41,36,SUBST,Substitution in,14.0,170619.0,506,388000,Q3,135065,,,,,,IN,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1609,ARG
+unknwown,3:08,1787253471000,41,36,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,508,390000,Q3,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1612,ARG
+unknwown,3:08,1787253471000,41,36,RFOUL,foul drawn,27.0,302154.0,509,390002,Q3,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1612,BRA
+shot,3:08,1787253499000,42,36,FT,1st of 2 free throws made,27.0,302154.0,510,391000,Q3,135065,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1612,BRA
+shot,3:08,1787253499000,43,36,FT,2nd of 2 free throws made,27.0,302154.0,511,392000,Q3,135065,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,14.6,8-16 ft.,1612,BRA
+shot,2:59,1787253511000,43,36,P3,3pt jump shot missed,14.0,221602.0,513,394000,Q3,135065,False,3.0,9.0,17.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Right Corner 3,13.3,8-16 ft.,1621,ARG
+unknwown,2:56,1787253513000,43,36,REB,defensive rebound,27.0,302000.0,514,394002,Q3,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1624,BRA
+unknwown,2:51,1787253519000,43,36,TO,turnover; ball handling,27.0,302154.0,515,395000,Q3,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1629,BRA
+unknwown,2:51,1787253519000,43,36,ST,steal,14.0,163689.0,516,395001,Q3,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1629,ARG
+shot,2:36,1787253533000,43,36,P2,"2PtsFG inside center, points after turnover, jump shot missed",14.0,163689.0,517,396000,Q3,135065,False,2.0,138.0,127.0,,,14.0,Melisa Gretter,Argentina,11.0,Q3,Mid-Range,8.7,8-16 ft.,1644,ARG
+unknwown,2:35,1787253543000,43,36,TREB,team offensive rebound,14.0,,519,396002,Q3,135065,,,,,,,,,,,Q3,,,,1645,
+unknwown,2:35,1787253545000,43,36,FOUL,Personal foul; 2 free throws awarded,27.0,342721.0,520,398000,Q3,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1645,BRA
+unknwown,2:35,1787253545000,43,36,RFOUL,foul drawn,14.0,170619.0,521,398002,Q3,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1645,ARG
+shot,2:35,1787253569000,43,36,FT,1st of 2 free throws missed,14.0,170619.0,522,399000,Q3,135065,False,1.0,0.0,0.0,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,14.6,8-16 ft.,1645,ARG
+shot,2:35,1787253585000,43,36,FT,2nd of 2 free throws missed,14.0,170619.0,523,400000,Q3,135065,False,1.0,0.0,0.0,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,14.6,8-16 ft.,1645,ARG
+unknwown,2:35,1787253586000,43,36,REB,defensive rebound,27.0,215026.0,525,400002,Q3,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1645,BRA
+shot,2:17,1787253604000,43,36,P3,3pt jump shot missed,27.0,392716.0,526,402000,Q3,135065,False,3.0,43.0,143.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,14.1,8-16 ft.,1663,BRA
+unknwown,2:14,1787253607000,43,36,REB,defensive rebound,14.0,214723.0,527,402002,Q3,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q3,,,,1666,ARG
+shot,2:01,1787253620000,43,39,P3,3pt jump shot made,14.0,221602.0,528,403000,Q3,135065,True,3.0,225.0,144.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,Above the Break 3,13.4,8-16 ft.,1679,ARG
+unknwown,2:01,1787253620000,43,39,ASS,made the assist,14.0,200337.0,529,403001,Q3,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q3,,,,1679,ARG
+unknwown,1:43,1787253642000,43,39,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,531,405000,Q3,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q3,,,,1697,ARG
+unknwown,1:43,1787253642000,43,39,RFOUL,foul drawn,27.0,215026.0,532,405002,Q3,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1697,BRA
+subst,1:43,1787253661000,43,39,SUBST,Substitution out,14.0,163689.0,533,406000,Q3,135065,,,,,,OUT,14.0,Melisa Gretter,Argentina,11.0,Q3,,,,1697,ARG
+subst,1:43,1787253661000,43,39,SUBST,Substitution in,14.0,159332.0,534,407000,Q3,135065,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1697,ARG
+shot,1:43,1787253673000,44,39,FT,1st of 2 free throws made,27.0,215026.0,535,408000,Q3,135065,True,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,14.6,8-16 ft.,1697,BRA
+shot,1:43,1787253683000,45,39,FT,2nd of 2 free throws made,27.0,215026.0,536,409000,Q3,135065,True,1.0,0.0,0.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,14.6,8-16 ft.,1697,BRA
+shot,1:24,1787253706000,45,39,P3,3pt jump shot from center missed,14.0,159332.0,538,411000,Q3,135065,False,3.0,112.0,184.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,Above the Break 3,14.7,8-16 ft.,1716,ARG
+unknwown,1:21,1787253709000,45,39,REB,defensive rebound,27.0,302000.0,539,411002,Q3,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1719,BRA
+shot,0:58,1787253732000,45,39,P3,3pt jump shot missed,27.0,302154.0,540,412000,Q3,135065,False,3.0,206.0,176.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,Above the Break 3,15.1,8-16 ft.,1742,BRA
+unknwown,0:56,1787253733000,45,39,REB,defensive rebound,14.0,159332.0,541,412002,Q3,135065,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q3,,,,1744,ARG
+shot,0:40,1787253750000,45,39,P2,2pt driving layup missed,14.0,221602.0,542,413000,Q3,135065,False,2.0,156.0,67.0,,,14.0,Dalma Piri,Argentina,2.0,Q3,In The Paint (Non-RA),3.1,Less Than 8 ft.,1760,ARG
+unknwown,0:37,1787253752000,45,39,REB,defensive rebound,27.0,342721.0,543,413002,Q3,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q3,,,,1763,BRA
+unknwown,0:26,1787253763000,45,39,TO,turnover; bad pass,27.0,392716.0,544,414000,Q3,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1774,BRA
+unknwown,0:26,1787253763000,45,39,ST,steal,14.0,170619.0,545,414001,Q3,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q3,,,,1774,ARG
+shot,0:01,1787253789000,45,39,P2,"2PtsFG under the basket, points after turnover, driving layup missed",14.0,159332.0,547,416000,Q3,135065,False,2.0,135.0,30.0,,,14.0,Macarena D'urso,Argentina,20.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1799,ARG
+unknwown,0:01,1787253810000,45,39,REB,defensive rebound,27.0,302154.0,550,416002,Q3,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q3,,,,1799,BRA
+periods,0:00,1787253896000,45,39,ENDP,End of period,,,556,419000,Q3,135065,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787253927000,45,39,SUBST,Substitution out,14.0,159332.0,557,420000,Q4,135065,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1800,ARG
+subst,10:00,1787253927000,45,39,SUBST,Substitution in,14.0,163689.0,558,421000,Q4,135065,,,,,,IN,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1800,ARG
+periods,10:00,1787253951000,45,39,STARTP,Start of period,,,559,422000,Q4,135065,,,,,,,,,,,Q4,,,,1800,
+shot,9:45,1787253966000,47,39,P2,"2PtsFG under the basket, driving layup made",27.0,392716.0,561,424000,Q4,135065,True,2.0,119.0,30.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Restricted Area,2.3,Less Than 8 ft.,1815,BRA
+unknwown,9:17,1787253997000,47,39,FOUL,Personal foul; 2 free throws awarded,27.0,302154.0,565,428000,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,1843,BRA
+unknwown,9:17,1787253997000,47,39,RFOUL,foul drawn,14.0,163689.0,566,428002,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,1843,ARG
+shot,9:17,1787254016000,47,39,FT,1st of 2 free throws missed,14.0,163689.0,567,429000,Q4,135065,False,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,1843,ARG
+shot,9:17,1787254028000,47,40,FT,2nd of 2 free throws made,14.0,163689.0,568,430000,Q4,135065,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,1843,ARG
+shot,9:08,1787254045000,49,40,P2,"2PtsFG under the basket, fast break, pullup jump shot made",27.0,342721.0,572,434000,Q4,135065,True,2.0,121.0,39.0,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,Restricted Area,1.9,Less Than 8 ft.,1852,BRA
+unknwown,9:08,1787254043000,49,40,ASS,made the assist,27.0,302000.0,573,434001,Q4,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,1852,BRA
+unknwown,8:48,1787254081000,49,40,FOUL,Personal foul,27.0,342721.0,576,437000,Q4,135065,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1872,BRA
+unknwown,8:48,1787254081000,49,40,RFOUL,foul drawn,14.0,214723.0,577,437002,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,1872,ARG
+subst,8:48,1787254094000,49,40,SUBST,Substitution out,27.0,342721.0,578,438000,Q4,135065,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1872,BRA
+subst,8:48,1787254094000,49,40,SUBST,Substitution in,27.0,203242.0,579,439000,Q4,135065,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1872,BRA
+shot,8:42,1787254111000,49,42,P2,2pt pullup jump shot made,14.0,163689.0,583,443000,Q4,135065,True,2.0,157.0,122.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.4,8-16 ft.,1878,ARG
+unknwown,8:31,1787254126000,49,42,FOUL,Personal foul,14.0,214723.0,587,447000,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,1889,ARG
+unknwown,8:31,1787254126000,49,42,RFOUL,foul drawn,27.0,302000.0,588,447002,Q4,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,1889,BRA
+unknwown,8:15,1787254162000,49,42,TO,turnover; bad pass,27.0,215026.0,590,449000,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,1905,BRA
+unknwown,8:15,1787254162000,49,42,ST,steal,14.0,170619.0,591,449001,Q4,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1905,ARG
+shot,8:07,1787254170000,49,42,P2,2pt pullup jump shot missed,14.0,163689.0,593,451000,Q4,135065,False,2.0,147.0,122.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,8.2,8-16 ft.,1913,ARG
+unknwown,8:07,1787254176000,49,42,TREB,team defensive rebound,27.0,,594,451002,Q4,135065,,,,,,,,,,,Q4,,,,1913,
+subst,8:07,1787254180000,49,42,SUBST,Substitution out,14.0,221602.0,595,452000,Q4,135065,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q4,,,,1913,ARG
+subst,8:07,1787254180000,49,42,SUBST,Substitution in,14.0,159332.0,596,453000,Q4,135065,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1913,ARG
+unknwown,7:57,1787254201000,49,42,FOUL,Personal foul,14.0,159332.0,601,458000,Q4,135065,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,1923,ARG
+unknwown,7:57,1787254201000,49,42,RFOUL,foul drawn,27.0,392716.0,602,458002,Q4,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1923,BRA
+shot,7:43,1787254229000,49,42,P2,2pt step back jump shot missed,27.0,302000.0,604,460000,Q4,135065,False,2.0,209.0,41.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,Mid-Range,6.9,Less Than 8 ft.,1937,BRA
+unknwown,7:41,1787254233000,49,42,REB,offensive rebound,27.0,215026.0,606,460002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,1939,BRA
+unknwown,7:41,1787254235000,49,42,TTO,team turnover; shot clock violation,27.0,,607,462000,Q4,135065,,,,,,,,,,,Q4,,,,1939,
+unknwown,7:23,1787254291000,49,42,FOUL,Personal foul,27.0,302154.0,614,469000,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,1957,BRA
+unknwown,7:23,1787254291000,49,42,RFOUL,foul drawn,14.0,170619.0,615,469002,Q4,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,1957,ARG
+shot,7:04,1787254342000,49,42,P2,2pt floating jump shot missed,14.0,163689.0,619,473000,Q4,135065,False,2.0,83.0,71.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Mid-Range,6.5,Less Than 8 ft.,1976,ARG
+unknwown,7:01,1787254344000,49,42,REB,defensive rebound,27.0,302000.0,620,473002,Q4,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,1979,BRA
+shot,6:41,1787254365000,49,42,P3,3pt jump shot missed,27.0,215026.0,621,474000,Q4,135065,False,3.0,42.0,150.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Above the Break 3,14.7,8-16 ft.,1999,BRA
+unknwown,6:38,1787254368000,49,42,REB,offensive rebound,27.0,203242.0,622,474002,Q4,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2002,BRA
+shot,6:36,1787254372000,49,42,P2,"2PtsFG under the basket, layup missed",27.0,203242.0,623,475000,Q4,135065,False,2.0,125.0,37.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Restricted Area,1.5,Less Than 8 ft.,2004,BRA
+unknwown,6:31,1787254375000,49,42,REB,defensive rebound,14.0,200337.0,624,475002,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2009,ARG
+shot,6:28,1787254379000,49,42,P3,3pt jump shot missed,14.0,159332.0,626,477000,Q4,135065,False,3.0,236.0,144.0,,,14.0,Macarena D'urso,Argentina,20.0,Q4,Above the Break 3,14.2,8-16 ft.,2012,ARG
+unknwown,6:28,1787254381000,49,42,REB,defensive rebound,27.0,215026.0,627,477002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2012,BRA
+unknwown,6:28,1787254385000,49,42,FOUL,Personal foul,14.0,200337.0,628,478000,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2012,ARG
+unknwown,6:28,1787254385000,49,42,RFOUL,foul drawn,27.0,215026.0,629,478002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2012,BRA
+unknwown,6:15,1787254414000,49,42,TO,turnover; ball handling,27.0,302000.0,631,480000,Q4,135065,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2025,BRA
+unknwown,6:15,1787254414000,49,42,ST,steal,14.0,214723.0,632,480001,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2025,ARG
+unknwown,6:11,1787254428000,49,42,FOUL,Unsportsmanlike foul; 2 free throws awarded,27.0,215026.0,634,482000,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2029,BRA
+unknwown,6:11,1787254428000,49,42,RFOUL,foul drawn,14.0,200337.0,635,482002,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2029,ARG
+unknwown,6:11,1787254450000,49,42,VTR,Head coach's challenge unsuccessful,27.0,,636,483000,Q4,135065,,,,,,,,,,,Q4,,,,2029,
+shot,6:11,1787254538000,49,43,FT,Free throw made 1 of 2,14.0,200337.0,637,484000,Q4,135065,True,1.0,0.0,0.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,14.6,8-16 ft.,2029,ARG
+shot,6:11,1787254549000,49,44,FT,Free throw made 2 of 2,14.0,200337.0,638,485000,Q4,135065,True,1.0,0.0,0.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,14.6,8-16 ft.,2029,ARG
+subst,6:11,1787254558000,49,44,SUBST,Substitution out,27.0,302000.0,639,486000,Q4,135065,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2029,BRA
+subst,6:11,1787254558000,49,44,SUBST,Substitution in,27.0,200399.0,640,487000,Q4,135065,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q4,,,,2029,BRA
+subst,6:11,1787254575000,49,44,SUBST,Substitution out,14.0,159332.0,641,488000,Q4,135065,,,,,,OUT,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2029,ARG
+subst,6:11,1787254575000,49,44,SUBST,Substitution in,14.0,301664.0,642,489000,Q4,135065,,,,,,IN,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2029,ARG
+shot,5:58,1787254594000,49,46,P2,2pt jump shot made,14.0,301664.0,644,491000,Q4,135065,True,2.0,121.0,57.0,,,14.0,Julia Fernandez,Argentina,3.0,Q4,In The Paint (Non-RA),2.5,Less Than 8 ft.,2042,ARG
+unknwown,5:58,1787254594000,49,46,ASS,made the assist,14.0,163689.0,645,491001,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2042,ARG
+unknwown,5:36,1787254622000,49,46,FOUL,Personal foul; 2 free throws awarded,14.0,301664.0,649,495000,Q4,135065,,,,,,,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2064,ARG
+unknwown,5:36,1787254622000,49,46,RFOUL,foul drawn,27.0,200399.0,650,495002,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2064,BRA
+subst,5:36,1787254637000,49,46,SUBST,Substitution out,14.0,301664.0,651,496000,Q4,135065,,,,,,OUT,14.0,Julia Fernandez,Argentina,3.0,Q4,,,,2064,ARG
+subst,5:36,1787254637000,49,46,SUBST,Substitution in,14.0,221602.0,652,497000,Q4,135065,,,,,,IN,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2064,ARG
+shot,5:36,1787254655000,49,46,FT,1st of 2 free throws missed,27.0,200399.0,653,498000,Q4,135065,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2064,BRA
+shot,5:36,1787254671000,50,46,FT,2nd of 2 free throws made,27.0,200399.0,654,499000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q4,,14.6,8-16 ft.,2064,BRA
+unknwown,5:36,1787254671000,50,46,ASS,made the assist,27.0,203242.0,655,499001,Q4,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2064,BRA
+shot,5:20,1787254691000,50,46,P3,3pt jump shot missed,14.0,214723.0,657,501000,Q4,135065,False,3.0,45.0,137.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Above the Break 3,13.6,8-16 ft.,2080,ARG
+unknwown,5:18,1787254693000,50,46,REB,defensive rebound,27.0,392716.0,658,501002,Q4,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2082,BRA
+unknwown,5:10,1787254726000,50,46,TO,turnover; bad pass,27.0,392716.0,663,506000,Q4,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2090,BRA
+unknwown,5:10,1787254726000,50,46,ST,steal,14.0,163689.0,664,506001,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2090,ARG
+shot,5:05,1787254731000,50,48,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",14.0,163689.0,665,507000,Q4,135065,True,2.0,158.0,37.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Restricted Area,1.8,Less Than 8 ft.,2095,ARG
+shot,4:43,1787254753000,50,48,P3,3pt jump shot missed,27.0,302154.0,667,509000,Q4,135065,False,3.0,222.0,153.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,Above the Break 3,14.0,8-16 ft.,2117,BRA
+unknwown,4:43,1787254757000,50,48,TREB,team defensive rebound,14.0,,668,509002,Q4,135065,,,,,,,,,,,Q4,,,,2117,
+shot,4:22,1787254798000,50,50,P2,"2PtsFG under the basket, driving layup made",14.0,214723.0,673,514000,Q4,135065,True,2.0,154.0,37.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Restricted Area,1.4,Less Than 8 ft.,2138,ARG
+unknwown,4:22,1787254800000,50,50,ASS,made the assist,14.0,200337.0,795,514001,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2138,ARG
+timeout,4:22,1787254804000,50,50,TIMO,Timeout,27.0,,674,515000,Q4,135065,,,,,,,,,,,Q4,,,,2138,
+unknwown,4:14,1787254911000,50,50,FOUL,Personal foul; 2 free throws awarded,14.0,163689.0,677,518000,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2146,ARG
+unknwown,4:14,1787254911000,50,50,RFOUL,foul drawn,27.0,302154.0,678,518002,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2146,BRA
+shot,4:14,1787254929000,51,50,FT,1st of 2 free throws made,27.0,302154.0,679,519000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,14.6,8-16 ft.,2146,BRA
+shot,4:14,1787254938000,52,50,FT,2nd of 2 free throws made,27.0,302154.0,680,520000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,14.6,8-16 ft.,2146,BRA
+unknwown,3:55,1787254970000,52,50,FOUL,Personal foul; 2 free throws awarded,27.0,302154.0,683,523000,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2165,BRA
+unknwown,3:55,1787254970000,52,50,RFOUL,foul drawn,14.0,163689.0,684,523002,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2165,ARG
+shot,3:55,1787254982000,52,50,FT,1st of 2 free throws missed,14.0,163689.0,685,524000,Q4,135065,False,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,2165,ARG
+shot,3:55,1787254993000,52,51,FT,2nd of 2 free throws made,14.0,163689.0,686,525000,Q4,135065,True,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,2165,ARG
+shot,3:28,1787255026000,52,51,P3,3pt jump shot from center missed,27.0,215026.0,691,530000,Q4,135065,False,3.0,174.0,179.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Above the Break 3,14.3,8-16 ft.,2192,BRA
+unknwown,3:28,1787255040000,52,51,TREB,team defensive rebound,14.0,,692,530002,Q4,135065,,,,,,,,,,,Q4,,,,2192,
+timeout,3:28,1787255048000,52,51,TIMO,Timeout,14.0,,693,531000,Q4,135065,,,,,,,,,,,Q4,,,,2192,
+unknwown,3:13,1787255145000,52,51,TO,turnover; bad pass,14.0,163689.0,695,533000,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2207,ARG
+unknwown,3:13,1787255145000,52,51,ST,steal,27.0,200399.0,696,533001,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2207,BRA
+unknwown,3:08,1787255160000,52,51,FOUL,Personal foul; 2 free throws awarded,14.0,221602.0,699,536000,Q4,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2212,ARG
+unknwown,3:08,1787255160000,52,51,RFOUL,foul drawn,27.0,392716.0,700,536002,Q4,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2212,BRA
+shot,3:08,1787255180000,53,51,FT,Free throw made 1 of 2,27.0,392716.0,701,537000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2212,BRA
+shot,3:08,1787255197000,54,51,FT,Free throw made 2 of 2,27.0,392716.0,702,538000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2212,BRA
+unknwown,2:58,1787255225000,54,51,FOUL,Offensive foul,14.0,214723.0,707,543000,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2222,ARG
+unknwown,2:58,1787255225000,54,51,TO,turnover,14.0,214723.0,708,543001,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2222,ARG
+unknwown,2:58,1787255227000,54,51,RFOUL,foul drawn,27.0,200399.0,709,543002,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2222,BRA
+unknwown,2:45,1787255260000,54,51,TO,turnover; bad pass,27.0,200399.0,711,545000,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2235,BRA
+unknwown,2:45,1787255262000,54,51,ST,steal,14.0,163689.0,712,545001,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2235,ARG
+unknwown,2:30,1787255285000,54,51,FOUL,Offensive foul,14.0,200337.0,716,549000,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2250,ARG
+unknwown,2:30,1787255285000,54,51,TO,turnover,14.0,200337.0,717,549001,Q4,135065,,,,,,,14.0,Julieta Mungo,Argentina,9.0,Q4,,,,2250,ARG
+unknwown,2:30,1787255285000,54,51,RFOUL,foul drawn,27.0,215026.0,718,549002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2250,BRA
+unknwown,2:13,1787255329000,54,51,TO,turnover; ball handling,27.0,200399.0,721,552000,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2267,BRA
+shot,1:54,1787255352000,54,51,P2,2pt pullup jump shot missed,14.0,163689.0,723,554000,Q4,135065,False,2.0,166.0,64.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,In The Paint (Non-RA),3.5,Less Than 8 ft.,2286,ARG
+unknwown,1:52,1787255354000,54,51,REB,defensive rebound,27.0,203242.0,724,554002,Q4,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2288,BRA
+unknwown,1:31,1787255380000,54,51,FOUL,Personal foul; 3 free throws awarded,14.0,221602.0,728,558000,Q4,135065,,,,,,,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2309,ARG
+unknwown,1:31,1787255380000,54,51,RFOUL,foul drawn,27.0,392716.0,729,558002,Q4,135065,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2309,BRA
+subst,1:31,1787255415000,54,51,SUBST,Substitution out,14.0,221602.0,730,559000,Q4,135065,,,,,,OUT,14.0,Dalma Piri,Argentina,2.0,Q4,,,,2309,ARG
+subst,1:31,1787255415000,54,51,SUBST,Substitution in,14.0,159332.0,731,560000,Q4,135065,,,,,,IN,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2309,ARG
+shot,1:31,1787255430000,55,51,FT,1st of 3 free throws made,27.0,392716.0,732,561000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2309,BRA
+unknwown,1:31,1787255430000,55,51,ASS,made the assist,27.0,302154.0,734,561001,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2309,BRA
+shot,1:31,1787255443000,56,51,FT,2nd of 3 free throws made,27.0,392716.0,733,562000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2309,BRA
+shot,1:31,1787255456000,57,51,FT,3rd of 3 free throws made,27.0,392716.0,735,563000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,14.6,8-16 ft.,2309,BRA
+timeout,1:31,1787255462000,57,51,TIMO,Timeout,14.0,,736,564000,Q4,135065,,,,,,,,,,,Q4,,,,2309,
+shot,1:27,1787255575000,57,51,P3,3pt jump shot missed,14.0,214723.0,739,567000,Q4,135065,False,3.0,11.0,24.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Right Corner 3,13.0,8-16 ft.,2313,ARG
+unknwown,1:27,1787255575000,57,51,BS,blocked the shot,27.0,215026.0,740,567001,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2313,BRA
+unknwown,1:27,1787255583000,57,51,TREB,team offensive rebound,14.0,,741,567002,Q4,135065,,,,,,,,,,,Q4,,,,2313,
+shot,1:23,1787255600000,57,51,P2,2pt step back jump shot missed,14.0,200337.0,743,569000,Q4,135065,False,2.0,245.0,84.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Mid-Range,11.4,8-16 ft.,2317,ARG
+unknwown,1:20,1787255601000,57,51,REB,offensive rebound,14.0,170619.0,744,569002,Q4,135065,,,,,,,14.0,Diana Cabrera,Argentina,7.0,Q4,,,,2320,ARG
+shot,1:11,1787255611000,57,51,P3,3pt jump shot missed,14.0,163689.0,745,570000,Q4,135065,False,3.0,250.0,126.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Above the Break 3,14.0,8-16 ft.,2329,ARG
+unknwown,1:07,1787255615000,57,51,REB,offensive rebound,14.0,159332.0,746,570002,Q4,135065,,,,,,,14.0,Macarena D'urso,Argentina,20.0,Q4,,,,2333,ARG
+shot,1:04,1787255619000,57,53,P2,"2PtsFG under the basket, layup made",14.0,200337.0,748,572000,Q4,135065,True,2.0,133.0,29.0,,,14.0,Julieta Mungo,Argentina,9.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2336,ARG
+unknwown,1:04,1787255619000,57,53,ASS,made the assist,14.0,214723.0,749,572001,Q4,135065,,,,,,,14.0,Florencia Chagas,Argentina,14.0,Q4,,,,2336,ARG
+unknwown,0:55,1787255635000,57,53,FOUL,Offensive foul,27.0,302154.0,754,577000,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2345,BRA
+unknwown,0:55,1787255635000,57,53,TO,turnover,27.0,302154.0,755,577001,Q4,135065,,,,,,,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2345,BRA
+unknwown,0:55,1787255635000,57,53,RFOUL,foul drawn,14.0,163689.0,756,577002,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2345,ARG
+subst,0:55,1787255652000,57,53,SUBST,Substitution out,27.0,302154.0,757,578000,Q4,135065,,,,,,OUT,27.0,Aaliyah Guyton,Brazil,4.0,Q4,,,,2345,BRA
+subst,0:55,1787255652000,57,53,SUBST,Substitution in,27.0,203532.0,758,579000,Q4,135065,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2345,BRA
+shot,0:41,1787255679000,57,53,P3,3pt jump shot missed,14.0,163689.0,760,581000,Q4,135065,False,3.0,101.0,171.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,Above the Break 3,13.7,8-16 ft.,2359,ARG
+unknwown,0:38,1787255682000,57,53,REB,defensive rebound,27.0,200399.0,761,581002,Q4,135065,,,,,,,27.0,Aline Moura,Brazil,12.0,Q4,,,,2362,BRA
+unknwown,0:26,1787255694000,57,53,TO,turnover; ball handling,27.0,203532.0,762,582000,Q4,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2374,BRA
+unknwown,0:26,1787255694000,57,53,ST,steal,14.0,163689.0,763,582001,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2374,ARG
+shot,0:22,1787255699000,57,53,P3,"3PtsFG outside center, points from fastbreak + after turnover, jump shot missed",14.0,214723.0,765,584000,Q4,135065,False,3.0,180.0,167.0,,,14.0,Florencia Chagas,Argentina,14.0,Q4,Above the Break 3,13.3,8-16 ft.,2378,ARG
+unknwown,0:22,1787255717000,57,53,TREB,team defensive rebound,27.0,,766,584002,Q4,135065,,,,,,,,,,,Q4,,,,2378,
+unknwown,0:22,1787255749000,57,53,FOUL,Personal foul; 2 free throws awarded,14.0,163689.0,767,585000,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2378,ARG
+unknwown,0:22,1787255749000,57,53,RFOUL,foul drawn,27.0,203532.0,768,585002,Q4,135065,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2378,BRA
+shot,0:22,1787255755000,57,53,FT,1st of 2 free throws missed,27.0,203532.0,769,586000,Q4,135065,False,1.0,0.0,0.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,,14.6,8-16 ft.,2378,BRA
+shot,0:22,1787255766000,58,53,FT,2nd of 2 free throws made,27.0,203532.0,770,587000,Q4,135065,True,1.0,0.0,0.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,,14.6,8-16 ft.,2378,BRA
+timeout,0:22,1787255774000,58,53,TIMO,Timeout,14.0,,771,588000,Q4,135065,,,,,,,,,,,Q4,,,,2378,
+subst,0:22,1787255864000,58,53,SUBST,Substitution out,27.0,203532.0,772,589000,Q4,135065,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2378,BRA
+subst,0:22,1787255864000,58,53,SUBST,Substitution out,27.0,200399.0,773,590000,Q4,135065,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q4,,,,2378,BRA
+subst,0:22,1787255864000,58,53,SUBST,Substitution in,27.0,302000.0,774,591000,Q4,135065,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2378,BRA
+subst,0:22,1787255864000,58,53,SUBST,Substitution in,27.0,178705.0,775,592000,Q4,135065,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2378,BRA
+unknwown,0:17,1787255887000,58,53,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,780,597000,Q4,135065,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2383,BRA
+unknwown,0:17,1787255887000,58,53,RFOUL,foul drawn,14.0,163689.0,781,597002,Q4,135065,,,,,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,,,2383,ARG
+subst,0:17,1787255902000,58,53,SUBST,Substitution out,27.0,302000.0,782,598000,Q4,135065,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2383,BRA
+subst,0:17,1787255902000,58,53,SUBST,Substitution out,27.0,178705.0,783,599000,Q4,135065,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,2383,BRA
+subst,0:17,1787255902000,58,53,SUBST,Substitution in,27.0,203532.0,784,600000,Q4,135065,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2383,BRA
+subst,0:17,1787255902000,58,53,SUBST,Substitution in,27.0,200399.0,785,601000,Q4,135065,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q4,,,,2383,BRA
+shot,0:17,1787255912000,58,53,FT,1st of 2 free throws missed,14.0,163689.0,786,602000,Q4,135065,False,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,2383,ARG
+shot,0:17,1787255926000,58,53,FT,2nd of 2 free throws missed,14.0,163689.0,787,603000,Q4,135065,False,1.0,0.0,0.0,,,14.0,Melisa Gretter,Argentina,11.0,Q4,,14.6,8-16 ft.,2383,ARG
+unknwown,0:17,1787255927000,58,53,REB,defensive rebound,27.0,215026.0,789,603002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2383,BRA
+periods,0:00,1787256018000,58,53,ENDP,End of period,,,791,606000,Q4,135065,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787256026000,58,53,ENDG,End of game,,,792,607000,Q4,135065,,,,,,,,,,,Q4,,,,2400,
