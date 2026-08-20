@@ -5110,3 +5110,631 @@ shot,0:17,1787255926000,58,53,FT,2nd of 2 free throws missed,14.0,163689.0,787,6
 unknwown,0:17,1787255927000,58,53,REB,defensive rebound,27.0,215026.0,789,603002,Q4,135065,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2383,BRA
 periods,0:00,1787256018000,58,53,ENDP,End of period,,,791,606000,Q4,135065,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787256026000,58,53,ENDG,End of game,,,792,607000,Q4,135065,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787258721000,0,0,STARTG,Start of game,,,1,1000,Q1,135066,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787258721000,0,0,STARTP,Start of period,,,2,2000,Q1,135066,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787258721000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135066,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787258722000,0,0,JB,jump ball won,9716.0,373877.0,5,4001,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,1,SSD
+unknwown,9:59,1787258722000,0,0,JB,jump ball lost,113.0,206251.0,6,4002,Q1,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,1,NZL
+unknwown,9:52,1787258733000,0,0,TO,turnover; bad pass,9716.0,217250.0,9,7000,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,8,SSD
+unknwown,9:52,1787258733000,0,0,ST,steal,113.0,258137.0,10,7001,Q1,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,8,NZL
+shot,9:48,1787258737000,0,0,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup missed",113.0,206251.0,11,8000,Q1,135066,False,2.0,161.0,36.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,Restricted Area,2.1,Less Than 8 ft.,12,NZL
+unknwown,9:43,1787258741000,0,0,REB,defensive rebound,9716.0,217250.0,12,8002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,17,SSD
+shot,9:33,1787258753000,0,3,P3,3pt jump shot made,9716.0,374577.0,13,9000,Q1,135066,True,3.0,247.0,144.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Above the Break 3,14.9,8-16 ft.,27,SSD
+shot,9:13,1787258773000,0,3,P3,3pt jump shot missed,113.0,239275.0,15,11000,Q1,135066,False,3.0,251.0,113.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q1,Above the Break 3,13.3,8-16 ft.,47,NZL
+unknwown,9:13,1787258778000,0,3,REB,defensive rebound,9716.0,300668.0,16,11002,Q1,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,47,SSD
+subst,9:10,1787258825000,0,3,SUBST,Substitution out,9716.0,374577.0,19,14000,Q1,135066,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,50,SSD
+subst,9:10,1787258825000,0,3,SUBST,Substitution in,9716.0,300672.0,20,15000,Q1,135066,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,50,SSD
+shot,8:56,1787258844000,0,3,P3,3pt jump shot missed,9716.0,300672.0,22,17000,Q1,135066,False,3.0,217.0,148.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Above the Break 3,13.3,8-16 ft.,64,SSD
+unknwown,8:55,1787258848000,0,3,TREB,team defensive rebound,113.0,,24,17002,Q1,135066,,,,,,,,,,,Q1,,,,65,
+shot,8:45,1787258868000,2,3,P2,"2PtsFG under the basket, driving layup made",113.0,258137.0,26,20000,Q1,135066,True,2.0,133.0,32.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Restricted Area,1.1,Less Than 8 ft.,75,NZL
+shot,8:29,1787258885000,2,6,P3,3pt jump shot made,9716.0,300668.0,27,21000,Q1,135066,True,3.0,49.0,144.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Above the Break 3,13.8,8-16 ft.,91,SSD
+shot,8:13,1787258900000,2,6,P2,"2PtsFG inside right, jump shot missed",113.0,206251.0,28,22000,Q1,135066,False,2.0,186.0,95.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,Mid-Range,7.2,Less Than 8 ft.,107,NZL
+unknwown,8:11,1787258905000,2,6,TREB,team defensive rebound,9716.0,,30,22002,Q1,135066,,,,,,,,,,,Q1,,,,109,
+shot,7:59,1787258920000,2,9,P3,3pt jump shot made,9716.0,217250.0,32,25000,Q1,135066,True,3.0,74.0,170.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,14.6,8-16 ft.,121,SSD
+unknwown,7:59,1787258919000,2,9,ASS,made the assist,9716.0,300672.0,33,25001,Q1,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,121,SSD
+shot,7:39,1787258938000,2,9,P3,3pt jump shot from center missed,113.0,328255.0,34,26000,Q1,135066,False,3.0,185.0,175.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Above the Break 3,14.2,8-16 ft.,141,NZL
+unknwown,7:38,1787258943000,2,9,TREB,team offensive rebound,113.0,,36,26002,Q1,135066,,,,,,,,,,,Q1,,,,142,
+shot,7:31,1787258963000,2,9,P2,layup missed,113.0,239275.0,38,29000,Q1,135066,False,2.0,167.0,34.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q1,In The Paint (Non-RA),2.8,Less Than 8 ft.,149,NZL
+unknwown,7:31,1787258963000,2,9,BS,blocked the shot,9716.0,217250.0,39,29001,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,149,SSD
+unknwown,7:27,1787258967000,2,9,REB,defensive rebound,9716.0,217250.0,40,29002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,153,SSD
+unknwown,7:24,1787258981000,2,9,FOUL,Personal foul,113.0,258137.0,42,31000,Q1,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,156,NZL
+unknwown,7:24,1787258981000,2,9,RFOUL,foul drawn,9716.0,373877.0,43,31002,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,156,SSD
+shot,7:19,1787258996000,2,9,P3,3pt jump shot from center missed,9716.0,217250.0,45,33000,Q1,135066,False,3.0,117.0,175.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,13.7,8-16 ft.,161,SSD
+unknwown,7:16,1787258999000,2,9,REB,offensive rebound,9716.0,373877.0,46,33002,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,164,SSD
+shot,7:15,1787259001000,2,9,P3,3pt jump shot missed,9716.0,300673.0,47,34000,Q1,135066,False,3.0,10.0,84.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q1,Above the Break 3,13.7,8-16 ft.,165,SSD
+unknwown,7:10,1787259005000,2,9,REB,offensive rebound,9716.0,217250.0,48,34002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,170,SSD
+subst,7:03,1787259038000,2,9,SUBST,Substitution out,113.0,206251.0,52,38000,Q1,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,177,NZL
+subst,7:03,1787259038000,2,9,SUBST,Substitution out,113.0,239275.0,53,39000,Q1,135066,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,177,NZL
+subst,7:03,1787259038000,2,9,SUBST,Substitution in,113.0,296082.0,54,40000,Q1,135066,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,177,NZL
+subst,7:03,1787259038000,2,9,SUBST,Substitution in,113.0,219363.0,55,41000,Q1,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,177,NZL
+subst,7:03,1787259038000,2,9,SUBST,Substitution out,9716.0,300672.0,56,42000,Q1,135066,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,177,SSD
+subst,7:03,1787259038000,2,9,SUBST,Substitution in,9716.0,374577.0,57,43000,Q1,135066,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,177,SSD
+unknwown,6:58,1787259047000,2,9,FOUL,Personal foul,113.0,328255.0,62,48000,Q1,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,182,NZL
+unknwown,6:58,1787259047000,2,9,RFOUL,foul drawn,9716.0,374577.0,63,48002,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,182,SSD
+unknwown,6:46,1787259076000,2,9,FOUL,Personal foul; 2 free throws awarded,113.0,258137.0,68,53000,Q1,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,194,NZL
+unknwown,6:46,1787259076000,2,9,RFOUL,foul drawn,9716.0,217250.0,69,53002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,194,SSD
+shot,6:46,1787259100000,2,10,FT,1st of 2 free throws made,9716.0,217250.0,70,54000,Q1,135066,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,194,SSD
+unknwown,6:46,1787259100000,2,10,ASS,made the assist,9716.0,374577.0,72,54001,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,194,SSD
+shot,6:46,1787259115000,2,11,FT,2nd of 2 free throws made,9716.0,217250.0,71,55000,Q1,135066,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,194,SSD
+shot,6:31,1787259132000,2,11,P3,3pt jump shot missed,113.0,219363.0,74,57000,Q1,135066,False,3.0,204.0,159.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,13.5,8-16 ft.,209,NZL
+unknwown,6:29,1787259138000,2,11,TREB,team defensive rebound,9716.0,,76,57002,Q1,135066,,,,,,,,,,,Q1,,,,211,
+shot,6:11,1787259169000,2,11,P2,"2PtsFG under the basket, driving layup missed",9716.0,300668.0,78,60000,Q1,135066,False,2.0,120.0,41.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,2.0,Less Than 8 ft.,229,SSD
+unknwown,6:08,1787259172000,2,11,REB,defensive rebound,113.0,317318.0,79,60002,Q1,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,232,NZL
+shot,6:00,1787259180000,4,11,P2,"2PtsFG under the basket, pullup jump shot made",113.0,219363.0,80,61000,Q1,135066,True,2.0,131.0,22.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Restricted Area,2.0,Less Than 8 ft.,240,NZL
+unknwown,6:00,1787259180000,4,11,ASS,made the assist,113.0,328255.0,81,61001,Q1,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,240,NZL
+shot,5:47,1787259193000,4,11,P3,3pt jump shot missed,9716.0,217250.0,82,62000,Q1,135066,False,3.0,263.0,87.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,13.2,8-16 ft.,253,SSD
+unknwown,5:45,1787259195000,4,11,REB,defensive rebound,113.0,296082.0,83,62002,Q1,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,255,NZL
+shot,5:34,1787259206000,4,11,P3,3pt jump shot missed,113.0,328255.0,84,63000,Q1,135066,False,3.0,229.0,149.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Above the Break 3,14.1,8-16 ft.,266,NZL
+unknwown,5:30,1787259209000,4,11,REB,defensive rebound,9716.0,217250.0,85,63002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,270,SSD
+subst,5:30,1787259229000,4,11,SUBST,Substitution out,113.0,258137.0,87,65000,Q1,135066,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,270,NZL
+subst,5:30,1787259229000,4,11,SUBST,Substitution out,113.0,328255.0,88,66000,Q1,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,270,NZL
+subst,5:30,1787259229000,4,11,SUBST,Substitution in,113.0,328112.0,89,67000,Q1,135066,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,270,NZL
+subst,5:30,1787259229000,4,11,SUBST,Substitution in,113.0,261208.0,90,68000,Q1,135066,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,270,NZL
+shot,5:07,1787259269000,4,11,P3,3pt jump shot from center missed,9716.0,300668.0,93,71000,Q1,135066,False,3.0,91.0,161.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Above the Break 3,13.1,8-16 ft.,293,SSD
+unknwown,5:07,1787259273000,4,11,TTO,team turnover; shot clock violation,9716.0,,94,72000,Q1,135066,,,,,,,,,,,Q1,,,,293,
+subst,5:07,1787259291000,4,11,SUBST,Substitution out,9716.0,300673.0,95,73000,Q1,135066,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q1,,,,293,SSD
+subst,5:07,1787259291000,4,11,SUBST,Substitution in,9716.0,300672.0,96,74000,Q1,135066,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,293,SSD
+shot,4:53,1787259310000,6,11,P2,"2PtsFG inside right, points after turnover, jump shot made",113.0,317318.0,98,76000,Q1,135066,True,2.0,215.0,101.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Mid-Range,9.7,8-16 ft.,307,NZL
+unknwown,4:53,1787259310000,6,11,ASS,made the assist,113.0,296082.0,99,76001,Q1,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,307,NZL
+shot,4:37,1787259326000,6,11,P2,2pt step back jump shot missed,9716.0,374577.0,100,77000,Q1,135066,False,2.0,129.0,113.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Mid-Range,7.4,Less Than 8 ft.,323,SSD
+unknwown,4:36,1787259333000,6,11,TREB,team offensive rebound,9716.0,,102,77002,Q1,135066,,,,,,,,,,,Q1,,,,324,
+unknwown,4:36,1787259336000,6,11,FOUL,Personal foul,113.0,317318.0,103,79000,Q1,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,324,NZL
+unknwown,4:36,1787259337000,6,11,RFOUL,foul drawn,9716.0,373877.0,104,79002,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,324,SSD
+subst,4:36,1787259345000,6,11,SUBST,Substitution out,113.0,317318.0,105,80000,Q1,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,324,NZL
+subst,4:36,1787259345000,6,11,SUBST,Substitution in,113.0,206251.0,106,81000,Q1,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,324,NZL
+shot,4:27,1787259365000,6,11,P3,3pt jump shot missed,9716.0,217250.0,108,83000,Q1,135066,False,3.0,181.0,177.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,Above the Break 3,14.3,8-16 ft.,333,SSD
+unknwown,4:23,1787259368000,6,11,REB,defensive rebound,113.0,261208.0,109,83002,Q1,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,337,NZL
+shot,4:18,1787259373000,6,11,P2,"2PtsFG under the basket, fast break, driving layup missed",113.0,296082.0,110,84000,Q1,135066,False,2.0,150.0,34.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,Restricted Area,1.2,Less Than 8 ft.,342,NZL
+unknwown,4:17,1787259378000,6,11,TREB,team offensive rebound,113.0,,112,84002,Q1,135066,,,,,,,,,,,Q1,,,,343,
+shot,4:12,1787259398000,6,11,P2,"2PtsFG under the basket, turnaround jump shot missed",113.0,261208.0,114,87000,Q1,135066,False,2.0,133.0,42.0,,,113.0,Florence Dallow,New Zealand,12.0,Q1,Restricted Area,0.7,Less Than 8 ft.,348,NZL
+unknwown,4:09,1787259401000,6,11,REB,defensive rebound,9716.0,300672.0,115,87002,Q1,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,351,SSD
+shot,4:04,1787259408000,6,14,P3,3pt step back jump shot made,9716.0,300672.0,117,89000,Q1,135066,True,3.0,26.0,118.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Above the Break 3,13.8,8-16 ft.,356,SSD
+unknwown,4:04,1787259408000,6,14,ASS,made the assist,9716.0,300668.0,118,89001,Q1,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,356,SSD
+timeout,4:03,1787259421000,6,14,TIMO,Timeout,113.0,,119,90000,Q1,135066,,,,,,,,,,,Q1,,,,357,
+unknwown,3:43,1787259528000,6,14,TO,turnover; bad pass,113.0,206251.0,121,92000,Q1,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,377,NZL
+unknwown,3:43,1787259528000,6,14,ST,steal,9716.0,217250.0,122,92001,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,377,SSD
+shot,3:33,1787259538000,6,16,P2,"2PtsFG under the basket, points after turnover, turnaround jump shot made",9716.0,373877.0,123,93000,Q1,135066,True,2.0,143.0,39.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,0.3,Less Than 8 ft.,387,SSD
+unknwown,3:33,1787259538000,6,16,ASS,made the assist,9716.0,300668.0,124,93001,Q1,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,387,SSD
+shot,3:23,1787259548000,6,16,P2,layup missed,113.0,206251.0,125,94000,Q1,135066,False,2.0,152.0,81.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,In The Paint (Non-RA),4.3,Less Than 8 ft.,397,NZL
+unknwown,3:23,1787259548000,6,16,BS,blocked the shot,9716.0,373877.0,126,94001,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,397,SSD
+unknwown,3:18,1787259552000,6,16,REB,defensive rebound,9716.0,300672.0,127,94002,Q1,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,402,SSD
+shot,3:06,1787259564000,6,18,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,128,95000,Q1,135066,True,2.0,126.0,43.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,Restricted Area,1.4,Less Than 8 ft.,414,SSD
+unknwown,3:06,1787259564000,6,18,ASS,made the assist,9716.0,374577.0,129,95001,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,414,SSD
+shot,2:46,1787259584000,9,18,P3,3pt jump shot made,113.0,219363.0,130,96000,Q1,135066,True,3.0,36.0,131.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,13.8,8-16 ft.,434,NZL
+unknwown,2:46,1787259584000,9,18,ASS,made the assist,113.0,296082.0,131,96001,Q1,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,434,NZL
+unknwown,2:25,1787259613000,9,18,FOUL,Personal foul; 2 free throws awarded,113.0,219363.0,133,98000,Q1,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,455,NZL
+unknwown,2:25,1787259613000,9,18,RFOUL,foul drawn,9716.0,217250.0,134,98002,Q1,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,455,SSD
+subst,2:25,1787259640000,9,18,SUBST,Substitution out,113.0,296082.0,135,99000,Q1,135066,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,455,NZL
+subst,2:25,1787259640000,9,18,SUBST,Substitution out,113.0,261208.0,136,100000,Q1,135066,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,455,NZL
+subst,2:25,1787259640000,9,18,SUBST,Substitution out,113.0,206251.0,137,101000,Q1,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,455,NZL
+subst,2:25,1787259640000,9,18,SUBST,Substitution in,113.0,328255.0,138,102000,Q1,135066,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,455,NZL
+subst,2:25,1787259640000,9,18,SUBST,Substitution in,113.0,239275.0,139,103000,Q1,135066,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,455,NZL
+subst,2:25,1787259640000,9,18,SUBST,Substitution in,113.0,317318.0,140,104000,Q1,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,455,NZL
+shot,2:25,1787259643000,9,18,FT,1st of 2 free throws missed,9716.0,217250.0,141,105000,Q1,135066,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,455,SSD
+shot,2:25,1787259658000,9,19,FT,2nd of 2 free throws made,9716.0,217250.0,142,106000,Q1,135066,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,14.6,8-16 ft.,455,SSD
+subst,2:25,1787259664000,9,19,SUBST,Substitution out,9716.0,217250.0,143,107000,Q1,135066,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,455,SSD
+subst,2:25,1787259664000,9,19,SUBST,Substitution in,9716.0,300656.0,144,108000,Q1,135066,,,,,,IN,9716.0,Adhel Tac,South Sudan,24.0,Q1,,,,455,SSD
+shot,2:08,1787259690000,9,19,P3,3pt jump shot missed,113.0,328112.0,147,111000,Q1,135066,False,3.0,8.0,37.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,Right Corner 3,13.2,8-16 ft.,472,NZL
+unknwown,2:07,1787259692000,9,19,REB,offensive rebound,113.0,219363.0,148,111002,Q1,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,473,NZL
+unknwown,2:07,1787259699000,9,19,FOUL,Personal foul,9716.0,300672.0,149,112000,Q1,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,473,SSD
+unknwown,2:07,1787259699000,9,19,RFOUL,foul drawn,113.0,219363.0,150,112002,Q1,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,473,NZL
+unknwown,1:57,1787259733000,9,19,FOUL,Personal foul; 2 free throws awarded,9716.0,374577.0,155,117000,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,483,SSD
+unknwown,1:57,1787259733000,9,19,RFOUL,foul drawn,113.0,328112.0,156,117002,Q1,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,483,NZL
+shot,1:57,1787259756000,9,19,FT,1st of 2 free throws missed,113.0,328112.0,157,118000,Q1,135066,False,1.0,0.0,0.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,14.6,8-16 ft.,483,NZL
+shot,1:57,1787259775000,9,19,FT,2nd of 2 free throws missed,113.0,328112.0,158,119000,Q1,135066,False,1.0,0.0,0.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,14.6,8-16 ft.,483,NZL
+unknwown,1:56,1787259776000,9,19,TREB,team offensive rebound,113.0,,160,119002,Q1,135066,,,,,,,,,,,Q1,,,,484,
+unknwown,1:48,1787259803000,9,19,FOUL,Personal foul,9716.0,300656.0,166,126000,Q1,135066,,,,,,,9716.0,Adhel Tac,South Sudan,24.0,Q1,,,,492,SSD
+unknwown,1:48,1787259803000,9,19,RFOUL,foul drawn,113.0,317318.0,167,126002,Q1,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,492,NZL
+unknwown,1:46,1787259830000,9,19,TO,turnover; bad pass,113.0,328112.0,170,129000,Q1,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,494,NZL
+shot,1:32,1787259850000,9,19,P3,3pt jump shot missed,9716.0,300672.0,173,132000,Q1,135066,False,3.0,194.0,165.0,,,9716.0,Perina Leime,South Sudan,21.0,Q1,Above the Break 3,13.6,8-16 ft.,508,SSD
+unknwown,1:32,1787259865000,9,19,TREB,team defensive rebound,113.0,,174,132002,Q1,135066,,,,,,,,,,,Q1,,,,508,
+unknwown,1:32,1787259872000,9,19,FOUL,Personal foul,9716.0,373877.0,175,133000,Q1,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,508,SSD
+unknwown,1:32,1787259872000,9,19,RFOUL,foul drawn,113.0,219363.0,176,133002,Q1,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,508,NZL
+subst,1:32,1787259886000,9,19,SUBST,Substitution out,113.0,219363.0,177,134000,Q1,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,508,NZL
+subst,1:32,1787259886000,9,19,SUBST,Substitution in,113.0,377527.0,178,135000,Q1,135066,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q1,,,,508,NZL
+shot,1:15,1787259909000,9,19,P2,"2PtsFG under the basket, pullup jump shot missed",113.0,317318.0,180,137000,Q1,135066,False,2.0,129.0,35.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,1.2,Less Than 8 ft.,525,NZL
+unknwown,1:13,1787259914000,9,19,TREB,team defensive rebound,9716.0,,182,137002,Q1,135066,,,,,,,,,,,Q1,,,,527,
+subst,1:11,1787259921000,9,19,SUBST,Substitution out,9716.0,373877.0,185,141000,Q1,135066,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q1,,,,529,SSD
+subst,1:11,1787259921000,9,19,SUBST,Substitution in,9716.0,217250.0,186,142000,Q1,135066,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q1,,,,529,SSD
+shot,0:52,1787259946000,9,19,P2,"2PtsFG under the basket, layup missed",9716.0,300668.0,188,144000,Q1,135066,False,2.0,145.0,39.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,0.5,Less Than 8 ft.,548,SSD
+unknwown,0:49,1787259949000,9,19,REB,offensive rebound,9716.0,300668.0,189,144002,Q1,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,,,,551,SSD
+shot,0:48,1787259951000,9,21,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,300668.0,190,145000,Q1,135066,True,2.0,148.0,33.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q1,Restricted Area,1.1,Less Than 8 ft.,552,SSD
+shot,0:37,1787259962000,11,21,P2,2pt step back jump shot made,113.0,328255.0,191,146000,Q1,135066,True,2.0,98.0,118.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Mid-Range,8.9,8-16 ft.,563,NZL
+unknwown,0:37,1787259963000,11,21,ASS,made the assist,113.0,328112.0,192,146001,Q1,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,563,NZL
+shot,0:21,1787259977000,11,23,P2,"2PtsFG inside center, jump shot made",9716.0,374577.0,193,147000,Q1,135066,True,2.0,140.0,114.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,Mid-Range,7.4,Less Than 8 ft.,579,SSD
+shot,0:11,1787259999000,13,23,P2,"2PtsFG under the basket, driving layup made",113.0,328255.0,197,151000,Q1,135066,True,2.0,156.0,32.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Restricted Area,1.8,Less Than 8 ft.,589,NZL
+unknwown,0:11,1787260009000,13,23,FOUL,Personal foul; 1 free throw awarded,9716.0,300672.0,198,152000,Q1,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q1,,,,589,SSD
+unknwown,0:11,1787260009000,13,23,RFOUL,foul drawn,113.0,328255.0,199,152002,Q1,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,589,NZL
+shot,0:11,1787260021000,13,23,FT,1st free throw missed,113.0,328255.0,200,153000,Q1,135066,False,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,14.6,8-16 ft.,589,NZL
+unknwown,0:11,1787260022000,13,23,REB,offensive rebound,113.0,317318.0,202,153002,Q1,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,589,NZL
+shot,0:09,1787260025000,13,23,P2,"2PtsFG under the basket, turnaround jump shot missed",113.0,317318.0,203,155000,Q1,135066,False,2.0,134.0,43.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,0.7,Less Than 8 ft.,591,NZL
+unknwown,0:04,1787260029000,13,23,REB,defensive rebound,9716.0,374577.0,204,155002,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,596,SSD
+unknwown,0:00,1787260034000,13,23,TO,turnover; bad pass,9716.0,374577.0,206,157000,Q1,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q1,,,,600,SSD
+unknwown,0:00,1787260034000,13,23,ST,steal,113.0,377527.0,207,157001,Q1,135066,,,,,,,113.0,Imani Rasmussen,New Zealand,5.0,Q1,,,,600,NZL
+periods,0:00,1787260180000,13,23,ENDP,End of period,,,210,160000,Q1,135066,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787260207000,13,23,SUBST,Substitution out,113.0,328255.0,211,161000,Q2,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,600,NZL
+subst,10:00,1787260207000,13,23,SUBST,Substitution out,113.0,377527.0,212,162000,Q2,135066,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,600,NZL
+subst,10:00,1787260207000,13,23,SUBST,Substitution in,113.0,296082.0,213,163000,Q2,135066,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,600,NZL
+subst,10:00,1787260207000,13,23,SUBST,Substitution in,113.0,219363.0,214,164000,Q2,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,600,NZL
+subst,10:00,1787260207000,13,23,SUBST,Substitution out,9716.0,300672.0,215,165000,Q2,135066,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,600,SSD
+subst,10:00,1787260207000,13,23,SUBST,Substitution out,9716.0,300656.0,216,166000,Q2,135066,,,,,,OUT,9716.0,Adhel Tac,South Sudan,24.0,Q2,,,,600,SSD
+subst,10:00,1787260207000,13,23,SUBST,Substitution in,9716.0,373877.0,217,167000,Q2,135066,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,600,SSD
+subst,10:00,1787260207000,13,23,SUBST,Substitution in,9716.0,259170.0,218,168000,Q2,135066,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,600,SSD
+periods,10:00,1787260207000,13,23,STARTP,Start of period,,,219,169000,Q2,135066,,,,,,,,,,,Q2,,,,600,
+shot,9:56,1787260212000,13,23,P3,3pt jump shot from center missed,113.0,328112.0,221,171000,Q2,135066,False,3.0,144.0,183.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,Above the Break 3,14.3,8-16 ft.,604,NZL
+unknwown,9:54,1787260214000,13,23,REB,offensive rebound,113.0,239275.0,222,171002,Q2,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,606,NZL
+shot,9:50,1787260218000,13,23,P2,2pt turnaround jump shot missed,113.0,239275.0,223,172000,Q2,135066,False,2.0,173.0,57.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,In The Paint (Non-RA),3.7,Less Than 8 ft.,610,NZL
+unknwown,9:48,1787260220000,13,23,REB,defensive rebound,9716.0,374577.0,224,172002,Q2,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,612,SSD
+unknwown,9:18,1787260251000,13,23,FOUL,Personal foul,113.0,219363.0,226,174000,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,642,NZL
+unknwown,9:18,1787260251000,13,23,RFOUL,foul drawn,9716.0,373877.0,227,174002,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,642,SSD
+shot,9:13,1787260261000,13,23,P2,"2PtsFG under the basket, reverse lay-up missed",9716.0,300668.0,229,176000,Q2,135066,False,2.0,123.0,37.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,Restricted Area,1.7,Less Than 8 ft.,647,SSD
+unknwown,9:10,1787260264000,13,23,REB,defensive rebound,113.0,317318.0,230,176002,Q2,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,650,NZL
+shot,9:01,1787260274000,13,23,P3,3pt jump shot from center missed,113.0,317318.0,231,177000,Q2,135066,False,3.0,188.0,164.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Above the Break 3,13.3,8-16 ft.,659,NZL
+unknwown,8:58,1787260276000,13,23,REB,defensive rebound,9716.0,300668.0,232,177002,Q2,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,662,SSD
+shot,8:42,1787260293000,13,23,P2,"2PtsFG under the basket, pullup jump shot missed",9716.0,373877.0,233,178000,Q2,135066,False,2.0,151.0,35.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,Restricted Area,1.2,Less Than 8 ft.,678,SSD
+unknwown,8:38,1787260296000,13,23,REB,defensive rebound,113.0,219363.0,234,178002,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,682,NZL
+shot,8:22,1787260346000,13,23,P3,3pt jump shot missed,113.0,239275.0,239,183000,Q2,135066,False,3.0,7.0,30.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,Right Corner 3,13.3,8-16 ft.,698,NZL
+unknwown,8:21,1787260349000,13,23,TREB,team offensive rebound,113.0,,241,183002,Q2,135066,,,,,,,,,,,Q2,,,,699,
+shot,8:18,1787260372000,13,23,P3,3pt jump shot missed,113.0,296082.0,243,186000,Q2,135066,False,3.0,213.0,156.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,13.7,8-16 ft.,702,NZL
+unknwown,8:16,1787260376000,13,23,TREB,team defensive rebound,9716.0,,245,186002,Q2,135066,,,,,,,,,,,Q2,,,,704,
+subst,8:15,1787260383000,13,23,SUBST,Substitution out,113.0,296082.0,248,190000,Q2,135066,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,705,NZL
+subst,8:15,1787260383000,13,23,SUBST,Substitution in,113.0,328255.0,249,191000,Q2,135066,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,705,NZL
+shot,8:04,1787260403000,13,26,P3,3pt jump shot made,9716.0,374577.0,251,193000,Q2,135066,True,3.0,35.0,137.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.3,8-16 ft.,716,SSD
+unknwown,8:04,1787260403000,13,26,ASS,made the assist,9716.0,300668.0,252,193001,Q2,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,716,SSD
+shot,7:41,1787260430000,15,26,P2,"2PtsFG under the basket, reverse lay-up made",113.0,328112.0,258,199000,Q2,135066,True,2.0,134.0,30.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,Restricted Area,1.2,Less Than 8 ft.,739,NZL
+unknwown,7:41,1787260430000,15,26,ASS,made the assist,113.0,219363.0,259,199001,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,739,NZL
+unknwown,7:41,1787260441000,15,26,FOUL,Personal foul; 1 free throw awarded,9716.0,373877.0,260,200000,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,739,SSD
+unknwown,7:41,1787260441000,15,26,RFOUL,foul drawn,113.0,328112.0,261,200002,Q2,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,739,NZL
+subst,7:41,1787260459000,15,26,SUBST,Substitution out,9716.0,259170.0,262,201000,Q2,135066,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,739,SSD
+subst,7:41,1787260459000,15,26,SUBST,Substitution in,9716.0,300673.0,263,202000,Q2,135066,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,739,SSD
+subst,7:41,1787260477000,15,26,SUBST,Substitution out,113.0,239275.0,264,203000,Q2,135066,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,739,NZL
+subst,7:41,1787260477000,15,26,SUBST,Substitution in,113.0,261208.0,265,204000,Q2,135066,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,739,NZL
+shot,7:41,1787260479000,15,26,FT,1st free throw missed,113.0,328112.0,266,205000,Q2,135066,False,1.0,0.0,0.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,14.6,8-16 ft.,739,NZL
+unknwown,7:41,1787260481000,15,26,REB,defensive rebound,9716.0,217250.0,268,205002,Q2,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,739,SSD
+shot,7:37,1787260486000,15,26,P2,"2PtsFG inside left, jump shot missed",9716.0,217250.0,269,207000,Q2,135066,False,2.0,77.0,105.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Mid-Range,9.1,8-16 ft.,743,SSD
+unknwown,7:37,1787260486000,15,26,BS,blocked the shot,113.0,219363.0,270,207001,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,743,NZL
+unknwown,7:33,1787260489000,15,26,REB,offensive rebound,9716.0,373877.0,271,207002,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,747,SSD
+shot,7:30,1787260492000,15,26,P3,3pt jump shot missed,9716.0,374577.0,272,208000,Q2,135066,False,3.0,53.0,157.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.6,8-16 ft.,750,SSD
+unknwown,7:20,1787260508000,15,26,REB,offensive rebound,9716.0,300673.0,274,208002,Q2,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,760,SSD
+unknwown,7:18,1787260515000,15,26,JS,jump ball situation; throw-in,9716.0,,277,212000,Q2,135066,,,,,,,,,,,Q2,,,,762,
+subst,7:18,1787260520000,15,26,SUBST,Substitution out,113.0,328112.0,278,213000,Q2,135066,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,762,NZL
+subst,7:18,1787260520000,15,26,SUBST,Substitution in,113.0,258137.0,279,214000,Q2,135066,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,762,NZL
+shot,7:15,1787260525000,15,26,P3,3pt jump shot missed,9716.0,300668.0,281,216000,Q2,135066,False,3.0,20.0,111.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,Above the Break 3,13.9,8-16 ft.,765,SSD
+unknwown,7:09,1787260530000,15,26,TREB,team offensive rebound,9716.0,,282,216002,Q2,135066,,,,,,,,,,,Q2,,,,771,
+shot,6:55,1787260561000,15,26,P3,3pt step back jump shot missed,9716.0,374577.0,285,219000,Q2,135066,False,3.0,46.0,143.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,13.9,8-16 ft.,785,SSD
+unknwown,6:52,1787260564000,15,26,REB,offensive rebound,9716.0,300668.0,286,219002,Q2,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,788,SSD
+shot,6:50,1787260567000,15,26,P3,3pt jump shot missed,9716.0,217250.0,287,220000,Q2,135066,False,3.0,117.0,176.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Above the Break 3,13.8,8-16 ft.,790,SSD
+unknwown,6:46,1787260569000,15,26,REB,offensive rebound,9716.0,217250.0,288,220002,Q2,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,794,SSD
+unknwown,6:36,1787260588000,15,26,FOUL,Personal foul; 2 free throws awarded,113.0,261208.0,292,224000,Q2,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,804,NZL
+unknwown,6:36,1787260588000,15,26,RFOUL,foul drawn,9716.0,300668.0,293,224002,Q2,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,804,SSD
+shot,6:36,1787260629000,15,27,FT,1st of 2 free throws made,9716.0,300668.0,294,225000,Q2,135066,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,14.6,8-16 ft.,804,SSD
+shot,6:36,1787260645000,15,28,FT,2nd of 2 free throws made,9716.0,300668.0,295,226000,Q2,135066,True,1.0,0.0,0.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,14.6,8-16 ft.,804,SSD
+unknwown,6:36,1787260654000,15,28,FOUL,Personal foul,9716.0,300673.0,296,227000,Q2,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,804,SSD
+unknwown,6:36,1787260654000,15,28,RFOUL,foul drawn,113.0,328255.0,297,227002,Q2,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,804,NZL
+subst,6:36,1787260669000,15,28,SUBST,Substitution out,9716.0,373877.0,298,228000,Q2,135066,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,804,SSD
+subst,6:36,1787260669000,15,28,SUBST,Substitution in,9716.0,363373.0,299,229000,Q2,135066,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,804,SSD
+shot,6:22,1787260686000,17,28,P2,"2PtsFG inside right, jump shot made",113.0,219363.0,301,231000,Q2,135066,True,2.0,215.0,105.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,Mid-Range,9.9,8-16 ft.,818,NZL
+unknwown,6:22,1787260686000,17,28,ASS,made the assist,113.0,328255.0,302,231001,Q2,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,818,NZL
+unknwown,6:05,1787260703000,17,28,TO,turnover; bad pass,9716.0,300673.0,303,232000,Q2,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,835,SSD
+unknwown,6:05,1787260703000,17,28,ST,steal,113.0,317318.0,304,232001,Q2,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,835,NZL
+shot,6:01,1787260707000,17,28,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup missed",113.0,317318.0,305,233000,Q2,135066,False,2.0,164.0,26.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,Restricted Area,2.8,Less Than 8 ft.,839,NZL
+unknwown,5:56,1787260711000,17,28,REB,defensive rebound,9716.0,217250.0,306,233002,Q2,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,844,SSD
+shot,5:54,1787260714000,17,28,P3,3pt jump shot missed,9716.0,374577.0,307,234000,Q2,135066,False,3.0,34.0,145.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.9,8-16 ft.,846,SSD
+unknwown,5:51,1787260718000,17,28,TREB,team offensive rebound,9716.0,,309,234002,Q2,135066,,,,,,,,,,,Q2,,,,849,
+unknwown,5:49,1787260746000,17,28,FOUL,Personal foul; 2 free throws awarded,113.0,261208.0,312,238000,Q2,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,851,NZL
+unknwown,5:49,1787260746000,17,28,RFOUL,foul drawn,9716.0,374577.0,313,238002,Q2,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,851,SSD
+subst,5:49,1787260764000,17,28,SUBST,Substitution out,113.0,317318.0,314,239000,Q2,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,851,NZL
+subst,5:49,1787260764000,17,28,SUBST,Substitution in,113.0,377527.0,315,240000,Q2,135066,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,851,NZL
+shot,5:49,1787260788000,17,28,FT,1st of 2 free throws missed,9716.0,374577.0,316,241000,Q2,135066,False,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,14.6,8-16 ft.,851,SSD
+shot,5:49,1787260800000,17,29,FT,2nd of 2 free throws made,9716.0,374577.0,317,242000,Q2,135066,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,14.6,8-16 ft.,851,SSD
+unknwown,5:49,1787260800000,17,29,ASS,made the assist,9716.0,300673.0,318,242001,Q2,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,851,SSD
+shot,5:35,1787260818000,17,29,P3,3pt step back jump shot missed,113.0,328255.0,321,245000,Q2,135066,False,3.0,162.0,173.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,Above the Break 3,13.5,8-16 ft.,865,NZL
+unknwown,5:35,1787260822000,17,29,TREB,team defensive rebound,9716.0,,322,245002,Q2,135066,,,,,,,,,,,Q2,,,,865,
+timeout,5:20,1787260852000,17,29,TIMO,Timeout,9716.0,,325,248000,Q2,135066,,,,,,,,,,,Q2,,,,880,
+subst,5:20,1787260943000,17,29,SUBST,Substitution out,113.0,328255.0,326,249000,Q2,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,880,NZL
+subst,5:20,1787260943000,17,29,SUBST,Substitution in,113.0,296082.0,327,250000,Q2,135066,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,880,NZL
+subst,5:20,1787260943000,17,29,SUBST,Substitution out,9716.0,363373.0,328,251000,Q2,135066,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,880,SSD
+subst,5:20,1787260943000,17,29,SUBST,Substitution in,9716.0,373877.0,329,252000,Q2,135066,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,880,SSD
+shot,5:13,1787260952000,17,29,P3,3pt jump shot missed,9716.0,217250.0,331,254000,Q2,135066,False,3.0,45.0,132.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,Above the Break 3,13.2,8-16 ft.,887,SSD
+unknwown,5:12,1787260956000,17,29,TREB,team defensive rebound,113.0,,333,254002,Q2,135066,,,,,,,,,,,Q2,,,,888,
+shot,4:52,1787260982000,17,29,P2,2pt pullup jump shot missed,113.0,261208.0,335,257000,Q2,135066,False,2.0,149.0,69.0,,,113.0,Florence Dallow,New Zealand,12.0,Q2,In The Paint (Non-RA),3.0,Less Than 8 ft.,908,NZL
+unknwown,4:47,1787260985000,17,29,REB,defensive rebound,9716.0,373877.0,336,257002,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,913,SSD
+unknwown,4:39,1787260994000,17,29,TO,turnover; bad pass,9716.0,217250.0,337,258000,Q2,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,921,SSD
+unknwown,4:39,1787260994000,17,29,ST,steal,113.0,296082.0,338,258001,Q2,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,921,NZL
+shot,4:31,1787261002000,20,29,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot made",113.0,219363.0,339,259000,Q2,135066,True,3.0,59.0,153.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,Above the Break 3,13.9,8-16 ft.,929,NZL
+unknwown,4:31,1787261002000,20,29,ASS,made the assist,113.0,296082.0,351,259001,Q2,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,929,NZL
+unknwown,4:10,1787261027000,20,29,TO,turnover; bad pass,9716.0,373877.0,343,262000,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,950,SSD
+shot,3:54,1787261067000,22,29,P2,2pt pullup jump shot made,113.0,377527.0,345,264000,Q2,135066,True,2.0,159.0,43.0,,,113.0,Imani Rasmussen,New Zealand,5.0,Q2,Restricted Area,1.9,Less Than 8 ft.,966,NZL
+shot,3:40,1787261082000,22,31,P2,layup made,9716.0,373877.0,346,265000,Q2,135066,True,2.0,120.0,52.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,In The Paint (Non-RA),2.3,Less Than 8 ft.,980,SSD
+unknwown,3:40,1787261082000,22,31,ASS,made the assist,9716.0,374577.0,347,265001,Q2,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,980,SSD
+shot,3:33,1787261089000,22,31,P2,"2PtsFG inside center, jump shot missed",113.0,377527.0,348,266000,Q2,135066,False,2.0,169.0,113.0,,,113.0,Imani Rasmussen,New Zealand,5.0,Q2,Mid-Range,7.9,Less Than 8 ft.,987,NZL
+unknwown,3:33,1787261089000,22,31,BS,blocked the shot,9716.0,373877.0,349,266001,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,987,SSD
+unknwown,3:28,1787261093000,22,31,REB,defensive rebound,9716.0,300673.0,350,266002,Q2,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,992,SSD
+shot,3:23,1787261573000,22,31,P2,"2PtsFG under the basket, layup missed",9716.0,374577.0,424,266500,Q2,135066,False,2.0,144.0,33.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Restricted Area,0.8,Less Than 8 ft.,997,SSD
+unknwown,3:23,1787261574000,22,31,REB,offensive rebound,9716.0,300668.0,425,266502,Q2,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,997,SSD
+subst,3:20,1787261129000,22,31,SUBST,Substitution out,113.0,261208.0,355,270000,Q2,135066,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1000,NZL
+subst,3:20,1787261129000,22,31,SUBST,Substitution out,113.0,219363.0,356,271000,Q2,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1000,NZL
+subst,3:20,1787261129000,22,31,SUBST,Substitution in,113.0,328112.0,357,272000,Q2,135066,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,1000,NZL
+subst,3:20,1787261129000,22,31,SUBST,Substitution in,113.0,317318.0,358,273000,Q2,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1000,NZL
+unknwown,3:18,1787261163000,22,31,FOUL,Personal foul,113.0,317318.0,362,276000,Q2,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1002,NZL
+unknwown,3:18,1787261163000,22,31,RFOUL,foul drawn,9716.0,374577.0,363,276002,Q2,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution out,9716.0,373877.0,364,277000,Q2,135066,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution out,9716.0,300668.0,365,278000,Q2,135066,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution out,9716.0,300673.0,366,279000,Q2,135066,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution in,9716.0,259170.0,367,280000,Q2,135066,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution in,9716.0,300672.0,368,281000,Q2,135066,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1002,SSD
+subst,3:18,1787261189000,22,31,SUBST,Substitution in,9716.0,300656.0,369,282000,Q2,135066,,,,,,IN,9716.0,Adhel Tac,South Sudan,24.0,Q2,,,,1002,SSD
+shot,3:16,1787261196000,22,33,P2,2pt driving layup made,9716.0,217250.0,371,284000,Q2,135066,True,2.0,126.0,70.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,In The Paint (Non-RA),3.3,Less Than 8 ft.,1004,SSD
+unknwown,2:54,1787261215000,22,33,FOUL,Personal foul; 2 free throws awarded,9716.0,259170.0,375,288000,Q2,135066,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1026,SSD
+unknwown,2:54,1787261215000,22,33,RFOUL,foul drawn,113.0,258137.0,376,288002,Q2,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1026,NZL
+subst,2:54,1787261236000,22,33,SUBST,Substitution out,113.0,377527.0,377,289000,Q2,135066,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,1026,NZL
+subst,2:54,1787261236000,22,33,SUBST,Substitution in,113.0,219363.0,378,290000,Q2,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1026,NZL
+shot,2:54,1787261238000,23,33,FT,1st of 2 free throws made,113.0,258137.0,379,291000,Q2,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1026,NZL
+shot,2:54,1787261246000,24,33,FT,2nd of 2 free throws made,113.0,258137.0,380,292000,Q2,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1026,NZL
+subst,2:54,1787261261000,24,33,SUBST,Substitution out,9716.0,217250.0,381,293000,Q2,135066,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1026,SSD
+subst,2:54,1787261261000,24,33,SUBST,Substitution in,9716.0,363373.0,382,294000,Q2,135066,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1026,SSD
+shot,2:45,1787261272000,24,35,P2,"2PtsFG under the basket, driving layup made",9716.0,300672.0,384,296000,Q2,135066,True,2.0,154.0,43.0,,,9716.0,Perina Leime,South Sudan,21.0,Q2,Restricted Area,1.4,Less Than 8 ft.,1035,SSD
+shot,2:29,1787261288000,27,35,P3,3pt jump shot from center made,113.0,296082.0,385,297000,Q2,135066,True,3.0,97.0,175.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,14.2,8-16 ft.,1051,NZL
+unknwown,2:29,1787261288000,27,35,ASS,made the assist,113.0,219363.0,386,297001,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1051,NZL
+shot,2:06,1787261314000,27,35,P3,3pt jump shot missed,9716.0,374577.0,388,299000,Q2,135066,False,3.0,59.0,154.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,Above the Break 3,14.0,8-16 ft.,1074,SSD
+unknwown,2:03,1787261317000,27,35,TREB,team defensive rebound,113.0,,389,299002,Q2,135066,,,,,,,,,,,Q2,,,,1077,
+unknwown,1:35,1787261348000,27,35,FOUL,Personal foul; 2 free throws awarded,9716.0,374577.0,392,302000,Q2,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1105,SSD
+unknwown,1:35,1787261348000,27,35,RFOUL,foul drawn,113.0,258137.0,393,302002,Q2,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1105,NZL
+subst,1:35,1787261368000,27,35,SUBST,Substitution out,9716.0,300656.0,394,303000,Q2,135066,,,,,,OUT,9716.0,Adhel Tac,South Sudan,24.0,Q2,,,,1105,SSD
+subst,1:35,1787261368000,27,35,SUBST,Substitution out,9716.0,363373.0,395,304000,Q2,135066,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1105,SSD
+subst,1:35,1787261368000,27,35,SUBST,Substitution in,9716.0,217250.0,396,305000,Q2,135066,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1105,SSD
+subst,1:35,1787261368000,27,35,SUBST,Substitution in,9716.0,373877.0,397,306000,Q2,135066,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1105,SSD
+shot,1:35,1787261377000,28,35,FT,1st of 2 free throws made,113.0,258137.0,398,307000,Q2,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1105,NZL
+unknwown,1:35,1787261377000,28,35,ASS,made the assist,113.0,219363.0,399,307001,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1105,NZL
+shot,1:35,1787261389000,29,35,FT,2nd of 2 free throws made,113.0,258137.0,400,308000,Q2,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1105,NZL
+shot,1:14,1787261415000,29,37,P2,2pt turnaround jump shot made,9716.0,374577.0,402,310000,Q2,135066,True,2.0,133.0,63.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q2,In The Paint (Non-RA),2.4,Less Than 8 ft.,1126,SSD
+unknwown,1:14,1787261415000,29,37,ASS,made the assist,9716.0,373877.0,403,310001,Q2,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1126,SSD
+unknwown,1:06,1787261433000,29,37,FOUL,Offensive foul,113.0,317318.0,406,313000,Q2,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1134,NZL
+unknwown,1:06,1787261433000,29,37,TO,turnover,113.0,317318.0,407,313001,Q2,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1134,NZL
+unknwown,1:06,1787261433000,29,37,RFOUL,foul drawn,9716.0,217250.0,408,313002,Q2,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,,,,1134,SSD
+subst,1:06,1787261449000,29,37,SUBST,Substitution out,113.0,258137.0,409,314000,Q2,135066,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1134,NZL
+subst,1:06,1787261449000,29,37,SUBST,Substitution out,113.0,317318.0,410,315000,Q2,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1134,NZL
+subst,1:06,1787261449000,29,37,SUBST,Substitution in,113.0,377527.0,411,316000,Q2,135066,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,1134,NZL
+subst,1:06,1787261449000,29,37,SUBST,Substitution in,113.0,261208.0,412,317000,Q2,135066,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1134,NZL
+subst,1:06,1787261449000,29,37,SUBST,Substitution out,9716.0,259170.0,413,318000,Q2,135066,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q2,,,,1134,SSD
+subst,1:06,1787261449000,29,37,SUBST,Substitution in,9716.0,300668.0,414,319000,Q2,135066,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q2,,,,1134,SSD
+shot,0:45,1787261481000,29,39,P2,2pt hook shot made,9716.0,217250.0,416,321000,Q2,135066,True,2.0,134.0,56.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,In The Paint (Non-RA),1.7,Less Than 8 ft.,1155,SSD
+shot,0:28,1787261499000,32,39,P3,3pt jump shot from center made,113.0,296082.0,421,325000,Q2,135066,True,3.0,124.0,176.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,13.7,8-16 ft.,1172,NZL
+unknwown,0:28,1787261499000,32,39,ASS,made the assist,113.0,219363.0,422,325001,Q2,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1172,NZL
+timeout,0:28,1787261507000,32,39,TIMO,Timeout,9716.0,,423,326000,Q2,135066,,,,,,,,,,,Q2,,,,1172,
+subst,0:28,1787261599000,32,39,SUBST,Substitution out,113.0,219363.0,426,327000,Q2,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1172,NZL
+subst,0:28,1787261599000,32,39,SUBST,Substitution in,113.0,206251.0,427,328000,Q2,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1172,NZL
+shot,0:09,1787261625000,32,39,P2,2pt driving layup missed,9716.0,217250.0,429,330000,Q2,135066,False,2.0,137.0,70.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q2,In The Paint (Non-RA),3.0,Less Than 8 ft.,1191,SSD
+unknwown,0:05,1787261629000,32,39,REB,defensive rebound,113.0,296082.0,430,330002,Q2,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,1195,NZL
+timeout,0:03,1787261646000,32,39,TIMO,Timeout,113.0,,434,334000,Q2,135066,,,,,,,,,,,Q2,,,,1197,
+subst,0:03,1787261718000,32,39,SUBST,Substitution out,9716.0,373877.0,435,335000,Q2,135066,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q2,,,,1197,SSD
+subst,0:03,1787261718000,32,39,SUBST,Substitution out,9716.0,300672.0,436,336000,Q2,135066,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q2,,,,1197,SSD
+subst,0:03,1787261718000,32,39,SUBST,Substitution out,9716.0,374577.0,437,337000,Q2,135066,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q2,,,,1197,SSD
+subst,0:03,1787261718000,32,39,SUBST,Substitution in,9716.0,300673.0,438,338000,Q2,135066,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q2,,,,1197,SSD
+subst,0:03,1787261718000,32,39,SUBST,Substitution in,9716.0,300656.0,439,339000,Q2,135066,,,,,,IN,9716.0,Adhel Tac,South Sudan,24.0,Q2,,,,1197,SSD
+subst,0:03,1787261718000,32,39,SUBST,Substitution in,9716.0,363373.0,440,340000,Q2,135066,,,,,,IN,9716.0,Piath Gabriel,South Sudan,32.0,Q2,,,,1197,SSD
+unknwown,0:02,1787261743000,32,39,TO,turnover; bad pass,113.0,261208.0,443,343000,Q2,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1198,NZL
+unknwown,0:02,1787261743000,32,39,ST,steal,9716.0,300656.0,444,343001,Q2,135066,,,,,,,9716.0,Adhel Tac,South Sudan,24.0,Q2,,,,1198,SSD
+periods,0:00,1787261910000,32,39,ENDP,End of period,,,447,346000,Q2,135066,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,113.0,328112.0,448,347000,Q3,135066,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,113.0,377527.0,449,348000,Q3,135066,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,113.0,296082.0,450,349000,Q3,135066,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,113.0,261208.0,451,350000,Q3,135066,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,113.0,206251.0,452,351000,Q3,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,113.0,258137.0,453,352000,Q3,135066,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,113.0,328255.0,454,353000,Q3,135066,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,113.0,239275.0,455,354000,Q3,135066,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,113.0,317318.0,456,355000,Q3,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,113.0,219363.0,457,356000,Q3,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1200,NZL
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,9716.0,300656.0,458,357000,Q3,135066,,,,,,OUT,9716.0,Adhel Tac,South Sudan,24.0,Q3,,,,1200,SSD
+subst,10:00,1787262628000,32,39,SUBST,Substitution out,9716.0,363373.0,459,358000,Q3,135066,,,,,,OUT,9716.0,Piath Gabriel,South Sudan,32.0,Q3,,,,1200,SSD
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,9716.0,373877.0,460,359000,Q3,135066,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1200,SSD
+subst,10:00,1787262628000,32,39,SUBST,Substitution in,9716.0,374577.0,461,360000,Q3,135066,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1200,SSD
+periods,10:00,1787262646000,32,39,STARTP,Start of period,,,462,361000,Q3,135066,,,,,,,,,,,Q3,,,,1200,
+shot,9:47,1787262660000,32,41,P2,layup made,9716.0,373877.0,464,363000,Q3,135066,True,2.0,147.0,54.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,In The Paint (Non-RA),1.6,Less Than 8 ft.,1213,SSD
+unknwown,9:47,1787262660000,32,41,ASS,made the assist,9716.0,217250.0,465,363001,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1213,SSD
+shot,9:23,1787262684000,35,41,P3,3pt step back jump shot made,113.0,258137.0,466,364000,Q3,135066,True,3.0,22.0,120.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Above the Break 3,14.3,8-16 ft.,1237,NZL
+shot,9:02,1787262705000,35,41,P3,3pt jump shot missed,9716.0,300673.0,467,365000,Q3,135066,False,3.0,33.0,138.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,Above the Break 3,14.5,8-16 ft.,1258,SSD
+unknwown,8:58,1787262708000,35,41,REB,defensive rebound,113.0,258137.0,468,365002,Q3,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1262,NZL
+unknwown,8:55,1787262719000,35,41,FOUL,Personal foul; 2 free throws awarded,9716.0,300668.0,470,367000,Q3,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1265,SSD
+unknwown,8:55,1787262719000,35,41,RFOUL,foul drawn,113.0,258137.0,471,367002,Q3,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1265,NZL
+shot,8:55,1787262744000,36,41,FT,1st of 2 free throws made,113.0,258137.0,472,368000,Q3,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,14.6,8-16 ft.,1265,NZL
+shot,8:55,1787262757000,37,41,FT,2nd of 2 free throws made,113.0,258137.0,473,369000,Q3,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,14.6,8-16 ft.,1265,NZL
+shot,8:35,1787262781000,37,41,P2,"2PtsFG inside right, jump shot missed",9716.0,300668.0,475,371000,Q3,135066,False,2.0,204.0,83.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,Mid-Range,7.7,Less Than 8 ft.,1285,SSD
+unknwown,8:33,1787262783000,37,41,REB,defensive rebound,113.0,239275.0,476,371002,Q3,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1287,NZL
+shot,8:28,1787262789000,39,41,P2,2pt fadeaway jump shot made,113.0,328255.0,477,372000,Q3,135066,True,2.0,148.0,65.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,In The Paint (Non-RA),2.6,Less Than 8 ft.,1292,NZL
+shot,8:14,1787262802000,39,41,P2,2pt floating jump shot missed,9716.0,374577.0,478,373000,Q3,135066,False,2.0,140.0,81.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,In The Paint (Non-RA),4.1,Less Than 8 ft.,1306,SSD
+unknwown,8:10,1787262805000,39,41,REB,defensive rebound,113.0,317318.0,479,373002,Q3,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1310,NZL
+shot,8:08,1787262809000,41,41,P2,"2PtsFG under the basket, fast break, layup made",113.0,258137.0,480,374000,Q3,135066,True,2.0,127.0,30.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1312,NZL
+unknwown,8:08,1787262809000,41,41,ASS,made the assist,113.0,239275.0,481,374001,Q3,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1312,NZL
+shot,7:44,1787262832000,41,41,P3,3pt jump shot missed,9716.0,300673.0,482,375000,Q3,135066,False,3.0,11.0,24.0,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,Right Corner 3,13.0,8-16 ft.,1336,SSD
+unknwown,7:41,1787262835000,41,41,REB,defensive rebound,113.0,317318.0,483,375002,Q3,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1339,NZL
+shot,7:36,1787262840000,41,41,P3,3pt jump shot missed,113.0,258137.0,484,376000,Q3,135066,False,3.0,229.0,153.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Above the Break 3,14.4,8-16 ft.,1344,NZL
+unknwown,7:35,1787262844000,41,41,TREB,team defensive rebound,9716.0,,486,376002,Q3,135066,,,,,,,,,,,Q3,,,,1345,
+shot,7:17,1787262879000,41,43,P2,"2PtsFG under the basket, pullup jump shot made",9716.0,373877.0,488,379000,Q3,135066,True,2.0,155.0,39.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1363,SSD
+unknwown,7:17,1787262879000,41,43,ASS,made the assist,9716.0,374577.0,489,379001,Q3,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1363,SSD
+shot,6:59,1787262897000,41,43,P2,"2PtsFG under the basket, driving layup missed",113.0,258137.0,490,380000,Q3,135066,False,2.0,133.0,32.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1381,NZL
+unknwown,6:58,1787262904000,41,43,REB,defensive rebound,9716.0,373877.0,492,380002,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1382,SSD
+unknwown,6:57,1787262908000,41,43,FOUL,Personal foul,113.0,219363.0,495,384000,Q3,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1383,NZL
+unknwown,6:57,1787262908000,41,43,RFOUL,foul drawn,9716.0,373877.0,496,384002,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1383,SSD
+subst,6:57,1787262918000,41,43,SUBST,Substitution out,113.0,317318.0,497,385000,Q3,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1383,NZL
+subst,6:57,1787262918000,41,43,SUBST,Substitution in,113.0,206251.0,498,386000,Q3,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1383,NZL
+unknwown,6:45,1787262939000,41,43,TO,turnover; bad pass,9716.0,217250.0,500,388000,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1395,SSD
+unknwown,6:45,1787262939000,41,43,ST,steal,113.0,239275.0,501,388001,Q3,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1395,NZL
+unknwown,6:27,1787262961000,41,43,FOUL,Personal foul,9716.0,300668.0,503,390000,Q3,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1413,SSD
+unknwown,6:27,1787262961000,41,43,RFOUL,foul drawn,113.0,219363.0,504,390002,Q3,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1413,NZL
+unknwown,6:24,1787263000000,41,43,FOUL,Personal foul,9716.0,373877.0,507,393000,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1416,SSD
+unknwown,6:24,1787263000000,41,43,RFOUL,foul drawn,113.0,328255.0,508,393002,Q3,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1416,NZL
+subst,6:24,1787263015000,41,43,SUBST,Substitution out,113.0,328255.0,509,394000,Q3,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1416,NZL
+subst,6:24,1787263015000,41,43,SUBST,Substitution in,113.0,296082.0,510,395000,Q3,135066,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1416,NZL
+subst,6:24,1787263021000,41,43,SUBST,Substitution out,9716.0,300673.0,511,396000,Q3,135066,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1416,SSD
+subst,6:24,1787263021000,41,43,SUBST,Substitution in,9716.0,300672.0,512,397000,Q3,135066,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1416,SSD
+shot,6:22,1787263025000,44,43,P3,3pt jump shot made,113.0,296082.0,514,399000,Q3,135066,True,3.0,177.0,185.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Above the Break 3,15.0,8-16 ft.,1418,NZL
+unknwown,6:22,1787263025000,44,43,ASS,made the assist,113.0,206251.0,515,399001,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1418,NZL
+shot,5:59,1787263049000,44,45,P2,2pt turnaround jump shot made,9716.0,217250.0,519,403000,Q3,135066,True,2.0,90.0,71.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Mid-Range,5.9,Less Than 8 ft.,1441,SSD
+unknwown,5:59,1787263062000,44,45,FOUL,Personal foul; 1 free throw awarded,113.0,206251.0,520,404000,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1441,NZL
+unknwown,5:59,1787263062000,44,45,RFOUL,foul drawn,9716.0,217250.0,521,404002,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1441,SSD
+shot,5:59,1787263073000,44,45,FT,1st free throw missed,9716.0,217250.0,522,405000,Q3,135066,False,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,14.6,8-16 ft.,1441,SSD
+unknwown,5:59,1787263075000,44,45,REB,defensive rebound,113.0,219363.0,524,405002,Q3,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1441,NZL
+shot,5:50,1787263085000,44,45,P3,3pt jump shot from center missed,113.0,239275.0,525,407000,Q3,135066,False,3.0,124.0,178.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,Above the Break 3,13.9,8-16 ft.,1450,NZL
+unknwown,5:45,1787263089000,44,45,REB,offensive rebound,113.0,258137.0,526,407002,Q3,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1455,NZL
+shot,5:44,1787263090000,46,45,P2,"2PtsFG under the basket, layup made",113.0,206251.0,527,408000,Q3,135066,True,2.0,143.0,37.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,0.4,Less Than 8 ft.,1456,NZL
+unknwown,5:44,1787263090000,46,45,ASS,made the assist,113.0,258137.0,535,408001,Q3,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1456,NZL
+shot,5:31,1787263104000,46,48,P3,3pt jump shot made,9716.0,217250.0,528,409000,Q3,135066,True,3.0,249.0,140.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Above the Break 3,14.8,8-16 ft.,1469,SSD
+unknwown,5:31,1787263104000,46,48,ASS,made the assist,9716.0,374577.0,529,409001,Q3,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1469,SSD
+shot,5:12,1787263122000,46,48,P2,"2PtsFG under the basket, driving layup missed",113.0,258137.0,530,410000,Q3,135066,False,2.0,143.0,38.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,0.4,Less Than 8 ft.,1488,NZL
+unknwown,5:09,1787263124000,46,48,REB,defensive rebound,9716.0,374577.0,531,410002,Q3,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1491,SSD
+subst,4:59,1787263146000,46,48,SUBST,Substitution out,113.0,258137.0,536,414000,Q3,135066,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1501,NZL
+subst,4:59,1787263146000,46,48,SUBST,Substitution out,113.0,219363.0,537,415000,Q3,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1501,NZL
+subst,4:59,1787263146000,46,48,SUBST,Substitution in,113.0,261208.0,538,416000,Q3,135066,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1501,NZL
+subst,4:59,1787263146000,46,48,SUBST,Substitution in,113.0,317318.0,539,417000,Q3,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1501,NZL
+shot,4:49,1787263163000,46,50,P2,"2PtsFG inside center, jump shot made",9716.0,374577.0,543,421000,Q3,135066,True,2.0,144.0,119.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Mid-Range,7.9,Less Than 8 ft.,1511,SSD
+shot,4:37,1787263175000,46,50,P2,"2PtsFG under the basket, turnaround jump shot missed",113.0,317318.0,544,422000,Q3,135066,False,2.0,139.0,36.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,0.4,Less Than 8 ft.,1523,NZL
+unknwown,4:37,1787263175000,46,50,BS,blocked the shot,9716.0,373877.0,594,422001,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1523,SSD
+unknwown,4:37,1787263180000,46,50,REB,offensive rebound,113.0,206251.0,545,422002,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1523,NZL
+shot,4:31,1787263181000,48,50,P2,"2PtsFG under the basket, pullup jump shot made",113.0,206251.0,546,423000,Q3,135066,True,2.0,134.0,31.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1529,NZL
+shot,4:21,1787263191000,48,53,P3,3pt jump shot made,9716.0,217250.0,547,424000,Q3,135066,True,3.0,73.0,165.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Above the Break 3,14.2,8-16 ft.,1539,SSD
+unknwown,4:21,1787263191000,48,53,ASS,made the assist,9716.0,300672.0,548,424001,Q3,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1539,SSD
+shot,4:04,1787263209000,50,53,P2,"2PtsFG under the basket, layup made",113.0,206251.0,549,425000,Q3,135066,True,2.0,135.0,39.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,0.5,Less Than 8 ft.,1556,NZL
+unknwown,4:04,1787263208000,50,53,ASS,made the assist,113.0,296082.0,550,425001,Q3,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1556,NZL
+shot,3:45,1787263227000,50,53,P3,3pt jump shot missed,9716.0,217250.0,551,426000,Q3,135066,False,3.0,60.0,151.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,Above the Break 3,13.7,8-16 ft.,1575,SSD
+unknwown,3:42,1787263229000,50,53,REB,offensive rebound,9716.0,373877.0,552,426002,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1578,SSD
+shot,3:41,1787263231000,50,53,P2,"2PtsFG under the basket, pullup jump shot missed",9716.0,373877.0,553,427000,Q3,135066,False,2.0,152.0,33.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1579,SSD
+unknwown,3:38,1787263233000,50,53,REB,defensive rebound,113.0,317318.0,554,427002,Q3,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1582,NZL
+unknwown,3:34,1787263238000,50,53,TO,turnover; bad pass,113.0,261208.0,555,428000,Q3,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1586,NZL
+unknwown,3:34,1787263238000,50,53,ST,steal,9716.0,374577.0,556,428001,Q3,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1586,SSD
+subst,3:28,1787263251000,50,53,SUBST,Substitution out,113.0,239275.0,560,432000,Q3,135066,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1592,NZL
+subst,3:28,1787263251000,50,53,SUBST,Substitution in,113.0,328112.0,561,433000,Q3,135066,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1592,NZL
+shot,3:24,1787263270000,50,53,P2,layup missed,9716.0,374577.0,563,435000,Q3,135066,False,2.0,160.0,71.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,In The Paint (Non-RA),3.7,Less Than 8 ft.,1596,SSD
+unknwown,3:20,1787263273000,50,53,REB,defensive rebound,113.0,206251.0,564,435002,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1600,NZL
+shot,3:00,1787263293000,50,53,P2,"2PtsFG under the basket, driving layup missed",113.0,328112.0,565,436000,Q3,135066,False,2.0,124.0,38.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1620,NZL
+unknwown,2:59,1787263297000,50,53,REB,offensive rebound,113.0,328112.0,567,436002,Q3,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1621,NZL
+unknwown,2:59,1787263302000,50,53,TTO,team turnover; shot clock violation,113.0,,568,438000,Q3,135066,,,,,,,,,,,Q3,,,,1621,
+subst,2:59,1787263322000,50,53,SUBST,Substitution out,113.0,206251.0,569,439000,Q3,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1621,NZL
+subst,2:59,1787263322000,50,53,SUBST,Substitution in,113.0,377527.0,570,440000,Q3,135066,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1621,NZL
+subst,2:59,1787263322000,50,53,SUBST,Substitution out,9716.0,217250.0,571,441000,Q3,135066,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1621,SSD
+subst,2:59,1787263322000,50,53,SUBST,Substitution out,9716.0,374577.0,572,442000,Q3,135066,,,,,,OUT,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1621,SSD
+subst,2:59,1787263322000,50,53,SUBST,Substitution in,9716.0,259170.0,573,443000,Q3,135066,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1621,SSD
+subst,2:59,1787263322000,50,53,SUBST,Substitution in,9716.0,300656.0,574,444000,Q3,135066,,,,,,IN,9716.0,Adhel Tac,South Sudan,24.0,Q3,,,,1621,SSD
+shot,2:46,1787263337000,50,53,P3,3pt jump shot missed,9716.0,300668.0,576,446000,Q3,135066,False,3.0,216.0,166.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q3,Above the Break 3,14.7,8-16 ft.,1634,SSD
+unknwown,2:41,1787263341000,50,53,REB,defensive rebound,113.0,296082.0,577,446002,Q3,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1639,NZL
+shot,2:34,1787263349000,50,53,P3,3pt jump shot missed,113.0,328112.0,578,447000,Q3,135066,False,3.0,15.0,98.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,Above the Break 3,13.8,8-16 ft.,1646,NZL
+unknwown,2:30,1787263353000,50,53,REB,offensive rebound,113.0,328112.0,579,447002,Q3,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1650,NZL
+shot,2:25,1787263358000,50,53,P3,3pt jump shot missed,113.0,328112.0,580,448000,Q3,135066,False,3.0,30.0,131.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,Above the Break 3,14.3,8-16 ft.,1655,NZL
+unknwown,2:21,1787263361000,50,53,REB,defensive rebound,9716.0,259170.0,581,448002,Q3,135066,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1659,SSD
+shot,2:05,1787263378000,50,53,P3,3pt jump shot missed,9716.0,300656.0,582,449000,Q3,135066,False,3.0,53.0,147.0,,,9716.0,Adhel Tac,South Sudan,24.0,Q3,Above the Break 3,13.8,8-16 ft.,1675,SSD
+unknwown,2:02,1787263380000,50,53,REB,offensive rebound,9716.0,259170.0,583,449002,Q3,135066,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1678,SSD
+shot,2:01,1787263382000,50,53,P2,layup missed,9716.0,259170.0,584,450000,Q3,135066,False,2.0,170.0,61.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q3,In The Paint (Non-RA),3.7,Less Than 8 ft.,1679,SSD
+unknwown,1:58,1787263384000,50,53,REB,defensive rebound,113.0,328112.0,585,450002,Q3,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1682,NZL
+shot,1:52,1787263391000,50,53,P3,3pt jump shot missed,113.0,317318.0,586,451000,Q3,135066,False,3.0,71.0,158.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Above the Break 3,13.7,8-16 ft.,1688,NZL
+unknwown,1:48,1787263394000,50,53,REB,offensive rebound,113.0,328112.0,587,451002,Q3,135066,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1692,NZL
+shot,1:46,1787263398000,53,53,P3,3pt jump shot made,113.0,317318.0,588,452000,Q3,135066,True,3.0,51.0,151.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Above the Break 3,14.2,8-16 ft.,1694,NZL
+unknwown,1:46,1787263398000,53,53,ASS,made the assist,113.0,261208.0,590,452001,Q3,135066,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1694,NZL
+timeout,1:43,1787263407000,53,53,TIMO,Timeout,9716.0,,593,456000,Q3,135066,,,,,,,,,,,Q3,,,,1697,
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,113.0,328112.0,595,457000,Q3,135066,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,113.0,377527.0,596,458000,Q3,135066,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,113.0,261208.0,597,459000,Q3,135066,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,113.0,258137.0,598,460000,Q3,135066,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,113.0,328255.0,599,461000,Q3,135066,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,113.0,219363.0,600,462000,Q3,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1697,NZL
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,9716.0,300668.0,601,463000,Q3,135066,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q3,,,,1697,SSD
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,9716.0,259170.0,602,464000,Q3,135066,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q3,,,,1697,SSD
+subst,1:43,1787263513000,53,53,SUBST,Substitution out,9716.0,300656.0,603,465000,Q3,135066,,,,,,OUT,9716.0,Adhel Tac,South Sudan,24.0,Q3,,,,1697,SSD
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,9716.0,217250.0,604,466000,Q3,135066,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1697,SSD
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,9716.0,300673.0,605,467000,Q3,135066,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1697,SSD
+subst,1:43,1787263513000,53,53,SUBST,Substitution in,9716.0,374577.0,606,468000,Q3,135066,,,,,,IN,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1697,SSD
+shot,1:38,1787263519000,53,53,P2,"2PtsFG under the basket, driving layup missed",9716.0,374577.0,608,470000,Q3,135066,False,2.0,125.0,42.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1702,SSD
+unknwown,1:34,1787263522000,53,53,REB,defensive rebound,113.0,219363.0,609,470002,Q3,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1706,NZL
+shot,1:22,1787263565000,53,53,P2,"2PtsFG under the basket, layup missed",113.0,258137.0,612,473000,Q3,135066,False,2.0,126.0,41.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1718,NZL
+unknwown,1:18,1787263569000,53,53,REB,defensive rebound,9716.0,217250.0,613,473002,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1722,SSD
+unknwown,1:15,1787263572000,53,53,TO,turnover; bad pass,9716.0,300672.0,614,474000,Q3,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1725,SSD
+unknwown,1:15,1787263572000,53,53,ST,steal,113.0,219363.0,616,474001,Q3,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1725,NZL
+unknwown,1:12,1787263583000,53,53,FOUL,Personal foul,9716.0,300673.0,619,478000,Q3,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q3,,,,1728,SSD
+unknwown,1:12,1787263583000,53,53,RFOUL,foul drawn,113.0,258137.0,620,478002,Q3,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1728,NZL
+subst,1:12,1787263597000,53,53,SUBST,Substitution out,113.0,317318.0,621,479000,Q3,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1728,NZL
+subst,1:12,1787263597000,53,53,SUBST,Substitution in,113.0,206251.0,622,480000,Q3,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1728,NZL
+shot,1:02,1787263615000,53,53,P2,"2PtsFG inside right, points after turnover, jump shot missed",113.0,219363.0,624,482000,Q3,135066,False,2.0,238.0,66.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,Mid-Range,10.1,8-16 ft.,1738,NZL
+unknwown,0:59,1787263617000,53,53,REB,offensive rebound,113.0,206251.0,625,482002,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1741,NZL
+shot,0:56,1787263621000,55,53,P2,2pt jump shot inside the paint made,113.0,258137.0,626,483000,Q3,135066,True,2.0,136.0,73.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,In The Paint (Non-RA),3.3,Less Than 8 ft.,1744,NZL
+unknwown,0:56,1787263622000,55,53,ASS,made the assist,113.0,206251.0,888,483001,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1744,NZL
+unknwown,0:41,1787263641000,55,53,FOUL,Personal foul,113.0,206251.0,630,487000,Q3,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1759,NZL
+unknwown,0:41,1787263641000,55,53,RFOUL,foul drawn,9716.0,217250.0,631,487002,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1759,SSD
+subst,0:41,1787263652000,55,53,SUBST,Substitution out,113.0,219363.0,632,488000,Q3,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1759,NZL
+subst,0:41,1787263652000,55,53,SUBST,Substitution in,113.0,377527.0,633,489000,Q3,135066,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1759,NZL
+unknwown,0:35,1787263671000,55,53,FOUL,Personal foul,113.0,328255.0,638,494000,Q3,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1765,NZL
+unknwown,0:35,1787263671000,55,53,RFOUL,foul drawn,9716.0,373877.0,639,494002,Q3,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,,,,1765,SSD
+shot,0:28,1787263690000,55,55,P2,"2PtsFG inside left, jump shot made",9716.0,374577.0,641,496000,Q3,135066,True,2.0,76.0,106.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,Mid-Range,9.2,8-16 ft.,1772,SSD
+shot,0:13,1787263705000,55,55,P2,"2PtsFG inside paint, reverse lay-up missed",113.0,328255.0,642,497000,Q3,135066,False,2.0,113.0,31.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,In The Paint (Non-RA),2.8,Less Than 8 ft.,1787,NZL
+unknwown,0:13,1787263705000,55,55,BS,blocked the shot,9716.0,300672.0,643,497001,Q3,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q3,,,,1787,SSD
+unknwown,0:08,1787263710000,55,55,REB,offensive rebound,113.0,328255.0,644,497002,Q3,135066,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1792,NZL
+shot,0:07,1787263711000,55,55,P2,layup missed,113.0,328255.0,645,498000,Q3,135066,False,2.0,114.0,52.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,In The Paint (Non-RA),2.9,Less Than 8 ft.,1793,NZL
+unknwown,0:05,1787263713000,55,55,REB,defensive rebound,9716.0,217250.0,646,498002,Q3,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q3,,,,1795,SSD
+shot,0:00,1787263723000,55,57,P2,"2PtsFG under the basket, layup made",9716.0,373877.0,650,502000,Q3,135066,True,2.0,158.0,33.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1800,SSD
+unknwown,0:00,1787263723000,55,57,ASS,made the assist,9716.0,374577.0,651,502001,Q3,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q3,,,,1800,SSD
+periods,0:00,1787263834000,55,57,ENDP,End of period,,,654,505000,Q3,135066,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787263861000,55,57,SUBST,Substitution out,113.0,328255.0,655,506000,Q4,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution out,113.0,377527.0,656,507000,Q4,135066,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution out,113.0,206251.0,657,508000,Q4,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution in,113.0,239275.0,658,509000,Q4,135066,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution in,113.0,317318.0,659,510000,Q4,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution in,113.0,219363.0,660,511000,Q4,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,1800,NZL
+subst,10:00,1787263861000,55,57,SUBST,Substitution out,9716.0,300673.0,661,512000,Q4,135066,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,1800,SSD
+subst,10:00,1787263861000,55,57,SUBST,Substitution in,9716.0,300668.0,662,513000,Q4,135066,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,1800,SSD
+periods,10:00,1787263864000,55,57,STARTP,Start of period,,,663,514000,Q4,135066,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:51,1787263875000,55,57,TO,turnover; bad pass,113.0,239275.0,668,519000,Q4,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1809,NZL
+shot,9:33,1787263906000,55,57,P2,"2PtsFG under the basket, points after turnover, driving layup missed",9716.0,300672.0,670,521000,Q4,135066,False,2.0,136.0,40.0,,,9716.0,Perina Leime,South Sudan,21.0,Q4,Restricted Area,0.4,Less Than 8 ft.,1827,SSD
+unknwown,9:27,1787263912000,55,57,REB,defensive rebound,113.0,317318.0,671,521002,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1833,NZL
+shot,9:26,1787263914000,57,57,P2,"2PtsFG under the basket, fast break, driving layup made",113.0,258137.0,672,522000,Q4,135066,True,2.0,126.0,35.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,1.5,Less Than 8 ft.,1834,NZL
+unknwown,9:26,1787263915000,57,57,ASS,made the assist,113.0,317318.0,889,522001,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1834,NZL
+shot,9:09,1787263930000,57,60,P3,3pt jump shot from center made,9716.0,217250.0,674,523000,Q4,135066,True,3.0,176.0,188.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Above the Break 3,15.2,8-16 ft.,1851,SSD
+unknwown,9:09,1787263930000,57,60,ASS,made the assist,9716.0,374577.0,675,523001,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1851,SSD
+shot,8:55,1787263944000,59,60,P2,"2PtsFG under the basket, driving layup made",113.0,317318.0,676,524000,Q4,135066,True,2.0,127.0,35.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.4,Less Than 8 ft.,1865,NZL
+shot,8:47,1787263953000,59,60,P3,3pt jump shot missed,9716.0,374577.0,678,526000,Q4,135066,False,3.0,72.0,153.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.2,8-16 ft.,1873,SSD
+unknwown,8:47,1787263969000,59,60,TREB,team offensive rebound,9716.0,,679,526002,Q4,135066,,,,,,,,,,,Q4,,,,1873,
+unknwown,8:47,1787263972000,59,60,FOUL,Technical foul; 1 free throw awarded,113.0,317318.0,680,527000,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1873,NZL
+shot,8:47,1787263986000,59,61,FT,free throw made,9716.0,217250.0,681,528000,Q4,135066,True,1.0,0.0,0.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,14.6,8-16 ft.,1873,SSD
+subst,8:47,1787263996000,59,61,SUBST,Substitution out,113.0,317318.0,682,529000,Q4,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1873,NZL
+subst,8:47,1787263996000,59,61,SUBST,Substitution in,113.0,206251.0,683,530000,Q4,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1873,NZL
+shot,8:33,1787264036000,59,64,P3,3pt jump shot made,9716.0,217250.0,689,536000,Q4,135066,True,3.0,259.0,118.0,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,Above the Break 3,14.2,8-16 ft.,1887,SSD
+unknwown,8:33,1787264036000,59,64,ASS,made the assist,9716.0,300672.0,690,536001,Q4,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1887,SSD
+shot,8:11,1787264059000,61,64,P2,"2PtsFG under the basket, layup made",113.0,239275.0,691,537000,Q4,135066,True,2.0,145.0,31.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,Restricted Area,1.0,Less Than 8 ft.,1909,NZL
+unknwown,8:11,1787264059000,61,64,ASS,made the assist,113.0,296082.0,692,537001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1909,NZL
+shot,7:56,1787264078000,61,66,P2,"2PtsFG under the basket, layup made",9716.0,300668.0,694,539000,Q4,135066,True,2.0,161.0,37.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Restricted Area,2.1,Less Than 8 ft.,1924,SSD
+timeout,7:56,1787264145000,61,66,TIMO,Timeout,113.0,,697,541000,Q4,135066,,,,,,,,,,,Q4,,,,1924,
+subst,7:56,1787264179000,61,66,SUBST,Substitution out,9716.0,300672.0,698,542000,Q4,135066,,,,,,OUT,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,1924,SSD
+subst,7:56,1787264179000,61,66,SUBST,Substitution in,9716.0,300673.0,699,543000,Q4,135066,,,,,,IN,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,1924,SSD
+shot,7:38,1787264205000,63,66,P2,"2PtsFG under the basket, reverse lay-up made",113.0,258137.0,702,546000,Q4,135066,True,2.0,146.0,35.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,0.8,Less Than 8 ft.,1942,NZL
+unknwown,7:38,1787264205000,63,66,ASS,made the assist,113.0,206251.0,703,546001,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1942,NZL
+unknwown,7:38,1787264212000,63,66,FOUL,Personal foul; 1 free throw awarded,9716.0,300668.0,704,547000,Q4,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,1942,SSD
+unknwown,7:38,1787264212000,63,66,RFOUL,foul drawn,113.0,258137.0,705,547002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,1942,NZL
+shot,7:38,1787264233000,64,66,FT,1st free throw made,113.0,258137.0,706,548000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,1942,NZL
+shot,7:16,1787264256000,64,66,P2,2pt floating jump shot missed,9716.0,300668.0,708,550000,Q4,135066,False,2.0,148.0,70.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,In The Paint (Non-RA),3.1,Less Than 8 ft.,1964,SSD
+unknwown,7:12,1787264259000,64,66,REB,defensive rebound,113.0,296082.0,709,550002,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1968,NZL
+unknwown,7:05,1787264278000,64,66,FOUL,Personal foul; 2 free throws awarded,9716.0,217250.0,713,554000,Q4,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,1975,SSD
+unknwown,7:05,1787264278000,64,66,RFOUL,foul drawn,113.0,258137.0,714,554002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,1975,NZL
+shot,7:05,1787264303000,65,66,FT,1st of 2 free throws made,113.0,258137.0,715,555000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,1975,NZL
+unknwown,7:05,1787264303000,65,66,ASS,made the assist,113.0,296082.0,717,555001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1975,NZL
+shot,7:05,1787264317000,66,66,FT,2nd of 2 free throws made,113.0,258137.0,716,556000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,1975,NZL
+unknwown,6:50,1787264342000,66,66,FOUL,Offensive foul,9716.0,374577.0,722,561000,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1990,SSD
+unknwown,6:50,1787264342000,66,66,TO,turnover,9716.0,374577.0,723,561001,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,1990,SSD
+unknwown,6:50,1787264342000,66,66,RFOUL,foul drawn,113.0,239275.0,724,561002,Q4,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1990,NZL
+shot,6:29,1787264376000,66,66,P3,3pt jump shot missed,113.0,258137.0,726,563000,Q4,135066,False,3.0,9.0,76.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Above the Break 3,13.6,8-16 ft.,2011,NZL
+unknwown,6:29,1787264376000,66,66,BS,blocked the shot,9716.0,300668.0,727,563001,Q4,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2011,SSD
+unknwown,6:20,1787264385000,66,66,REB,offensive rebound,113.0,258137.0,728,563002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2020,NZL
+shot,6:19,1787264387000,66,66,P2,"2PtsFG under the basket, points from second chance + after turnover, layup missed",113.0,258137.0,729,564000,Q4,135066,False,2.0,123.0,42.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2021,NZL
+unknwown,6:16,1787264389000,66,66,REB,defensive rebound,9716.0,300668.0,730,564002,Q4,135066,,,,,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2024,SSD
+unknwown,6:16,1787264397000,66,66,FOUL,Personal foul,113.0,239275.0,732,566000,Q4,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2024,NZL
+unknwown,6:16,1787264397000,66,66,RFOUL,foul drawn,9716.0,374577.0,733,566002,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2024,SSD
+subst,6:16,1787264421000,66,66,SUBST,Substitution out,113.0,296082.0,734,567000,Q4,135066,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2024,NZL
+subst,6:16,1787264421000,66,66,SUBST,Substitution out,113.0,239275.0,735,568000,Q4,135066,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2024,NZL
+subst,6:16,1787264421000,66,66,SUBST,Substitution in,113.0,328255.0,736,569000,Q4,135066,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2024,NZL
+subst,6:16,1787264421000,66,66,SUBST,Substitution in,113.0,261208.0,737,570000,Q4,135066,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2024,NZL
+shot,6:12,1787264426000,66,66,P3,3pt step back jump shot missed,9716.0,374577.0,739,572000,Q4,135066,False,3.0,158.0,171.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,13.2,8-16 ft.,2028,SSD
+unknwown,6:09,1787264429000,66,66,TREB,team defensive rebound,113.0,,740,572002,Q4,135066,,,,,,,,,,,Q4,,,,2031,
+shot,5:50,1787264457000,66,66,P3,3pt jump shot missed,113.0,261208.0,743,575000,Q4,135066,False,3.0,8.0,72.0,,,113.0,Florence Dallow,New Zealand,12.0,Q4,Right Corner 3,13.6,8-16 ft.,2050,NZL
+unknwown,5:47,1787264459000,66,66,REB,defensive rebound,9716.0,374577.0,744,575002,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2053,SSD
+shot,5:43,1787264463000,66,68,P2,"2PtsFG under the basket, fast break, layup made",9716.0,300668.0,745,576000,Q4,135066,True,2.0,130.0,35.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2057,SSD
+unknwown,5:43,1787264463000,66,68,ASS,made the assist,9716.0,374577.0,746,576001,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2057,SSD
+shot,5:29,1787264478000,66,68,P2,"2PtsFG under the basket, layup missed",113.0,219363.0,747,577000,Q4,135066,False,2.0,121.0,35.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,Restricted Area,2.0,Less Than 8 ft.,2071,NZL
+unknwown,5:21,1787264485000,66,68,REB,defensive rebound,9716.0,300673.0,748,577002,Q4,135066,,,,,,,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2079,SSD
+unknwown,5:07,1787264508000,66,68,FOUL,Personal foul,113.0,258137.0,752,581000,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2093,NZL
+unknwown,5:07,1787264508000,66,68,RFOUL,foul drawn,9716.0,217250.0,753,581002,Q4,135066,,,,,,,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2093,SSD
+subst,5:07,1787264518000,66,68,SUBST,Substitution out,113.0,258137.0,754,582000,Q4,135066,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2093,NZL
+subst,5:07,1787264518000,66,68,SUBST,Substitution in,113.0,239275.0,755,583000,Q4,135066,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2093,NZL
+unknwown,5:02,1787264540000,66,68,FOUL,Personal foul,113.0,219363.0,758,586000,Q4,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2098,NZL
+unknwown,5:02,1787264540000,66,68,RFOUL,foul drawn,9716.0,373877.0,759,586002,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2098,SSD
+subst,5:02,1787264557000,66,68,SUBST,Substitution out,113.0,219363.0,760,587000,Q4,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2098,NZL
+subst,5:02,1787264557000,66,68,SUBST,Substitution in,113.0,317318.0,761,588000,Q4,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2098,NZL
+unknwown,5:02,1787264576000,66,68,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,762,589000,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2098,NZL
+unknwown,5:02,1787264576000,66,68,RFOUL,foul drawn,9716.0,374577.0,763,589002,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2098,SSD
+shot,5:02,1787264601000,66,69,FT,1st of 2 free throws made,9716.0,374577.0,764,590000,Q4,135066,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,14.6,8-16 ft.,2098,SSD
+shot,5:02,1787264611000,66,70,FT,2nd of 2 free throws made,9716.0,374577.0,765,591000,Q4,135066,True,1.0,0.0,0.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,14.6,8-16 ft.,2098,SSD
+shot,4:45,1787264631000,66,70,P3,3pt jump shot from center missed,113.0,328255.0,767,593000,Q4,135066,False,3.0,124.0,182.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,Above the Break 3,14.3,8-16 ft.,2115,NZL
+unknwown,4:41,1787264634000,66,70,REB,defensive rebound,9716.0,373877.0,768,593002,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2119,SSD
+shot,4:28,1787264648000,66,70,P2,2pt driving layup missed,9716.0,300668.0,769,594000,Q4,135066,False,2.0,149.0,58.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,In The Paint (Non-RA),2.0,Less Than 8 ft.,2132,SSD
+unknwown,4:24,1787264654000,66,70,REB,offensive rebound,9716.0,373877.0,771,594002,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2136,SSD
+shot,4:24,1787264665000,66,70,P2,"2PtsFG under the basket, layup missed",9716.0,373877.0,772,596000,Q4,135066,False,2.0,152.0,35.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,1.3,Less Than 8 ft.,2136,SSD
+unknwown,4:24,1787264672000,66,70,TREB,team defensive rebound,113.0,,773,596002,Q4,135066,,,,,,,,,,,Q4,,,,2136,
+subst,4:24,1787264705000,66,70,SUBST,Substitution out,113.0,328255.0,774,597000,Q4,135066,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2136,NZL
+subst,4:24,1787264705000,66,70,SUBST,Substitution out,113.0,261208.0,775,598000,Q4,135066,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2136,NZL
+subst,4:24,1787264705000,66,70,SUBST,Substitution in,113.0,258137.0,776,599000,Q4,135066,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2136,NZL
+subst,4:24,1787264705000,66,70,SUBST,Substitution in,113.0,296082.0,777,600000,Q4,135066,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2136,NZL
+subst,4:24,1787264705000,66,70,SUBST,Substitution out,9716.0,300668.0,778,601000,Q4,135066,,,,,,OUT,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2136,SSD
+subst,4:24,1787264705000,66,70,SUBST,Substitution in,9716.0,300672.0,779,602000,Q4,135066,,,,,,IN,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2136,SSD
+shot,4:15,1787264723000,66,70,P2,2pt floating jump shot missed,113.0,206251.0,781,604000,Q4,135066,False,2.0,147.0,69.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,In The Paint (Non-RA),3.0,Less Than 8 ft.,2145,NZL
+unknwown,4:11,1787264726000,66,70,REB,offensive rebound,113.0,258137.0,782,604002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2149,NZL
+shot,3:59,1787264739000,69,70,P3,3pt step back jump shot made,113.0,258137.0,783,605000,Q4,135066,True,3.0,13.0,101.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Above the Break 3,14.1,8-16 ft.,2161,NZL
+unknwown,3:59,1787264739000,69,70,ASS,made the assist,113.0,296082.0,784,605001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2161,NZL
+shot,3:44,1787264754000,69,70,P3,3pt jump shot missed,9716.0,374577.0,785,606000,Q4,135066,False,3.0,33.0,139.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Above the Break 3,14.6,8-16 ft.,2176,SSD
+unknwown,3:40,1787264757000,69,70,REB,defensive rebound,113.0,317318.0,786,606002,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2180,NZL
+shot,3:36,1787264761000,69,70,P2,"2PtsFG under the basket, fast break, layup missed",113.0,206251.0,787,607000,Q4,135066,False,2.0,146.0,35.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2184,NZL
+unknwown,3:32,1787264765000,69,70,REB,offensive rebound,113.0,317318.0,788,607002,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2188,NZL
+shot,3:29,1787264892000,69,70,P2,"2PtsFG under the basket, layup missed",113.0,317318.0,795,607500,Q4,135066,False,2.0,137.0,48.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2191,NZL
+unknwown,3:29,1787264892000,69,70,REB,offensive rebound,113.0,206251.0,796,607502,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2191,NZL
+unknwown,3:29,1787264778000,69,70,FOUL,Personal foul; 3 free throws awarded,9716.0,373877.0,792,611000,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2191,SSD
+unknwown,3:29,1787264778000,69,70,RFOUL,foul drawn,113.0,258137.0,793,611002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2191,NZL
+timeout,3:29,1787264796000,69,70,TIMO,Timeout,9716.0,,794,612000,Q4,135066,,,,,,,,,,,Q4,,,,2191,
+subst,3:29,1787264920000,69,70,SUBST,Substitution out,113.0,206251.0,797,613000,Q4,135066,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2191,NZL
+subst,3:29,1787264920000,69,70,SUBST,Substitution in,113.0,219363.0,798,614000,Q4,135066,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2191,NZL
+subst,3:29,1787264920000,69,70,SUBST,Substitution out,9716.0,217250.0,799,615000,Q4,135066,,,,,,OUT,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2191,SSD
+subst,3:29,1787264920000,69,70,SUBST,Substitution out,9716.0,300673.0,800,616000,Q4,135066,,,,,,OUT,9716.0,Yar Mayen,South Sudan,11.0,Q4,,,,2191,SSD
+subst,3:29,1787264920000,69,70,SUBST,Substitution in,9716.0,300668.0,801,617000,Q4,135066,,,,,,IN,9716.0,Nyamer Diew,South Sudan,7.0,Q4,,,,2191,SSD
+subst,3:29,1787264920000,69,70,SUBST,Substitution in,9716.0,300656.0,802,618000,Q4,135066,,,,,,IN,9716.0,Adhel Tac,South Sudan,24.0,Q4,,,,2191,SSD
+shot,3:29,1787264922000,70,70,FT,1st of 3 free throws made,113.0,258137.0,803,619000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2191,NZL
+unknwown,3:29,1787264922000,70,70,ASS,made the assist,113.0,206251.0,804,619001,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2191,NZL
+shot,3:29,1787264923000,71,70,FT,2nd of 3 free throws made,113.0,258137.0,805,620000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2191,NZL
+shot,3:29,1787264924000,72,70,FT,3rd of 3 free throws made,113.0,258137.0,806,621000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2191,NZL
+shot,3:13,1787264945000,72,70,P2,2pt turnaround jump shot missed,9716.0,300656.0,808,623000,Q4,135066,False,2.0,167.0,43.0,,,9716.0,Adhel Tac,South Sudan,24.0,Q4,In The Paint (Non-RA),2.7,Less Than 8 ft.,2207,SSD
+unknwown,3:08,1787264950000,72,70,REB,offensive rebound,9716.0,373877.0,809,623002,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2212,SSD
+shot,3:08,1787264951000,72,70,P2,"2PtsFG under the basket, pullup jump shot missed",9716.0,373877.0,810,624000,Q4,135066,False,2.0,151.0,36.0,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2212,SSD
+unknwown,3:05,1787264953000,72,70,REB,defensive rebound,113.0,239275.0,811,624002,Q4,135066,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2215,NZL
+unknwown,2:48,1787264977000,72,70,FOUL,Personal foul; 2 free throws awarded,9716.0,300656.0,815,628000,Q4,135066,,,,,,,9716.0,Adhel Tac,South Sudan,24.0,Q4,,,,2232,SSD
+unknwown,2:48,1787264977000,72,70,RFOUL,foul drawn,113.0,258137.0,816,628002,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2232,NZL
+shot,2:48,1787265004000,73,70,FT,1st of 2 free throws made,113.0,258137.0,817,629000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2232,NZL
+unknwown,2:48,1787265004000,73,70,ASS,made the assist,113.0,296082.0,819,629001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2232,NZL
+shot,2:48,1787265019000,74,70,FT,2nd of 2 free throws made,113.0,258137.0,818,630000,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2232,NZL
+unknwown,2:46,1787265030000,74,70,TO,turnover; bad pass,9716.0,373877.0,824,635000,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2234,SSD
+subst,2:46,1787265042000,74,70,SUBST,Substitution out,113.0,317318.0,825,636000,Q4,135066,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2234,NZL
+subst,2:46,1787265042000,74,70,SUBST,Substitution in,113.0,206251.0,826,637000,Q4,135066,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2234,NZL
+subst,2:46,1787265042000,74,70,SUBST,Substitution out,9716.0,300656.0,827,638000,Q4,135066,,,,,,OUT,9716.0,Adhel Tac,South Sudan,24.0,Q4,,,,2234,SSD
+subst,2:46,1787265042000,74,70,SUBST,Substitution in,9716.0,217250.0,828,639000,Q4,135066,,,,,,IN,9716.0,Adut Bulgak,South Sudan,2.0,Q4,,,,2234,SSD
+unknwown,2:44,1787265050000,74,70,TO,turnover; bad pass,113.0,206251.0,830,641000,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2236,NZL
+unknwown,2:44,1787265050000,74,70,ST,steal,9716.0,300672.0,831,641001,Q4,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2236,SSD
+shot,2:25,1787265068000,74,70,P2,"2PtsFG under the basket, points after turnover, layup missed",9716.0,374577.0,833,643000,Q4,135066,False,2.0,143.0,44.0,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,Restricted Area,0.5,Less Than 8 ft.,2255,SSD
+unknwown,2:24,1787265072000,74,70,TREB,team offensive rebound,9716.0,,834,643002,Q4,135066,,,,,,,,,,,Q4,,,,2256,
+unknwown,2:24,1787265078000,74,70,FOUL,Personal foul; 2 free throws awarded,113.0,219363.0,835,644000,Q4,135066,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2256,NZL
+unknwown,2:24,1787265078000,74,70,RFOUL,foul drawn,9716.0,373877.0,836,644002,Q4,135066,,,,,,,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2256,SSD
+subst,2:24,1787265106000,74,70,SUBST,Substitution out,113.0,219363.0,837,645000,Q4,135066,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2256,NZL
+subst,2:24,1787265106000,74,70,SUBST,Substitution in,113.0,317318.0,838,646000,Q4,135066,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2256,NZL
+subst,2:24,1787265133000,74,70,SUBST,Substitution out,9716.0,373877.0,839,647000,Q4,135066,,,,,,OUT,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2256,SSD
+subst,2:24,1787265133000,74,70,SUBST,Substitution in,9716.0,259170.0,840,648000,Q4,135066,,,,,,IN,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,2256,SSD
+shot,2:24,1787265149000,74,71,FT,1st of 2 free throws made,9716.0,259170.0,841,649000,Q4,135066,True,1.0,0.0,0.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,14.6,8-16 ft.,2256,SSD
+shot,2:24,1787265162000,74,72,FT,2nd of 2 free throws made,9716.0,259170.0,842,650000,Q4,135066,True,1.0,0.0,0.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,14.6,8-16 ft.,2256,SSD
+shot,2:06,1787265183000,74,72,P2,"2PtsFG under the basket, driving layup missed",113.0,258137.0,844,652000,Q4,135066,False,2.0,127.0,35.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,1.4,Less Than 8 ft.,2274,NZL
+unknwown,2:02,1787265187000,74,72,REB,defensive rebound,9716.0,259170.0,845,652002,Q4,135066,,,,,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,2278,SSD
+shot,1:51,1787265199000,74,72,P2,"2PtsFG under the basket, driving layup missed",9716.0,259170.0,846,653000,Q4,135066,False,2.0,144.0,47.0,,,9716.0,Rose Macuei,South Sudan,8.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2289,SSD
+unknwown,1:47,1787265202000,74,72,REB,defensive rebound,113.0,296082.0,847,653002,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2293,NZL
+shot,1:34,1787265218000,77,72,P3,3pt jump shot made,113.0,239275.0,849,655000,Q4,135066,True,3.0,52.0,158.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,Above the Break 3,14.7,8-16 ft.,2306,NZL
+unknwown,1:34,1787265218000,77,72,ASS,made the assist,113.0,296082.0,850,655001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2306,NZL
+subst,1:33,1787265235000,77,72,SUBST,Substitution out,9716.0,259170.0,853,658000,Q4,135066,,,,,,OUT,9716.0,Rose Macuei,South Sudan,8.0,Q4,,,,2307,SSD
+subst,1:33,1787265235000,77,72,SUBST,Substitution in,9716.0,373877.0,854,659000,Q4,135066,,,,,,IN,9716.0,Maria Gakdeng,South Sudan,5.0,Q4,,,,2307,SSD
+shot,1:15,1787265258000,77,72,P3,3pt step back jump shot missed,9716.0,300668.0,856,661000,Q4,135066,False,3.0,92.0,170.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Above the Break 3,13.9,8-16 ft.,2325,SSD
+unknwown,1:11,1787265261000,77,72,REB,defensive rebound,113.0,296082.0,857,661002,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2329,NZL
+shot,0:57,1787265275000,77,72,P3,3pt jump shot missed,113.0,317318.0,858,662000,Q4,135066,False,3.0,36.0,134.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Above the Break 3,14.0,8-16 ft.,2343,NZL
+unknwown,0:54,1787265278000,77,72,REB,offensive rebound,113.0,206251.0,859,662002,Q4,135066,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2346,NZL
+shot,0:51,1787265281000,77,72,P2,2pt floating jump shot missed,113.0,317318.0,860,663000,Q4,135066,False,2.0,117.0,91.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,In The Paint (Non-RA),5.6,Less Than 8 ft.,2349,NZL
+unknwown,0:48,1787265284000,77,72,REB,offensive rebound,113.0,317318.0,861,663002,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2352,NZL
+shot,0:32,1787265308000,80,72,P3,3pt jump shot made,113.0,239275.0,865,667000,Q4,135066,True,3.0,28.0,153.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,Above the Break 3,15.9,8-16 ft.,2368,NZL
+unknwown,0:32,1787265308000,80,72,ASS,made the assist,113.0,296082.0,866,667001,Q4,135066,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2368,NZL
+timeout,0:32,1787265319000,80,72,TIMO,Timeout,9716.0,,867,667500,Q4,135066,,,,,,,,,,,Q4,,,,2368,
+shot,0:27,1787265422000,80,72,P3,3pt jump shot from center missed,9716.0,300668.0,869,669500,Q4,135066,False,3.0,189.0,174.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Above the Break 3,14.3,8-16 ft.,2373,SSD
+unknwown,0:23,1787265425000,80,72,REB,defensive rebound,113.0,317318.0,870,669502,Q4,135066,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2377,NZL
+unknwown,0:19,1787265438000,80,72,FOUL,Personal foul; 2 free throws awarded,9716.0,300672.0,873,672500,Q4,135066,,,,,,,9716.0,Perina Leime,South Sudan,21.0,Q4,,,,2381,SSD
+unknwown,0:19,1787265438000,80,72,RFOUL,foul drawn,113.0,258137.0,874,672502,Q4,135066,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2381,NZL
+shot,0:19,1787265463000,81,72,FT,1st of 2 free throws made,113.0,258137.0,875,673500,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2381,NZL
+shot,0:19,1787265475000,82,72,FT,2nd of 2 free throws made,113.0,258137.0,876,674500,Q4,135066,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,14.6,8-16 ft.,2381,NZL
+shot,0:04,1787265499000,82,74,P2,"2PtsFG under the basket, driving layup made",9716.0,300668.0,881,679500,Q4,135066,True,2.0,136.0,30.0,,,9716.0,Nyamer Diew,South Sudan,7.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2396,SSD
+unknwown,0:04,1787265499000,82,74,ASS,made the assist,9716.0,374577.0,883,679501,Q4,135066,,,,,,,9716.0,Moira Joiner,South Sudan,22.0,Q4,,,,2396,SSD
+timeout,0:04,1787265508000,82,74,TIMO,Timeout,113.0,,882,680500,Q4,135066,,,,,,,,,,,Q4,,,,2396,
+periods,0:00,1787265689000,82,74,ENDP,End of period,,,886,683500,Q4,135066,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787265706000,82,74,ENDG,End of game,,,887,684500,Q4,135066,,,,,,,,,,,Q4,,,,2400,
