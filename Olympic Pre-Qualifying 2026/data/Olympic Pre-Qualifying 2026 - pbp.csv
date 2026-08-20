@@ -3462,3 +3462,559 @@ unknwown,0:04,1787113886000,53,56,TO,turnover; bad pass,113.0,206251.0,800,60900
 unknwown,0:04,1787113886000,53,56,ST,steal,27.0,215026.0,801,609001,Q4,135063,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2396,BRA
 periods,0:00,1787113912000,53,56,ENDP,End of period,,,803,611000,Q4,135063,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787113997000,53,56,ENDG,End of game,,,804,612000,Q4,135063,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787182223000,0,0,STARTG,Start of game,,,1,1000,Q1,135069,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787182223000,0,0,STARTP,Start of period,,,2,2000,Q1,135069,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787182223000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135069,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787182224000,0,0,JB,jump ball won,122.0,220090.0,5,4001,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,1,PHI
+unknwown,9:59,1787182224000,0,0,JB,jump ball lost,34.0,161433.0,6,4002,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,1,CAN
+shot,9:47,1787182237000,0,0,P2,"2PtsFG under the basket, layup missed",122.0,220090.0,7,5000,Q1,135069,False,2.0,128.0,38.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.2,Less Than 8 ft.,13,PHI
+unknwown,9:43,1787182239000,0,0,REB,defensive rebound,34.0,161433.0,8,5002,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,17,CAN
+shot,9:31,1787182252000,0,0,P2,"2PtsFG inside center, jump shot missed",34.0,161433.0,9,6000,Q1,135069,False,2.0,179.0,110.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,Mid-Range,8.0,8-16 ft.,29,CAN
+unknwown,9:28,1787182254000,0,0,REB,offensive rebound,34.0,172742.0,10,6002,Q1,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,32,CAN
+shot,9:26,1787182257000,0,2,P2,"2PtsFG under the basket, layup made",34.0,188714.0,11,7000,Q1,135069,True,2.0,144.0,42.0,,,34.0,Sami Hill,Canada,4.0,Q1,Restricted Area,0.4,Less Than 8 ft.,34,CAN
+unknwown,9:26,1787182257000,0,2,ASS,made the assist,34.0,172742.0,12,7001,Q1,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,34,CAN
+shot,9:04,1787182279000,0,2,P3,3pt jump shot missed,122.0,342735.0,13,8000,Q1,135069,False,3.0,9.0,26.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Right Corner 3,13.2,8-16 ft.,56,PHI
+unknwown,9:00,1787182283000,0,2,REB,defensive rebound,34.0,172742.0,14,8002,Q1,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,60,CAN
+unknwown,8:51,1787182295000,0,2,TO,turnover; bad pass,34.0,161433.0,16,10000,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,69,CAN
+unknwown,8:43,1787182326000,0,2,TO,turnover; bad pass,122.0,323169.0,18,12000,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,77,PHI
+shot,8:33,1787182336000,0,2,P2,"2PtsFG under the basket, points after turnover, pullup jump shot missed",34.0,320676.0,19,13000,Q1,135069,False,2.0,124.0,30.0,,,34.0,Syla Swords,Canada,12.0,Q1,Restricted Area,1.9,Less Than 8 ft.,87,CAN
+unknwown,8:30,1787182339000,0,2,REB,offensive rebound,34.0,320676.0,20,13002,Q1,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,90,CAN
+unknwown,8:23,1787182349000,0,2,FOUL,Personal foul,122.0,323171.0,22,15000,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,97,PHI
+unknwown,8:23,1787182349000,0,2,RFOUL,foul drawn,34.0,188714.0,23,15002,Q1,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,97,CAN
+shot,8:23,1787182373000,0,4,P2,"2PtsFG under the basket, points from second chance + after turnover, layup made",34.0,318775.0,24,16000,Q1,135069,True,2.0,124.0,34.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Restricted Area,1.7,Less Than 8 ft.,97,CAN
+unknwown,8:09,1787182394000,0,4,FOUL,Offensive foul,122.0,220090.0,27,19000,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,111,PHI
+unknwown,8:09,1787182394000,0,4,TO,turnover,122.0,220090.0,28,19001,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,111,PHI
+unknwown,8:09,1787182394000,0,4,RFOUL,foul drawn,34.0,318775.0,30,19002,Q1,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,111,CAN
+shot,8:01,1787182407000,0,4,P2,2pt turnaround jump shot missed,34.0,161433.0,31,21000,Q1,135069,False,2.0,140.0,50.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,Restricted Area,1.0,Less Than 8 ft.,119,CAN
+unknwown,7:54,1787182414000,0,4,REB,defensive rebound,122.0,220090.0,32,21002,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,126,PHI
+shot,7:48,1787182420000,0,4,P3,3pt jump shot missed,122.0,323171.0,33,22000,Q1,135069,False,3.0,263.0,107.0,,,122.0,Louna Ozar,Philippines,9.0,Q1,Above the Break 3,14.0,8-16 ft.,132,PHI
+unknwown,7:44,1787182423000,0,4,REB,defensive rebound,34.0,188714.0,34,22002,Q1,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,136,CAN
+shot,7:35,1787182433000,0,7,P3,3pt jump shot made,34.0,320676.0,35,23000,Q1,135069,True,3.0,15.0,111.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,14.4,8-16 ft.,145,CAN
+unknwown,7:35,1787182433000,0,7,ASS,made the assist,34.0,161433.0,36,23001,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,145,CAN
+unknwown,7:10,1787182459000,0,7,TO,turnover; travelling,122.0,323169.0,40,27000,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,170,PHI
+shot,6:59,1787182479000,0,7,P2,"2PtsFG inside left, points after turnover, jump shot missed",34.0,320676.0,42,29000,Q1,135069,False,2.0,90.0,58.0,,,34.0,Syla Swords,Canada,12.0,Q1,Mid-Range,5.3,Less Than 8 ft.,181,CAN
+unknwown,6:55,1787182481000,0,7,REB,defensive rebound,122.0,323171.0,43,29002,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,185,PHI
+unknwown,6:49,1787182488000,0,7,TO,turnover; bad pass,122.0,323171.0,44,30000,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,191,PHI
+unknwown,6:49,1787182488000,0,7,ST,steal,34.0,318775.0,45,30001,Q1,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,191,CAN
+shot,6:38,1787182500000,0,9,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,318775.0,47,32000,Q1,135069,True,2.0,146.0,39.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Restricted Area,0.6,Less Than 8 ft.,202,CAN
+timeout,6:38,1787182506000,0,9,TIMO,Timeout,122.0,,48,33000,Q1,135069,,,,,,,,,,,Q1,,,,202,
+unknwown,6:36,1787182636000,0,9,TO,turnover; bad pass,122.0,339158.0,50,35000,Q1,135069,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,204,PHI
+shot,6:25,1787182643000,0,9,P2,"2PtsFG under the basket, points after turnover, layup missed",34.0,172742.0,51,36000,Q1,135069,False,2.0,132.0,49.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,Restricted Area,1.2,Less Than 8 ft.,215,CAN
+unknwown,6:22,1787182646000,0,9,REB,defensive rebound,122.0,220090.0,52,36002,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,218,PHI
+shot,6:14,1787182654000,0,9,P2,"2PtsFG under the basket, pullup jump shot missed",122.0,220090.0,53,37000,Q1,135069,False,2.0,157.0,25.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,2.3,Less Than 8 ft.,226,PHI
+unknwown,6:14,1787182656000,0,9,BS,blocked the shot,34.0,161433.0,54,37001,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,226,CAN
+unknwown,6:04,1787182664000,0,9,REB,defensive rebound,34.0,172742.0,55,37002,Q1,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,236,CAN
+shot,5:59,1787182672000,0,9,P3,3pt jump shot missed,34.0,320676.0,56,38000,Q1,135069,False,3.0,14.0,89.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,13.5,8-16 ft.,241,CAN
+unknwown,5:56,1787182674000,0,9,REB,defensive rebound,122.0,323171.0,57,38002,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,244,PHI
+shot,5:52,1787182676000,0,9,P2,2pt floating jump shot missed,122.0,342735.0,58,39000,Q1,135069,False,2.0,165.0,74.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,In The Paint (Non-RA),4.2,Less Than 8 ft.,248,PHI
+unknwown,5:50,1787182678000,0,9,REB,offensive rebound,122.0,342735.0,59,39002,Q1,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,250,PHI
+shot,5:45,1787182683000,0,9,P2,2pt turnaround jump shot missed,122.0,220090.0,60,40000,Q1,135069,False,2.0,194.0,101.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Mid-Range,8.1,8-16 ft.,255,PHI
+unknwown,5:37,1787182690000,0,9,REB,defensive rebound,34.0,161433.0,61,40002,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,263,CAN
+shot,5:35,1787182694000,0,9,P2,"2PtsFG inside paint, reverse lay-up missed",34.0,318775.0,62,41000,Q1,135069,False,2.0,113.0,28.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,In The Paint (Non-RA),3.0,Less Than 8 ft.,265,CAN
+unknwown,5:30,1787182698000,0,9,REB,defensive rebound,122.0,220090.0,63,41002,Q1,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,270,PHI
+shot,5:19,1787182709000,0,9,P3,3pt jump shot missed,122.0,323169.0,64,42000,Q1,135069,False,3.0,228.0,147.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Above the Break 3,13.9,8-16 ft.,281,PHI
+unknwown,5:16,1787182712000,0,9,REB,defensive rebound,34.0,161433.0,65,42002,Q1,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,284,CAN
+shot,5:11,1787182718000,0,9,P2,"2PtsFG under the basket, jump shot missed",34.0,172742.0,66,43000,Q1,135069,False,2.0,143.0,23.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,Restricted Area,1.7,Less Than 8 ft.,289,CAN
+unknwown,5:07,1787182721000,0,9,REB,defensive rebound,122.0,323171.0,67,43002,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,293,PHI
+shot,4:55,1787182733000,2,9,P2,"2PtsFG under the basket, layup made",122.0,323169.0,68,44000,Q1,135069,True,2.0,151.0,37.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Restricted Area,1.1,Less Than 8 ft.,305,PHI
+unknwown,4:55,1787182735000,2,9,ASS,made the assist,122.0,342735.0,69,44001,Q1,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,305,PHI
+unknwown,4:24,1787182768000,2,9,TO,turnover; ball handling,34.0,318775.0,71,46000,Q1,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution out,34.0,172742.0,73,48000,Q1,135069,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution out,34.0,318775.0,74,49000,Q1,135069,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution out,34.0,161433.0,75,50000,Q1,135069,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution in,34.0,217051.0,77,52000,Q1,135069,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution in,34.0,266912.0,78,53000,Q1,135069,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q1,,,,336,CAN
+subst,4:24,1787182787000,2,9,SUBST,Substitution in,34.0,250669.0,79,54000,Q1,135069,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q1,,,,336,CAN
+shot,4:07,1787182828000,2,9,P2,2pt jump shot missed,122.0,323171.0,81,56000,Q1,135069,False,2.0,143.0,78.0,,,122.0,Louna Ozar,Philippines,9.0,Q1,In The Paint (Non-RA),3.8,Less Than 8 ft.,353,PHI
+unknwown,4:03,1787182832000,2,9,REB,defensive rebound,34.0,266912.0,82,56002,Q1,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,357,CAN
+shot,3:48,1787182848000,2,11,P2,"2PtsFG under the basket, layup made",34.0,250669.0,84,58000,Q1,135069,True,2.0,145.0,36.0,,,34.0,Faith Dut,Canada,25.0,Q1,Restricted Area,0.6,Less Than 8 ft.,372,CAN
+unknwown,3:48,1787182848000,2,11,ASS,made the assist,34.0,217051.0,85,58001,Q1,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,372,CAN
+unknwown,3:48,1787182854000,2,11,FOUL,Personal foul; 1 free throw awarded,122.0,323171.0,86,59000,Q1,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,372,PHI
+unknwown,3:48,1787182854000,2,11,RFOUL,foul drawn,34.0,250669.0,87,59002,Q1,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,372,CAN
+subst,3:48,1787182864000,2,11,SUBST,Substitution out,34.0,188714.0,88,60000,Q1,135069,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q1,,,,372,CAN
+subst,3:48,1787182864000,2,11,SUBST,Substitution in,34.0,297698.0,89,61000,Q1,135069,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q1,,,,372,CAN
+subst,3:48,1787182873000,2,11,SUBST,Substitution out,122.0,323171.0,90,62000,Q1,135069,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q1,,,,372,PHI
+subst,3:48,1787182873000,2,11,SUBST,Substitution in,122.0,398175.0,91,63000,Q1,135069,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,372,PHI
+shot,3:48,1787182886000,2,11,FT,1st free throw missed,34.0,250669.0,92,64000,Q1,135069,False,1.0,0.0,0.0,,,34.0,Faith Dut,Canada,25.0,Q1,,14.6,8-16 ft.,372,CAN
+unknwown,3:48,1787182887000,2,11,REB,defensive rebound,122.0,342735.0,94,64002,Q1,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,372,PHI
+shot,3:43,1787182895000,4,11,P2,"2PtsFG under the basket, fast break, layup made",122.0,220090.0,95,66000,Q1,135069,True,2.0,153.0,37.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.3,Less Than 8 ft.,377,PHI
+unknwown,3:43,1787182893000,4,11,ASS,made the assist,122.0,339158.0,96,66001,Q1,135069,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,377,PHI
+shot,3:20,1787182919000,4,13,P2,"2PtsFG under the basket, layup made",34.0,250669.0,98,68000,Q1,135069,True,2.0,143.0,33.0,,,34.0,Faith Dut,Canada,25.0,Q1,Restricted Area,0.8,Less Than 8 ft.,400,CAN
+unknwown,3:20,1787182919000,4,13,ASS,made the assist,34.0,320676.0,99,68001,Q1,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,400,CAN
+unknwown,3:20,1787182927000,4,13,FOUL,Personal foul; 1 free throw awarded,122.0,323169.0,100,69000,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,400,PHI
+unknwown,3:20,1787182927000,4,13,RFOUL,foul drawn,34.0,250669.0,101,69002,Q1,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,400,CAN
+shot,3:20,1787182939000,4,14,FT,1st free throw made,34.0,250669.0,102,70000,Q1,135069,True,1.0,0.0,0.0,,,34.0,Faith Dut,Canada,25.0,Q1,,14.6,8-16 ft.,400,CAN
+shot,3:02,1787182962000,4,14,P2,"2PtsFG under the basket, driving layup missed",122.0,342735.0,104,72000,Q1,135069,False,2.0,134.0,40.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Restricted Area,0.6,Less Than 8 ft.,418,PHI
+unknwown,2:58,1787182965000,4,14,REB,defensive rebound,34.0,266912.0,105,72002,Q1,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,422,CAN
+shot,2:45,1787182979000,4,14,P2,2pt jump shot missed,34.0,217051.0,106,73000,Q1,135069,False,2.0,118.0,83.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,In The Paint (Non-RA),4.8,Less Than 8 ft.,435,CAN
+unknwown,2:40,1787182983000,4,14,REB,offensive rebound,34.0,266912.0,107,73002,Q1,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,440,CAN
+shot,2:39,1787182985000,4,14,P2,2pt pullup jump shot missed,34.0,266912.0,108,74000,Q1,135069,False,2.0,109.0,47.0,,,34.0,Tara Wallack,Canada,8.0,Q1,In The Paint (Non-RA),3.2,Less Than 8 ft.,441,CAN
+unknwown,2:35,1787182988000,4,14,REB,offensive rebound,34.0,250669.0,109,74002,Q1,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,445,CAN
+shot,2:35,1787182990000,4,16,P2,"2PtsFG under the basket, layup made",34.0,250669.0,111,75000,Q1,135069,True,2.0,148.0,39.0,,,34.0,Faith Dut,Canada,25.0,Q1,Restricted Area,0.8,Less Than 8 ft.,445,CAN
+shot,2:25,1787183000000,4,16,P2,"2PtsFG inside center, jump shot missed",122.0,220090.0,114,78000,Q1,135069,False,2.0,175.0,106.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Mid-Range,7.5,Less Than 8 ft.,455,PHI
+unknwown,2:23,1787183003000,4,16,REB,defensive rebound,34.0,217051.0,115,78002,Q1,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,457,CAN
+shot,2:08,1787183018000,4,16,P3,3pt jump shot missed,34.0,297698.0,116,79000,Q1,135069,False,3.0,210.0,154.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Above the Break 3,13.4,8-16 ft.,472,CAN
+unknwown,2:05,1787183021000,4,16,REB,defensive rebound,122.0,323169.0,117,79002,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,475,PHI
+unknwown,1:54,1787183045000,4,16,FOUL,Offensive foul,122.0,323169.0,121,82000,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,486,PHI
+unknwown,1:54,1787183045000,4,16,TO,turnover,122.0,323169.0,123,82001,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,486,PHI
+unknwown,1:54,1787183047000,4,16,RFOUL,foul drawn,34.0,217051.0,122,82002,Q1,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,486,CAN
+subst,1:53,1787183068000,4,16,SUBST,Substitution out,122.0,220090.0,125,84000,Q1,135069,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q1,,,,487,PHI
+subst,1:53,1787183068000,4,16,SUBST,Substitution in,122.0,220085.0,126,85000,Q1,135069,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,487,PHI
+shot,1:45,1787183076000,4,16,P3,3pt jump shot missed,34.0,297698.0,128,87000,Q1,135069,False,3.0,59.0,162.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Above the Break 3,14.6,8-16 ft.,495,CAN
+unknwown,1:45,1787183083000,4,16,REB,offensive rebound,34.0,266912.0,129,87002,Q1,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,495,CAN
+shot,1:45,1787183084000,4,18,P2,layup made,34.0,266912.0,130,88000,Q1,135069,True,2.0,121.0,48.0,,,34.0,Tara Wallack,Canada,8.0,Q1,Restricted Area,2.1,Less Than 8 ft.,495,CAN
+shot,1:25,1787183092000,4,18,P3,3pt jump shot missed,122.0,323169.0,131,89000,Q1,135069,False,3.0,211.0,153.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Above the Break 3,13.3,8-16 ft.,515,PHI
+unknwown,1:25,1787183094000,4,18,REB,defensive rebound,34.0,297698.0,132,89002,Q1,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,515,CAN
+unknwown,1:16,1787183127000,4,18,FOUL,Personal foul; 2 free throws awarded,122.0,220085.0,134,91000,Q1,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,524,PHI
+unknwown,1:16,1787183127000,4,18,RFOUL,foul drawn,34.0,217051.0,135,91002,Q1,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,524,CAN
+subst,1:06,1787189783000,4,18,SUBST,Substitution out,122.0,342735.0,137,93000,Q1,135069,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,534,PHI
+subst,1:06,1787189783000,4,18,SUBST,Substitution in,122.0,365085.0,138,94000,Q1,135069,,,,,,IN,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q1,,,,534,PHI
+subst,0:55,1787183160000,4,18,SUBST,Substitution out,34.0,320676.0,139,95000,Q1,135069,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q1,,,,545,CAN
+subst,0:55,1787183160000,4,18,SUBST,Substitution in,34.0,369879.0,140,96000,Q1,135069,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q1,,,,545,CAN
+shot,0:55,1787183164000,4,19,FT,1st of 2 free throws made,34.0,217051.0,141,97000,Q1,135069,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,,14.6,8-16 ft.,545,CAN
+unknwown,0:55,1787183164000,4,19,ASS,made the assist,34.0,297698.0,778,97001,Q1,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,545,CAN
+shot,0:55,1787183165000,4,20,FT,2nd of 2 free throws made,34.0,217051.0,142,98000,Q1,135069,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,,14.6,8-16 ft.,545,CAN
+subst,0:55,1787183174000,4,20,SUBST,Substitution out,122.0,339158.0,143,99000,Q1,135069,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,545,PHI
+subst,0:55,1787183174000,4,20,SUBST,Substitution in,122.0,394258.0,144,100000,Q1,135069,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,,,,545,PHI
+shot,0:53,1787183175000,4,20,P2,layup missed,122.0,323169.0,146,102000,Q1,135069,False,2.0,156.0,64.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,547,PHI
+unknwown,0:50,1787183178000,4,20,REB,defensive rebound,34.0,297698.0,147,102002,Q1,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,550,CAN
+shot,0:48,1787183181000,4,20,P2,2pt jump shot missed,34.0,369879.0,148,103000,Q1,135069,False,2.0,136.0,69.0,,,34.0,Agot Makeer,Canada,1.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,552,CAN
+unknwown,0:44,1787183185000,4,20,REB,offensive rebound,34.0,266912.0,149,103002,Q1,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,556,CAN
+shot,0:32,1787183197000,4,20,P2,2pt floating jump shot missed,34.0,297698.0,150,104000,Q1,135069,False,2.0,140.0,88.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,In The Paint (Non-RA),4.8,Less Than 8 ft.,568,CAN
+unknwown,0:29,1787183199000,4,20,REB,offensive rebound,34.0,297698.0,151,104002,Q1,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,571,CAN
+shot,0:27,1787183204000,4,20,P3,3pt jump shot missed,34.0,297698.0,153,106000,Q1,135069,False,3.0,168.0,161.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Above the Break 3,12.4,8-16 ft.,573,CAN
+unknwown,0:27,1787183204000,4,20,BS,blocked the shot,122.0,323169.0,779,106001,Q1,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,573,PHI
+unknwown,0:27,1787183206000,4,20,REB,offensive rebound,34.0,297698.0,154,106002,Q1,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,573,CAN
+shot,0:26,1787183208000,4,23,P3,3pt jump shot made,34.0,369879.0,156,108000,Q1,135069,True,3.0,34.0,138.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Above the Break 3,14.4,8-16 ft.,574,CAN
+unknwown,0:26,1787183208000,4,23,ASS,made the assist,34.0,250669.0,157,108001,Q1,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,574,CAN
+shot,0:05,1787183229000,4,23,P2,2pt jump shot missed,122.0,220085.0,158,109000,Q1,135069,False,2.0,161.0,60.0,,,122.0,Afril Bernardino,Philippines,3.0,Q1,In The Paint (Non-RA),2.9,Less Than 8 ft.,595,PHI
+unknwown,0:02,1787183231000,4,23,REB,defensive rebound,34.0,250669.0,159,109002,Q1,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,598,CAN
+periods,0:00,1787183345000,4,23,ENDP,End of period,,,165,115000,Q1,135069,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787183370000,4,23,SUBST,Substitution out,34.0,250669.0,166,116000,Q2,135069,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q2,,,,600,CAN
+subst,10:00,1787183370000,4,23,SUBST,Substitution in,34.0,368225.0,167,117000,Q2,135069,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q2,,,,600,CAN
+periods,10:00,1787183373000,4,23,STARTP,Start of period,,,168,118000,Q2,135069,,,,,,,,,,,Q2,,,,600,
+unknwown,9:49,1787183390000,4,23,FOUL,Personal foul,122.0,323169.0,173,123000,Q2,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,611,PHI
+unknwown,9:49,1787183390000,4,23,RFOUL,foul drawn,34.0,297698.0,174,123002,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,611,CAN
+subst,9:49,1787183401000,4,23,SUBST,Substitution out,122.0,323169.0,175,124000,Q2,135069,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,611,PHI
+subst,9:49,1787183401000,4,23,SUBST,Substitution in,122.0,220090.0,176,125000,Q2,135069,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q2,,,,611,PHI
+unknwown,9:49,1787183415000,4,23,FOUL,Personal foul,122.0,220085.0,177,126000,Q2,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,611,PHI
+unknwown,9:49,1787183415000,4,23,RFOUL,foul drawn,34.0,297698.0,178,126002,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,611,CAN
+shot,9:37,1787183469000,4,23,P3,3pt jump shot missed,34.0,297698.0,182,130000,Q2,135069,False,3.0,268.0,33.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Left Corner 3,12.8,8-16 ft.,623,CAN
+unknwown,9:34,1787183469000,4,23,REB,defensive rebound,122.0,220090.0,183,130002,Q2,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,626,PHI
+shot,9:28,1787183478000,6,23,P2,"2PtsFG under the basket, fast break, driving layup made",122.0,220090.0,184,131000,Q2,135069,True,2.0,157.0,30.0,,,122.0,Jack Animam,Philippines,10.0,Q2,Restricted Area,2.0,Less Than 8 ft.,632,PHI
+unknwown,9:05,1787183501000,6,23,JS,jump ball situation; throw-in,122.0,,186,133000,Q2,135069,,,,,,,,,,,Q2,,,,655,
+unknwown,9:05,1787183504000,6,23,TO,turnover; ball handling,34.0,368225.0,187,134000,Q2,135069,,,,,,,34.0,Avery Howell,Canada,23.0,Q2,,,,655,CAN
+unknwown,9:05,1787183504000,6,23,ST,steal,122.0,220090.0,188,134001,Q2,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,655,PHI
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,122.0,365085.0,189,135000,Q2,135069,,,,,,OUT,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q2,,,,655,PHI
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,122.0,342735.0,190,136000,Q2,135069,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,655,PHI
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,34.0,369879.0,191,137000,Q2,135069,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,34.0,297698.0,192,138000,Q2,135069,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,34.0,217051.0,193,139000,Q2,135069,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,34.0,266912.0,194,140000,Q2,135069,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution out,34.0,368225.0,195,141000,Q2,135069,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,34.0,188714.0,196,142000,Q2,135069,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,34.0,172742.0,197,143000,Q2,135069,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,34.0,318775.0,198,144000,Q2,135069,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,34.0,320676.0,199,145000,Q2,135069,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q2,,,,655,CAN
+subst,9:05,1787183520000,6,23,SUBST,Substitution in,34.0,161433.0,200,146000,Q2,135069,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q2,,,,655,CAN
+subst,9:05,1787183540000,6,23,SUBST,Substitution out,122.0,394258.0,201,147000,Q2,135069,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,655,PHI
+subst,9:05,1787183540000,6,23,SUBST,Substitution in,122.0,323171.0,202,148000,Q2,135069,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q2,,,,655,PHI
+unknwown,8:55,1787183561000,6,23,TO,turnover; out of bounds,122.0,342735.0,207,153000,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,665,PHI
+shot,8:49,1787183574000,6,25,P2,"2PtsFG under the basket, points after turnover, layup made",34.0,172742.0,209,155000,Q2,135069,True,2.0,127.0,26.0,,,34.0,Yvonne Ejim,Canada,9.0,Q2,Restricted Area,1.9,Less Than 8 ft.,671,CAN
+unknwown,8:49,1787183574000,6,25,ASS,made the assist,34.0,161433.0,210,155001,Q2,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,671,CAN
+unknwown,8:35,1787183594000,6,25,TO,turnover; bad pass,122.0,342735.0,212,157000,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,685,PHI
+shot,8:21,1787183623000,6,27,P2,"2PtsFG under the basket, points after turnover, layup made",34.0,161433.0,214,159000,Q2,135069,True,2.0,132.0,32.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Restricted Area,1.1,Less Than 8 ft.,699,CAN
+unknwown,8:21,1787183623000,6,27,ASS,made the assist,34.0,320676.0,215,159001,Q2,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,699,CAN
+shot,8:08,1787183636000,6,27,P2,"2PtsFG under the basket, driving layup missed",122.0,220090.0,216,160000,Q2,135069,False,2.0,153.0,34.0,,,122.0,Jack Animam,Philippines,10.0,Q2,Restricted Area,1.4,Less Than 8 ft.,712,PHI
+unknwown,8:05,1787183638000,6,27,REB,defensive rebound,34.0,172742.0,217,160002,Q2,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,715,CAN
+shot,7:57,1787183647000,6,29,P2,"2PtsFG under the basket, layup made",34.0,161433.0,218,161000,Q2,135069,True,2.0,142.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Restricted Area,0.5,Less Than 8 ft.,723,CAN
+unknwown,7:57,1787183647000,6,29,ASS,made the assist,34.0,318775.0,220,161001,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,723,CAN
+timeout,7:57,1787183657000,6,29,TIMO,Timeout,122.0,,222,164000,Q2,135069,,,,,,,,,,,Q2,,,,723,
+unknwown,7:33,1787183771000,6,29,TO,turnover; bad pass,122.0,220085.0,224,166000,Q2,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,747,PHI
+unknwown,7:33,1787183771000,6,29,ST,steal,34.0,172742.0,225,166001,Q2,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,747,CAN
+shot,7:28,1787183776000,6,32,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot made",34.0,320676.0,226,167000,Q2,135069,True,3.0,27.0,140.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,15.1,8-16 ft.,752,CAN
+unknwown,7:28,1787183776000,6,32,ASS,made the assist,34.0,318775.0,227,167001,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,752,CAN
+unknwown,7:16,1787183788000,6,32,TO,turnover; bad pass,122.0,398175.0,228,168000,Q2,135069,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,764,PHI
+unknwown,7:16,1787183788000,6,32,ST,steal,34.0,318775.0,229,168001,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,764,CAN
+shot,7:11,1787183793000,6,32,P2,"2PtsFG inside paint, points from fastbreak + after turnover, jump shot missed",34.0,318775.0,230,169000,Q2,135069,False,2.0,158.0,66.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,In The Paint (Non-RA),3.2,Less Than 8 ft.,769,CAN
+unknwown,7:06,1787183797000,6,32,REB,defensive rebound,122.0,398175.0,231,169002,Q2,135069,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,774,PHI
+unknwown,7:06,1787183806000,6,32,FOUL,Personal foul,34.0,188714.0,233,171000,Q2,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q2,,,,774,CAN
+unknwown,7:06,1787183806000,6,32,RFOUL,foul drawn,122.0,220090.0,234,171002,Q2,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,774,PHI
+unknwown,6:57,1787183831000,6,32,TO,turnover; bad pass,122.0,323171.0,236,173000,Q2,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,783,PHI
+unknwown,6:57,1787183833000,6,32,ST,steal,34.0,172742.0,237,173001,Q2,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,783,CAN
+shot,6:42,1787183847000,6,32,P3,3pt jump shot missed,34.0,318775.0,238,174000,Q2,135069,False,3.0,261.0,100.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Above the Break 3,13.5,8-16 ft.,798,CAN
+unknwown,6:39,1787183849000,6,32,REB,defensive rebound,122.0,398175.0,239,174002,Q2,135069,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,801,PHI
+shot,6:28,1787183861000,6,32,P2,"2PtsFG under the basket, floating jump shot missed",122.0,342735.0,240,175000,Q2,135069,False,2.0,133.0,37.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,Restricted Area,0.8,Less Than 8 ft.,812,PHI
+unknwown,6:25,1787183863000,6,32,REB,defensive rebound,34.0,318775.0,241,175002,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,815,CAN
+shot,6:19,1787183870000,6,35,P3,3pt jump shot made,34.0,320676.0,242,176000,Q2,135069,True,3.0,239.0,135.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,13.7,8-16 ft.,821,CAN
+unknwown,6:19,1787183870000,6,35,ASS,made the assist,34.0,318775.0,243,176001,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,821,CAN
+shot,5:58,1787183891000,8,35,P2,2pt floating jump shot made,122.0,323171.0,244,177000,Q2,135069,True,2.0,107.0,30.0,,,122.0,Louna Ozar,Philippines,9.0,Q2,In The Paint (Non-RA),3.4,Less Than 8 ft.,842,PHI
+unknwown,5:58,1787183891000,8,35,ASS,made the assist,122.0,220090.0,245,177001,Q2,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,842,PHI
+unknwown,5:45,1787183912000,8,35,FOUL,Personal foul,122.0,342735.0,249,181000,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,855,PHI
+unknwown,5:45,1787183914000,8,35,RFOUL,foul drawn,34.0,318775.0,250,181002,Q2,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,855,CAN
+shot,5:38,1787183935000,8,35,P2,2pt jump shot missed,34.0,172742.0,252,183000,Q2,135069,False,2.0,122.0,48.0,,,34.0,Yvonne Ejim,Canada,9.0,Q2,Restricted Area,2.0,Less Than 8 ft.,862,CAN
+unknwown,5:35,1787183937000,8,35,REB,offensive rebound,34.0,172742.0,253,183002,Q2,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,865,CAN
+shot,5:34,1787183939000,8,37,P2,"2PtsFG under the basket, layup made",34.0,172742.0,254,184000,Q2,135069,True,2.0,123.0,30.0,,,34.0,Yvonne Ejim,Canada,9.0,Q2,Restricted Area,2.0,Less Than 8 ft.,866,CAN
+shot,5:14,1787183959000,10,37,P2,"2PtsFG under the basket, turnaround jump shot made",122.0,220090.0,255,185000,Q2,135069,True,2.0,158.0,33.0,,,122.0,Jack Animam,Philippines,10.0,Q2,Restricted Area,1.9,Less Than 8 ft.,886,PHI
+unknwown,4:58,1787183977000,10,37,TO,turnover; bad pass,34.0,172742.0,260,189000,Q2,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution out,122.0,398175.0,261,190000,Q2,135069,,,,,,OUT,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,902,PHI
+subst,4:58,1787183992000,10,37,SUBST,Substitution in,122.0,339158.0,262,191000,Q2,135069,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,902,PHI
+subst,4:58,1787183992000,10,37,SUBST,Substitution out,34.0,188714.0,263,192000,Q2,135069,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution out,34.0,172742.0,264,193000,Q2,135069,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution out,34.0,161433.0,265,194000,Q2,135069,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution in,34.0,297698.0,266,195000,Q2,135069,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution in,34.0,266912.0,267,196000,Q2,135069,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q2,,,,902,CAN
+subst,4:58,1787183992000,10,37,SUBST,Substitution in,34.0,250669.0,268,197000,Q2,135069,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q2,,,,902,CAN
+unknwown,4:46,1787184012000,10,37,FOUL,Personal foul,34.0,297698.0,273,202000,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,914,CAN
+unknwown,4:46,1787184012000,10,37,RFOUL,foul drawn,122.0,342735.0,274,202002,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,914,PHI
+subst,4:46,1787184019000,10,37,SUBST,Substitution out,122.0,220090.0,275,203000,Q2,135069,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q2,,,,914,PHI
+subst,4:46,1787184019000,10,37,SUBST,Substitution in,122.0,323169.0,276,204000,Q2,135069,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,914,PHI
+shot,4:37,1787184039000,10,37,P3,3pt jump shot missed,122.0,339158.0,278,206000,Q2,135069,False,3.0,238.0,152.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Above the Break 3,14.9,8-16 ft.,923,PHI
+unknwown,4:35,1787184041000,10,37,REB,defensive rebound,34.0,297698.0,279,206002,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,925,CAN
+shot,4:21,1787184055000,10,37,P2,"2PtsFG under the basket, alley oop lay-up missed",34.0,250669.0,280,207000,Q2,135069,False,2.0,145.0,47.0,,,34.0,Faith Dut,Canada,25.0,Q2,Restricted Area,0.9,Less Than 8 ft.,939,CAN
+unknwown,4:17,1787184067000,10,37,TREB,team defensive rebound,122.0,,282,207002,Q2,135069,,,,,,,,,,,Q2,,,,943,
+shot,4:00,1787184105000,10,37,P3,3pt jump shot missed,122.0,323171.0,286,212000,Q2,135069,False,3.0,274.0,49.0,,,122.0,Louna Ozar,Philippines,9.0,Q2,Left Corner 3,13.4,8-16 ft.,960,PHI
+unknwown,3:56,1787184108000,10,37,REB,defensive rebound,34.0,266912.0,287,212002,Q2,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q2,,,,964,CAN
+shot,3:51,1787184113000,10,40,P3,3pt jump shot made,34.0,320676.0,288,213000,Q2,135069,True,3.0,11.0,81.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,13.5,8-16 ft.,969,CAN
+unknwown,3:51,1787184113000,10,40,ASS,made the assist,34.0,297698.0,289,213001,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,969,CAN
+unknwown,3:34,1787184134000,10,40,FOUL,Personal foul; 2 free throws awarded,34.0,320676.0,291,215000,Q2,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,986,CAN
+unknwown,3:34,1787184134000,10,40,RFOUL,foul drawn,122.0,323169.0,292,215002,Q2,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,986,PHI
+subst,3:34,1787184145000,10,40,SUBST,Substitution out,122.0,220085.0,293,216000,Q2,135069,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,986,PHI
+subst,3:34,1787184145000,10,40,SUBST,Substitution in,122.0,303016.0,294,217000,Q2,135069,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q2,,,,986,PHI
+shot,3:34,1787184160000,10,40,FT,1st of 2 free throws missed,122.0,323169.0,295,218000,Q2,135069,False,1.0,0.0,0.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,14.6,8-16 ft.,986,PHI
+shot,3:34,1787184172000,11,40,FT,2nd of 2 free throws made,122.0,323169.0,296,219000,Q2,135069,True,1.0,0.0,0.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,14.6,8-16 ft.,986,PHI
+unknwown,3:34,1787184174000,11,40,ASS,made the assist,122.0,342735.0,780,219001,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,986,PHI
+unknwown,3:19,1787184193000,11,40,TO,turnover; out of bounds,34.0,320676.0,299,222000,Q2,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,1001,CAN
+subst,3:19,1787184207000,11,40,SUBST,Substitution out,34.0,266912.0,300,223000,Q2,135069,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q2,,,,1001,CAN
+subst,3:19,1787184207000,11,40,SUBST,Substitution out,34.0,318775.0,301,224000,Q2,135069,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,1001,CAN
+subst,3:19,1787184207000,11,40,SUBST,Substitution in,34.0,217051.0,302,225000,Q2,135069,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1001,CAN
+subst,3:19,1787184207000,11,40,SUBST,Substitution in,34.0,342479.0,303,226000,Q2,135069,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1001,CAN
+shot,3:08,1787184225000,11,40,P2,"2PtsFG inside right, points after turnover, jump shot missed",122.0,323169.0,305,228000,Q2,135069,False,2.0,193.0,107.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Mid-Range,8.5,8-16 ft.,1012,PHI
+unknwown,3:05,1787184228000,11,40,REB,defensive rebound,34.0,250669.0,306,228002,Q2,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q2,,,,1015,CAN
+shot,2:55,1787184238000,11,40,P2,"2PtsFG inside right, jump shot missed",34.0,250669.0,307,229000,Q2,135069,False,2.0,209.0,50.0,,,34.0,Faith Dut,Canada,25.0,Q2,Mid-Range,7.0,Less Than 8 ft.,1025,CAN
+unknwown,2:52,1787184240000,11,40,REB,offensive rebound,34.0,217051.0,308,229002,Q2,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1028,CAN
+shot,2:48,1787184245000,11,40,P2,"2PtsFG inside left, jump shot missed",34.0,217051.0,309,230000,Q2,135069,False,2.0,40.0,55.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Mid-Range,10.1,8-16 ft.,1032,CAN
+unknwown,2:44,1787184248000,11,40,REB,defensive rebound,122.0,303016.0,310,230002,Q2,135069,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1036,PHI
+unknwown,2:40,1787184254000,11,40,TO,turnover; ball handling,122.0,342735.0,311,231000,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1040,PHI
+unknwown,2:40,1787184256000,11,40,ST,steal,34.0,342479.0,312,231001,Q2,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1040,CAN
+shot,2:34,1787184259000,11,42,P2,"2PtsFG inside paint, points from fastbreak + after turnover, driving layup made",34.0,217051.0,313,232000,Q2,135069,True,2.0,109.0,55.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,In The Paint (Non-RA),3.4,Less Than 8 ft.,1046,CAN
+shot,2:21,1787184274000,11,42,P3,3pt jump shot missed,122.0,339158.0,314,233000,Q2,135069,False,3.0,203.0,155.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,Above the Break 3,13.1,8-16 ft.,1059,PHI
+unknwown,2:21,1787184274000,11,42,BS,blocked the shot,34.0,342479.0,781,233001,Q2,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1059,CAN
+unknwown,2:21,1787184277000,11,42,REB,defensive rebound,34.0,217051.0,315,233002,Q2,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1059,CAN
+shot,2:14,1787184280000,11,42,P2,"2PtsFG inside left, jump shot missed",34.0,297698.0,316,234000,Q2,135069,False,2.0,68.0,100.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Mid-Range,9.4,8-16 ft.,1066,CAN
+unknwown,2:10,1787184283000,11,42,REB,offensive rebound,34.0,342479.0,317,234002,Q2,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1070,CAN
+shot,2:09,1787184284000,11,44,P2,"2PtsFG under the basket, layup made",34.0,342479.0,318,235000,Q2,135069,True,2.0,125.0,41.0,,,34.0,Cearah Parchment,Canada,30.0,Q2,Restricted Area,1.5,Less Than 8 ft.,1071,CAN
+unknwown,1:53,1787184300000,11,44,TO,turnover; bad pass,122.0,339158.0,319,236000,Q2,135069,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,1087,PHI
+unknwown,1:53,1787184302000,11,44,ST,steal,34.0,320676.0,320,236001,Q2,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,1087,CAN
+shot,1:48,1787184305000,11,46,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,217051.0,321,237000,Q2,135069,True,2.0,117.0,25.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Restricted Area,2.7,Less Than 8 ft.,1092,CAN
+shot,1:26,1787184327000,11,46,P2,2pt jump shot missed,122.0,342735.0,322,238000,Q2,135069,False,2.0,112.0,46.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,In The Paint (Non-RA),2.9,Less Than 8 ft.,1114,PHI
+unknwown,1:26,1787184329000,11,46,BS,blocked the shot,34.0,297698.0,323,238001,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,1114,CAN
+unknwown,1:19,1787184335000,11,46,REB,defensive rebound,34.0,342479.0,324,238002,Q2,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1121,CAN
+shot,1:14,1787184339000,11,46,P3,3pt jump shot missed,34.0,297698.0,325,239000,Q2,135069,False,3.0,49.0,151.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Above the Break 3,14.4,8-16 ft.,1126,CAN
+unknwown,1:11,1787184341000,11,46,REB,defensive rebound,122.0,342735.0,326,239002,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1129,PHI
+unknwown,1:08,1787184345000,11,46,TO,turnover; bad pass,122.0,342735.0,327,240000,Q2,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1132,PHI
+unknwown,1:08,1787184345000,11,46,ST,steal,34.0,320676.0,328,240001,Q2,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,1132,CAN
+shot,0:52,1787184361000,11,46,P3,3pt jump shot missed,34.0,320676.0,329,241000,Q2,135069,False,3.0,245.0,129.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,13.8,8-16 ft.,1148,CAN
+unknwown,0:49,1787184363000,11,46,REB,defensive rebound,122.0,323171.0,330,241002,Q2,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1151,PHI
+unknwown,0:46,1787184371000,11,46,TO,turnover; bad pass,122.0,323171.0,334,245000,Q2,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1154,PHI
+subst,0:46,1787184389000,11,46,SUBST,Substitution out,122.0,342735.0,335,246000,Q2,135069,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1154,PHI
+subst,0:46,1787184389000,11,46,SUBST,Substitution out,122.0,323171.0,336,247000,Q2,135069,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1154,PHI
+subst,0:46,1787184389000,11,46,SUBST,Substitution in,122.0,394258.0,337,248000,Q2,135069,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,1154,PHI
+subst,0:46,1787184389000,11,46,SUBST,Substitution in,122.0,342751.0,338,249000,Q2,135069,,,,,,IN,122.0,Monique Allison Del Carmen,Philippines,22.0,Q2,,,,1154,PHI
+subst,0:46,1787184389000,11,46,SUBST,Substitution out,34.0,320676.0,339,250000,Q2,135069,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q2,,,,1154,CAN
+subst,0:46,1787184389000,11,46,SUBST,Substitution out,34.0,250669.0,340,251000,Q2,135069,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q2,,,,1154,CAN
+subst,0:46,1787184389000,11,46,SUBST,Substitution in,34.0,369879.0,341,252000,Q2,135069,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q2,,,,1154,CAN
+subst,0:46,1787184389000,11,46,SUBST,Substitution in,34.0,266912.0,342,253000,Q2,135069,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q2,,,,1154,CAN
+shot,0:39,1787184399000,11,46,P3,3pt jump shot missed,34.0,217051.0,344,255000,Q2,135069,False,3.0,23.0,118.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Above the Break 3,14.1,8-16 ft.,1161,CAN
+unknwown,0:36,1787184401000,11,46,REB,defensive rebound,122.0,394258.0,345,255002,Q2,135069,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,1164,PHI
+shot,0:20,1787184417000,11,46,P3,3pt jump shot from center missed,122.0,323169.0,346,256000,Q2,135069,False,3.0,189.0,163.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Above the Break 3,13.2,8-16 ft.,1180,PHI
+unknwown,0:18,1787184419000,11,46,REB,defensive rebound,34.0,297698.0,347,256002,Q2,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,1182,CAN
+shot,0:00,1787184472000,11,46,P3,3pt jump shot from center missed,34.0,342479.0,352,256500,Q2,135069,False,3.0,149.0,172.0,,,34.0,Cearah Parchment,Canada,30.0,Q2,Above the Break 3,13.2,8-16 ft.,1200,CAN
+periods,0:00,1787184591000,11,46,ENDP,End of period,,,353,261000,Q2,135069,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,122.0,394258.0,354,262000,Q3,135069,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,122.0,303016.0,355,263000,Q3,135069,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,122.0,342751.0,356,264000,Q3,135069,,,,,,OUT,122.0,Monique Allison Del Carmen,Philippines,22.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,122.0,342735.0,357,265000,Q3,135069,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,122.0,323171.0,358,266000,Q3,135069,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,122.0,220090.0,359,267000,Q3,135069,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q3,,,,1200,PHI
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,34.0,369879.0,360,268000,Q3,135069,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,34.0,297698.0,361,269000,Q3,135069,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,34.0,217051.0,362,270000,Q3,135069,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,34.0,266912.0,363,271000,Q3,135069,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution out,34.0,342479.0,364,272000,Q3,135069,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,34.0,188714.0,365,273000,Q3,135069,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,34.0,172742.0,366,274000,Q3,135069,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,34.0,318775.0,367,275000,Q3,135069,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,34.0,320676.0,368,276000,Q3,135069,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q3,,,,1200,CAN
+subst,10:00,1787185334000,11,46,SUBST,Substitution in,34.0,161433.0,369,277000,Q3,135069,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1200,CAN
+periods,10:00,1787185339000,11,46,STARTP,Start of period,,,370,278000,Q3,135069,,,,,,,,,,,Q3,,,,1200,
+shot,9:49,1787185350000,11,46,P3,3pt jump shot from center missed,34.0,320676.0,372,280000,Q3,135069,False,3.0,145.0,179.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.9,8-16 ft.,1211,CAN
+unknwown,9:46,1787185353000,11,46,REB,defensive rebound,122.0,323169.0,373,280002,Q3,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1214,PHI
+shot,9:32,1787185368000,11,46,P3,3pt jump shot missed,122.0,339158.0,376,283000,Q3,135069,False,3.0,271.0,24.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Left Corner 3,13.2,8-16 ft.,1228,PHI
+unknwown,9:29,1787185371000,11,46,REB,offensive rebound,122.0,342735.0,378,283002,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1231,PHI
+unknwown,9:28,1787185381000,11,46,FOUL,Personal foul; 2 free throws awarded,34.0,318775.0,381,287000,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1232,CAN
+unknwown,9:28,1787185381000,11,46,RFOUL,foul drawn,122.0,342735.0,382,287002,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1232,PHI
+shot,9:28,1787185419000,12,46,FT,1st of 2 free throws made,122.0,342735.0,383,288000,Q3,135069,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,14.6,8-16 ft.,1232,PHI
+shot,9:28,1787185431000,12,46,FT,2nd of 2 free throws missed,122.0,342735.0,384,289000,Q3,135069,False,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,14.6,8-16 ft.,1232,PHI
+unknwown,9:28,1787185432000,12,46,REB,offensive rebound,122.0,323169.0,386,289002,Q3,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1232,PHI
+shot,9:17,1787185443000,12,46,P2,2pt pullup jump shot missed,122.0,323169.0,387,291000,Q3,135069,False,2.0,169.0,100.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,In The Paint (Non-RA),6.7,Less Than 8 ft.,1243,PHI
+unknwown,9:09,1787185463000,12,46,REB,offensive rebound,122.0,220090.0,392,291002,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1251,PHI
+unknwown,9:09,1787185461000,12,46,JS,jump ball situation; throw-in,122.0,,391,295000,Q3,135069,,,,,,,,,,,Q3,,,,1251,
+shot,9:03,1787185508000,14,46,P2,"2PtsFG inside right, jump shot made",122.0,323169.0,394,297000,Q3,135069,True,2.0,193.0,98.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,Mid-Range,7.9,Less Than 8 ft.,1257,PHI
+unknwown,9:03,1787185508000,14,46,ASS,made the assist,122.0,339158.0,395,297001,Q3,135069,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1257,PHI
+shot,8:44,1787185527000,14,49,P3,3pt jump shot from center made,34.0,318775.0,396,298000,Q3,135069,True,3.0,140.0,179.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Above the Break 3,13.9,8-16 ft.,1276,CAN
+unknwown,8:44,1787185527000,14,49,ASS,made the assist,34.0,188714.0,397,298001,Q3,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1276,CAN
+shot,8:29,1787185542000,16,49,P2,"2PtsFG under the basket, driving layup made",122.0,342735.0,398,299000,Q3,135069,True,2.0,149.0,31.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1291,PHI
+unknwown,8:29,1787185544000,16,49,ASS,made the assist,122.0,323169.0,782,299001,Q3,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1291,PHI
+unknwown,8:16,1787185555000,16,49,TO,turnover; bad pass,34.0,318775.0,399,300000,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1304,CAN
+unknwown,8:16,1787185557000,16,49,ST,steal,122.0,220090.0,400,300001,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1304,PHI
+shot,8:08,1787185563000,16,49,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot missed",122.0,342735.0,401,301000,Q3,135069,False,3.0,55.0,157.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Above the Break 3,14.5,8-16 ft.,1312,PHI
+unknwown,8:03,1787185567000,16,49,REB,defensive rebound,34.0,318775.0,402,301002,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1317,CAN
+shot,7:56,1787185574000,16,51,P2,"2PtsFG under the basket, layup made",34.0,161433.0,403,302000,Q3,135069,True,2.0,134.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,Restricted Area,0.8,Less Than 8 ft.,1324,CAN
+unknwown,7:56,1787185574000,16,51,ASS,made the assist,34.0,188714.0,404,302001,Q3,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1324,CAN
+shot,7:42,1787185589000,18,51,P2,"2PtsFG under the basket, layup made",122.0,220090.0,405,303000,Q3,135069,True,2.0,126.0,39.0,,,122.0,Jack Animam,Philippines,10.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1338,PHI
+unknwown,7:42,1787185589000,18,51,ASS,made the assist,122.0,342735.0,406,303001,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1338,PHI
+shot,7:32,1787185600000,18,51,P3,3pt jump shot missed,34.0,188714.0,407,304000,Q3,135069,False,3.0,269.0,47.0,,,34.0,Sami Hill,Canada,4.0,Q3,Left Corner 3,12.9,8-16 ft.,1348,CAN
+unknwown,7:29,1787185602000,18,51,REB,offensive rebound,34.0,172742.0,408,304002,Q3,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1351,CAN
+shot,7:18,1787185612000,18,51,P2,2pt floating jump shot missed,34.0,318775.0,409,305000,Q3,135069,False,2.0,140.0,90.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,In The Paint (Non-RA),5.0,Less Than 8 ft.,1362,CAN
+unknwown,7:14,1787185616000,18,51,REB,defensive rebound,122.0,220090.0,410,305002,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1366,PHI
+subst,7:11,1787185681000,18,51,SUBST,Substitution out,122.0,339158.0,414,309000,Q3,135069,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1369,PHI
+subst,7:11,1787185681000,18,51,SUBST,Substitution in,122.0,236628.0,415,310000,Q3,135069,,,,,,IN,122.0,Janine Pontejos,Philippines,7.0,Q3,,,,1369,PHI
+subst,7:11,1787185681000,18,51,SUBST,Substitution out,34.0,318775.0,416,311000,Q3,135069,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1369,CAN
+subst,7:11,1787185681000,18,51,SUBST,Substitution out,34.0,161433.0,417,312000,Q3,135069,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1369,CAN
+subst,7:11,1787185681000,18,51,SUBST,Substitution in,34.0,217051.0,418,313000,Q3,135069,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1369,CAN
+subst,7:11,1787185681000,18,51,SUBST,Substitution in,34.0,250669.0,419,314000,Q3,135069,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q3,,,,1369,CAN
+shot,6:55,1787185702000,18,51,P3,3pt jump shot missed,122.0,236628.0,421,316000,Q3,135069,False,3.0,32.0,159.0,,,122.0,Janine Pontejos,Philippines,7.0,Q3,Above the Break 3,16.1,16-22 ft.,1385,PHI
+unknwown,6:53,1787185704000,18,51,REB,defensive rebound,34.0,250669.0,422,316002,Q3,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1387,CAN
+unknwown,6:40,1787185723000,18,51,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,426,320000,Q3,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1400,PHI
+unknwown,6:40,1787185723000,18,51,RFOUL,foul drawn,34.0,217051.0,427,320002,Q3,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1400,CAN
+subst,6:40,1787185742000,18,51,SUBST,Substitution out,122.0,323169.0,428,321000,Q3,135069,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1400,PHI
+subst,6:40,1787185742000,18,51,SUBST,Substitution in,122.0,220085.0,429,322000,Q3,135069,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1400,PHI
+subst,6:40,1787185742000,18,51,SUBST,Substitution out,34.0,188714.0,430,323000,Q3,135069,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q3,,,,1400,CAN
+subst,6:40,1787185742000,18,51,SUBST,Substitution in,34.0,369879.0,431,324000,Q3,135069,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q3,,,,1400,CAN
+shot,6:40,1787185753000,18,52,FT,1st of 2 free throws made,34.0,217051.0,432,325000,Q3,135069,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q3,,14.6,8-16 ft.,1400,CAN
+shot,6:40,1787185770000,18,52,FT,2nd of 2 free throws missed,34.0,217051.0,433,326000,Q3,135069,False,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q3,,14.6,8-16 ft.,1400,CAN
+unknwown,6:40,1787185770000,18,52,REB,defensive rebound,122.0,342735.0,435,326002,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1400,PHI
+shot,6:32,1787185779000,18,52,P3,3pt jump shot missed,122.0,236628.0,436,328000,Q3,135069,False,3.0,8.0,75.0,,,122.0,Janine Pontejos,Philippines,7.0,Q3,Above the Break 3,13.7,8-16 ft.,1408,PHI
+unknwown,6:29,1787185781000,18,52,REB,offensive rebound,122.0,220085.0,437,328002,Q3,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1411,PHI
+unknwown,6:14,1787185797000,18,52,TO,turnover; bad pass,122.0,323171.0,438,329000,Q3,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1426,PHI
+unknwown,6:14,1787185797000,18,52,ST,steal,34.0,369879.0,439,329001,Q3,135069,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1426,CAN
+shot,6:10,1787185801000,18,54,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,369879.0,440,330000,Q3,135069,True,2.0,158.0,31.0,,,34.0,Agot Makeer,Canada,1.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1430,CAN
+unknwown,5:55,1787185816000,18,54,TO,turnover; bad pass,122.0,342735.0,441,331000,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1445,PHI
+unknwown,5:55,1787185816000,18,54,ST,steal,34.0,172742.0,442,331001,Q3,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1445,CAN
+shot,5:49,1787185829000,18,56,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,172742.0,446,335000,Q3,135069,True,2.0,132.0,26.0,,,34.0,Yvonne Ejim,Canada,9.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1451,CAN
+timeout,5:49,1787185841000,18,56,TIMO,Timeout,122.0,,447,336000,Q3,135069,,,,,,,,,,,Q3,,,,1451,
+shot,5:32,1787185948000,21,56,P3,3pt jump shot made,122.0,323171.0,449,338000,Q3,135069,True,3.0,14.0,100.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Above the Break 3,14.0,8-16 ft.,1468,PHI
+unknwown,5:32,1787185948000,21,56,ASS,made the assist,122.0,220085.0,450,338001,Q3,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1468,PHI
+shot,5:15,1787185966000,21,56,P3,3pt jump shot missed,34.0,172742.0,451,339000,Q3,135069,False,3.0,237.0,141.0,,,34.0,Yvonne Ejim,Canada,9.0,Q3,Above the Break 3,14.0,8-16 ft.,1485,CAN
+unknwown,5:13,1787185969000,21,56,TREB,team offensive rebound,34.0,,453,339002,Q3,135069,,,,,,,,,,,Q3,,,,1487,
+shot,4:58,1787185999000,21,56,P2,"2PtsFG under the basket, jump shot missed",34.0,320676.0,455,342000,Q3,135069,False,2.0,122.0,43.0,,,34.0,Syla Swords,Canada,12.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1502,CAN
+unknwown,4:55,1787186001000,21,56,REB,defensive rebound,122.0,220090.0,456,342002,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1505,PHI
+shot,4:50,1787186007000,21,56,P2,2pt driving layup missed,122.0,220085.0,457,343000,Q3,135069,False,2.0,115.0,48.0,,,122.0,Afril Bernardino,Philippines,3.0,Q3,Restricted Area,2.6,Less Than 8 ft.,1510,PHI
+unknwown,4:46,1787186010000,21,56,REB,defensive rebound,34.0,172742.0,458,343002,Q3,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1514,CAN
+shot,4:42,1787186015000,21,56,P3,3pt jump shot missed,34.0,369879.0,460,345000,Q3,135069,False,3.0,223.0,149.0,,,34.0,Agot Makeer,Canada,1.0,Q3,Above the Break 3,13.7,8-16 ft.,1518,CAN
+unknwown,4:41,1787186019000,21,56,TREB,team defensive rebound,122.0,,461,345002,Q3,135069,,,,,,,,,,,Q3,,,,1519,
+unknwown,4:18,1787186072000,21,56,FOUL,Personal foul; 2 free throws awarded,34.0,250669.0,470,354000,Q3,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1542,CAN
+unknwown,4:18,1787186072000,21,56,RFOUL,foul drawn,122.0,220090.0,471,354002,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1542,PHI
+subst,4:18,1787186109000,21,56,SUBST,Substitution out,34.0,172742.0,472,355000,Q3,135069,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1542,CAN
+subst,4:18,1787186109000,21,56,SUBST,Substitution out,34.0,320676.0,473,356000,Q3,135069,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q3,,,,1542,CAN
+subst,4:18,1787186109000,21,56,SUBST,Substitution in,34.0,297698.0,474,357000,Q3,135069,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1542,CAN
+subst,4:18,1787186109000,21,56,SUBST,Substitution in,34.0,342479.0,475,358000,Q3,135069,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1542,CAN
+shot,4:10,1787186124000,22,56,FT,1st of 2 free throws made,122.0,220090.0,477,360000,Q3,135069,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1550,PHI
+shot,4:10,1787186125000,22,56,FT,2nd of 2 free throws missed,122.0,220090.0,478,361000,Q3,135069,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q3,,14.6,8-16 ft.,1550,PHI
+unknwown,4:06,1787186128000,22,56,REB,defensive rebound,34.0,342479.0,479,361002,Q3,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1554,CAN
+unknwown,3:59,1787186142000,22,56,TO,turnover; ball handling,34.0,342479.0,482,364000,Q3,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1561,CAN
+shot,3:37,1787186172000,24,56,P2,"2PtsFG inside center, points after turnover, jump shot made",122.0,220090.0,486,368000,Q3,135069,True,2.0,115.0,109.0,,,122.0,Jack Animam,Philippines,10.0,Q3,Mid-Range,7.3,Less Than 8 ft.,1583,PHI
+unknwown,3:37,1787186173000,24,56,ASS,made the assist,122.0,342735.0,783,368001,Q3,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1583,PHI
+unknwown,3:29,1787186201000,24,56,FOUL,Offensive foul,34.0,250669.0,492,373000,Q3,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1591,CAN
+unknwown,3:29,1787186201000,24,56,TO,turnover,34.0,250669.0,493,373001,Q3,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1591,CAN
+unknwown,3:29,1787186202000,24,56,RFOUL,foul drawn,122.0,220085.0,494,373002,Q3,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1591,PHI
+shot,3:17,1787186225000,24,56,P3,3pt jump shot missed,122.0,323171.0,498,377000,Q3,135069,False,3.0,16.0,88.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Above the Break 3,13.3,8-16 ft.,1603,PHI
+unknwown,3:14,1787186228000,24,56,REB,defensive rebound,34.0,250669.0,499,377002,Q3,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1606,CAN
+unknwown,2:59,1787186244000,24,56,TO,turnover; ball handling,34.0,217051.0,501,379000,Q3,135069,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1621,CAN
+subst,2:59,1787186255000,24,56,SUBST,Substitution out,122.0,323171.0,502,380000,Q3,135069,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1621,PHI
+subst,2:59,1787186255000,24,56,SUBST,Substitution in,122.0,398175.0,503,381000,Q3,135069,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1621,PHI
+subst,2:59,1787186255000,24,56,SUBST,Substitution out,34.0,217051.0,504,382000,Q3,135069,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1621,CAN
+subst,2:59,1787186255000,24,56,SUBST,Substitution in,34.0,318775.0,505,383000,Q3,135069,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1621,CAN
+shot,2:49,1787186277000,27,56,P3,3pt jump shot made,122.0,342735.0,507,385000,Q3,135069,True,3.0,118.0,179.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Above the Break 3,14.1,8-16 ft.,1631,PHI
+unknwown,2:49,1787186277000,27,56,ASS,made the assist,122.0,220090.0,519,385001,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1631,PHI
+shot,2:35,1787186291000,27,56,P2,2pt jump shot missed,34.0,297698.0,508,386000,Q3,135069,False,2.0,158.0,78.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,In The Paint (Non-RA),4.2,Less Than 8 ft.,1645,CAN
+unknwown,2:32,1787186293000,27,56,TREB,team offensive rebound,34.0,,510,386002,Q3,135069,,,,,,,,,,,Q3,,,,1648,
+shot,2:26,1787186310000,27,56,P3,3pt jump shot missed,34.0,297698.0,514,391000,Q3,135069,False,3.0,247.0,123.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Above the Break 3,13.5,8-16 ft.,1654,CAN
+unknwown,2:23,1787186315000,27,56,REB,offensive rebound,34.0,342479.0,516,391002,Q3,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1657,CAN
+unknwown,2:23,1787186325000,27,56,FOUL,Personal foul,122.0,236628.0,517,393000,Q3,135069,,,,,,,122.0,Janine Pontejos,Philippines,7.0,Q3,,,,1657,PHI
+unknwown,2:23,1787186325000,27,56,RFOUL,foul drawn,34.0,342479.0,518,393002,Q3,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1657,CAN
+unknwown,2:09,1787186362000,27,56,TO,turnover; 3 seconds violation,34.0,342479.0,522,396000,Q3,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution out,34.0,369879.0,523,397000,Q3,135069,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution out,34.0,297698.0,524,398000,Q3,135069,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution out,34.0,250669.0,525,399000,Q3,135069,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution out,34.0,342479.0,526,400000,Q3,135069,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution in,34.0,188714.0,527,401000,Q3,135069,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution in,34.0,172742.0,528,402000,Q3,135069,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution in,34.0,320676.0,529,403000,Q3,135069,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q3,,,,1671,CAN
+subst,2:09,1787186386000,27,56,SUBST,Substitution in,34.0,161433.0,530,404000,Q3,135069,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1671,CAN
+shot,2:03,1787186394000,27,56,P3,3pt jump shot missed,122.0,236628.0,532,406000,Q3,135069,False,3.0,18.0,99.0,,,122.0,Janine Pontejos,Philippines,7.0,Q3,Above the Break 3,13.6,8-16 ft.,1677,PHI
+unknwown,2:00,1787186396000,27,56,REB,defensive rebound,34.0,320676.0,533,406002,Q3,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1680,CAN
+unknwown,1:46,1787186413000,27,56,TO,turnover; bad pass,34.0,161433.0,537,410000,Q3,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1694,CAN
+subst,1:46,1787186419000,27,56,SUBST,Substitution out,122.0,342735.0,538,411000,Q3,135069,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1694,PHI
+subst,1:46,1787186419000,27,56,SUBST,Substitution in,122.0,394258.0,539,412000,Q3,135069,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1694,PHI
+shot,1:30,1787186442000,29,56,P2,"2PtsFG inside center, points after turnover, jump shot made",122.0,236628.0,541,414000,Q3,135069,True,2.0,188.0,122.0,,,122.0,Janine Pontejos,Philippines,7.0,Q3,Mid-Range,9.5,8-16 ft.,1710,PHI
+unknwown,1:30,1787186442000,29,56,ASS,made the assist,122.0,220090.0,542,414001,Q3,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1710,PHI
+shot,1:11,1787186460000,29,59,P3,3pt jump shot made,34.0,318775.0,543,415000,Q3,135069,True,3.0,26.0,116.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Above the Break 3,13.7,8-16 ft.,1729,CAN
+unknwown,1:11,1787186460000,29,59,ASS,made the assist,34.0,172742.0,544,415001,Q3,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1729,CAN
+shot,0:56,1787186475000,29,59,P3,3pt jump shot missed,122.0,398175.0,545,416000,Q3,135069,False,3.0,198.0,168.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,Above the Break 3,14.1,8-16 ft.,1744,PHI
+unknwown,0:53,1787186478000,29,59,REB,defensive rebound,34.0,161433.0,546,416002,Q3,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1747,CAN
+unknwown,0:46,1787186485000,29,59,TO,turnover; bad pass,34.0,318775.0,547,417000,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1754,CAN
+unknwown,0:46,1787186485000,29,59,ST,steal,122.0,220085.0,548,417001,Q3,135069,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1754,PHI
+shot,0:29,1787186503000,29,59,P3,3pt jump shot missed,122.0,236628.0,549,418000,Q3,135069,False,3.0,238.0,141.0,,,122.0,Janine Pontejos,Philippines,7.0,Q3,Above the Break 3,14.1,8-16 ft.,1771,PHI
+unknwown,0:26,1787186505000,29,59,REB,defensive rebound,34.0,320676.0,550,418002,Q3,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1774,CAN
+unknwown,0:25,1787186533000,29,59,FOUL,Personal foul,122.0,236628.0,554,422000,Q3,135069,,,,,,,122.0,Janine Pontejos,Philippines,7.0,Q3,,,,1775,PHI
+unknwown,0:25,1787186533000,29,59,RFOUL,foul drawn,34.0,318775.0,555,422002,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1775,CAN
+subst,0:25,1787186553000,29,59,SUBST,Substitution out,122.0,220090.0,556,423000,Q3,135069,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q3,,,,1775,PHI
+subst,0:25,1787186553000,29,59,SUBST,Substitution in,122.0,323169.0,557,424000,Q3,135069,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1775,PHI
+unknwown,0:12,1787186568000,29,59,FOUL,Personal foul,122.0,398175.0,560,427000,Q3,135069,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1788,PHI
+unknwown,0:12,1787186568000,29,59,RFOUL,foul drawn,34.0,318775.0,561,427002,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1788,CAN
+shot,0:01,1787186599000,29,62,P3,3pt jump shot made,34.0,320676.0,566,432000,Q3,135069,True,3.0,234.0,155.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,14.9,8-16 ft.,1799,CAN
+unknwown,0:01,1787186599000,29,62,ASS,made the assist,34.0,318775.0,567,432001,Q3,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1799,CAN
+periods,0:00,1787186662000,29,62,ENDP,End of period,,,570,435000,Q3,135069,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787186738000,29,62,SUBST,Substitution out,122.0,220085.0,571,436000,Q4,135069,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,1800,PHI
+subst,10:00,1787186738000,29,62,SUBST,Substitution in,122.0,303016.0,572,437000,Q4,135069,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q4,,,,1800,PHI
+periods,10:00,1787186743000,29,62,STARTP,Start of period,,,573,438000,Q4,135069,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:55,1787186754000,29,62,FOUL,Personal foul,122.0,394258.0,578,443000,Q4,135069,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q4,,,,1805,PHI
+unknwown,9:55,1787186754000,29,62,RFOUL,foul drawn,34.0,320676.0,579,443002,Q4,135069,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,1805,CAN
+shot,9:52,1787186772000,29,62,P3,3pt jump shot missed,34.0,188714.0,581,445000,Q4,135069,False,3.0,11.0,24.0,,,34.0,Sami Hill,Canada,4.0,Q4,Right Corner 3,13.0,8-16 ft.,1808,CAN
+unknwown,9:48,1787186779000,29,62,REB,offensive rebound,34.0,161433.0,583,445002,Q4,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1812,CAN
+unknwown,9:49,1787186785000,29,62,TO,turnover; travelling,34.0,161433.0,585,448000,Q4,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1811,CAN
+shot,9:36,1787186808000,29,62,P3,3pt jump shot missed,122.0,323169.0,587,450000,Q4,135069,False,3.0,208.0,162.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,14.0,8-16 ft.,1824,PHI
+unknwown,9:34,1787186811000,29,62,REB,defensive rebound,34.0,188714.0,588,450002,Q4,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,1826,CAN
+shot,9:29,1787186815000,29,62,P2,2pt jump shot missed,34.0,320676.0,589,451000,Q4,135069,False,2.0,175.0,29.0,,,34.0,Syla Swords,Canada,12.0,Q4,In The Paint (Non-RA),3.7,Less Than 8 ft.,1831,CAN
+unknwown,9:26,1787186819000,29,62,REB,defensive rebound,122.0,236628.0,590,451002,Q4,135069,,,,,,,122.0,Janine Pontejos,Philippines,7.0,Q4,,,,1834,PHI
+shot,9:17,1787186827000,29,62,P3,3pt jump shot missed,122.0,303016.0,591,452000,Q4,135069,False,3.0,237.0,135.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Above the Break 3,13.6,8-16 ft.,1843,PHI
+unknwown,9:15,1787186829000,29,62,REB,defensive rebound,34.0,161433.0,592,452002,Q4,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1845,CAN
+shot,9:05,1787186840000,29,64,P2,"2PtsFG under the basket, layup made",34.0,172742.0,593,453000,Q4,135069,True,2.0,133.0,27.0,,,34.0,Yvonne Ejim,Canada,9.0,Q4,Restricted Area,1.5,Less Than 8 ft.,1855,CAN
+unknwown,9:05,1787186840000,29,64,ASS,made the assist,34.0,161433.0,594,453001,Q4,135069,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1855,CAN
+shot,8:44,1787186861000,29,64,P3,3pt jump shot missed,122.0,323169.0,595,454000,Q4,135069,False,3.0,219.0,141.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,12.8,8-16 ft.,1876,PHI
+unknwown,8:41,1787186863000,29,64,REB,defensive rebound,34.0,318775.0,596,454002,Q4,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1879,CAN
+unknwown,8:37,1787186868000,29,64,TO,turnover; bad pass,34.0,318775.0,597,455000,Q4,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1883,CAN
+unknwown,8:37,1787186868000,29,64,ST,steal,122.0,323169.0,598,455001,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1883,PHI
+unknwown,8:31,1787186886000,29,64,FOUL,Personal foul; 2 free throws awarded,34.0,188714.0,602,459000,Q4,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,1889,CAN
+unknwown,8:31,1787186886000,29,64,RFOUL,foul drawn,122.0,236628.0,603,459002,Q4,135069,,,,,,,122.0,Janine Pontejos,Philippines,7.0,Q4,,,,1889,PHI
+subst,8:31,1787186913000,29,64,SUBST,Substitution out,122.0,398175.0,604,460000,Q4,135069,,,,,,OUT,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,1889,PHI
+subst,8:31,1787186913000,29,64,SUBST,Substitution in,122.0,342735.0,605,461000,Q4,135069,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1889,PHI
+subst,8:31,1787186913000,29,64,SUBST,Substitution out,34.0,320676.0,606,462000,Q4,135069,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q4,,,,1889,CAN
+subst,8:31,1787186913000,29,64,SUBST,Substitution out,34.0,161433.0,607,463000,Q4,135069,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1889,CAN
+subst,8:31,1787186913000,29,64,SUBST,Substitution in,34.0,297698.0,608,464000,Q4,135069,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1889,CAN
+subst,8:31,1787186913000,29,64,SUBST,Substitution in,34.0,250669.0,609,465000,Q4,135069,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q4,,,,1889,CAN
+shot,8:31,1787186917000,29,64,FT,Free throw missed 1 of 2,122.0,236628.0,610,466000,Q4,135069,False,1.0,0.0,0.0,,,122.0,Janine Pontejos,Philippines,7.0,Q4,,14.6,8-16 ft.,1889,PHI
+shot,8:31,1787186931000,29,64,FT,Free throw missed 2 of 2,122.0,236628.0,611,467000,Q4,135069,False,1.0,0.0,0.0,,,122.0,Janine Pontejos,Philippines,7.0,Q4,,14.6,8-16 ft.,1889,PHI
+unknwown,8:31,1787186932000,29,64,REB,defensive rebound,34.0,172742.0,613,467002,Q4,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,1889,CAN
+shot,8:11,1787186953000,29,67,P3,3pt jump shot made,34.0,297698.0,614,469000,Q4,135069,True,3.0,227.0,160.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,14.8,8-16 ft.,1909,CAN
+unknwown,8:11,1787186953000,29,67,ASS,made the assist,34.0,188714.0,615,469001,Q4,135069,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,1909,CAN
+shot,7:50,1787186974000,32,67,P3,3pt jump shot made,122.0,303016.0,616,470000,Q4,135069,True,3.0,189.0,159.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Above the Break 3,12.9,8-16 ft.,1930,PHI
+unknwown,7:50,1787186974000,32,67,ASS,made the assist,122.0,323169.0,617,470001,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1930,PHI
+shot,7:30,1787186994000,32,67,P3,3pt jump shot from center missed,34.0,188714.0,618,471000,Q4,135069,False,3.0,185.0,176.0,,,34.0,Sami Hill,Canada,4.0,Q4,Above the Break 3,14.3,8-16 ft.,1950,CAN
+unknwown,7:27,1787186996000,32,67,REB,offensive rebound,34.0,172742.0,619,471002,Q4,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,1953,CAN
+shot,7:24,1787186999000,32,67,P3,3pt jump shot missed,34.0,297698.0,620,472000,Q4,135069,False,3.0,272.0,57.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Left Corner 3,13.3,8-16 ft.,1956,CAN
+unknwown,7:21,1787187002000,32,67,REB,offensive rebound,34.0,172742.0,621,472002,Q4,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,1959,CAN
+shot,7:11,1787187012000,32,67,P3,3pt jump shot missed,34.0,172742.0,622,473000,Q4,135069,False,3.0,214.0,156.0,,,34.0,Yvonne Ejim,Canada,9.0,Q4,Above the Break 3,13.8,8-16 ft.,1969,CAN
+unknwown,7:09,1787187015000,32,67,TREB,team defensive rebound,122.0,,624,473002,Q4,135069,,,,,,,,,,,Q4,,,,1971,
+timeout,7:07,1787187023000,32,67,TIMO,Timeout,122.0,,627,477000,Q4,135069,,,,,,,,,,,Q4,,,,1973,
+subst,7:07,1787187108000,32,67,SUBST,Substitution out,122.0,303016.0,628,478000,Q4,135069,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q4,,,,1973,PHI
+subst,7:07,1787187108000,32,67,SUBST,Substitution in,122.0,220090.0,629,479000,Q4,135069,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q4,,,,1973,PHI
+subst,7:07,1787187108000,32,67,SUBST,Substitution out,34.0,188714.0,630,480000,Q4,135069,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q4,,,,1973,CAN
+subst,7:07,1787187108000,32,67,SUBST,Substitution in,34.0,369879.0,631,481000,Q4,135069,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q4,,,,1973,CAN
+unknwown,6:56,1787187129000,32,67,TO,turnover; bad pass,122.0,342735.0,633,483000,Q4,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1984,PHI
+unknwown,6:56,1787187130000,32,67,ST,steal,34.0,172742.0,634,483001,Q4,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,1984,CAN
+shot,6:50,1787187135000,32,69,P2,"2PtsFG inside right, points from fastbreak + after turnover, floating jump shot made",34.0,369879.0,635,484000,Q4,135069,True,2.0,186.0,47.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Mid-Range,4.7,Less Than 8 ft.,1990,CAN
+unknwown,6:50,1787187135000,32,69,ASS,made the assist,34.0,172742.0,643,484001,Q4,135069,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,1990,CAN
+unknwown,6:35,1787187157000,32,69,FOUL,Personal foul; 2 free throws awarded,34.0,250669.0,639,488000,Q4,135069,,,,,,,34.0,Faith Dut,Canada,25.0,Q4,,,,2005,CAN
+unknwown,6:35,1787187157000,32,69,RFOUL,foul drawn,122.0,220090.0,640,488002,Q4,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2005,PHI
+subst,6:35,1787187185000,32,69,SUBST,Substitution out,34.0,172742.0,641,489000,Q4,135069,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2005,CAN
+subst,6:35,1787187185000,32,69,SUBST,Substitution in,34.0,266912.0,642,490000,Q4,135069,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q4,,,,2005,CAN
+shot,6:35,1787187191000,32,69,FT,1st of 2 free throws missed,122.0,220090.0,644,491000,Q4,135069,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2005,PHI
+shot,6:35,1787187203000,32,69,FT,2nd of 2 free throws missed,122.0,220090.0,645,492000,Q4,135069,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2005,PHI
+unknwown,6:35,1787187205000,32,69,REB,defensive rebound,34.0,266912.0,647,492002,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2005,CAN
+unknwown,6:20,1787187223000,32,69,TO,turnover; travelling,34.0,318775.0,651,497000,Q4,135069,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2020,CAN
+subst,6:20,1787187230000,32,69,SUBST,Substitution out,122.0,236628.0,652,498000,Q4,135069,,,,,,OUT,122.0,Janine Pontejos,Philippines,7.0,Q4,,,,2020,PHI
+subst,6:20,1787187230000,32,69,SUBST,Substitution in,122.0,365085.0,653,499000,Q4,135069,,,,,,IN,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q4,,,,2020,PHI
+unknwown,6:09,1787187245000,32,69,TO,turnover; bad pass,122.0,342735.0,657,503000,Q4,135069,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2031,PHI
+unknwown,6:09,1787187245000,32,69,ST,steal,34.0,369879.0,658,503001,Q4,135069,,,,,,,34.0,Agot Makeer,Canada,1.0,Q4,,,,2031,CAN
+shot,6:04,1787187250000,32,71,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,369879.0,659,504000,Q4,135069,True,2.0,151.0,41.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2036,CAN
+unknwown,5:54,1787187259000,32,71,TO,turnover; bad pass,122.0,323169.0,660,505000,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2046,PHI
+unknwown,5:54,1787187259000,32,71,ST,steal,34.0,297698.0,662,505001,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2046,CAN
+shot,5:51,1787187269000,32,71,P3,3pt jump shot missed,34.0,297698.0,663,507000,Q4,135069,False,3.0,71.0,163.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,14.1,8-16 ft.,2049,CAN
+unknwown,5:51,1787187279000,32,71,TREB,team defensive rebound,122.0,,664,507002,Q4,135069,,,,,,,,,,,Q4,,,,2049,
+subst,5:51,1787187284000,32,71,SUBST,Substitution out,34.0,318775.0,665,508000,Q4,135069,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2049,CAN
+subst,5:51,1787187284000,32,71,SUBST,Substitution in,34.0,368225.0,666,509000,Q4,135069,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q4,,,,2049,CAN
+shot,5:29,1787187311000,32,71,P2,2pt jump shot missed,122.0,220090.0,668,511000,Q4,135069,False,2.0,160.0,48.0,,,122.0,Jack Animam,Philippines,10.0,Q4,Restricted Area,2.2,Less Than 8 ft.,2071,PHI
+unknwown,5:27,1787187314000,32,71,TREB,team defensive rebound,34.0,,670,511002,Q4,135069,,,,,,,,,,,Q4,,,,2073,
+unknwown,5:06,1787187354000,32,71,TO,turnover; bad pass,34.0,297698.0,675,517000,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2094,CAN
+unknwown,4:51,1787187378000,32,71,TO,turnover; out of bounds,122.0,323169.0,680,522000,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2109,PHI
+shot,4:40,1787187398000,32,71,P2,"2PtsFG under the basket, points after turnover, driving layup missed",34.0,369879.0,682,524000,Q4,135069,False,2.0,132.0,39.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2120,CAN
+unknwown,4:40,1787187398000,32,71,BS,blocked the shot,122.0,323169.0,683,524001,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2120,PHI
+unknwown,4:32,1787187405000,32,71,REB,defensive rebound,122.0,323169.0,684,524002,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2128,PHI
+unknwown,4:31,1787187406000,32,71,TO,turnover; ball handling,122.0,394258.0,685,525000,Q4,135069,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q4,,,,2129,PHI
+unknwown,4:31,1787187406000,32,71,ST,steal,34.0,368225.0,686,525001,Q4,135069,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2129,CAN
+shot,4:16,1787187422000,32,71,P3,3pt jump shot missed,34.0,369879.0,687,526000,Q4,135069,False,3.0,37.0,127.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Above the Break 3,13.5,8-16 ft.,2144,CAN
+unknwown,4:13,1787187426000,32,71,TREB,team offensive rebound,34.0,,689,526002,Q4,135069,,,,,,,,,,,Q4,,,,2147,
+subst,4:13,1787187434000,32,71,SUBST,Substitution out,122.0,394258.0,690,528000,Q4,135069,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q4,,,,2147,PHI
+subst,4:13,1787187434000,32,71,SUBST,Substitution in,122.0,323171.0,691,529000,Q4,135069,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2147,PHI
+shot,4:11,1787187447000,32,71,P2,"2PtsFG inside right, points from second chance + after turnover, jump shot missed",34.0,369879.0,693,531000,Q4,135069,False,2.0,203.0,40.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Mid-Range,6.3,Less Than 8 ft.,2149,CAN
+unknwown,4:09,1787187452000,32,71,TREB,team defensive rebound,122.0,,695,531002,Q4,135069,,,,,,,,,,,Q4,,,,2151,
+subst,4:09,1787187460000,32,71,SUBST,Substitution out,34.0,250669.0,696,533000,Q4,135069,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q4,,,,2151,CAN
+subst,4:09,1787187460000,32,71,SUBST,Substitution in,34.0,342479.0,697,534000,Q4,135069,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2151,CAN
+unknwown,4:09,1787187479000,32,71,VTR,Head coach's challenge successful,122.0,,698,535000,Q4,135069,,,,,,,,,,,Q4,,,,2151,
+shot,3:57,1787187698000,32,71,P2,"2PtsFG inside center, jump shot missed",122.0,323169.0,702,539000,Q4,135069,False,2.0,91.0,113.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Mid-Range,8.8,8-16 ft.,2163,PHI
+unknwown,3:55,1787187701000,32,71,REB,defensive rebound,34.0,297698.0,703,539002,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2165,CAN
+shot,3:34,1787187722000,32,73,P2,"2PtsFG under the basket, driving layup made",34.0,368225.0,704,540000,Q4,135069,True,2.0,127.0,30.0,,,34.0,Avery Howell,Canada,23.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2186,CAN
+unknwown,3:34,1787187722000,32,73,ASS,made the assist,34.0,297698.0,705,540001,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2186,CAN
+unknwown,3:25,1787187731000,32,73,TO,turnover; bad pass,122.0,323171.0,706,541000,Q4,135069,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2195,PHI
+unknwown,3:25,1787187731000,32,73,ST,steal,34.0,342479.0,707,541001,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2195,CAN
+shot,3:18,1787187738000,32,73,P2,2pt jump shot missed,34.0,369879.0,708,542000,Q4,135069,False,2.0,134.0,70.0,,,34.0,Agot Makeer,Canada,1.0,Q4,In The Paint (Non-RA),3.1,Less Than 8 ft.,2202,CAN
+unknwown,3:15,1787187741000,32,73,REB,offensive rebound,34.0,266912.0,710,542002,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2205,CAN
+shot,3:14,1787187745000,32,73,P2,"2PtsFG under the basket, points from second chance + after turnover, pullup jump shot missed",34.0,266912.0,712,545000,Q4,135069,False,2.0,152.0,41.0,,,34.0,Tara Wallack,Canada,8.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2206,CAN
+unknwown,3:10,1787187748000,32,73,REB,offensive rebound,34.0,266912.0,713,545002,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2210,CAN
+shot,3:08,1787187755000,32,73,P2,"2PtsFG under the basket, points from second chance + after turnover, pullup jump shot missed",34.0,266912.0,715,547000,Q4,135069,False,2.0,158.0,36.0,,,34.0,Tara Wallack,Canada,8.0,Q4,Restricted Area,1.8,Less Than 8 ft.,2212,CAN
+unknwown,3:08,1787187759000,32,73,TREB,team offensive rebound,34.0,,716,547002,Q4,135069,,,,,,,,,,,Q4,,,,2212,
+unknwown,3:01,1787187772000,32,73,FOUL,Personal foul,122.0,365085.0,719,550000,Q4,135069,,,,,,,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q4,,,,2219,PHI
+unknwown,3:01,1787187772000,32,73,RFOUL,foul drawn,34.0,297698.0,720,550002,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2219,CAN
+subst,3:01,1787187789000,32,73,SUBST,Substitution out,122.0,323171.0,721,551000,Q4,135069,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2219,PHI
+subst,3:01,1787187789000,32,73,SUBST,Substitution in,122.0,398175.0,722,552000,Q4,135069,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2219,PHI
+shot,2:53,1787187803000,32,73,P3,3pt jump shot missed,34.0,297698.0,724,554000,Q4,135069,False,3.0,107.0,169.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,13.3,8-16 ft.,2227,CAN
+unknwown,2:50,1787187805000,32,73,REB,offensive rebound,34.0,369879.0,725,554002,Q4,135069,,,,,,,34.0,Agot Makeer,Canada,1.0,Q4,,,,2230,CAN
+shot,2:47,1787187809000,32,73,P2,"2PtsFG under the basket, points from second chance + after turnover, layup missed",34.0,297698.0,726,555000,Q4,135069,False,2.0,130.0,38.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Restricted Area,1.0,Less Than 8 ft.,2233,CAN
+unknwown,2:47,1787187809000,32,73,BS,blocked the shot,122.0,323169.0,728,555001,Q4,135069,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2233,PHI
+unknwown,2:46,1787187815000,32,74,REB,offensive rebound,34.0,342479.0,729,555002,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2234,CAN
+unknwown,2:47,1787187828000,32,73,FOUL,Personal foul; 2 free throws awarded,122.0,365085.0,731,558000,Q4,135069,,,,,,,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q4,,,,2233,PHI
+unknwown,2:47,1787187828000,32,73,RFOUL,foul drawn,34.0,342479.0,732,558002,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2233,CAN
+subst,2:47,1787187838000,32,73,SUBST,Substitution out,122.0,365085.0,733,559000,Q4,135069,,,,,,OUT,122.0,Alyssa Kae Rodriguez,Philippines,21.0,Q4,,,,2233,PHI
+subst,2:47,1787187838000,32,73,SUBST,Substitution in,122.0,342751.0,734,560000,Q4,135069,,,,,,IN,122.0,Monique Allison Del Carmen,Philippines,22.0,Q4,,,,2233,PHI
+shot,2:47,1787187839000,32,73,FT,1st of 2 free throws missed,34.0,342479.0,735,561000,Q4,135069,False,1.0,0.0,0.0,,,34.0,Cearah Parchment,Canada,30.0,Q4,,14.6,8-16 ft.,2233,CAN
+shot,2:47,1787187849000,32,74,FT,2nd of 2 free throws made,34.0,342479.0,736,562000,Q4,135069,True,1.0,0.0,0.0,,,34.0,Cearah Parchment,Canada,30.0,Q4,,14.6,8-16 ft.,2233,CAN
+shot,2:39,1787187863000,35,74,P3,3pt jump shot made,122.0,342735.0,738,564000,Q4,135069,True,3.0,45.0,140.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Above the Break 3,13.8,8-16 ft.,2241,PHI
+unknwown,2:39,1787187863000,35,74,ASS,made the assist,122.0,220090.0,739,564001,Q4,135069,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2241,PHI
+shot,2:14,1787187888000,35,77,P3,3pt jump shot from center made,34.0,342479.0,740,565000,Q4,135069,True,3.0,147.0,175.0,,,34.0,Cearah Parchment,Canada,30.0,Q4,Above the Break 3,13.5,8-16 ft.,2266,CAN
+unknwown,2:14,1787187888000,35,77,ASS,made the assist,34.0,297698.0,741,565001,Q4,135069,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2266,CAN
+shot,1:54,1787187907000,35,77,P3,3pt jump shot missed,122.0,342751.0,742,566000,Q4,135069,False,3.0,9.0,99.0,,,122.0,Monique Allison Del Carmen,Philippines,22.0,Q4,Above the Break 3,14.4,8-16 ft.,2286,PHI
+unknwown,1:50,1787187910000,35,77,REB,defensive rebound,34.0,266912.0,743,566002,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2290,CAN
+shot,1:33,1787187928000,35,77,P2,2pt driving layup missed,34.0,369879.0,744,567000,Q4,135069,False,2.0,152.0,66.0,,,34.0,Agot Makeer,Canada,1.0,Q4,In The Paint (Non-RA),2.9,Less Than 8 ft.,2307,CAN
+unknwown,1:30,1787187931000,35,77,REB,offensive rebound,34.0,342479.0,745,567002,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2310,CAN
+shot,1:26,1787187936000,35,80,P3,3pt jump shot made,34.0,368225.0,747,569000,Q4,135069,True,3.0,253.0,129.0,,,34.0,Avery Howell,Canada,23.0,Q4,Above the Break 3,14.4,8-16 ft.,2314,CAN
+unknwown,1:26,1787187936000,35,80,ASS,made the assist,34.0,266912.0,748,569001,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2314,CAN
+subst,1:26,1787187951000,35,80,SUBST,Substitution out,122.0,342735.0,749,570000,Q4,135069,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2314,PHI
+subst,1:26,1787187951000,35,80,SUBST,Substitution in,122.0,339158.0,750,571000,Q4,135069,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q4,,,,2314,PHI
+subst,1:26,1787187951000,35,80,SUBST,Substitution out,34.0,297698.0,751,572000,Q4,135069,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2314,CAN
+subst,1:26,1787187951000,35,80,SUBST,Substitution in,34.0,217051.0,752,573000,Q4,135069,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2314,CAN
+shot,1:11,1787187971000,38,80,P3,3pt jump shot made,122.0,323169.0,755,576000,Q4,135069,True,3.0,27.0,127.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,14.3,8-16 ft.,2329,PHI
+unknwown,1:11,1787187971000,38,80,ASS,made the assist,122.0,398175.0,756,576001,Q4,135069,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2329,PHI
+shot,0:55,1787187993000,38,83,P3,3pt jump shot from center made,34.0,342479.0,759,579000,Q4,135069,True,3.0,86.0,170.0,,,34.0,Cearah Parchment,Canada,30.0,Q4,Above the Break 3,14.1,8-16 ft.,2345,CAN
+unknwown,0:55,1787187993000,38,83,ASS,made the assist,34.0,266912.0,760,579001,Q4,135069,,,,,,,34.0,Tara Wallack,Canada,8.0,Q4,,,,2345,CAN
+shot,0:45,1787188006000,38,83,P2,layup missed,122.0,398175.0,762,581000,Q4,135069,False,2.0,105.0,74.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,In The Paint (Non-RA),4.9,Less Than 8 ft.,2355,PHI
+unknwown,0:45,1787188006000,38,83,BS,blocked the shot,34.0,342479.0,764,581001,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2355,CAN
+unknwown,0:43,1787188020000,38,83,TREB,team defensive rebound,34.0,,765,581002,Q4,135069,,,,,,,,,,,Q4,,,,2357,
+shot,0:33,1787188031000,38,83,P2,"2PtsFG inside right, jump shot missed",34.0,266912.0,767,584000,Q4,135069,False,2.0,205.0,118.0,,,34.0,Tara Wallack,Canada,8.0,Q4,Mid-Range,10.2,8-16 ft.,2367,CAN
+unknwown,0:30,1787188033000,38,83,REB,offensive rebound,34.0,342479.0,768,584002,Q4,135069,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2370,CAN
+shot,0:16,1787188049000,38,85,P2,"2PtsFG under the basket, pullup jump shot made",34.0,217051.0,769,585000,Q4,135069,True,2.0,128.0,40.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2384,CAN
+shot,0:01,1787188065000,38,85,P3,3pt jump shot missed,122.0,323169.0,773,589000,Q4,135069,False,3.0,49.0,150.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,14.3,8-16 ft.,2399,PHI
+periods,0:00,1787188156000,38,85,ENDP,End of period,,,776,592000,Q4,135069,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787188192000,38,85,ENDG,End of game,,,777,593000,Q4,135069,,,,,,,,,,,Q4,,,,2400,
