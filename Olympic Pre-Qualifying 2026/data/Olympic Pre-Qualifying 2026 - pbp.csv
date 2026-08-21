@@ -6255,3 +6255,502 @@ unknwown,0:13,1787275308000,79,75,REB,defensive rebound,134.0,231012.0,707,53400
 shot,0:03,1787275318000,79,75,P3,3pt jump shot missed,134.0,273042.0,708,536000,Q4,135072,False,3.0,62.0,142.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,12.8,8-16 ft.,2397,SEN
 periods,0:00,1787275330000,79,75,ENDP,End of period,,,712,540000,Q4,135072,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787275431000,79,75,ENDG,End of game,,,713,541000,Q4,135072,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787279439000,0,0,STARTG,Start of game,,,1,1000,Q1,135071,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787279439000,0,0,STARTP,Start of period,,,2,2000,Q1,135071,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787279439000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135071,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787279440000,0,0,JB,jump ball won,104.0,268370.0,5,4001,Q1,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,1,MEX
+unknwown,9:59,1787279440000,0,0,JB,jump ball lost,34.0,161433.0,6,4002,Q1,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,1,CAN
+unknwown,9:51,1787279452000,0,0,FOUL,Offensive foul,104.0,319031.0,8,6000,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,9,MEX
+unknwown,9:51,1787279452000,0,0,TO,turnover,104.0,319031.0,9,6001,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,9,MEX
+unknwown,9:51,1787279452000,0,0,RFOUL,foul drawn,34.0,188714.0,10,6002,Q1,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,9,CAN
+shot,9:38,1787279479000,2,0,P2,"2PtsFG under the basket, points after turnover, jump shot made",34.0,161433.0,12,8000,Q1,135071,True,2.0,159.0,30.0,,,34.0,Kayla Alexander,Canada,14.0,Q1,Restricted Area,2.1,Less Than 8 ft.,22,CAN
+unknwown,9:13,1787279510000,2,0,FOUL,Personal foul,34.0,172742.0,14,10000,Q1,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,47,CAN
+unknwown,9:13,1787279510000,2,0,RFOUL,foul drawn,104.0,319031.0,15,10002,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,47,MEX
+shot,9:06,1787279535000,2,2,P2,"2PtsFG under the basket, turnaround jump shot made",104.0,268451.0,17,12000,Q1,135071,True,2.0,138.0,39.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Restricted Area,0.2,Less Than 8 ft.,54,MEX
+unknwown,8:46,1787279556000,2,2,TO,turnover; bad pass,34.0,318775.0,19,14000,Q1,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,74,CAN
+unknwown,8:29,1787279583000,2,2,TO,turnover; bad pass,104.0,268370.0,22,17000,Q1,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,91,MEX
+shot,8:17,1787279603000,2,2,P3,3pt jump shot missed,34.0,320676.0,24,19000,Q1,135071,False,3.0,264.0,87.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,13.3,8-16 ft.,103,CAN
+unknwown,8:14,1787279606000,2,2,REB,defensive rebound,104.0,319031.0,25,19002,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,106,MEX
+shot,8:06,1787279614000,2,4,P2,"2PtsFG inside right, jump shot made",104.0,213361.0,26,20000,Q1,135071,True,2.0,242.0,51.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Mid-Range,10.3,8-16 ft.,114,MEX
+unknwown,8:06,1787279614000,2,4,ASS,made the assist,104.0,215141.0,27,20001,Q1,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,114,MEX
+shot,7:55,1787279625000,4,4,P2,"2PtsFG under the basket, layup made",34.0,172742.0,28,21000,Q1,135071,True,2.0,162.0,27.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,Restricted Area,2.6,Less Than 8 ft.,125,CAN
+unknwown,7:55,1787279625000,4,4,ASS,made the assist,34.0,161433.0,29,21001,Q1,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,125,CAN
+shot,7:40,1787279641000,4,4,P3,3pt jump shot from center missed,104.0,268370.0,30,22000,Q1,135071,False,3.0,178.0,159.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Above the Break 3,12.5,8-16 ft.,140,MEX
+unknwown,7:36,1787279643000,4,4,REB,defensive rebound,34.0,318775.0,31,22002,Q1,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,144,CAN
+shot,7:31,1787279649000,6,4,P2,"2PtsFG under the basket, driving layup made",34.0,318775.0,32,23000,Q1,135071,True,2.0,159.0,28.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Restricted Area,2.2,Less Than 8 ft.,149,CAN
+shot,7:09,1787279671000,6,4,P2,2pt jump shot missed,104.0,319031.0,33,24000,Q1,135071,False,2.0,155.0,50.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,1.8,Less Than 8 ft.,171,MEX
+unknwown,7:09,1787279671000,6,4,BS,blocked the shot,34.0,161433.0,34,24001,Q1,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,171,CAN
+unknwown,7:05,1787279675000,6,4,REB,defensive rebound,34.0,320676.0,35,24002,Q1,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,175,CAN
+shot,6:58,1787279683000,6,4,P2,2pt jump shot missed,34.0,188714.0,36,25000,Q1,135071,False,2.0,94.0,23.0,,,34.0,Sami Hill,Canada,4.0,Q1,Mid-Range,4.9,Less Than 8 ft.,182,CAN
+unknwown,6:54,1787279685000,6,4,REB,defensive rebound,104.0,215141.0,37,25002,Q1,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,186,MEX
+shot,6:51,1787279689000,6,6,P2,"2PtsFG under the basket, fast break, driving layup made",104.0,319031.0,38,26000,Q1,135071,True,2.0,155.0,35.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,1.6,Less Than 8 ft.,189,MEX
+unknwown,6:51,1787279689000,6,6,ASS,made the assist,104.0,215141.0,39,26001,Q1,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,189,MEX
+unknwown,6:30,1787279711000,6,6,TO,turnover; bad pass,34.0,318775.0,41,28000,Q1,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,210,CAN
+subst,6:30,1787279721000,6,6,SUBST,Substitution out,34.0,161433.0,42,29000,Q1,135071,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q1,,,,210,CAN
+subst,6:30,1787279721000,6,6,SUBST,Substitution in,34.0,250669.0,43,30000,Q1,135071,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q1,,,,210,CAN
+unknwown,6:14,1787279739000,6,6,TO,turnover; ball handling,104.0,319031.0,45,32000,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,226,MEX
+unknwown,6:14,1787279739000,6,6,ST,steal,34.0,320676.0,46,32001,Q1,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,226,CAN
+shot,5:51,1787279781000,8,6,P2,"2PtsFG under the basket, points after turnover, driving layup made",34.0,318775.0,49,35000,Q1,135071,True,2.0,159.0,22.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Restricted Area,2.6,Less Than 8 ft.,249,CAN
+shot,5:35,1787279797000,8,6,P2,"2PtsFG inside right, jump shot missed",104.0,213361.0,50,36000,Q1,135071,False,2.0,190.0,39.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Mid-Range,5.0,Less Than 8 ft.,265,MEX
+unknwown,5:33,1787279799000,8,6,REB,offensive rebound,104.0,319031.0,51,36002,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,267,MEX
+shot,5:31,1787279801000,8,8,P2,"2PtsFG under the basket, layup made",104.0,319031.0,52,37000,Q1,135071,True,2.0,144.0,36.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,0.6,Less Than 8 ft.,269,MEX
+shot,5:17,1787279815000,8,8,P3,3pt jump shot from center missed,34.0,320676.0,53,38000,Q1,135071,False,3.0,189.0,166.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,13.5,8-16 ft.,283,CAN
+unknwown,5:15,1787279817000,8,8,REB,defensive rebound,104.0,319031.0,54,38002,Q1,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,285,MEX
+shot,5:04,1787279828000,8,8,P3,3pt jump shot missed,104.0,268451.0,55,39000,Q1,135071,False,3.0,7.0,40.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Right Corner 3,13.3,8-16 ft.,296,MEX
+unknwown,5:01,1787279831000,8,8,REB,defensive rebound,34.0,320676.0,56,39002,Q1,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,299,CAN
+shot,4:54,1787279839000,11,8,P3,3pt jump shot made,34.0,318775.0,57,40000,Q1,135071,True,3.0,229.0,135.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Above the Break 3,13.0,8-16 ft.,306,CAN
+unknwown,4:54,1787279839000,11,8,ASS,made the assist,34.0,250669.0,58,40001,Q1,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,306,CAN
+shot,4:37,1787279855000,11,8,P2,2pt pullup jump shot missed,104.0,213361.0,59,41000,Q1,135071,False,2.0,61.0,108.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,Mid-Range,10.4,8-16 ft.,323,MEX
+unknwown,4:34,1787279857000,11,8,REB,defensive rebound,34.0,172742.0,60,41002,Q1,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,326,CAN
+unknwown,4:24,1787279868000,11,8,TO,turnover; bad pass,34.0,320676.0,61,42000,Q1,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,336,CAN
+unknwown,4:24,1787279868000,11,8,ST,steal,104.0,213361.0,62,42001,Q1,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,336,MEX
+shot,4:09,1787279883000,11,8,P2,"2PtsFG under the basket, points after turnover, reverse lay-up missed",104.0,268370.0,63,43000,Q1,135071,False,2.0,122.0,30.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,Restricted Area,2.1,Less Than 8 ft.,351,MEX
+unknwown,4:06,1787279886000,11,8,REB,defensive rebound,34.0,250669.0,64,43002,Q1,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,354,CAN
+unknwown,3:57,1787279898000,11,8,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,66,45000,Q1,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,363,MEX
+unknwown,3:57,1787279898000,11,8,RFOUL,foul drawn,34.0,188714.0,67,45002,Q1,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,363,CAN
+subst,3:57,1787279926000,11,8,SUBST,Substitution out,34.0,172742.0,68,46000,Q1,135071,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,363,CAN
+subst,3:57,1787279926000,11,8,SUBST,Substitution out,34.0,318775.0,69,47000,Q1,135071,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,363,CAN
+subst,3:57,1787279926000,11,8,SUBST,Substitution in,34.0,217051.0,70,48000,Q1,135071,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q1,,,,363,CAN
+subst,3:57,1787279926000,11,8,SUBST,Substitution in,34.0,266912.0,71,49000,Q1,135071,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q1,,,,363,CAN
+subst,3:57,1787279926000,11,8,SUBST,Substitution out,104.0,319031.0,72,50000,Q1,135071,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,363,MEX
+subst,3:57,1787279926000,11,8,SUBST,Substitution out,104.0,215141.0,73,51000,Q1,135071,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,363,MEX
+subst,3:57,1787279926000,11,8,SUBST,Substitution out,104.0,213361.0,74,52000,Q1,135071,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,363,MEX
+subst,3:57,1787279926000,11,8,SUBST,Substitution in,104.0,227782.0,75,53000,Q1,135071,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q1,,,,363,MEX
+subst,3:57,1787279926000,11,8,SUBST,Substitution in,104.0,268375.0,76,54000,Q1,135071,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,363,MEX
+subst,3:57,1787279926000,11,8,SUBST,Substitution in,104.0,317694.0,77,55000,Q1,135071,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,363,MEX
+shot,3:57,1787279931000,12,8,FT,1st of 2 free throws made,34.0,188714.0,78,56000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q1,,14.6,8-16 ft.,363,CAN
+unknwown,3:57,1787279931000,12,8,ASS,made the assist,34.0,250669.0,79,56001,Q1,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,363,CAN
+shot,3:57,1787279944000,13,8,FT,2nd of 2 free throws made,34.0,188714.0,80,57000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q1,,14.6,8-16 ft.,363,CAN
+subst,3:57,1787279949000,13,8,SUBST,Substitution out,34.0,188714.0,81,58000,Q1,135071,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q1,,,,363,CAN
+subst,3:57,1787279949000,13,8,SUBST,Substitution in,34.0,297698.0,82,59000,Q1,135071,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q1,,,,363,CAN
+unknwown,3:40,1787279976000,13,8,FOUL,Personal foul; 2 free throws awarded,34.0,217051.0,85,62000,Q1,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,380,CAN
+unknwown,3:40,1787279976000,13,8,RFOUL,foul drawn,104.0,227782.0,86,62002,Q1,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,380,MEX
+shot,3:40,1787279995000,13,9,FT,1st of 2 free throws made,104.0,227782.0,87,63000,Q1,135071,True,1.0,0.0,0.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,,14.6,8-16 ft.,380,MEX
+shot,3:40,1787280006000,13,10,FT,2nd of 2 free throws made,104.0,227782.0,89,64000,Q1,135071,True,1.0,0.0,0.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,,14.6,8-16 ft.,380,MEX
+unknwown,3:30,1787280019000,13,10,TO,turnover; bad pass,34.0,250669.0,92,67000,Q1,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,390,CAN
+subst,3:30,1787280028000,13,10,SUBST,Substitution out,104.0,268370.0,93,68000,Q1,135071,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,390,MEX
+subst,3:30,1787280028000,13,10,SUBST,Substitution in,104.0,235869.0,94,69000,Q1,135071,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,390,MEX
+shot,3:23,1787280039000,13,13,P3,3pt pullup jump shot made,104.0,227782.0,96,71000,Q1,135071,True,3.0,197.0,152.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,Above the Break 3,12.6,8-16 ft.,397,MEX
+shot,3:01,1787280060000,13,13,P3,3pt jump shot missed,34.0,320676.0,97,72000,Q1,135071,False,3.0,272.0,29.0,,,34.0,Syla Swords,Canada,12.0,Q1,Left Corner 3,13.2,8-16 ft.,419,CAN
+unknwown,2:58,1787280062000,13,13,REB,defensive rebound,104.0,268451.0,98,72002,Q1,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,422,MEX
+shot,2:43,1787280077000,13,13,P3,3pt jump shot missed,104.0,227782.0,99,73000,Q1,135071,False,3.0,267.0,53.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,Left Corner 3,12.8,8-16 ft.,437,MEX
+unknwown,2:41,1787280079000,13,13,REB,defensive rebound,34.0,297698.0,100,73002,Q1,135071,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,439,CAN
+shot,2:24,1787280098000,13,13,P3,3pt jump shot missed,34.0,297698.0,101,74000,Q1,135071,False,3.0,86.0,153.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Above the Break 3,12.5,8-16 ft.,456,CAN
+unknwown,2:20,1787280100000,13,13,REB,offensive rebound,34.0,320676.0,102,74002,Q1,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,460,CAN
+shot,2:18,1787280103000,13,13,P3,3pt jump shot missed,34.0,320676.0,103,75000,Q1,135071,False,3.0,30.0,107.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,12.9,8-16 ft.,462,CAN
+unknwown,2:15,1787280105000,13,13,REB,offensive rebound,34.0,297698.0,104,75002,Q1,135071,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,465,CAN
+shot,2:12,1787280108000,15,13,P2,"2PtsFG under the basket, layup made",34.0,320676.0,105,76000,Q1,135071,True,2.0,126.0,26.0,,,34.0,Syla Swords,Canada,12.0,Q1,Restricted Area,2.0,Less Than 8 ft.,468,CAN
+shot,1:56,1787280125000,15,15,P2,"2PtsFG under the basket, driving layup made",104.0,268375.0,106,77000,Q1,135071,True,2.0,143.0,45.0,,,104.0,Morelia Chavez,Mexico,18.0,Q1,Restricted Area,0.6,Less Than 8 ft.,484,MEX
+unknwown,1:56,1787280125000,15,15,ASS,made the assist,104.0,227782.0,107,77001,Q1,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,484,MEX
+unknwown,1:43,1787280143000,15,15,FOUL,Personal foul; 2 free throws awarded,104.0,235869.0,109,79000,Q1,135071,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,497,MEX
+unknwown,1:43,1787280143000,15,15,RFOUL,foul drawn,34.0,217051.0,110,79002,Q1,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution out,34.0,266912.0,111,80000,Q1,135071,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution out,34.0,320676.0,112,81000,Q1,135071,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution out,34.0,250669.0,113,82000,Q1,135071,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution in,34.0,369879.0,114,83000,Q1,135071,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution in,34.0,172742.0,115,84000,Q1,135071,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution in,34.0,161433.0,116,85000,Q1,135071,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q1,,,,497,CAN
+subst,1:43,1787280160000,15,15,SUBST,Substitution out,104.0,268451.0,117,86000,Q1,135071,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q1,,,,497,MEX
+subst,1:43,1787280160000,15,15,SUBST,Substitution in,104.0,302969.0,118,87000,Q1,135071,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,497,MEX
+shot,1:43,1787280174000,16,15,FT,1st of 2 free throws made,34.0,217051.0,119,88000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,,14.6,8-16 ft.,497,CAN
+shot,1:43,1787280186000,17,15,FT,2nd of 2 free throws made,34.0,217051.0,120,89000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,,14.6,8-16 ft.,497,CAN
+shot,1:24,1787280210000,17,15,P3,3pt jump shot missed,104.0,317694.0,122,91000,Q1,135071,False,3.0,26.0,121.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,14.0,8-16 ft.,516,MEX
+unknwown,1:19,1787280213000,17,15,REB,defensive rebound,34.0,297698.0,123,91002,Q1,135071,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,521,CAN
+unknwown,1:13,1787280220000,17,15,FOUL,Personal foul; 2 free throws awarded,104.0,302969.0,125,93000,Q1,135071,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q1,,,,527,MEX
+unknwown,1:13,1787280220000,17,15,RFOUL,foul drawn,34.0,172742.0,126,93002,Q1,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,527,CAN
+shot,1:13,1787280242000,18,15,FT,1st of 2 free throws made,34.0,172742.0,127,94000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,14.6,8-16 ft.,527,CAN
+unknwown,1:13,1787280242000,18,15,ASS,made the assist,34.0,217051.0,128,94001,Q1,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,527,CAN
+shot,1:13,1787280259000,19,15,FT,2nd of 2 free throws made,34.0,172742.0,129,95000,Q1,135071,True,1.0,0.0,0.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,14.6,8-16 ft.,527,CAN
+shot,0:56,1787280282000,19,15,P3,3pt step back jump shot missed,104.0,235869.0,131,97000,Q1,135071,False,3.0,157.0,168.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q1,Above the Break 3,12.9,8-16 ft.,544,MEX
+unknwown,0:49,1787280285000,19,15,REB,defensive rebound,34.0,369879.0,132,97002,Q1,135071,,,,,,,34.0,Agot Makeer,Canada,1.0,Q1,,,,551,CAN
+shot,0:44,1787280290000,21,15,P2,"2PtsFG under the basket, driving layup made",34.0,369879.0,133,98000,Q1,135071,True,2.0,159.0,37.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Restricted Area,1.9,Less Than 8 ft.,556,CAN
+shot,0:28,1787280306000,21,18,P3,3pt jump shot made,104.0,302969.0,134,99000,Q1,135071,True,3.0,5.0,51.0,,,104.0,Loriette Maciel,Mexico,27.0,Q1,Right Corner 3,13.5,8-16 ft.,572,MEX
+unknwown,0:28,1787280306000,21,18,ASS,made the assist,104.0,227782.0,135,99001,Q1,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,572,MEX
+unknwown,0:07,1787280328000,21,18,TO,turnover; bad pass,34.0,217051.0,136,100000,Q1,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,593,CAN
+unknwown,0:07,1787280328000,21,18,ST,steal,104.0,317694.0,137,100001,Q1,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,593,MEX
+unknwown,0:03,1787280332000,21,18,TO,turnover; bad pass,104.0,317694.0,138,101000,Q1,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,597,MEX
+unknwown,0:03,1787280332000,21,18,ST,steal,34.0,172742.0,139,101001,Q1,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,597,CAN
+shot,0:00,1787280341000,23,18,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",34.0,369879.0,142,104000,Q1,135071,True,2.0,138.0,35.0,,,34.0,Agot Makeer,Canada,1.0,Q1,Restricted Area,0.5,Less Than 8 ft.,600,CAN
+unknwown,0:00,1787280341000,23,18,ASS,made the assist,34.0,172742.0,143,104001,Q1,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,600,CAN
+periods,0:00,1787280434000,23,18,ENDP,End of period,,,146,107000,Q1,135071,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787280470000,23,18,SUBST,Substitution out,34.0,217051.0,147,108000,Q2,135071,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q2,,,,600,CAN
+subst,10:00,1787280470000,23,18,SUBST,Substitution in,34.0,318775.0,148,109000,Q2,135071,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,600,CAN
+subst,10:00,1787280470000,23,18,SUBST,Substitution out,104.0,317694.0,149,110000,Q2,135071,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,600,MEX
+subst,10:00,1787280470000,23,18,SUBST,Substitution in,104.0,268451.0,150,111000,Q2,135071,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q2,,,,600,MEX
+periods,10:00,1787280488000,23,18,STARTP,Start of period,,,151,112000,Q2,135071,,,,,,,,,,,Q2,,,,600,
+unknwown,9:51,1787280501000,23,18,JS,jump ball situation; throw-in,104.0,,154,115000,Q2,135071,,,,,,,,,,,Q2,,,,609,
+unknwown,9:51,1787280504000,23,18,TO,turnover; ball handling,34.0,369879.0,155,116000,Q2,135071,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,609,CAN
+unknwown,9:51,1787280504000,23,18,ST,steal,104.0,268451.0,156,116001,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,609,MEX
+unknwown,9:37,1787280530000,23,18,TO,turnover; ball handling,104.0,302969.0,159,119000,Q2,135071,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,623,MEX
+shot,9:24,1787280552000,23,18,P2,2pt pullup jump shot missed,34.0,318775.0,161,121000,Q2,135071,False,2.0,86.0,52.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Mid-Range,5.5,Less Than 8 ft.,636,CAN
+unknwown,9:21,1787280555000,23,18,REB,defensive rebound,104.0,268451.0,162,121002,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,639,MEX
+shot,9:11,1787280565000,23,18,P3,3pt jump shot missed,104.0,302969.0,163,122000,Q2,135071,False,3.0,7.0,48.0,,,104.0,Loriette Maciel,Mexico,27.0,Q2,Right Corner 3,13.3,8-16 ft.,649,MEX
+unknwown,9:07,1787280569000,23,18,REB,offensive rebound,104.0,235869.0,164,122002,Q2,135071,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,653,MEX
+shot,9:06,1787280570000,23,21,P3,3pt jump shot made,104.0,268451.0,165,123000,Q2,135071,True,3.0,36.0,124.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Above the Break 3,13.4,8-16 ft.,654,MEX
+unknwown,9:06,1787280570000,23,21,ASS,made the assist,104.0,235869.0,166,123001,Q2,135071,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,654,MEX
+unknwown,8:54,1787280589000,23,21,FOUL,Personal foul,104.0,268375.0,168,125000,Q2,135071,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,666,MEX
+unknwown,8:54,1787280589000,23,21,RFOUL,foul drawn,34.0,172742.0,169,125002,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,666,CAN
+unknwown,8:48,1787280618000,23,21,FOUL,Personal foul; 2 free throws awarded,104.0,235869.0,172,128000,Q2,135071,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,672,MEX
+unknwown,8:48,1787280618000,23,21,RFOUL,foul drawn,34.0,318775.0,173,128002,Q2,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,672,CAN
+subst,8:48,1787280637000,23,21,SUBST,Substitution out,34.0,297698.0,174,129000,Q2,135071,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q2,,,,672,CAN
+subst,8:48,1787280637000,23,21,SUBST,Substitution in,34.0,320676.0,175,130000,Q2,135071,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q2,,,,672,CAN
+subst,8:48,1787280637000,23,21,SUBST,Substitution out,104.0,235869.0,176,131000,Q2,135071,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,672,MEX
+subst,8:48,1787280637000,23,21,SUBST,Substitution out,104.0,268375.0,177,132000,Q2,135071,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,672,MEX
+subst,8:48,1787280637000,23,21,SUBST,Substitution in,104.0,319031.0,178,133000,Q2,135071,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,672,MEX
+subst,8:48,1787280637000,23,21,SUBST,Substitution in,104.0,268370.0,179,134000,Q2,135071,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,672,MEX
+shot,8:48,1787280645000,23,21,FT,1st of 2 free throws missed,34.0,318775.0,180,135000,Q2,135071,False,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,14.6,8-16 ft.,672,CAN
+shot,8:48,1787280655000,23,21,FT,2nd of 2 free throws missed,34.0,318775.0,181,136000,Q2,135071,False,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,14.6,8-16 ft.,672,CAN
+unknwown,8:48,1787280656000,23,21,REB,defensive rebound,104.0,268370.0,183,136002,Q2,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,672,MEX
+unknwown,8:36,1787280673000,23,21,TO,turnover; double dribble,104.0,268451.0,185,139000,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,684,MEX
+subst,8:36,1787280682000,23,21,SUBST,Substitution out,104.0,227782.0,186,140000,Q2,135071,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q2,,,,684,MEX
+subst,8:36,1787280682000,23,21,SUBST,Substitution in,104.0,213361.0,187,141000,Q2,135071,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,684,MEX
+unknwown,8:25,1787280700000,23,21,FOUL,Personal foul; 2 free throws awarded,104.0,213361.0,190,144000,Q2,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,695,MEX
+unknwown,8:25,1787280700000,23,21,RFOUL,foul drawn,34.0,318775.0,191,144002,Q2,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,695,CAN
+shot,8:25,1787280721000,24,21,FT,1st of 2 free throws made,34.0,318775.0,192,145000,Q2,135071,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,14.6,8-16 ft.,695,CAN
+shot,8:25,1787280732000,25,21,FT,2nd of 2 free throws made,34.0,318775.0,193,146000,Q2,135071,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,14.6,8-16 ft.,695,CAN
+shot,8:04,1787280757000,25,21,P2,"2PtsFG under the basket, layup missed",104.0,268370.0,196,148000,Q2,135071,False,2.0,147.0,35.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Restricted Area,0.9,Less Than 8 ft.,716,MEX
+unknwown,8:00,1787280759000,25,21,REB,defensive rebound,34.0,369879.0,197,148002,Q2,135071,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,720,CAN
+unknwown,8:00,1787280762000,25,21,TO,turnover; double dribble,34.0,369879.0,199,150000,Q2,135071,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,720,CAN
+subst,8:00,1787280770000,25,21,SUBST,Substitution out,34.0,369879.0,200,151000,Q2,135071,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q2,,,,720,CAN
+subst,8:00,1787280770000,25,21,SUBST,Substitution in,34.0,368225.0,201,152000,Q2,135071,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q2,,,,720,CAN
+subst,8:00,1787280770000,25,21,SUBST,Substitution out,104.0,302969.0,202,153000,Q2,135071,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,720,MEX
+subst,8:00,1787280770000,25,21,SUBST,Substitution in,104.0,317694.0,203,154000,Q2,135071,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,720,MEX
+shot,7:47,1787280799000,25,21,P2,"2PtsFG under the basket, points after turnover, reverse lay-up missed",104.0,268451.0,205,156000,Q2,135071,False,2.0,152.0,26.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Restricted Area,1.8,Less Than 8 ft.,733,MEX
+unknwown,7:44,1787280801000,25,21,REB,defensive rebound,34.0,320676.0,206,156002,Q2,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,736,CAN
+unknwown,7:28,1787280820000,25,21,JS,jump ball situation; throw-in,34.0,,208,158000,Q2,135071,,,,,,,,,,,Q2,,,,752,
+shot,7:21,1787280858000,27,21,P2,layup made,34.0,318775.0,210,160000,Q2,135071,True,2.0,174.0,43.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,In The Paint (Non-RA),3.4,Less Than 8 ft.,759,CAN
+shot,7:07,1787280872000,27,24,P3,3pt step back jump shot made,104.0,317694.0,211,161000,Q2,135071,True,3.0,25.0,125.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,14.3,8-16 ft.,773,MEX
+unknwown,7:07,1787280872000,27,24,ASS,made the assist,104.0,268370.0,212,161001,Q2,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,773,MEX
+shot,6:47,1787280892000,27,24,P2,"2PtsFG inside right, jump shot missed",34.0,161433.0,213,162000,Q2,135071,False,2.0,190.0,106.0,,,34.0,Kayla Alexander,Canada,14.0,Q2,Mid-Range,8.3,8-16 ft.,793,CAN
+unknwown,6:44,1787280894000,27,24,REB,defensive rebound,104.0,268451.0,214,162002,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,796,MEX
+shot,6:25,1787280914000,27,24,P2,"2PtsFG under the basket, driving layup missed",104.0,319031.0,215,163000,Q2,135071,False,2.0,157.0,32.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,Restricted Area,1.9,Less Than 8 ft.,815,MEX
+unknwown,6:22,1787280916000,27,24,REB,defensive rebound,34.0,161433.0,216,163002,Q2,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q2,,,,818,CAN
+shot,6:06,1787280933000,29,24,P2,2pt floating jump shot made,34.0,318775.0,217,164000,Q2,135071,True,2.0,174.0,39.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,In The Paint (Non-RA),3.4,Less Than 8 ft.,834,CAN
+timeout,6:04,1787280941000,29,24,TIMO,Timeout,104.0,,219,166000,Q2,135071,,,,,,,,,,,Q2,,,,836,
+subst,6:04,1787281031000,29,24,SUBST,Substitution out,34.0,161433.0,220,167000,Q2,135071,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q2,,,,836,CAN
+subst,6:04,1787281031000,29,24,SUBST,Substitution in,34.0,342479.0,221,168000,Q2,135071,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q2,,,,836,CAN
+unknwown,5:50,1787281069000,29,24,FOUL,Offensive foul,104.0,268451.0,224,171000,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,850,MEX
+unknwown,5:50,1787281069000,29,24,TO,turnover,104.0,268451.0,225,171001,Q2,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,850,MEX
+unknwown,5:50,1787281069000,29,24,RFOUL,foul drawn,34.0,320676.0,226,171002,Q2,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,850,CAN
+shot,5:37,1787281111000,32,24,P3,3pt jump shot made,34.0,342479.0,228,173000,Q2,135071,True,3.0,80.0,158.0,,,34.0,Cearah Parchment,Canada,30.0,Q2,Above the Break 3,13.2,8-16 ft.,863,CAN
+unknwown,5:37,1787281111000,32,24,ASS,made the assist,34.0,320676.0,229,173001,Q2,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q2,,,,863,CAN
+unknwown,5:09,1787281139000,32,24,TTO,team turnover; shot clock violation,104.0,,231,175000,Q2,135071,,,,,,,,,,,Q2,,,,891,
+subst,5:09,1787281154000,32,24,SUBST,Substitution out,104.0,268451.0,232,176000,Q2,135071,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q2,,,,891,MEX
+subst,5:09,1787281154000,32,24,SUBST,Substitution in,104.0,215141.0,233,177000,Q2,135071,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,891,MEX
+shot,4:59,1787281172000,32,24,P3,3pt jump shot missed,34.0,320676.0,237,181000,Q2,135071,False,3.0,113.0,163.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,12.6,8-16 ft.,901,CAN
+unknwown,4:56,1787281174000,32,24,REB,offensive rebound,34.0,172742.0,238,181002,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,904,CAN
+unknwown,4:43,1787281187000,32,24,TO,turnover; ball handling,34.0,318775.0,239,182000,Q2,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,917,CAN
+unknwown,4:43,1787281187000,32,24,ST,steal,104.0,317694.0,240,182001,Q2,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,917,MEX
+shot,4:19,1787281212000,32,26,P2,2pt driving layup made,104.0,215141.0,241,183000,Q2,135071,True,2.0,139.0,85.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,In The Paint (Non-RA),4.5,Less Than 8 ft.,941,MEX
+shot,4:05,1787281226000,34,26,P2,"2PtsFG under the basket, layup made",34.0,320676.0,242,184000,Q2,135071,True,2.0,157.0,29.0,,,34.0,Syla Swords,Canada,12.0,Q2,Restricted Area,2.0,Less Than 8 ft.,955,CAN
+unknwown,4:05,1787281226000,34,26,ASS,made the assist,34.0,342479.0,243,184001,Q2,135071,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,955,CAN
+shot,3:43,1787281249000,34,29,P3,3pt jump shot from center made,104.0,317694.0,244,185000,Q2,135071,True,3.0,126.0,180.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,14.1,8-16 ft.,977,MEX
+unknwown,3:43,1787281249000,34,29,ASS,made the assist,104.0,213361.0,245,185001,Q2,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,977,MEX
+shot,3:21,1787281270000,34,29,P3,3pt jump shot missed,34.0,318775.0,246,186000,Q2,135071,False,3.0,7.0,25.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Right Corner 3,13.4,8-16 ft.,999,CAN
+unknwown,3:18,1787281272000,34,29,REB,offensive rebound,34.0,172742.0,247,186002,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1002,CAN
+shot,3:11,1787281280000,34,29,P3,3pt jump shot missed,34.0,368225.0,248,187000,Q2,135071,False,3.0,249.0,109.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,12.9,8-16 ft.,1009,CAN
+unknwown,3:08,1787281282000,34,29,REB,offensive rebound,34.0,342479.0,249,187002,Q2,135071,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1012,CAN
+shot,3:05,1787281286000,34,29,P2,"2PtsFG under the basket, layup missed",34.0,368225.0,251,189000,Q2,135071,False,2.0,124.0,28.0,,,34.0,Avery Howell,Canada,23.0,Q2,Restricted Area,2.0,Less Than 8 ft.,1015,CAN
+unknwown,3:04,1787281290000,34,29,REB,defensive rebound,104.0,268370.0,252,189002,Q2,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1016,MEX
+unknwown,3:04,1787281293000,34,29,FOUL,Personal foul,34.0,172742.0,253,190000,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1016,CAN
+unknwown,3:04,1787281293000,34,29,RFOUL,foul drawn,104.0,268370.0,254,190002,Q2,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1016,MEX
+subst,3:04,1787281302000,34,29,SUBST,Substitution out,34.0,318775.0,255,191000,Q2,135071,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,1016,CAN
+subst,3:04,1787281302000,34,29,SUBST,Substitution in,34.0,217051.0,256,192000,Q2,135071,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1016,CAN
+subst,3:04,1787281302000,34,29,SUBST,Substitution out,104.0,319031.0,257,193000,Q2,135071,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1016,MEX
+subst,3:04,1787281302000,34,29,SUBST,Substitution in,104.0,268375.0,258,194000,Q2,135071,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,1016,MEX
+shot,2:47,1787281323000,34,29,P3,3pt jump shot missed,104.0,268370.0,260,196000,Q2,135071,False,3.0,240.0,119.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Above the Break 3,12.7,8-16 ft.,1033,MEX
+unknwown,2:44,1787281326000,34,29,REB,defensive rebound,34.0,172742.0,261,196002,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1036,CAN
+unknwown,2:29,1787281343000,34,29,TO,turnover; travelling,34.0,342479.0,263,198000,Q2,135071,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1051,CAN
+shot,2:14,1787281377000,34,31,P2,2pt fadeaway jump shot made,104.0,317694.0,265,200000,Q2,135071,True,2.0,95.0,91.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,In The Paint (Non-RA),6.8,Less Than 8 ft.,1066,MEX
+shot,1:59,1787281393000,36,31,P2,2pt pullup jump shot made,34.0,320676.0,267,201000,Q2,135071,True,2.0,105.0,71.0,,,34.0,Syla Swords,Canada,12.0,Q2,In The Paint (Non-RA),4.7,Less Than 8 ft.,1081,CAN
+unknwown,1:59,1787281393000,36,31,ASS,made the assist,34.0,217051.0,268,201001,Q2,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1081,CAN
+shot,1:36,1787281415000,36,33,P2,"2PtsFG under the basket, reverse lay-up made",104.0,268370.0,269,202000,Q2,135071,True,2.0,128.0,31.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Restricted Area,1.5,Less Than 8 ft.,1104,MEX
+shot,1:23,1787281428000,36,33,P3,3pt jump shot missed,34.0,368225.0,270,203000,Q2,135071,False,3.0,52.0,138.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,13.2,8-16 ft.,1117,CAN
+unknwown,1:19,1787281431000,36,33,REB,defensive rebound,104.0,268370.0,271,203002,Q2,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1121,MEX
+shot,1:09,1787281442000,36,36,P3,3pt jump shot from center made,104.0,268370.0,272,204000,Q2,135071,True,3.0,158.0,166.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Above the Break 3,12.7,8-16 ft.,1131,MEX
+unknwown,1:09,1787281442000,36,36,ASS,made the assist,104.0,317694.0,273,204001,Q2,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1131,MEX
+shot,0:51,1787281459000,36,36,P3,3pt jump shot missed,34.0,342479.0,274,205000,Q2,135071,False,3.0,62.0,148.0,,,34.0,Cearah Parchment,Canada,30.0,Q2,Above the Break 3,13.3,8-16 ft.,1149,CAN
+unknwown,0:45,1787281465000,36,36,REB,offensive rebound,34.0,172742.0,275,205002,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1155,CAN
+shot,0:42,1787281468000,39,36,P3,3pt jump shot made,34.0,368225.0,276,206000,Q2,135071,True,3.0,28.0,107.0,,,34.0,Avery Howell,Canada,23.0,Q2,Above the Break 3,13.1,8-16 ft.,1158,CAN
+unknwown,0:42,1787281468000,39,36,ASS,made the assist,34.0,172742.0,277,206001,Q2,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1158,CAN
+unknwown,0:28,1787281499000,39,36,FOUL,Personal foul,34.0,342479.0,279,208000,Q2,135071,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1172,CAN
+unknwown,0:28,1787281499000,39,36,RFOUL,foul drawn,104.0,213361.0,280,208002,Q2,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1172,MEX
+timeout,0:28,1787281515000,39,36,TIMO,Timeout,104.0,,281,209000,Q2,135071,,,,,,,,,,,Q2,,,,1172,
+subst,0:28,1787281589000,39,36,SUBST,Substitution out,34.0,172742.0,282,210000,Q2,135071,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,1172,CAN
+subst,0:28,1787281589000,39,36,SUBST,Substitution out,34.0,342479.0,283,211000,Q2,135071,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1172,CAN
+subst,0:28,1787281589000,39,36,SUBST,Substitution in,34.0,266912.0,284,212000,Q2,135071,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q2,,,,1172,CAN
+subst,0:28,1787281589000,39,36,SUBST,Substitution in,34.0,161433.0,285,213000,Q2,135071,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q2,,,,1172,CAN
+subst,0:28,1787281589000,39,36,SUBST,Substitution out,104.0,215141.0,286,214000,Q2,135071,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1172,MEX
+subst,0:28,1787281589000,39,36,SUBST,Substitution in,104.0,227782.0,287,215000,Q2,135071,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q2,,,,1172,MEX
+shot,0:23,1787281605000,39,36,P2,"2PtsFG inside left, jump shot missed",104.0,317694.0,289,217000,Q2,135071,False,2.0,37.0,58.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Mid-Range,10.5,8-16 ft.,1177,MEX
+unknwown,0:19,1787281608000,39,36,REB,defensive rebound,34.0,266912.0,290,217002,Q2,135071,,,,,,,34.0,Tara Wallack,Canada,8.0,Q2,,,,1181,CAN
+shot,0:04,1787281624000,41,36,P2,"2PtsFG under the basket, driving layup made",34.0,217051.0,291,218000,Q2,135071,True,2.0,137.0,29.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Restricted Area,1.1,Less Than 8 ft.,1196,CAN
+periods,0:00,1787281814000,41,36,ENDP,End of period,,,295,222000,Q2,135071,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,34.0,217051.0,296,223000,Q3,135071,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,34.0,266912.0,297,224000,Q3,135071,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,34.0,368225.0,298,225000,Q3,135071,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,34.0,188714.0,299,226000,Q3,135071,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,34.0,172742.0,300,227000,Q3,135071,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,34.0,318775.0,301,228000,Q3,135071,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1200,CAN
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,104.0,227782.0,302,229000,Q3,135071,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1200,MEX
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,104.0,268375.0,303,230000,Q3,135071,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1200,MEX
+subst,10:00,1787282529000,41,36,SUBST,Substitution out,104.0,317694.0,304,231000,Q3,135071,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1200,MEX
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,104.0,319031.0,305,232000,Q3,135071,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1200,MEX
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,104.0,215141.0,306,233000,Q3,135071,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1200,MEX
+subst,10:00,1787282529000,41,36,SUBST,Substitution in,104.0,268451.0,307,234000,Q3,135071,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1200,MEX
+periods,10:00,1787282544000,41,36,STARTP,Start of period,,,308,235000,Q3,135071,,,,,,,,,,,Q3,,,,1200,
+shot,9:44,1787282561000,41,38,P2,"2PtsFG under the basket, reverse lay-up made",104.0,213361.0,310,237000,Q3,135071,True,2.0,136.0,28.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,Restricted Area,1.3,Less Than 8 ft.,1216,MEX
+unknwown,9:44,1787282561000,41,38,ASS,made the assist,104.0,268451.0,311,237001,Q3,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1216,MEX
+shot,9:15,1787282590000,41,38,P2,2pt floating jump shot missed,34.0,318775.0,312,238000,Q3,135071,False,2.0,70.0,117.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Mid-Range,10.4,8-16 ft.,1245,CAN
+unknwown,9:11,1787282593000,41,38,REB,defensive rebound,104.0,268370.0,313,238002,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1249,MEX
+shot,9:04,1787282602000,41,38,P3,3pt jump shot missed,104.0,268370.0,314,239000,Q3,135071,False,3.0,190.0,158.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,12.8,8-16 ft.,1256,MEX
+unknwown,9:00,1787282604000,41,38,REB,defensive rebound,34.0,188714.0,315,239002,Q3,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1260,CAN
+shot,8:52,1787282613000,41,38,P2,"2PtsFG under the basket, layup missed",34.0,172742.0,316,240000,Q3,135071,False,2.0,130.0,29.0,,,34.0,Yvonne Ejim,Canada,9.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1268,CAN
+unknwown,8:51,1787282619000,41,38,TREB,team defensive rebound,104.0,,318,240002,Q3,135071,,,,,,,,,,,Q3,,,,1269,
+shot,8:40,1787282644000,41,38,P3,3pt jump shot missed,104.0,319031.0,320,243000,Q3,135071,False,3.0,271.0,39.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Left Corner 3,13.1,8-16 ft.,1280,MEX
+unknwown,8:35,1787282648000,41,38,REB,defensive rebound,34.0,161433.0,321,243002,Q3,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1285,CAN
+shot,8:21,1787282663000,44,38,P3,3pt jump shot made,34.0,320676.0,322,244000,Q3,135071,True,3.0,38.0,135.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.9,8-16 ft.,1299,CAN
+unknwown,8:21,1787282663000,44,38,ASS,made the assist,34.0,188714.0,323,244001,Q3,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1299,CAN
+shot,8:02,1787282694000,44,38,P3,3pt jump shot missed,104.0,268451.0,326,247000,Q3,135071,False,3.0,223.0,146.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,Above the Break 3,13.5,8-16 ft.,1318,MEX
+unknwown,7:57,1787282698000,44,38,REB,defensive rebound,34.0,172742.0,327,247002,Q3,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1323,CAN
+shot,7:51,1787282705000,46,38,P2,layup made,34.0,161433.0,328,248000,Q3,135071,True,2.0,102.0,39.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,In The Paint (Non-RA),3.8,Less Than 8 ft.,1329,CAN
+unknwown,7:51,1787282705000,46,38,ASS,made the assist,34.0,318775.0,329,248001,Q3,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1329,CAN
+shot,7:38,1787282718000,46,41,P3,3pt jump shot made,104.0,268370.0,330,249000,Q3,135071,True,3.0,207.0,158.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,13.6,8-16 ft.,1342,MEX
+unknwown,7:38,1787282718000,46,41,ASS,made the assist,104.0,215141.0,331,249001,Q3,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1342,MEX
+shot,7:17,1787282739000,46,41,P2,"2PtsFG under the basket, driving layup missed",34.0,188714.0,332,250000,Q3,135071,False,2.0,150.0,35.0,,,34.0,Sami Hill,Canada,4.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1363,CAN
+unknwown,7:14,1787282741000,46,41,REB,defensive rebound,104.0,268370.0,333,250002,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1366,MEX
+shot,7:06,1787282749000,46,43,P2,"2PtsFG under the basket, layup made",104.0,319031.0,334,251000,Q3,135071,True,2.0,129.0,30.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1374,MEX
+unknwown,6:50,1787282768000,46,43,FOUL,Offensive foul,34.0,161433.0,336,253000,Q3,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1390,CAN
+unknwown,6:50,1787282768000,46,43,TO,turnover,34.0,161433.0,337,253001,Q3,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1390,CAN
+unknwown,6:50,1787282768000,46,43,RFOUL,foul drawn,104.0,268451.0,338,253002,Q3,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1390,MEX
+shot,6:35,1787282796000,46,43,P3,3pt jump shot missed,104.0,268370.0,340,255000,Q3,135071,False,3.0,213.0,149.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,13.1,8-16 ft.,1405,MEX
+unknwown,6:32,1787282799000,46,43,REB,defensive rebound,34.0,172742.0,341,255002,Q3,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1408,CAN
+shot,6:19,1787282812000,49,43,P3,3pt jump shot from center made,34.0,320676.0,342,256000,Q3,135071,True,3.0,189.0,164.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.3,8-16 ft.,1421,CAN
+unknwown,6:19,1787282812000,49,43,ASS,made the assist,34.0,172742.0,343,256001,Q3,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1421,CAN
+shot,5:56,1787282835000,49,45,P2,2pt step back jump shot made,104.0,213361.0,344,257000,Q3,135071,True,2.0,237.0,86.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,Mid-Range,10.7,8-16 ft.,1444,MEX
+shot,5:30,1787282861000,49,45,P3,3pt pullup jump shot missed,34.0,320676.0,345,258000,Q3,135071,False,3.0,80.0,156.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.1,8-16 ft.,1470,CAN
+unknwown,5:28,1787282863000,49,45,REB,offensive rebound,34.0,320676.0,347,258002,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1472,CAN
+unknwown,5:28,1787282866000,49,45,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,348,260000,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1472,MEX
+unknwown,5:28,1787282866000,49,45,RFOUL,foul drawn,34.0,320676.0,349,260002,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1472,CAN
+subst,5:28,1787282905000,49,45,SUBST,Substitution out,34.0,318775.0,350,261000,Q3,135071,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1472,CAN
+subst,5:28,1787282905000,49,45,SUBST,Substitution out,34.0,161433.0,351,262000,Q3,135071,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1472,CAN
+subst,5:28,1787282905000,49,45,SUBST,Substitution in,34.0,297698.0,352,263000,Q3,135071,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1472,CAN
+subst,5:28,1787282905000,49,45,SUBST,Substitution in,34.0,250669.0,353,264000,Q3,135071,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q3,,,,1472,CAN
+shot,5:28,1787282909000,50,45,FT,1st of 2 free throws made,34.0,320676.0,354,265000,Q3,135071,True,1.0,0.0,0.0,,,34.0,Syla Swords,Canada,12.0,Q3,,14.6,8-16 ft.,1472,CAN
+shot,5:28,1787282922000,51,45,FT,2nd of 2 free throws made,34.0,320676.0,355,266000,Q3,135071,True,1.0,0.0,0.0,,,34.0,Syla Swords,Canada,12.0,Q3,,14.6,8-16 ft.,1472,CAN
+unknwown,5:15,1787282938000,51,45,TO,turnover; ball handling,104.0,319031.0,357,268000,Q3,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1485,MEX
+unknwown,5:15,1787282938000,51,45,ST,steal,34.0,250669.0,358,268001,Q3,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1485,CAN
+unknwown,4:55,1787282958000,51,45,TO,turnover; bad pass,34.0,172742.0,359,269000,Q3,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1505,CAN
+unknwown,4:55,1787282958000,51,45,ST,steal,104.0,268370.0,360,269001,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1505,MEX
+shot,4:49,1787282965000,51,45,P3,3pt jump shot missed,104.0,215141.0,361,270000,Q3,135071,False,3.0,259.0,100.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,Above the Break 3,13.3,8-16 ft.,1511,MEX
+unknwown,4:46,1787282967000,51,45,REB,defensive rebound,34.0,172742.0,362,270002,Q3,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1514,CAN
+shot,4:33,1787282980000,51,45,P3,3pt jump shot missed,34.0,320676.0,363,271000,Q3,135071,False,3.0,217.0,148.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.3,8-16 ft.,1527,CAN
+unknwown,4:29,1787282984000,51,45,REB,offensive rebound,34.0,320676.0,364,271002,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1531,CAN
+shot,4:27,1787282989000,54,45,P3,3pt jump shot made,34.0,188714.0,366,273000,Q3,135071,True,3.0,244.0,109.0,,,34.0,Sami Hill,Canada,4.0,Q3,Above the Break 3,12.5,8-16 ft.,1533,CAN
+unknwown,4:27,1787282989000,54,45,ASS,made the assist,34.0,320676.0,367,273001,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1533,CAN
+unknwown,4:27,1787282992000,54,45,FOUL,Personal foul; 1 free throw awarded,104.0,213361.0,368,274000,Q3,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1533,MEX
+unknwown,4:27,1787282992000,54,45,RFOUL,foul drawn,34.0,188714.0,369,274002,Q3,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1533,CAN
+subst,4:27,1787283019000,54,45,SUBST,Substitution out,34.0,172742.0,370,275000,Q3,135071,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1533,CAN
+subst,4:27,1787283019000,54,45,SUBST,Substitution in,34.0,266912.0,371,276000,Q3,135071,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q3,,,,1533,CAN
+subst,4:27,1787283019000,54,45,SUBST,Substitution out,104.0,319031.0,372,277000,Q3,135071,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1533,MEX
+subst,4:27,1787283019000,54,45,SUBST,Substitution out,104.0,213361.0,373,278000,Q3,135071,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1533,MEX
+subst,4:27,1787283019000,54,45,SUBST,Substitution out,104.0,268451.0,374,279000,Q3,135071,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1533,MEX
+subst,4:27,1787283019000,54,45,SUBST,Substitution in,104.0,227782.0,375,280000,Q3,135071,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1533,MEX
+subst,4:27,1787283019000,54,45,SUBST,Substitution in,104.0,268375.0,376,281000,Q3,135071,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1533,MEX
+subst,4:27,1787283019000,54,45,SUBST,Substitution in,104.0,317694.0,377,282000,Q3,135071,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1533,MEX
+shot,4:27,1787283031000,54,45,FT,free throw missed,34.0,188714.0,378,283000,Q3,135071,False,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q3,,14.6,8-16 ft.,1533,CAN
+unknwown,4:27,1787283032000,54,45,REB,offensive rebound,34.0,266912.0,380,283002,Q3,135071,,,,,,,34.0,Tara Wallack,Canada,8.0,Q3,,,,1533,CAN
+shot,4:21,1787283038000,54,45,P3,3pt jump shot missed,34.0,320676.0,381,285000,Q3,135071,False,3.0,242.0,125.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.3,8-16 ft.,1539,CAN
+unknwown,4:18,1787283041000,54,45,REB,defensive rebound,104.0,268370.0,382,285002,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1542,MEX
+shot,4:05,1787283055000,54,45,P3,3pt jump shot missed,104.0,227782.0,383,286000,Q3,135071,False,3.0,220.0,153.0,,,104.0,Karina Esquer,Mexico,4.0,Q3,Above the Break 3,13.8,8-16 ft.,1555,MEX
+unknwown,4:01,1787283058000,54,45,REB,defensive rebound,34.0,297698.0,384,286002,Q3,135071,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1559,CAN
+unknwown,3:54,1787283069000,54,45,TO,turnover; bad pass,34.0,250669.0,386,288000,Q3,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1566,CAN
+shot,3:42,1787283089000,54,48,P3,3pt jump shot made,104.0,268370.0,388,290000,Q3,135071,True,3.0,238.0,132.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,13.4,8-16 ft.,1578,MEX
+unknwown,3:42,1787283089000,54,48,ASS,made the assist,104.0,215141.0,389,290001,Q3,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1578,MEX
+shot,3:18,1787283112000,54,48,P3,3pt jump shot missed,34.0,320676.0,390,291000,Q3,135071,False,3.0,268.0,75.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,13.3,8-16 ft.,1602,CAN
+unknwown,3:17,1787283117000,54,48,TREB,team defensive rebound,104.0,,392,291002,Q3,135071,,,,,,,,,,,Q3,,,,1603,
+unknwown,3:17,1787283120000,54,48,FOUL,Personal foul,34.0,250669.0,393,293000,Q3,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1603,CAN
+unknwown,3:17,1787283120000,54,48,RFOUL,foul drawn,104.0,268370.0,394,293002,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1603,MEX
+subst,3:17,1787283131000,54,48,SUBST,Substitution out,34.0,250669.0,395,294000,Q3,135071,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q3,,,,1603,CAN
+subst,3:17,1787283131000,54,48,SUBST,Substitution in,34.0,161433.0,396,295000,Q3,135071,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1603,CAN
+shot,2:56,1787283155000,54,48,P2,2pt fadeaway jump shot missed,104.0,317694.0,398,297000,Q3,135071,False,2.0,107.0,82.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,In The Paint (Non-RA),5.3,Less Than 8 ft.,1624,MEX
+unknwown,2:53,1787283158000,54,48,REB,defensive rebound,34.0,320676.0,399,297002,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1627,CAN
+shot,2:31,1787283181000,54,48,P3,3pt pullup jump shot missed,34.0,320676.0,400,298000,Q3,135071,False,3.0,65.0,161.0,,,34.0,Syla Swords,Canada,12.0,Q3,Above the Break 3,14.2,8-16 ft.,1649,CAN
+unknwown,2:27,1787283184000,54,48,REB,defensive rebound,104.0,227782.0,401,298002,Q3,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1653,MEX
+shot,2:15,1787283197000,54,50,P2,"2PtsFG under the basket, reverse lay-up made",104.0,268370.0,403,300000,Q3,135071,True,2.0,127.0,32.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1665,MEX
+unknwown,2:15,1787283197000,54,50,ASS,made the assist,104.0,227782.0,404,300001,Q3,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1665,MEX
+timeout,2:14,1787283204000,54,50,TIMO,Timeout,34.0,,405,301000,Q3,135071,,,,,,,,,,,Q3,,,,1666,
+shot,2:02,1787283310000,54,50,P3,3pt jump shot missed,34.0,266912.0,407,303000,Q3,135071,False,3.0,234.0,129.0,,,34.0,Tara Wallack,Canada,8.0,Q3,Above the Break 3,12.9,8-16 ft.,1678,CAN
+unknwown,1:56,1787283315000,54,50,REB,defensive rebound,104.0,227782.0,408,303002,Q3,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1684,MEX
+unknwown,1:51,1787283323000,54,50,FOUL,Personal foul,34.0,320676.0,410,305000,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1689,CAN
+unknwown,1:51,1787283323000,54,50,RFOUL,foul drawn,104.0,268375.0,411,305002,Q3,135071,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1689,MEX
+shot,1:48,1787283347000,54,53,P3,3pt jump shot made,104.0,268370.0,413,307000,Q3,135071,True,3.0,29.0,109.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,13.1,8-16 ft.,1692,MEX
+unknwown,1:48,1787283347000,54,53,ASS,made the assist,104.0,317694.0,414,307001,Q3,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1692,MEX
+shot,1:27,1787283367000,54,53,P2,"2PtsFG inside center, jump shot missed",34.0,161433.0,415,308000,Q3,135071,False,2.0,173.0,105.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,Mid-Range,7.3,Less Than 8 ft.,1713,CAN
+unknwown,1:24,1787283370000,54,53,REB,offensive rebound,34.0,266912.0,416,308002,Q3,135071,,,,,,,34.0,Tara Wallack,Canada,8.0,Q3,,,,1716,CAN
+shot,1:20,1787283375000,54,53,P3,3pt jump shot missed,34.0,297698.0,417,309000,Q3,135071,False,3.0,16.0,135.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Above the Break 3,15.6,8-16 ft.,1720,CAN
+unknwown,1:15,1787283378000,54,53,REB,defensive rebound,104.0,268370.0,418,309002,Q3,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1725,MEX
+unknwown,1:02,1787283393000,54,53,TO,turnover; bad pass,104.0,317694.0,420,311000,Q3,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1738,MEX
+subst,1:02,1787283406000,54,53,SUBST,Substitution out,34.0,188714.0,421,312000,Q3,135071,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q3,,,,1738,CAN
+subst,1:02,1787283406000,54,53,SUBST,Substitution in,34.0,217051.0,422,313000,Q3,135071,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1738,CAN
+subst,1:02,1787283414000,54,53,SUBST,Substitution out,104.0,215141.0,423,314000,Q3,135071,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1738,MEX
+subst,1:02,1787283414000,54,53,SUBST,Substitution in,104.0,213361.0,424,315000,Q3,135071,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1738,MEX
+shot,0:52,1787283432000,57,53,P3,3pt jump shot made,34.0,266912.0,426,317000,Q3,135071,True,3.0,154.0,167.0,,,34.0,Tara Wallack,Canada,8.0,Q3,Above the Break 3,12.8,8-16 ft.,1748,CAN
+unknwown,0:52,1787283432000,57,53,ASS,made the assist,34.0,217051.0,427,317001,Q3,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1748,CAN
+shot,0:24,1787283459000,57,53,P3,3pt jump shot missed,104.0,227782.0,428,318000,Q3,135071,False,3.0,240.0,150.0,,,104.0,Karina Esquer,Mexico,4.0,Q3,Above the Break 3,14.9,8-16 ft.,1776,MEX
+unknwown,0:20,1787283462000,57,53,REB,defensive rebound,34.0,217051.0,429,318002,Q3,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1780,CAN
+unknwown,0:01,1787283484000,57,53,TO,turnover; out of bounds,34.0,320676.0,431,320000,Q3,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1799,CAN
+shot,0:01,1787283511000,57,53,P3,"3PtsFG back court, points after turnover, pullup jump shot missed",104.0,317694.0,432,321000,Q3,135071,False,3.0,26.0,234.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,22.5,22+ ft.,1799,MEX
+periods,0:00,1787283522000,57,53,ENDP,End of period,,,435,324000,Q3,135071,,,,,,,,,,,Q3,,,,1800,
+periods,10:00,1787283655000,57,53,STARTP,Start of period,,,436,325000,Q4,135071,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:48,1787283670000,57,53,FOUL,Personal foul; 2 free throws awarded,104.0,227782.0,439,328000,Q4,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,1812,MEX
+unknwown,9:48,1787283670000,57,53,RFOUL,foul drawn,34.0,217051.0,440,328002,Q4,135071,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,1812,CAN
+shot,9:48,1787283692000,57,53,FT,1st of 2 free throws missed,34.0,217051.0,441,329000,Q4,135071,False,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,,14.6,8-16 ft.,1812,CAN
+shot,9:48,1787283709000,57,53,FT,2nd of 2 free throws missed,34.0,217051.0,442,330000,Q4,135071,False,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,,14.6,8-16 ft.,1812,CAN
+unknwown,9:48,1787283712000,57,53,REB,defensive rebound,104.0,268370.0,444,330002,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1812,MEX
+shot,9:38,1787283723000,57,55,P2,2pt jump shot made,104.0,213361.0,445,332000,Q4,135071,True,2.0,135.0,100.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,In The Paint (Non-RA),6.0,Less Than 8 ft.,1822,MEX
+shot,9:15,1787283747000,60,55,P3,3pt jump shot made,34.0,320676.0,446,333000,Q4,135071,True,3.0,253.0,110.0,,,34.0,Syla Swords,Canada,12.0,Q4,Above the Break 3,13.3,8-16 ft.,1845,CAN
+unknwown,9:15,1787283747000,60,55,ASS,made the assist,34.0,161433.0,447,333001,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1845,CAN
+shot,8:57,1787283765000,60,55,P3,3pt jump shot missed,104.0,213361.0,448,334000,Q4,135071,False,3.0,269.0,22.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Left Corner 3,13.0,8-16 ft.,1863,MEX
+unknwown,8:52,1787283769000,60,55,REB,defensive rebound,34.0,297698.0,449,334002,Q4,135071,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1868,CAN
+shot,8:37,1787283784000,60,55,P3,3pt jump shot missed,34.0,297698.0,450,335000,Q4,135071,False,3.0,18.0,100.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Above the Break 3,13.6,8-16 ft.,1883,CAN
+unknwown,8:34,1787283786000,60,55,REB,defensive rebound,104.0,268370.0,451,335002,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1886,MEX
+unknwown,8:26,1787283795000,60,55,TO,turnover; ball handling,104.0,268370.0,452,336000,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1894,MEX
+unknwown,8:26,1787283795000,60,55,ST,steal,34.0,161433.0,453,336001,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1894,CAN
+shot,8:21,1787283800000,60,55,P2,"2PtsFG under the basket, points after turnover, layup missed",34.0,320676.0,454,337000,Q4,135071,False,2.0,159.0,32.0,,,34.0,Syla Swords,Canada,12.0,Q4,Restricted Area,2.1,Less Than 8 ft.,1899,CAN
+unknwown,8:21,1787283800000,60,55,BS,blocked the shot,104.0,317694.0,455,337001,Q4,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1899,MEX
+unknwown,8:18,1787283803000,60,55,REB,defensive rebound,104.0,317694.0,456,337002,Q4,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1902,MEX
+shot,8:15,1787283807000,60,58,P3,3pt jump shot made,104.0,227782.0,457,338000,Q4,135071,True,3.0,241.0,120.0,,,104.0,Karina Esquer,Mexico,4.0,Q4,Above the Break 3,12.9,8-16 ft.,1905,MEX
+unknwown,8:15,1787283807000,60,58,ASS,made the assist,104.0,213361.0,458,338001,Q4,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,1905,MEX
+subst,7:50,1787283847000,60,58,SUBST,Substitution out,34.0,297698.0,462,342000,Q4,135071,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1930,CAN
+subst,7:50,1787283847000,60,58,SUBST,Substitution out,34.0,217051.0,463,343000,Q4,135071,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q4,,,,1930,CAN
+subst,7:50,1787283847000,60,58,SUBST,Substitution in,34.0,318775.0,464,344000,Q4,135071,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1930,CAN
+subst,7:50,1787283847000,60,58,SUBST,Substitution in,34.0,368225.0,465,345000,Q4,135071,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q4,,,,1930,CAN
+subst,7:50,1787283847000,60,58,SUBST,Substitution out,104.0,268375.0,466,346000,Q4,135071,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,1930,MEX
+subst,7:50,1787283847000,60,58,SUBST,Substitution in,104.0,268451.0,467,347000,Q4,135071,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,1930,MEX
+shot,7:45,1787283859000,62,58,P2,"2PtsFG under the basket, layup made",34.0,161433.0,469,349000,Q4,135071,True,2.0,155.0,43.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,Restricted Area,1.5,Less Than 8 ft.,1935,CAN
+unknwown,7:45,1787283859000,62,58,ASS,made the assist,34.0,368225.0,470,349001,Q4,135071,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,1935,CAN
+shot,7:26,1787283876000,62,58,P3,3pt jump shot missed,104.0,317694.0,471,350000,Q4,135071,False,3.0,52.0,138.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Above the Break 3,13.2,8-16 ft.,1954,MEX
+unknwown,7:23,1787283879000,62,58,REB,defensive rebound,34.0,318775.0,472,350002,Q4,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1957,CAN
+shot,7:14,1787283888000,62,58,P2,2pt hook shot missed,34.0,161433.0,473,351000,Q4,135071,False,2.0,147.0,51.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,In The Paint (Non-RA),1.3,Less Than 8 ft.,1966,CAN
+unknwown,7:09,1787283893000,62,58,REB,defensive rebound,104.0,268370.0,474,351002,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1971,MEX
+shot,6:52,1787283911000,62,58,P2,2pt step back jump shot missed,104.0,268370.0,475,352000,Q4,135071,False,2.0,210.0,30.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Mid-Range,7.1,Less Than 8 ft.,1988,MEX
+unknwown,6:49,1787283913000,62,58,REB,defensive rebound,34.0,368225.0,476,352002,Q4,135071,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,1991,CAN
+unknwown,6:38,1787283925000,62,58,TO,turnover; ball handling,34.0,161433.0,478,353000,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2002,CAN
+unknwown,6:38,1787283925000,62,58,ST,steal,104.0,227782.0,479,353001,Q4,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2002,MEX
+shot,6:34,1787283929000,62,58,P3,3pt jump shot missed,104.0,213361.0,480,354000,Q4,135071,False,3.0,229.0,141.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Above the Break 3,13.5,8-16 ft.,2006,MEX
+unknwown,6:29,1787283933000,62,58,REB,defensive rebound,34.0,320676.0,481,354002,Q4,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2011,CAN
+shot,6:19,1787283945000,64,58,P2,2pt step back jump shot made,34.0,318775.0,482,355000,Q4,135071,True,2.0,188.0,135.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Mid-Range,10.6,8-16 ft.,2021,CAN
+shot,5:59,1787283964000,64,58,P3,3pt jump shot missed,104.0,317694.0,483,356000,Q4,135071,False,3.0,35.0,119.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Above the Break 3,13.1,8-16 ft.,2041,MEX
+unknwown,5:56,1787283966000,64,58,REB,defensive rebound,34.0,320676.0,484,356002,Q4,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2044,CAN
+unknwown,5:42,1787283983000,64,58,FOUL,Personal foul,104.0,227782.0,486,358000,Q4,135071,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2058,MEX
+unknwown,5:42,1787283983000,64,58,RFOUL,foul drawn,34.0,320676.0,487,358002,Q4,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,34.0,266912.0,488,359000,Q4,135071,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,34.0,320676.0,489,360000,Q4,135071,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,34.0,161433.0,490,361000,Q4,135071,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,34.0,297698.0,491,362000,Q4,135071,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,34.0,172742.0,492,363000,Q4,135071,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,34.0,250669.0,493,364000,Q4,135071,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q4,,,,2058,CAN
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,104.0,268370.0,494,365000,Q4,135071,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2058,MEX
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,104.0,213361.0,495,366000,Q4,135071,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2058,MEX
+subst,5:42,1787284014000,64,58,SUBST,Substitution out,104.0,317694.0,496,367000,Q4,135071,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2058,MEX
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,104.0,319031.0,497,368000,Q4,135071,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2058,MEX
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,104.0,235869.0,498,369000,Q4,135071,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,2058,MEX
+subst,5:42,1787284014000,64,58,SUBST,Substitution in,104.0,302969.0,499,370000,Q4,135071,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2058,MEX
+shot,5:39,1787284019000,64,58,P2,"2PtsFG inside right wing, jump shot missed",34.0,318775.0,501,372000,Q4,135071,False,2.0,233.0,44.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Mid-Range,9.3,8-16 ft.,2061,CAN
+unknwown,5:36,1787284025000,64,58,TREB,team offensive rebound,34.0,,503,372002,Q4,135071,,,,,,,,,,,Q4,,,,2064,
+unknwown,5:36,1787284029000,64,58,FOUL,Personal foul,104.0,235869.0,504,374000,Q4,135071,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,2064,MEX
+unknwown,5:36,1787284029000,64,58,RFOUL,foul drawn,34.0,172742.0,505,374002,Q4,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2064,CAN
+shot,5:36,1787284042000,64,58,P2,"2PtsFG under the basket, layup missed",34.0,368225.0,507,376000,Q4,135071,False,2.0,149.0,21.0,,,34.0,Avery Howell,Canada,23.0,Q4,Restricted Area,2.1,Less Than 8 ft.,2064,CAN
+unknwown,5:32,1787284044000,64,58,REB,defensive rebound,104.0,268451.0,508,376002,Q4,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2068,MEX
+shot,5:23,1787284054000,64,58,P3,3pt jump shot missed,104.0,268451.0,509,377000,Q4,135071,False,3.0,261.0,99.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Above the Break 3,13.5,8-16 ft.,2077,MEX
+unknwown,5:19,1787284058000,64,58,REB,defensive rebound,34.0,368225.0,510,377002,Q4,135071,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2081,CAN
+shot,5:10,1787284067000,64,58,P3,3pt jump shot missed,34.0,318775.0,511,378000,Q4,135071,False,3.0,87.0,162.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Above the Break 3,13.3,8-16 ft.,2090,CAN
+unknwown,5:06,1787284071000,64,58,REB,offensive rebound,34.0,368225.0,512,378002,Q4,135071,,,,,,,34.0,Avery Howell,Canada,23.0,Q4,,,,2094,CAN
+shot,4:55,1787284081000,64,58,P2,2pt pullup jump shot missed,34.0,318775.0,513,379000,Q4,135071,False,2.0,178.0,43.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,In The Paint (Non-RA),3.8,Less Than 8 ft.,2105,CAN
+unknwown,4:51,1787284085000,64,58,REB,defensive rebound,104.0,268451.0,514,379002,Q4,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2109,MEX
+subst,4:35,1787284123000,64,58,SUBST,Substitution out,34.0,297698.0,518,383000,Q4,135071,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2125,CAN
+subst,4:35,1787284123000,64,58,SUBST,Substitution out,34.0,368225.0,519,384000,Q4,135071,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q4,,,,2125,CAN
+subst,4:35,1787284123000,64,58,SUBST,Substitution in,34.0,369879.0,520,385000,Q4,135071,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q4,,,,2125,CAN
+subst,4:35,1787284123000,64,58,SUBST,Substitution in,34.0,320676.0,521,386000,Q4,135071,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q4,,,,2125,CAN
+shot,4:28,1787284139000,64,58,P3,3pt jump shot missed,104.0,227782.0,523,388000,Q4,135071,False,3.0,201.0,162.0,,,104.0,Karina Esquer,Mexico,4.0,Q4,Above the Break 3,13.6,8-16 ft.,2132,MEX
+unknwown,4:25,1787284142000,64,58,TREB,team defensive rebound,34.0,,525,388002,Q4,135071,,,,,,,,,,,Q4,,,,2135,
+shot,4:11,1787284169000,64,58,P3,3pt jump shot missed,34.0,320676.0,527,391000,Q4,135071,False,3.0,257.0,80.0,,,34.0,Syla Swords,Canada,12.0,Q4,Above the Break 3,12.4,8-16 ft.,2149,CAN
+unknwown,4:08,1787284171000,64,58,REB,defensive rebound,104.0,319031.0,528,391002,Q4,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2152,MEX
+unknwown,3:55,1787284186000,64,58,FOUL,Personal foul; 2 free throws awarded,34.0,250669.0,530,393000,Q4,135071,,,,,,,34.0,Faith Dut,Canada,25.0,Q4,,,,2165,CAN
+unknwown,3:55,1787284186000,64,58,RFOUL,foul drawn,104.0,319031.0,531,393002,Q4,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution out,34.0,250669.0,532,394000,Q4,135071,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q4,,,,2165,CAN
+subst,3:55,1787284218000,64,58,SUBST,Substitution in,34.0,161433.0,533,395000,Q4,135071,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2165,CAN
+subst,3:55,1787284218000,64,58,SUBST,Substitution out,104.0,227782.0,534,396000,Q4,135071,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution out,104.0,235869.0,535,397000,Q4,135071,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution out,104.0,302969.0,536,398000,Q4,135071,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution in,104.0,268370.0,537,399000,Q4,135071,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution in,104.0,215141.0,538,400000,Q4,135071,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2165,MEX
+subst,3:55,1787284218000,64,58,SUBST,Substitution in,104.0,227780.0,539,401000,Q4,135071,,,,,,IN,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2165,MEX
+shot,3:55,1787284227000,64,59,FT,1st of 2 free throws made,104.0,319031.0,540,402000,Q4,135071,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2165,MEX
+subst,3:55,1787284239000,64,59,SUBST,Substitution out,104.0,227780.0,541,403000,Q4,135071,,,,,,OUT,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2165,MEX
+subst,3:55,1787284239000,64,59,SUBST,Substitution in,104.0,213361.0,542,404000,Q4,135071,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2165,MEX
+shot,3:55,1787284240000,64,60,FT,2nd of 2 free throws made,104.0,319031.0,543,405000,Q4,135071,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2165,MEX
+shot,3:31,1787284268000,67,60,P3,3pt jump shot from center made,34.0,172742.0,545,407000,Q4,135071,True,3.0,108.0,175.0,,,34.0,Yvonne Ejim,Canada,9.0,Q4,Above the Break 3,13.9,8-16 ft.,2189,CAN
+unknwown,3:31,1787284268000,67,60,ASS,made the assist,34.0,320676.0,548,407001,Q4,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2189,CAN
+unknwown,3:19,1787284282000,67,60,FOUL,Personal foul,34.0,318775.0,550,411000,Q4,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2201,CAN
+unknwown,3:19,1787284282000,67,60,RFOUL,foul drawn,104.0,213361.0,551,411002,Q4,135071,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2201,MEX
+timeout,3:19,1787284291000,67,60,TIMO,Timeout,104.0,,552,412000,Q4,135071,,,,,,,,,,,Q4,,,,2201,
+shot,3:07,1787284405000,67,60,P2,layup missed,104.0,268451.0,554,414000,Q4,135071,False,2.0,116.0,39.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Restricted Area,2.4,Less Than 8 ft.,2213,MEX
+unknwown,3:07,1787284405000,67,60,BS,blocked the shot,34.0,369879.0,556,414001,Q4,135071,,,,,,,34.0,Agot Makeer,Canada,1.0,Q4,,,,2213,CAN
+unknwown,3:07,1787284410000,67,60,TREB,team offensive rebound,104.0,,557,414002,Q4,135071,,,,,,,,,,,Q4,,,,2213,
+shot,3:04,1787284424000,67,60,P2,"2PtsFG inside left, jump shot missed",104.0,268370.0,559,417000,Q4,135071,False,2.0,35.0,65.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Mid-Range,10.8,8-16 ft.,2216,MEX
+unknwown,3:01,1787284427000,67,60,REB,defensive rebound,34.0,161433.0,560,417002,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2219,CAN
+unknwown,2:47,1787284447000,67,60,TO,turnover; ball handling,34.0,320676.0,562,419000,Q4,135071,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,2233,CAN
+shot,2:21,1787284479000,67,60,P2,"2PtsFG under the basket, points after turnover, layup missed",104.0,319031.0,565,421000,Q4,135071,False,2.0,125.0,36.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2259,MEX
+unknwown,2:19,1787284481000,67,60,REB,defensive rebound,34.0,172742.0,566,421002,Q4,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2261,CAN
+shot,1:58,1787284503000,67,60,P2,"2PtsFG under the basket, pullup jump shot missed",34.0,320676.0,567,422000,Q4,135071,False,2.0,152.0,41.0,,,34.0,Syla Swords,Canada,12.0,Q4,Restricted Area,1.2,Less Than 8 ft.,2282,CAN
+unknwown,1:54,1787284506000,67,60,REB,offensive rebound,34.0,172742.0,568,422002,Q4,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2286,CAN
+shot,1:53,1787284508000,67,60,P2,2pt jump shot missed,34.0,172742.0,569,423000,Q4,135071,False,2.0,117.0,43.0,,,34.0,Yvonne Ejim,Canada,9.0,Q4,Restricted Area,2.3,Less Than 8 ft.,2287,CAN
+unknwown,1:50,1787284510000,67,60,REB,defensive rebound,104.0,215141.0,570,423002,Q4,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2290,MEX
+shot,1:48,1787284514000,67,60,P2,2pt step back jump shot missed,104.0,319031.0,571,424000,Q4,135071,False,2.0,189.0,61.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Mid-Range,5.3,Less Than 8 ft.,2292,MEX
+unknwown,1:42,1787284518000,67,60,REB,offensive rebound,104.0,319031.0,572,424002,Q4,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2298,MEX
+shot,1:42,1787284518000,67,62,P2,"2PtsFG under the basket, points from second chance + fastbreak made",104.0,319031.0,573,425000,Q4,135071,True,2.0,140.0,31.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2298,MEX
+unknwown,1:31,1787284535000,67,62,FOUL,Personal foul,104.0,268451.0,575,427000,Q4,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2309,MEX
+unknwown,1:31,1787284535000,67,62,RFOUL,foul drawn,34.0,318775.0,576,427002,Q4,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2309,CAN
+subst,1:31,1787284544000,67,62,SUBST,Substitution out,104.0,268451.0,577,428000,Q4,135071,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2309,MEX
+subst,1:31,1787284544000,67,62,SUBST,Substitution in,104.0,317694.0,578,429000,Q4,135071,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2309,MEX
+timeout,1:31,1787284551000,67,62,TIMO,Timeout,34.0,,579,430000,Q4,135071,,,,,,,,,,,Q4,,,,2309,
+subst,1:31,1787284636000,67,62,SUBST,Substitution out,34.0,369879.0,580,431000,Q4,135071,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q4,,,,2309,CAN
+subst,1:31,1787284636000,67,62,SUBST,Substitution in,34.0,188714.0,581,432000,Q4,135071,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q4,,,,2309,CAN
+unknwown,1:28,1787284664000,67,62,FOUL,Offensive foul,34.0,161433.0,584,435000,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2312,CAN
+unknwown,1:28,1787284664000,67,62,TO,turnover,34.0,161433.0,585,435001,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2312,CAN
+unknwown,1:28,1787284664000,67,62,RFOUL,foul drawn,104.0,215141.0,586,435002,Q4,135071,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2312,MEX
+timeout,1:28,1787284673000,67,62,TIMO,Timeout,104.0,,587,436000,Q4,135071,,,,,,,,,,,Q4,,,,2312,
+subst,1:28,1787284759000,67,62,SUBST,Substitution out,104.0,215141.0,588,437000,Q4,135071,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2312,MEX
+subst,1:28,1787284759000,67,62,SUBST,Substitution in,104.0,268451.0,589,438000,Q4,135071,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2312,MEX
+shot,1:13,1787284795000,67,62,P2,"2PtsFG inside left, points after turnover, jump shot missed",104.0,213361.0,591,440000,Q4,135071,False,2.0,64.0,78.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Mid-Range,8.5,8-16 ft.,2327,MEX
+unknwown,1:10,1787284798000,67,62,REB,offensive rebound,104.0,317694.0,592,440002,Q4,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2330,MEX
+unknwown,1:06,1787284806000,67,62,FOUL,Personal foul; 2 free throws awarded,34.0,161433.0,594,442000,Q4,135071,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2334,CAN
+unknwown,1:06,1787284806000,67,62,RFOUL,foul drawn,104.0,319031.0,595,442002,Q4,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2334,MEX
+shot,1:06,1787284869000,67,63,FT,1st of 2 free throws made,104.0,319031.0,597,442500,Q4,135071,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2334,MEX
+unknwown,1:06,1787284869000,67,63,ASS,made the assist,104.0,268370.0,598,442501,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2334,MEX
+shot,1:06,1787284869000,67,64,FT,2nd of 2 free throws made,104.0,319031.0,599,442750,Q4,135071,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,14.6,8-16 ft.,2334,MEX
+shot,0:49,1787284886000,67,64,P2,2pt pullup jump shot missed,34.0,188714.0,600,444000,Q4,135071,False,2.0,101.0,100.0,,,34.0,Sami Hill,Canada,4.0,Q4,In The Paint (Non-RA),7.2,Less Than 8 ft.,2351,CAN
+unknwown,0:46,1787284888000,67,64,REB,defensive rebound,104.0,319031.0,601,444002,Q4,135071,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2354,MEX
+shot,0:32,1787284902000,67,64,P2,"2PtsFG under the basket, driving layup missed",104.0,213361.0,602,445000,Q4,135071,False,2.0,124.0,17.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Restricted Area,2.8,Less Than 8 ft.,2368,MEX
+unknwown,0:30,1787284904000,67,64,REB,defensive rebound,34.0,172742.0,603,445002,Q4,135071,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2370,CAN
+unknwown,0:16,1787284922000,67,64,FOUL,Personal foul; 2 free throws awarded,104.0,268451.0,605,447000,Q4,135071,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2384,MEX
+unknwown,0:16,1787284922000,67,64,RFOUL,foul drawn,34.0,318775.0,606,447002,Q4,135071,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2384,CAN
+subst,0:16,1787284943000,67,64,SUBST,Substitution out,34.0,188714.0,607,448000,Q4,135071,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q4,,,,2384,CAN
+subst,0:16,1787284943000,67,64,SUBST,Substitution in,34.0,369879.0,608,449000,Q4,135071,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q4,,,,2384,CAN
+shot,0:16,1787284956000,68,64,FT,1st of 2 free throws made,34.0,318775.0,609,450000,Q4,135071,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,14.6,8-16 ft.,2384,CAN
+shot,0:16,1787284968000,69,64,FT,2nd of 2 free throws made,34.0,318775.0,610,451000,Q4,135071,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,14.6,8-16 ft.,2384,CAN
+timeout,0:16,1787284972000,69,64,TIMO,Timeout,104.0,,611,452000,Q4,135071,,,,,,,,,,,Q4,,,,2384,
+subst,0:16,1787285051000,69,64,SUBST,Substitution out,34.0,318775.0,612,453000,Q4,135071,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2384,CAN
+subst,0:16,1787285051000,69,64,SUBST,Substitution in,34.0,188714.0,613,454000,Q4,135071,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q4,,,,2384,CAN
+shot,0:09,1787285082000,69,64,P3,3pt jump shot from center missed,104.0,268451.0,615,456000,Q4,135071,False,3.0,179.0,191.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Above the Break 3,15.6,8-16 ft.,2391,MEX
+unknwown,0:02,1787285087000,69,64,REB,offensive rebound,104.0,268370.0,616,456002,Q4,135071,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2398,MEX
+shot,0:02,1787285089000,69,64,P2,"2PtsFG under the basket, reverse lay-up missed",104.0,268370.0,618,458000,Q4,135071,False,2.0,128.0,30.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2398,MEX
+unknwown,0:02,1787285094000,69,64,REB,defensive rebound,34.0,188714.0,619,458002,Q4,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,2398,CAN
+unknwown,0:02,1787285100000,69,64,FOUL,Unsportsmanlike foul; 2 free throws awarded,104.0,317694.0,620,459000,Q4,135071,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2398,MEX
+unknwown,0:02,1787285100000,69,64,RFOUL,foul drawn,34.0,188714.0,621,459002,Q4,135071,,,,,,,34.0,Sami Hill,Canada,4.0,Q4,,,,2398,CAN
+shot,0:00,1787285139000,69,64,FT,1st of 2 free throws missed,34.0,188714.0,630,468000,Q4,135071,False,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q4,,14.6,8-16 ft.,2400,CAN
+shot,0:00,1787285144000,70,64,FT,2nd of 2 free throws made,34.0,188714.0,631,469000,Q4,135071,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q4,,14.6,8-16 ft.,2400,CAN
+periods,0:00,1787285188000,70,64,ENDP,End of period,,,637,475000,Q4,135071,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787285280000,70,64,ENDG,End of game,,,638,476000,Q4,135071,,,,,,,,,,,Q4,,,,2400,
