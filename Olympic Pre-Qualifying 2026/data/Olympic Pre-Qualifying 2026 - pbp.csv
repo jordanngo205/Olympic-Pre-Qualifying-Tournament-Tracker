@@ -5738,3 +5738,520 @@ unknwown,0:04,1787265499000,82,74,ASS,made the assist,9716.0,374577.0,883,679501
 timeout,0:04,1787265508000,82,74,TIMO,Timeout,113.0,,882,680500,Q4,135066,,,,,,,,,,,Q4,,,,2396,
 periods,0:00,1787265689000,82,74,ENDP,End of period,,,886,683500,Q4,135066,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787265706000,82,74,ENDG,End of game,,,887,684500,Q4,135066,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787268639000,0,0,STARTG,Start of game,,,1,1000,Q1,135072,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787268639000,0,0,STARTP,Start of period,,,2,2000,Q1,135072,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787268639000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135072,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787268640000,0,0,JB,jump ball won,134.0,290089.0,5,4001,Q1,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,1,SEN
+unknwown,9:59,1787268640000,0,0,JB,jump ball lost,122.0,220090.0,6,4002,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,1,PHI
+unknwown,9:43,1787268659000,0,0,TO,turnover; travelling,134.0,273042.0,8,6000,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,17,SEN
+unknwown,9:28,1787268687000,0,0,FOUL,Offensive foul,122.0,220090.0,11,9000,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,32,PHI
+unknwown,9:28,1787268687000,0,0,TO,turnover,122.0,220090.0,12,9001,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,32,PHI
+unknwown,9:28,1787268687000,0,0,RFOUL,foul drawn,134.0,272478.0,13,9002,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,32,SEN
+shot,9:08,1787268721000,0,0,P2,layup missed,134.0,287408.0,16,12000,Q1,135072,False,2.0,108.0,35.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,In The Paint (Non-RA),3.2,Less Than 8 ft.,52,SEN
+unknwown,9:08,1787268721000,0,0,BS,blocked the shot,122.0,323169.0,18,12001,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,52,PHI
+unknwown,9:08,1787268731000,0,0,REB,defensive rebound,122.0,220090.0,17,12002,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,52,PHI
+unknwown,9:07,1787268751000,0,0,JS,jump ball situation; throw-in,122.0,,19,13000,Q1,135072,,,,,,,,,,,Q1,,,,53,
+unknwown,8:57,1787268769000,0,0,FOUL,Personal foul; 2 free throws awarded,134.0,272478.0,22,16000,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,63,SEN
+unknwown,8:57,1787268769000,0,0,RFOUL,foul drawn,122.0,323171.0,23,16002,Q1,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,63,PHI
+shot,8:57,1787268789000,0,0,FT,1st of 2 free throws missed,122.0,323171.0,24,17000,Q1,135072,False,1.0,0.0,0.0,,,122.0,Louna Ozar,Philippines,9.0,Q1,,14.6,8-16 ft.,63,PHI
+shot,8:57,1787268803000,0,0,FT,2nd of 2 free throws missed,122.0,323171.0,25,18000,Q1,135072,False,1.0,0.0,0.0,,,122.0,Louna Ozar,Philippines,9.0,Q1,,14.6,8-16 ft.,63,PHI
+unknwown,8:57,1787268807000,0,0,REB,defensive rebound,134.0,272478.0,27,18002,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,63,SEN
+shot,8:32,1787268833000,0,0,P2,"2PtsFG under the basket, driving layup missed",134.0,278227.0,28,20000,Q1,135072,False,2.0,129.0,47.0,,,134.0,Sabou Gueye,Senegal,7.0,Q1,Restricted Area,1.3,Less Than 8 ft.,88,SEN
+unknwown,8:27,1787268836000,0,0,REB,offensive rebound,134.0,290089.0,29,20002,Q1,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,93,SEN
+unknwown,8:21,1787268843000,0,0,TO,turnover; ball handling,134.0,287408.0,30,21000,Q1,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,99,SEN
+unknwown,8:21,1787268843000,0,0,ST,steal,122.0,323169.0,31,21001,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,99,PHI
+shot,8:03,1787269025000,0,0,P2,"2PtsFG under the basket, points after turnover, layup missed",122.0,339158.0,51,21500,Q1,135072,False,2.0,136.0,33.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Restricted Area,0.8,Less Than 8 ft.,117,PHI
+unknwown,8:03,1787269025000,0,0,BS,blocked the shot,134.0,273042.0,52,21501,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,117,SEN
+unknwown,8:03,1787269025000,0,0,TREB,team offensive rebound,122.0,,53,21502,Q1,135072,,,,,,,,,,,Q1,,,,117,
+shot,8:03,1787268871000,2,0,P2,"2PtsFG under the basket, points from second chance + after turnover, turnaround jump shot made",122.0,220090.0,34,24000,Q1,135072,True,2.0,137.0,33.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,0.8,Less Than 8 ft.,117,PHI
+unknwown,8:03,1787268871000,2,0,ASS,made the assist,122.0,339158.0,35,24001,Q1,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,117,PHI
+unknwown,7:44,1787268890000,2,0,TO,turnover; bad pass,134.0,287408.0,36,25000,Q1,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,136,SEN
+unknwown,7:44,1787268890000,2,0,ST,steal,122.0,323169.0,37,25001,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,136,PHI
+shot,7:39,1787268899000,5,0,P3,"3PtsFG outside right, points from fastbreak + after turnover, jump shot made",122.0,339158.0,39,27000,Q1,135072,True,3.0,227.0,149.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Above the Break 3,13.9,8-16 ft.,141,PHI
+unknwown,7:39,1787268899000,5,0,ASS,made the assist,122.0,342735.0,40,27001,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,141,PHI
+unknwown,7:39,1787268909000,5,0,FOUL,Personal foul,134.0,290089.0,41,28000,Q1,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,141,SEN
+unknwown,7:39,1787268909000,5,0,RFOUL,foul drawn,122.0,220090.0,42,28002,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,141,PHI
+shot,7:34,1787268946000,8,0,P3,3pt jump shot made,122.0,342735.0,44,30000,Q1,135072,True,3.0,8.0,26.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Right Corner 3,13.3,8-16 ft.,146,PHI
+unknwown,7:34,1787268946000,8,0,ASS,made the assist,122.0,339158.0,45,30001,Q1,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,146,PHI
+unknwown,7:11,1787268986000,8,0,FOUL,Personal foul; 2 free throws awarded,122.0,220090.0,49,34000,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,169,PHI
+unknwown,7:11,1787268986000,8,0,RFOUL,foul drawn,134.0,290089.0,50,34002,Q1,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,169,SEN
+shot,7:11,1787269029000,8,1,FT,1st of 2 free throws made,134.0,290089.0,54,35000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,169,SEN
+shot,7:11,1787269029000,8,2,FT,2nd of 2 free throws made,134.0,290089.0,55,36000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,169,SEN
+subst,7:11,1787269037000,8,2,SUBST,Substitution out,122.0,220090.0,57,38000,Q1,135072,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q1,,,,169,PHI
+subst,7:11,1787269037000,8,2,SUBST,Substitution in,122.0,220085.0,58,39000,Q1,135072,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,169,PHI
+shot,6:56,1787269047000,8,2,P2,2pt pullup jump shot missed,122.0,339158.0,59,40000,Q1,135072,False,2.0,226.0,93.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Mid-Range,10.1,8-16 ft.,184,PHI
+unknwown,6:52,1787269050000,8,2,REB,defensive rebound,134.0,287408.0,60,40002,Q1,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,188,SEN
+unknwown,6:46,1787269058000,8,2,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,62,42000,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,194,PHI
+unknwown,6:46,1787269058000,8,2,RFOUL,foul drawn,134.0,290089.0,63,42002,Q1,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q1,,,,194,SEN
+shot,6:46,1787269078000,8,2,FT,1st of 2 free throws missed,134.0,290089.0,64,43000,Q1,135072,False,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,194,SEN
+shot,6:46,1787269089000,8,3,FT,2nd of 2 free throws made,134.0,290089.0,65,44000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q1,,14.6,8-16 ft.,194,SEN
+shot,6:40,1787269097000,8,3,P3,3pt jump shot missed,122.0,339158.0,67,46000,Q1,135072,False,3.0,250.0,109.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Above the Break 3,13.0,8-16 ft.,200,PHI
+unknwown,6:36,1787269100000,8,3,TREB,team defensive rebound,134.0,,69,46002,Q1,135072,,,,,,,,,,,Q1,,,,204,
+shot,6:19,1787269126000,8,6,P3,3pt jump shot made,134.0,273042.0,71,49000,Q1,135072,True,3.0,268.0,44.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,Left Corner 3,12.8,8-16 ft.,221,SEN
+unknwown,6:19,1787269126000,8,6,ASS,made the assist,134.0,278227.0,72,49001,Q1,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,221,SEN
+shot,6:06,1787269139000,8,6,P3,3pt jump shot missed,122.0,339158.0,73,50000,Q1,135072,False,3.0,238.0,142.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q1,Above the Break 3,14.1,8-16 ft.,234,PHI
+unknwown,6:02,1787269141000,8,6,REB,defensive rebound,134.0,272478.0,74,50002,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,238,SEN
+shot,5:49,1787269156000,8,8,P2,2pt driving layup made,134.0,273042.0,75,51000,Q1,135072,True,2.0,112.0,35.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,In The Paint (Non-RA),2.8,Less Than 8 ft.,251,SEN
+shot,5:26,1787269179000,8,8,P3,3pt jump shot missed,122.0,323169.0,76,52000,Q1,135072,False,3.0,269.0,53.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,Left Corner 3,13.0,8-16 ft.,274,PHI
+unknwown,5:22,1787269182000,8,8,REB,defensive rebound,134.0,272478.0,77,52002,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,278,SEN
+unknwown,5:18,1787269191000,8,8,FOUL,Personal foul,122.0,323171.0,79,54000,Q1,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,282,PHI
+unknwown,5:18,1787269191000,8,8,RFOUL,foul drawn,134.0,273042.0,80,54002,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,282,SEN
+subst,5:18,1787269214000,8,8,SUBST,Substitution out,122.0,339158.0,81,55000,Q1,135072,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q1,,,,282,PHI
+subst,5:18,1787269214000,8,8,SUBST,Substitution in,122.0,398175.0,82,56000,Q1,135072,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,282,PHI
+subst,5:18,1787269214000,8,8,SUBST,Substitution out,134.0,278227.0,83,57000,Q1,135072,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q1,,,,282,SEN
+subst,5:18,1787269214000,8,8,SUBST,Substitution out,134.0,290089.0,84,58000,Q1,135072,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q1,,,,282,SEN
+subst,5:18,1787269214000,8,8,SUBST,Substitution in,134.0,203560.0,85,59000,Q1,135072,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q1,,,,282,SEN
+subst,5:18,1787269214000,8,8,SUBST,Substitution in,134.0,231012.0,86,60000,Q1,135072,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,282,SEN
+unknwown,5:09,1787269233000,8,8,TO,turnover; ball handling,134.0,272478.0,89,63000,Q1,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,291,SEN
+shot,4:50,1787269258000,8,8,P3,3pt jump shot missed,122.0,323171.0,91,65000,Q1,135072,False,3.0,6.0,24.0,,,122.0,Louna Ozar,Philippines,9.0,Q1,Right Corner 3,13.5,8-16 ft.,310,PHI
+unknwown,4:49,1787269261000,8,8,TREB,team defensive rebound,134.0,,93,65002,Q1,135072,,,,,,,,,,,Q1,,,,311,
+unknwown,4:32,1787269286000,8,8,FOUL,Personal foul; 2 free throws awarded,122.0,220085.0,96,69000,Q1,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,328,PHI
+unknwown,4:32,1787269286000,8,8,RFOUL,foul drawn,134.0,287408.0,97,69002,Q1,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,328,SEN
+subst,4:32,1787269308000,8,8,SUBST,Substitution out,122.0,220085.0,98,70000,Q1,135072,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q1,,,,328,PHI
+subst,4:32,1787269308000,8,8,SUBST,Substitution in,122.0,220090.0,99,71000,Q1,135072,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q1,,,,328,PHI
+subst,4:32,1787269308000,8,8,SUBST,Substitution out,134.0,272478.0,100,72000,Q1,135072,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q1,,,,328,SEN
+subst,4:32,1787269308000,8,8,SUBST,Substitution in,134.0,274485.0,101,73000,Q1,135072,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,328,SEN
+shot,4:32,1787269315000,8,9,FT,1st of 2 free throws made,134.0,287408.0,102,74000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,328,SEN
+shot,4:32,1787269326000,8,10,FT,2nd of 2 free throws made,134.0,287408.0,103,75000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q1,,14.6,8-16 ft.,328,SEN
+unknwown,4:14,1787269346000,8,10,TO,turnover; bad pass,122.0,323171.0,105,77000,Q1,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q1,,,,346,PHI
+unknwown,4:14,1787269346000,8,10,ST,steal,134.0,273042.0,106,77001,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,346,SEN
+unknwown,4:10,1787269352000,8,10,TO,turnover; bad pass,134.0,273042.0,108,79000,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,350,SEN
+shot,3:54,1787269378000,10,10,P2,"2PtsFG under the basket, points after turnover, layup made",122.0,220090.0,110,81000,Q1,135072,True,2.0,137.0,26.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.4,Less Than 8 ft.,366,PHI
+unknwown,3:54,1787269378000,10,10,ASS,made the assist,122.0,342735.0,111,81001,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,366,PHI
+shot,3:38,1787269394000,10,12,P2,"2PtsFG under the basket, driving layup made",134.0,203560.0,112,82000,Q1,135072,True,2.0,152.0,35.0,,,134.0,Maty Fall,Senegal,4.0,Q1,Restricted Area,1.3,Less Than 8 ft.,382,SEN
+unknwown,3:28,1787269408000,10,12,FOUL,Personal foul; 2 free throws awarded,134.0,203560.0,114,84000,Q1,135072,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,392,SEN
+unknwown,3:28,1787269408000,10,12,RFOUL,foul drawn,122.0,220090.0,115,84002,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,392,PHI
+subst,3:28,1787269437000,10,12,SUBST,Substitution out,134.0,287408.0,116,85000,Q1,135072,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q1,,,,392,SEN
+subst,3:28,1787269437000,10,12,SUBST,Substitution in,134.0,303627.0,117,86000,Q1,135072,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q1,,,,392,SEN
+shot,3:28,1787269447000,10,12,FT,1st of 2 free throws missed,122.0,220090.0,118,87000,Q1,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q1,,14.6,8-16 ft.,392,PHI
+shot,3:28,1787269464000,10,12,FT,2nd of 2 free throws missed,122.0,220090.0,119,88000,Q1,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q1,,14.6,8-16 ft.,392,PHI
+unknwown,3:28,1787269465000,10,12,REB,defensive rebound,134.0,231012.0,121,88002,Q1,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,392,SEN
+unknwown,3:18,1787269479000,10,12,FOUL,Offensive foul,134.0,231012.0,123,91000,Q1,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,402,SEN
+unknwown,3:18,1787269479000,10,12,TO,turnover,134.0,231012.0,124,91001,Q1,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,402,SEN
+unknwown,3:18,1787269479000,10,12,RFOUL,foul drawn,122.0,398175.0,125,91002,Q1,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,402,PHI
+unknwown,3:05,1787269513000,10,12,TO,turnover; bad pass,122.0,342735.0,127,93000,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,415,PHI
+unknwown,3:05,1787269513000,10,12,ST,steal,134.0,303627.0,128,93001,Q1,135072,,,,,,,134.0,Lena Timera,Senegal,77.0,Q1,,,,415,SEN
+unknwown,3:01,1787269519000,10,12,FOUL,Personal foul; 2 free throws awarded,122.0,342735.0,130,95000,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,419,PHI
+unknwown,3:01,1787269519000,10,12,RFOUL,foul drawn,134.0,303627.0,131,95002,Q1,135072,,,,,,,134.0,Lena Timera,Senegal,77.0,Q1,,,,419,SEN
+shot,3:01,1787269537000,10,13,FT,Free throw made 1 of 2,134.0,303627.0,132,96000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Lena Timera,Senegal,77.0,Q1,,14.6,8-16 ft.,419,SEN
+shot,3:01,1787269549000,10,14,FT,Free throw made 2 of 2,134.0,303627.0,133,97000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Lena Timera,Senegal,77.0,Q1,,14.6,8-16 ft.,419,SEN
+unknwown,2:46,1787269571000,10,14,FOUL,Personal foul; 2 free throws awarded,134.0,274485.0,136,100000,Q1,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,434,SEN
+unknwown,2:46,1787269571000,10,14,RFOUL,foul drawn,122.0,323169.0,137,100002,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,434,PHI
+shot,2:46,1787269590000,11,14,FT,1st of 2 free throws made,122.0,323169.0,138,101000,Q1,135072,True,1.0,0.0,0.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,14.6,8-16 ft.,434,PHI
+shot,2:46,1787269605000,12,14,FT,2nd of 2 free throws made,122.0,323169.0,139,102000,Q1,135072,True,1.0,0.0,0.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,14.6,8-16 ft.,434,PHI
+unknwown,2:37,1787269617000,12,14,TO,turnover; bad pass,134.0,273042.0,141,104000,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,443,SEN
+unknwown,2:37,1787269617000,12,14,ST,steal,122.0,220090.0,142,104001,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,443,PHI
+shot,2:29,1787269625000,12,14,P3,3pt jump shot missed,122.0,342735.0,143,105000,Q1,135072,False,3.0,8.0,48.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,Right Corner 3,13.2,8-16 ft.,451,PHI
+unknwown,2:26,1787269627000,12,14,REB,offensive rebound,122.0,220090.0,144,105002,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,454,PHI
+shot,2:19,1787269634000,14,14,P2,"2PtsFG under the basket, points from second chance + after turnover, turnaround jump shot made",122.0,220090.0,145,106000,Q1,135072,True,2.0,124.0,30.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.9,Less Than 8 ft.,461,PHI
+unknwown,2:00,1787269656000,14,14,FOUL,Personal foul; 2 free throws awarded,122.0,323169.0,147,108000,Q1,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,480,PHI
+unknwown,2:00,1787269656000,14,14,RFOUL,foul drawn,134.0,274485.0,148,108002,Q1,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,480,SEN
+shot,2:00,1787269677000,14,15,FT,1st of 2 free throws made,134.0,274485.0,149,109000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,14.6,8-16 ft.,480,SEN
+unknwown,2:00,1787269677000,14,15,ASS,made the assist,134.0,203560.0,156,109001,Q1,135072,,,,,,,134.0,Maty Fall,Senegal,4.0,Q1,,,,480,SEN
+shot,2:00,1787269689000,14,16,FT,2nd of 2 free throws made,134.0,274485.0,150,110000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,14.6,8-16 ft.,480,SEN
+subst,2:00,1787269695000,14,16,SUBST,Substitution out,122.0,323169.0,151,111000,Q1,135072,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q1,,,,480,PHI
+subst,2:00,1787269695000,14,16,SUBST,Substitution in,122.0,303016.0,152,112000,Q1,135072,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q1,,,,480,PHI
+shot,1:43,1787269716000,16,16,P2,"2PtsFG under the basket, turnaround jump shot made",122.0,220090.0,154,114000,Q1,135072,True,2.0,143.0,28.0,,,122.0,Jack Animam,Philippines,10.0,Q1,Restricted Area,1.2,Less Than 8 ft.,497,PHI
+unknwown,1:43,1787269716000,16,16,ASS,made the assist,122.0,398175.0,155,114001,Q1,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,,,,497,PHI
+shot,1:24,1787269734000,16,16,P2,2pt pullup jump shot missed,134.0,203560.0,157,115000,Q1,135072,False,2.0,175.0,67.0,,,134.0,Maty Fall,Senegal,4.0,Q1,In The Paint (Non-RA),4.4,Less Than 8 ft.,516,SEN
+unknwown,1:21,1787269737000,16,16,REB,defensive rebound,122.0,342735.0,158,115002,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,519,PHI
+unknwown,1:15,1787269746000,16,16,TO,turnover; ball handling,122.0,220090.0,160,117000,Q1,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q1,,,,525,PHI
+timeout,1:15,1787269750000,16,16,TIMO,Timeout,122.0,,161,118000,Q1,135072,,,,,,,,,,,Q1,,,,525,
+subst,1:15,1787269841000,16,16,SUBST,Substitution out,134.0,231012.0,162,119000,Q1,135072,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q1,,,,525,SEN
+subst,1:15,1787269841000,16,16,SUBST,Substitution in,134.0,290089.0,163,120000,Q1,135072,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q1,,,,525,SEN
+unknwown,0:57,1787269870000,16,16,TO,turnover; travelling,134.0,274485.0,166,123000,Q1,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,543,SEN
+subst,0:57,1787269875000,16,16,SUBST,Substitution out,122.0,323171.0,167,124000,Q1,135072,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q1,,,,543,PHI
+subst,0:57,1787269875000,16,16,SUBST,Substitution in,122.0,394258.0,168,125000,Q1,135072,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,,,,543,PHI
+unknwown,0:42,1787269914000,16,16,TO,turnover; ball handling,122.0,342735.0,172,129000,Q1,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q1,,,,558,PHI
+unknwown,0:42,1787269914000,16,16,ST,steal,134.0,274485.0,173,129001,Q1,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,558,SEN
+shot,0:37,1787269918000,16,16,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,203560.0,174,130000,Q1,135072,False,2.0,153.0,30.0,,,134.0,Maty Fall,Senegal,4.0,Q1,Restricted Area,1.6,Less Than 8 ft.,563,SEN
+unknwown,0:34,1787269920000,16,16,REB,offensive rebound,134.0,274485.0,175,130002,Q1,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q1,,,,566,SEN
+unknwown,0:28,1787269931000,16,16,FOUL,Personal foul; 2 free throws awarded,122.0,394258.0,178,132000,Q1,135072,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q1,,,,572,PHI
+unknwown,0:28,1787269931000,16,16,RFOUL,foul drawn,134.0,273042.0,179,132002,Q1,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,,,572,SEN
+shot,0:28,1787269949000,16,17,FT,1st of 2 free throws made,134.0,273042.0,180,133000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,572,SEN
+shot,0:28,1787269960000,16,18,FT,2nd of 2 free throws made,134.0,273042.0,181,134000,Q1,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q1,,14.6,8-16 ft.,572,SEN
+shot,0:06,1787269988000,18,18,P2,"2PtsFG under the basket, floating jump shot made",122.0,398175.0,183,136000,Q1,135072,True,2.0,143.0,48.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q1,Restricted Area,0.9,Less Than 8 ft.,594,PHI
+periods,0:00,1787270055000,18,18,ENDP,End of period,,,185,138000,Q1,135072,,,,,,,,,,,Q1,,,,600,
+periods,10:00,1787270136000,18,18,STARTP,Start of period,,,186,139000,Q2,135072,,,,,,,,,,,Q2,,,,600,
+shot,9:47,1787270149000,18,18,P2,2pt pullup jump shot missed,134.0,273042.0,188,141000,Q2,135072,False,2.0,197.0,58.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Mid-Range,6.0,Less Than 8 ft.,613,SEN
+unknwown,9:45,1787270154000,18,18,TREB,team offensive rebound,134.0,,190,141002,Q2,135072,,,,,,,,,,,Q2,,,,615,
+shot,9:36,1787270177000,18,20,P2,"2PtsFG under the basket, layup made",134.0,290089.0,192,144000,Q2,135072,True,2.0,152.0,37.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,Restricted Area,1.2,Less Than 8 ft.,624,SEN
+shot,9:16,1787270197000,18,20,P3,3pt step back jump shot missed,122.0,398175.0,193,145000,Q2,135072,False,3.0,111.0,162.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,Above the Break 3,12.5,8-16 ft.,644,PHI
+unknwown,9:13,1787270201000,18,20,TREB,team defensive rebound,134.0,,195,145002,Q2,135072,,,,,,,,,,,Q2,,,,647,
+shot,8:53,1787270228000,18,20,P2,"2PtsFG under the basket, layup missed",134.0,290089.0,197,148000,Q2,135072,False,2.0,157.0,30.0,,,134.0,Khadija Faye,Senegal,20.0,Q2,Restricted Area,2.0,Less Than 8 ft.,667,SEN
+unknwown,8:50,1787270230000,18,20,REB,defensive rebound,122.0,394258.0,198,148002,Q2,135072,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,670,PHI
+unknwown,8:43,1787270243000,18,20,FOUL,Personal foul; 2 free throws awarded,134.0,290089.0,200,150000,Q2,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,677,SEN
+unknwown,8:43,1787270243000,18,20,RFOUL,foul drawn,122.0,220090.0,201,150002,Q2,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,677,PHI
+subst,8:43,1787270272000,18,20,SUBST,Substitution out,134.0,203560.0,202,151000,Q2,135072,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q2,,,,677,SEN
+subst,8:43,1787270272000,18,20,SUBST,Substitution in,134.0,420942.0,203,152000,Q2,135072,,,,,,IN,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,677,SEN
+shot,8:43,1787270287000,18,20,FT,1st of 2 free throws missed,122.0,220090.0,204,153000,Q2,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q2,,14.6,8-16 ft.,677,PHI
+shot,8:43,1787270302000,18,20,FT,2nd of 2 free throws missed,122.0,220090.0,205,154000,Q2,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q2,,14.6,8-16 ft.,677,PHI
+unknwown,8:43,1787270303000,18,20,REB,defensive rebound,134.0,290089.0,207,154002,Q2,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,677,SEN
+shot,8:34,1787270313000,18,23,P3,3pt jump shot made,134.0,303627.0,208,156000,Q2,135072,True,3.0,264.0,70.0,,,134.0,Lena Timera,Senegal,77.0,Q2,Left Corner 3,12.8,8-16 ft.,686,SEN
+unknwown,8:34,1787270313000,18,23,ASS,made the assist,134.0,273042.0,209,156001,Q2,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,686,SEN
+shot,8:07,1787270340000,21,23,P3,3pt jump shot made,122.0,398175.0,210,157000,Q2,135072,True,3.0,10.0,24.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,Right Corner 3,13.1,8-16 ft.,713,PHI
+unknwown,8:07,1787270340000,21,23,ASS,made the assist,122.0,394258.0,211,157001,Q2,135072,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,713,PHI
+shot,7:46,1787270360000,21,23,P2,layup missed,134.0,274485.0,212,158000,Q2,135072,False,2.0,119.0,52.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,In The Paint (Non-RA),2.4,Less Than 8 ft.,734,SEN
+unknwown,7:41,1787270364000,21,23,REB,defensive rebound,122.0,342735.0,213,158002,Q2,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,739,PHI
+shot,7:38,1787270368000,23,23,P2,"2PtsFG under the basket, fast break, layup made",122.0,220090.0,214,159000,Q2,135072,True,2.0,136.0,33.0,,,122.0,Jack Animam,Philippines,10.0,Q2,Restricted Area,0.8,Less Than 8 ft.,742,PHI
+unknwown,7:38,1787270368000,23,23,ASS,made the assist,122.0,394258.0,215,159001,Q2,135072,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,742,PHI
+unknwown,7:27,1787270385000,23,23,FOUL,Personal foul,122.0,220090.0,217,161000,Q2,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,753,PHI
+unknwown,7:27,1787270385000,23,23,RFOUL,foul drawn,134.0,290089.0,218,161002,Q2,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,753,SEN
+unknwown,7:27,1787270385000,23,23,FOUL,Personal foul,134.0,290089.0,219,162000,Q2,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q2,,,,753,SEN
+unknwown,7:27,1787270385000,23,23,RFOUL,foul drawn,122.0,220090.0,220,162002,Q2,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q2,,,,753,PHI
+subst,7:27,1787270451000,23,23,SUBST,Substitution out,122.0,220090.0,221,163000,Q2,135072,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q2,,,,753,PHI
+subst,7:27,1787270451000,23,23,SUBST,Substitution in,122.0,323169.0,222,164000,Q2,135072,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,753,PHI
+subst,7:27,1787270451000,23,23,SUBST,Substitution out,134.0,290089.0,223,165000,Q2,135072,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q2,,,,753,SEN
+subst,7:27,1787270451000,23,23,SUBST,Substitution out,134.0,274485.0,224,166000,Q2,135072,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,753,SEN
+subst,7:27,1787270451000,23,23,SUBST,Substitution out,134.0,303627.0,225,167000,Q2,135072,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q2,,,,753,SEN
+subst,7:27,1787270451000,23,23,SUBST,Substitution in,134.0,272478.0,226,168000,Q2,135072,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,753,SEN
+subst,7:27,1787270451000,23,23,SUBST,Substitution in,134.0,287408.0,227,169000,Q2,135072,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,753,SEN
+subst,7:27,1787270451000,23,23,SUBST,Substitution in,134.0,231012.0,228,170000,Q2,135072,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,753,SEN
+subst,7:27,1787270462000,23,23,SUBST,Substitution out,122.0,303016.0,229,171000,Q2,135072,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q2,,,,753,PHI
+subst,7:27,1787270462000,23,23,SUBST,Substitution in,122.0,220085.0,230,172000,Q2,135072,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,753,PHI
+unknwown,7:21,1787270481000,23,23,FOUL,Personal foul,122.0,394258.0,233,175000,Q2,135072,,,,,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,759,PHI
+unknwown,7:21,1787270481000,23,23,RFOUL,foul drawn,134.0,273042.0,234,175002,Q2,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,759,SEN
+subst,7:21,1787270490000,23,23,SUBST,Substitution out,122.0,394258.0,235,176000,Q2,135072,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,759,PHI
+subst,7:21,1787270490000,23,23,SUBST,Substitution in,122.0,323171.0,236,177000,Q2,135072,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q2,,,,759,PHI
+shot,7:07,1787270514000,23,23,P3,3pt jump shot missed,134.0,273042.0,240,181000,Q2,135072,False,3.0,30.0,114.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,13.3,8-16 ft.,773,SEN
+unknwown,7:03,1787270517000,23,23,REB,defensive rebound,122.0,323169.0,241,181002,Q2,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,777,PHI
+unknwown,6:56,1787270525000,23,23,TO,turnover; bad pass,122.0,398175.0,242,182000,Q2,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,784,PHI
+unknwown,6:56,1787270525000,23,23,ST,steal,134.0,272478.0,244,182001,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,784,SEN
+shot,6:34,1787270555000,23,25,P2,layup made,134.0,273042.0,246,185000,Q2,135072,True,2.0,105.0,38.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,In The Paint (Non-RA),3.5,Less Than 8 ft.,806,SEN
+unknwown,6:34,1787270555000,23,25,ASS,made the assist,134.0,231012.0,247,185001,Q2,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,806,SEN
+shot,6:10,1787270579000,23,25,P2,2pt fadeaway jump shot missed,122.0,323169.0,248,186000,Q2,135072,False,2.0,177.0,43.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,In The Paint (Non-RA),3.7,Less Than 8 ft.,830,PHI
+unknwown,6:06,1787270582000,23,25,REB,defensive rebound,134.0,272478.0,249,186002,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,834,SEN
+shot,6:02,1787270588000,23,25,P2,2pt driving layup missed,134.0,287408.0,251,188000,Q2,135072,False,2.0,172.0,35.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,In The Paint (Non-RA),3.2,Less Than 8 ft.,838,SEN
+unknwown,6:02,1787270594000,23,25,TREB,team defensive rebound,122.0,,252,188002,Q2,135072,,,,,,,,,,,Q2,,,,838,
+unknwown,6:02,1787270598000,23,25,FOUL,Personal foul,134.0,272478.0,253,189000,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,838,SEN
+unknwown,6:02,1787270598000,23,25,RFOUL,foul drawn,122.0,323169.0,254,189002,Q2,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,838,PHI
+shot,5:47,1787270625000,26,25,P3,3pt jump shot made,122.0,398175.0,256,191000,Q2,135072,True,3.0,241.0,124.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,Above the Break 3,13.1,8-16 ft.,853,PHI
+unknwown,5:47,1787270625000,26,25,ASS,made the assist,122.0,342735.0,257,191001,Q2,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,853,PHI
+timeout,5:42,1787270634000,26,25,TIMO,Timeout,134.0,,259,193000,Q2,135072,,,,,,,,,,,Q2,,,,858,
+shot,5:26,1787270751000,26,27,P2,2pt jump shot made,134.0,287408.0,262,196000,Q2,135072,True,2.0,109.0,35.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,In The Paint (Non-RA),3.1,Less Than 8 ft.,874,SEN
+unknwown,5:26,1787270751000,26,27,ASS,made the assist,134.0,231012.0,263,196001,Q2,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,874,SEN
+unknwown,5:26,1787270757000,26,27,FOUL,Personal foul; 1 free throw awarded,122.0,398175.0,264,197000,Q2,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,874,PHI
+unknwown,5:26,1787270757000,26,27,RFOUL,foul drawn,134.0,287408.0,265,197002,Q2,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,874,SEN
+shot,5:26,1787270774000,26,28,FT,1st free throw made,134.0,287408.0,266,198000,Q2,135072,True,1.0,0.0,0.0,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,14.6,8-16 ft.,874,SEN
+shot,5:07,1787270796000,26,28,P3,3pt jump shot missed,122.0,398175.0,268,200000,Q2,135072,False,3.0,7.0,30.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,Right Corner 3,13.3,8-16 ft.,893,PHI
+unknwown,5:04,1787270798000,26,28,REB,defensive rebound,134.0,272478.0,269,200002,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,896,SEN
+unknwown,5:02,1787270803000,26,28,TO,turnover; bad pass,134.0,287408.0,271,202000,Q2,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,898,SEN
+unknwown,4:44,1787270842000,26,28,FOUL,Personal foul,134.0,420942.0,274,205000,Q2,135072,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,916,SEN
+unknwown,4:44,1787270842000,26,28,RFOUL,foul drawn,122.0,398175.0,275,205002,Q2,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,916,PHI
+subst,4:44,1787270872000,26,28,SUBST,Substitution out,134.0,231012.0,276,206000,Q2,135072,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q2,,,,916,SEN
+subst,4:44,1787270872000,26,28,SUBST,Substitution in,134.0,290189.0,277,207000,Q2,135072,,,,,,IN,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,916,SEN
+unknwown,4:37,1787270893000,26,28,TO,turnover; bad pass,122.0,398175.0,280,210000,Q2,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,923,PHI
+shot,4:11,1787270947000,26,28,P2,"2PtsFG under the basket, points after turnover, driving layup missed",134.0,273042.0,284,214000,Q2,135072,False,2.0,146.0,35.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Restricted Area,0.8,Less Than 8 ft.,949,SEN
+unknwown,4:11,1787270950000,26,28,TREB,team offensive rebound,134.0,,286,214002,Q2,135072,,,,,,,,,,,Q2,,,,949,
+timeout,4:11,1787270958000,26,28,TIMO,Timeout,134.0,,287,216000,Q2,135072,,,,,,,,,,,Q2,,,,949,
+shot,4:08,1787271052000,26,28,P3,3pt jump shot missed,134.0,273042.0,289,218000,Q2,135072,False,3.0,44.0,135.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,13.5,8-16 ft.,952,SEN
+unknwown,4:05,1787271055000,26,28,REB,offensive rebound,134.0,272478.0,290,218002,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,955,SEN
+shot,4:00,1787271060000,26,30,P2,layup made,134.0,273042.0,291,219000,Q2,135072,True,2.0,106.0,29.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,In The Paint (Non-RA),3.6,Less Than 8 ft.,960,SEN
+unknwown,4:00,1787271060000,26,30,ASS,made the assist,134.0,272478.0,292,219001,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,960,SEN
+shot,3:47,1787271076000,28,30,P2,"2PtsFG under the basket, driving layup made",122.0,398175.0,293,220000,Q2,135072,True,2.0,162.0,28.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,Restricted Area,2.5,Less Than 8 ft.,973,PHI
+unknwown,3:47,1787271076000,28,30,ASS,made the assist,122.0,220085.0,294,220001,Q2,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,973,PHI
+shot,3:28,1787271093000,28,30,P3,3pt jump shot missed,134.0,290189.0,295,221000,Q2,135072,False,3.0,16.0,105.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,Above the Break 3,14.0,8-16 ft.,992,SEN
+unknwown,3:24,1787271096000,28,30,REB,defensive rebound,122.0,220085.0,296,221002,Q2,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,996,PHI
+shot,3:14,1787271107000,31,30,P3,3pt jump shot made,122.0,342735.0,297,222000,Q2,135072,True,3.0,14.0,74.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,Right Corner 3,13.1,8-16 ft.,1006,PHI
+unknwown,3:14,1787271107000,31,30,ASS,made the assist,122.0,398175.0,298,222001,Q2,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,1006,PHI
+unknwown,2:58,1787271128000,31,30,FOUL,Personal foul; 2 free throws awarded,122.0,323171.0,300,224000,Q2,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1022,PHI
+unknwown,2:58,1787271128000,31,30,RFOUL,foul drawn,134.0,273042.0,301,224002,Q2,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,1022,SEN
+subst,2:58,1787271140000,31,30,SUBST,Substitution out,122.0,398175.0,302,225000,Q2,135072,,,,,,OUT,122.0,Sophia Dignadice,Philippines,12.0,Q2,,,,1022,PHI
+subst,2:58,1787271140000,31,30,SUBST,Substitution in,122.0,339158.0,303,226000,Q2,135072,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,1022,PHI
+subst,2:58,1787271140000,31,30,SUBST,Substitution out,134.0,420942.0,304,227000,Q2,135072,,,,,,OUT,134.0,Nogaye Diagne,Senegal,66.0,Q2,,,,1022,SEN
+subst,2:58,1787271140000,31,30,SUBST,Substitution in,134.0,303627.0,305,228000,Q2,135072,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q2,,,,1022,SEN
+shot,2:58,1787271150000,31,30,FT,1st of 2 free throws missed,134.0,273042.0,306,229000,Q2,135072,False,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,1022,SEN
+shot,2:58,1787271162000,31,31,FT,2nd of 2 free throws made,134.0,273042.0,307,230000,Q2,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,1022,SEN
+subst,2:58,1787271167000,31,31,SUBST,Substitution out,122.0,323171.0,308,231000,Q2,135072,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q2,,,,1022,PHI
+subst,2:58,1787271167000,31,31,SUBST,Substitution in,122.0,394258.0,309,232000,Q2,135072,,,,,,IN,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,,,,1022,PHI
+unknwown,2:47,1787271183000,31,31,TO,turnover; bad pass,122.0,220085.0,313,236000,Q2,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q2,,,,1033,PHI
+unknwown,2:47,1787271183000,31,31,ST,steal,134.0,303627.0,314,236001,Q2,135072,,,,,,,134.0,Lena Timera,Senegal,77.0,Q2,,,,1033,SEN
+shot,2:41,1787271188000,31,31,P3,3pt jump shot missed,134.0,303627.0,315,237000,Q2,135072,False,3.0,27.0,114.0,,,134.0,Lena Timera,Senegal,77.0,Q2,Above the Break 3,13.5,8-16 ft.,1039,SEN
+unknwown,2:38,1787271191000,31,31,REB,offensive rebound,134.0,287408.0,316,237002,Q2,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q2,,,,1042,SEN
+shot,2:28,1787271201000,31,31,P2,2pt driving layup missed,134.0,303627.0,317,238000,Q2,135072,False,2.0,103.0,64.0,,,134.0,Lena Timera,Senegal,77.0,Q2,In The Paint (Non-RA),4.4,Less Than 8 ft.,1052,SEN
+unknwown,2:25,1787271204000,31,31,REB,defensive rebound,122.0,323169.0,318,238002,Q2,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,1055,PHI
+shot,2:12,1787271218000,31,31,P3,3pt jump shot missed,122.0,394258.0,319,239000,Q2,135072,False,3.0,53.0,135.0,,,122.0,Kent Jane Pastrana,Philippines,5.0,Q2,Above the Break 3,12.9,8-16 ft.,1068,PHI
+unknwown,2:08,1787271220000,31,31,REB,defensive rebound,134.0,272478.0,320,239002,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,1072,SEN
+shot,1:48,1787271241000,31,31,P3,3pt jump shot missed,134.0,272478.0,321,240000,Q2,135072,False,3.0,7.0,41.0,,,134.0,Fanta Gassama,Senegal,10.0,Q2,Right Corner 3,13.3,8-16 ft.,1092,SEN
+unknwown,1:45,1787271243000,31,31,REB,offensive rebound,134.0,290189.0,322,240002,Q2,135072,,,,,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,1095,SEN
+shot,1:43,1787271246000,31,31,P2,"2PtsFG under the basket, turnaround jump shot missed",134.0,290189.0,323,241000,Q2,135072,False,2.0,157.0,43.0,,,134.0,Fatou Kine Filor,Senegal,12.0,Q2,Restricted Area,1.7,Less Than 8 ft.,1097,SEN
+unknwown,1:42,1787271248000,31,31,REB,offensive rebound,134.0,272478.0,325,241002,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,1098,SEN
+unknwown,1:42,1787271250000,31,31,TO,turnover; travelling,134.0,272478.0,326,243000,Q2,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,1098,SEN
+timeout,1:42,1787271255000,31,31,TIMO,Timeout,122.0,,327,244000,Q2,135072,,,,,,,,,,,Q2,,,,1098,
+shot,1:28,1787271362000,34,31,P3,3pt jump shot made,122.0,323169.0,331,248000,Q2,135072,True,3.0,223.0,143.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,Above the Break 3,13.2,8-16 ft.,1112,PHI
+unknwown,1:28,1787271362000,34,31,ASS,made the assist,122.0,342735.0,332,248001,Q2,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1112,PHI
+shot,1:12,1787271378000,34,33,P2,"2PtsFG under the basket, driving layup made",134.0,273042.0,333,249000,Q2,135072,True,2.0,156.0,37.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Restricted Area,1.6,Less Than 8 ft.,1128,SEN
+shot,1:03,1787271387000,36,33,P2,2pt pullup jump shot made,122.0,342735.0,334,250000,Q2,135072,True,2.0,196.0,103.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,Mid-Range,8.4,8-16 ft.,1137,PHI
+shot,0:45,1787271405000,36,33,P2,2pt pullup jump shot missed,134.0,273042.0,335,251000,Q2,135072,False,2.0,103.0,122.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Mid-Range,9.0,8-16 ft.,1155,SEN
+unknwown,0:43,1787271408000,36,33,TREB,team defensive rebound,122.0,,337,251002,Q2,135072,,,,,,,,,,,Q2,,,,1157,
+subst,0:43,1787271414000,36,33,SUBST,Substitution out,122.0,323169.0,338,253000,Q2,135072,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q2,,,,1157,PHI
+subst,0:43,1787271414000,36,33,SUBST,Substitution in,122.0,303016.0,339,254000,Q2,135072,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q2,,,,1157,PHI
+shot,0:25,1787271442000,39,33,P3,3pt jump shot made,122.0,303016.0,341,256000,Q2,135072,True,3.0,75.0,149.0,,,122.0,Angelica Surada,Philippines,8.0,Q2,Above the Break 3,12.7,8-16 ft.,1175,PHI
+unknwown,0:25,1787271442000,39,33,ASS,made the assist,122.0,342735.0,342,256001,Q2,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1175,PHI
+unknwown,0:13,1787271456000,39,33,FOUL,Personal foul; 2 free throws awarded,122.0,339158.0,344,258000,Q2,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,1187,PHI
+unknwown,0:13,1787271456000,39,33,RFOUL,foul drawn,134.0,273042.0,345,258002,Q2,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,,,1187,SEN
+subst,0:13,1787271493000,39,33,SUBST,Substitution out,122.0,339158.0,346,259000,Q2,135072,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q2,,,,1187,PHI
+subst,0:13,1787271493000,39,33,SUBST,Substitution in,122.0,342751.0,347,260000,Q2,135072,,,,,,IN,122.0,Monique Allison Del Carmen,Philippines,22.0,Q2,,,,1187,PHI
+subst,0:13,1787271493000,39,33,SUBST,Substitution out,134.0,272478.0,348,261000,Q2,135072,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q2,,,,1187,SEN
+subst,0:13,1787271493000,39,33,SUBST,Substitution out,134.0,290189.0,349,262000,Q2,135072,,,,,,OUT,134.0,Fatou Kine Filor,Senegal,12.0,Q2,,,,1187,SEN
+subst,0:13,1787271493000,39,33,SUBST,Substitution in,134.0,290089.0,350,263000,Q2,135072,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q2,,,,1187,SEN
+subst,0:13,1787271493000,39,33,SUBST,Substitution in,134.0,274485.0,351,264000,Q2,135072,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q2,,,,1187,SEN
+shot,0:13,1787271494000,39,34,FT,1st of 2 free throws made,134.0,273042.0,352,265000,Q2,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,1187,SEN
+shot,0:13,1787271505000,39,35,FT,2nd of 2 free throws made,134.0,273042.0,353,266000,Q2,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,,14.6,8-16 ft.,1187,SEN
+unknwown,0:08,1787271516000,39,35,TO,turnover; ball handling,122.0,342735.0,356,269000,Q2,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q2,,,,1192,PHI
+shot,0:02,1787271531000,39,35,P3,3pt pullup jump shot missed,134.0,273042.0,358,271000,Q2,135072,False,3.0,233.0,134.0,,,134.0,Cierra Dillard,Senegal,8.0,Q2,Above the Break 3,13.2,8-16 ft.,1198,SEN
+periods,0:00,1787271595000,39,35,ENDP,End of period,,,360,273000,Q2,135072,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,122.0,220085.0,361,274000,Q3,135072,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,122.0,394258.0,362,275000,Q3,135072,,,,,,OUT,122.0,Kent Jane Pastrana,Philippines,5.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,122.0,303016.0,363,276000,Q3,135072,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,122.0,342751.0,364,277000,Q3,135072,,,,,,OUT,122.0,Monique Allison Del Carmen,Philippines,22.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,122.0,323171.0,365,278000,Q3,135072,,,,,,IN,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,122.0,220090.0,366,279000,Q3,135072,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,122.0,339158.0,367,280000,Q3,135072,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,122.0,323169.0,368,281000,Q3,135072,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1200,PHI
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,134.0,274485.0,369,282000,Q3,135072,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1200,SEN
+subst,10:00,1787272456000,39,35,SUBST,Substitution out,134.0,303627.0,370,283000,Q3,135072,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q3,,,,1200,SEN
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,134.0,278227.0,371,284000,Q3,135072,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1200,SEN
+subst,10:00,1787272456000,39,35,SUBST,Substitution in,134.0,272478.0,372,285000,Q3,135072,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1200,SEN
+periods,10:00,1787272462000,39,35,STARTP,Start of period,,,373,286000,Q3,135072,,,,,,,,,,,Q3,,,,1200,
+unknwown,9:40,1787272486000,39,35,FOUL,Personal foul,134.0,287408.0,376,289000,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1220,SEN
+unknwown,9:40,1787272486000,39,35,RFOUL,foul drawn,122.0,323169.0,377,289002,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1220,PHI
+shot,9:34,1787272510000,42,35,P3,3pt pullup jump shot made,122.0,339158.0,379,291000,Q3,135072,True,3.0,86.0,165.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.6,8-16 ft.,1226,PHI
+shot,9:06,1787272538000,42,35,P2,2pt pullup jump shot missed,134.0,287408.0,380,292000,Q3,135072,False,2.0,194.0,126.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,Mid-Range,10.2,8-16 ft.,1254,SEN
+unknwown,9:01,1787272543000,42,35,TTO,team turnover; shot clock violation,134.0,,382,294000,Q3,135072,,,,,,,,,,,Q3,,,,1259,
+unknwown,8:46,1787272577000,42,35,TO,turnover; bad pass,122.0,220090.0,385,297000,Q3,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1274,PHI
+unknwown,8:28,1787272612000,42,35,TO,turnover; bad pass,134.0,287408.0,387,299000,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1292,SEN
+unknwown,8:28,1787272612000,42,35,ST,steal,122.0,323169.0,388,299001,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1292,PHI
+shot,8:22,1787272618000,42,35,P3,3pt jump shot missed,122.0,323171.0,389,300000,Q3,135072,False,3.0,10.0,37.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,Right Corner 3,13.0,8-16 ft.,1298,PHI
+unknwown,8:17,1787272621000,42,35,REB,offensive rebound,122.0,323169.0,390,300002,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1303,PHI
+shot,8:09,1787272630000,44,35,P2,2pt turnaround jump shot made,122.0,220090.0,391,301000,Q3,135072,True,2.0,106.0,31.0,,,122.0,Jack Animam,Philippines,10.0,Q3,In The Paint (Non-RA),3.5,Less Than 8 ft.,1311,PHI
+unknwown,8:09,1787272630000,44,35,ASS,made the assist,122.0,339158.0,392,301001,Q3,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1311,PHI
+shot,7:51,1787272648000,44,35,P2,2pt driving layup missed,134.0,278227.0,393,302000,Q3,135072,False,2.0,179.0,33.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,In The Paint (Non-RA),4.0,Less Than 8 ft.,1329,SEN
+unknwown,7:48,1787272651000,44,35,REB,offensive rebound,134.0,278227.0,394,302002,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1332,SEN
+shot,7:47,1787272652000,44,35,P2,2pt jump shot missed,134.0,278227.0,395,303000,Q3,135072,False,2.0,176.0,27.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,In The Paint (Non-RA),3.8,Less Than 8 ft.,1333,SEN
+unknwown,7:45,1787272654000,44,35,REB,offensive rebound,134.0,278227.0,396,303002,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1335,SEN
+shot,7:44,1787272657000,44,35,P2,"2PtsFG inside right, jump shot missed",134.0,278227.0,397,304000,Q3,135072,False,2.0,191.0,53.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Mid-Range,5.3,Less Than 8 ft.,1336,SEN
+unknwown,7:44,1787272657000,44,35,BS,blocked the shot,122.0,339158.0,398,304001,Q3,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1336,PHI
+unknwown,7:38,1787272661000,44,35,REB,offensive rebound,134.0,278227.0,399,304002,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1342,SEN
+shot,7:35,1787272664000,44,37,P2,"2PtsFG under the basket, driving layup made",134.0,287408.0,400,305000,Q3,135072,True,2.0,158.0,38.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1345,SEN
+unknwown,7:29,1787272673000,44,37,TO,turnover; bad pass,122.0,323169.0,402,307000,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1351,PHI
+subst,7:29,1787272695000,44,37,SUBST,Substitution out,134.0,272478.0,404,309000,Q3,135072,,,,,,OUT,134.0,Fanta Gassama,Senegal,10.0,Q3,,,,1351,SEN
+subst,7:29,1787272695000,44,37,SUBST,Substitution in,134.0,274485.0,405,310000,Q3,135072,,,,,,IN,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1351,SEN
+shot,7:26,1787272698000,44,39,P2,2pt driving layup made,134.0,273042.0,406,311000,Q3,135072,True,2.0,177.0,39.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,In The Paint (Non-RA),3.7,Less Than 8 ft.,1354,SEN
+shot,7:05,1787272720000,44,39,P3,3pt jump shot missed,122.0,323169.0,407,312000,Q3,135072,False,3.0,41.0,130.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,Above the Break 3,13.4,8-16 ft.,1375,PHI
+unknwown,7:01,1787272723000,44,39,REB,defensive rebound,134.0,274485.0,408,312002,Q3,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1379,SEN
+shot,6:51,1787272736000,44,41,P2,layup made,134.0,290089.0,411,315000,Q3,135072,True,2.0,172.0,34.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,In The Paint (Non-RA),3.3,Less Than 8 ft.,1389,SEN
+unknwown,6:48,1787272739000,44,41,FOUL,Personal foul; 1 free throw awarded,122.0,323169.0,413,317000,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1392,PHI
+unknwown,6:48,1787272739000,44,41,RFOUL,foul drawn,134.0,290089.0,414,317002,Q3,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1392,SEN
+shot,6:48,1787272763000,44,42,FT,1st free throw made,134.0,290089.0,415,318000,Q3,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1392,SEN
+unknwown,6:40,1787272777000,44,42,FOUL,Offensive foul,122.0,220090.0,418,321000,Q3,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1400,PHI
+unknwown,6:40,1787272777000,44,42,TO,turnover,122.0,220090.0,419,321001,Q3,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1400,PHI
+unknwown,6:40,1787272777000,44,42,RFOUL,foul drawn,134.0,290089.0,420,321002,Q3,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1400,SEN
+unknwown,6:25,1787272886000,44,42,TO,turnover; bad pass,134.0,273042.0,426,327000,Q3,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1415,SEN
+unknwown,6:25,1787272886000,44,42,ST,steal,122.0,342735.0,427,327001,Q3,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1415,PHI
+unknwown,6:15,1787272902000,44,42,FOUL,Personal foul,134.0,287408.0,429,329000,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1425,SEN
+unknwown,6:15,1787272902000,44,42,RFOUL,foul drawn,122.0,220090.0,430,329002,Q3,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q3,,,,1425,PHI
+subst,6:15,1787272912000,44,42,SUBST,Substitution out,122.0,220090.0,431,330000,Q3,135072,,,,,,OUT,122.0,Jack Animam,Philippines,10.0,Q3,,,,1425,PHI
+subst,6:15,1787272912000,44,42,SUBST,Substitution in,122.0,220085.0,432,331000,Q3,135072,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1425,PHI
+shot,6:13,1787272924000,46,42,P2,"2PtsFG under the basket, points after turnover, turnaround jump shot made",122.0,323169.0,434,333000,Q3,135072,True,2.0,122.0,38.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,Restricted Area,1.8,Less Than 8 ft.,1427,PHI
+unknwown,6:13,1787272924000,46,42,ASS,made the assist,122.0,339158.0,435,333001,Q3,135072,,,,,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1427,PHI
+unknwown,5:51,1787272946000,46,42,TO,turnover; ball handling,134.0,287408.0,436,334000,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1449,SEN
+unknwown,5:51,1787272946000,46,42,ST,steal,122.0,342735.0,437,334001,Q3,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1449,PHI
+unknwown,5:46,1787272973000,46,42,FOUL,Offensive foul,122.0,323169.0,439,336000,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1454,PHI
+unknwown,5:46,1787272973000,46,42,TO,turnover,122.0,323169.0,440,336001,Q3,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1454,PHI
+unknwown,5:46,1787272973000,46,42,RFOUL,foul drawn,134.0,273042.0,441,336002,Q3,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1454,SEN
+shot,5:29,1787273232000,46,45,P3,3pt jump shot made,134.0,273042.0,443,338000,Q3,135072,True,3.0,9.0,80.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Above the Break 3,13.7,8-16 ft.,1471,SEN
+unknwown,5:29,1787273232000,46,45,ASS,made the assist,134.0,278227.0,444,338001,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1471,SEN
+shot,5:07,1787273253000,46,45,P3,3pt jump shot missed,122.0,339158.0,445,339000,Q3,135072,False,3.0,72.0,151.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.0,8-16 ft.,1493,PHI
+unknwown,5:07,1787273253000,46,45,BS,blocked the shot,134.0,287408.0,447,339001,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1493,SEN
+unknwown,5:06,1787273260000,46,45,REB,defensive rebound,134.0,287408.0,448,339002,Q3,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1494,SEN
+subst,5:06,1787273269000,46,45,SUBST,Substitution out,122.0,323169.0,449,341000,Q3,135072,,,,,,OUT,122.0,Kacey Dela Rosa,Philippines,28.0,Q3,,,,1494,PHI
+subst,5:06,1787273269000,46,45,SUBST,Substitution in,122.0,303016.0,450,342000,Q3,135072,,,,,,IN,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1494,PHI
+unknwown,5:06,1787273272000,46,45,JS,jump ball situation; throw-in,134.0,,451,343000,Q3,135072,,,,,,,,,,,Q3,,,,1494,
+shot,4:54,1787273288000,46,45,P2,"2PtsFG under the basket, driving layup missed",134.0,278227.0,453,345000,Q3,135072,False,2.0,124.0,35.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Restricted Area,1.7,Less Than 8 ft.,1506,SEN
+unknwown,4:52,1787273291000,46,45,REB,offensive rebound,134.0,290089.0,455,345002,Q3,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1508,SEN
+unknwown,4:52,1787273295000,46,45,FOUL,Personal foul; 2 free throws awarded,122.0,220085.0,456,347000,Q3,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1508,PHI
+unknwown,4:52,1787273295000,46,45,RFOUL,foul drawn,134.0,290089.0,457,347002,Q3,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1508,SEN
+shot,4:52,1787273315000,46,46,FT,1st of 2 free throws made,134.0,290089.0,458,348000,Q3,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1508,SEN
+shot,4:52,1787273326000,46,47,FT,2nd of 2 free throws made,134.0,290089.0,459,349000,Q3,135072,True,1.0,0.0,0.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,,14.6,8-16 ft.,1508,SEN
+shot,4:36,1787273343000,46,47,P2,"2PtsFG under the basket, driving layup missed",122.0,342735.0,461,351000,Q3,135072,False,2.0,120.0,35.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Restricted Area,2.1,Less Than 8 ft.,1524,PHI
+unknwown,4:30,1787273348000,46,47,REB,defensive rebound,134.0,278227.0,462,351002,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1530,SEN
+shot,4:27,1787273353000,46,50,P3,3pt jump shot made,134.0,287408.0,463,352000,Q3,135072,True,3.0,7.0,28.0,,,134.0,Ndioma Kane,Senegal,22.0,Q3,Right Corner 3,13.4,8-16 ft.,1533,SEN
+unknwown,4:27,1787273353000,46,50,ASS,made the assist,134.0,278227.0,464,352001,Q3,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q3,,,,1533,SEN
+shot,4:06,1787273373000,46,50,P3,3pt pullup jump shot missed,122.0,339158.0,465,353000,Q3,135072,False,3.0,55.0,147.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.7,8-16 ft.,1554,PHI
+unknwown,4:02,1787273376000,46,50,REB,offensive rebound,122.0,323171.0,466,353002,Q3,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1558,PHI
+shot,4:01,1787273378000,48,50,P2,layup made,122.0,323171.0,467,354000,Q3,135072,True,2.0,112.0,33.0,,,122.0,Louna Ozar,Philippines,9.0,Q3,In The Paint (Non-RA),2.9,Less Than 8 ft.,1559,PHI
+shot,3:43,1787273396000,48,50,P2,"2PtsFG under the basket, driving layup missed",134.0,273042.0,468,355000,Q3,135072,False,2.0,129.0,32.0,,,134.0,Cierra Dillard,Senegal,8.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1577,SEN
+unknwown,3:40,1787273398000,48,50,REB,defensive rebound,122.0,342735.0,469,355002,Q3,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1580,PHI
+subst,3:39,1787273424000,48,50,SUBST,Substitution out,122.0,339158.0,471,357000,Q3,135072,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1581,PHI
+subst,3:39,1787273424000,48,50,SUBST,Substitution in,122.0,398175.0,472,358000,Q3,135072,,,,,,IN,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1581,PHI
+subst,3:39,1787273424000,48,50,SUBST,Substitution out,134.0,290089.0,473,359000,Q3,135072,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1581,SEN
+subst,3:39,1787273424000,48,50,SUBST,Substitution out,134.0,287408.0,474,360000,Q3,135072,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q3,,,,1581,SEN
+subst,3:39,1787273424000,48,50,SUBST,Substitution in,134.0,231012.0,475,361000,Q3,135072,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1581,SEN
+subst,3:39,1787273424000,48,50,SUBST,Substitution in,134.0,303627.0,476,362000,Q3,135072,,,,,,IN,134.0,Lena Timera,Senegal,77.0,Q3,,,,1581,SEN
+unknwown,3:27,1787273462000,48,50,FOUL,Personal foul; 2 free throws awarded,134.0,273042.0,483,369000,Q3,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1593,SEN
+unknwown,3:27,1787273462000,48,50,RFOUL,foul drawn,122.0,220085.0,484,369002,Q3,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1593,PHI
+shot,3:27,1787273481000,48,50,FT,1st of 2 free throws missed,122.0,220085.0,485,370000,Q3,135072,False,1.0,0.0,0.0,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,14.6,8-16 ft.,1593,PHI
+shot,3:27,1787273492000,49,50,FT,2nd of 2 free throws made,122.0,220085.0,486,371000,Q3,135072,True,1.0,0.0,0.0,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,14.6,8-16 ft.,1593,PHI
+shot,3:02,1787273520000,49,50,P2,2pt turnaround jump shot missed,134.0,303627.0,488,373000,Q3,135072,False,2.0,92.0,79.0,,,134.0,Lena Timera,Senegal,77.0,Q3,Mid-Range,6.2,Less Than 8 ft.,1618,SEN
+unknwown,2:57,1787273524000,49,50,REB,defensive rebound,122.0,303016.0,489,373002,Q3,135072,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1623,PHI
+unknwown,2:47,1787273537000,49,50,FOUL,Personal foul; 2 free throws awarded,134.0,274485.0,491,375000,Q3,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1633,SEN
+unknwown,2:47,1787273537000,49,50,RFOUL,foul drawn,122.0,342735.0,492,375002,Q3,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1633,PHI
+shot,2:47,1787273567000,50,50,FT,1st of 2 free throws made,122.0,342735.0,493,376000,Q3,135072,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,14.6,8-16 ft.,1633,PHI
+unknwown,2:47,1787273567000,50,50,ASS,made the assist,122.0,323171.0,494,376001,Q3,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1633,PHI
+shot,2:47,1787273582000,51,50,FT,2nd of 2 free throws made,122.0,342735.0,495,377000,Q3,135072,True,1.0,0.0,0.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,14.6,8-16 ft.,1633,PHI
+unknwown,2:33,1787273609000,51,50,FOUL,Offensive foul,134.0,231012.0,498,380000,Q3,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1647,SEN
+unknwown,2:33,1787273609000,51,50,TO,turnover,134.0,231012.0,499,380001,Q3,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1647,SEN
+unknwown,2:33,1787273609000,51,50,RFOUL,foul drawn,122.0,323171.0,500,380002,Q3,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1647,PHI
+shot,2:06,1787273651000,53,50,P2,2pt pullup jump shot made,122.0,398175.0,502,382000,Q3,135072,True,2.0,70.0,97.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,Mid-Range,9.0,8-16 ft.,1674,PHI
+unknwown,2:06,1787273651000,53,50,ASS,made the assist,122.0,303016.0,524,382001,Q3,135072,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1674,PHI
+subst,1:42,1787273688000,53,50,SUBST,Substitution out,134.0,231012.0,505,385000,Q3,135072,,,,,,OUT,134.0,Madjiguene Sene,Senegal,35.0,Q3,,,,1698,SEN
+subst,1:42,1787273688000,53,50,SUBST,Substitution in,134.0,290089.0,506,386000,Q3,135072,,,,,,IN,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1698,SEN
+shot,1:42,1787273690000,53,50,P2,"2PtsFG under the basket, jump shot missed",134.0,290089.0,507,387000,Q3,135072,False,2.0,160.0,38.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1698,SEN
+unknwown,1:42,1787273693000,53,50,REB,offensive rebound,134.0,290089.0,508,387002,Q3,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q3,,,,1698,SEN
+shot,1:42,1787273694000,53,50,P2,2pt jump shot missed,134.0,290089.0,509,388000,Q3,135072,False,2.0,160.0,42.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1698,SEN
+unknwown,1:42,1787273697000,53,50,REB,defensive rebound,122.0,220085.0,510,388002,Q3,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q3,,,,1698,PHI
+unknwown,1:39,1787273703000,53,50,JS,jump ball situation; throw-in,122.0,,513,391000,Q3,135072,,,,,,,,,,,Q3,,,,1701,
+shot,1:30,1787273713000,56,50,P3,3pt jump shot made,122.0,342735.0,515,393000,Q3,135072,True,3.0,30.0,124.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q3,Above the Break 3,13.8,8-16 ft.,1710,PHI
+unknwown,1:30,1787273713000,56,50,ASS,made the assist,122.0,323171.0,517,393001,Q3,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q3,,,,1710,PHI
+subst,1:22,1787273759000,56,50,SUBST,Substitution out,134.0,273042.0,522,399000,Q3,135072,,,,,,OUT,134.0,Cierra Dillard,Senegal,8.0,Q3,,,,1718,SEN
+subst,1:22,1787273759000,56,50,SUBST,Substitution in,134.0,203560.0,523,400000,Q3,135072,,,,,,IN,134.0,Maty Fall,Senegal,4.0,Q3,,,,1718,SEN
+unknwown,1:09,1787273794000,56,50,TO,turnover; bad pass,134.0,274485.0,531,407000,Q3,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q3,,,,1731,SEN
+subst,1:09,1787273807000,56,50,SUBST,Substitution out,122.0,342735.0,532,408000,Q3,135072,,,,,,OUT,122.0,Vanessa De Jesus,Philippines,2.0,Q3,,,,1731,PHI
+subst,1:09,1787273807000,56,50,SUBST,Substitution in,122.0,339158.0,533,409000,Q3,135072,,,,,,IN,122.0,Jhazmin Joson,Philippines,15.0,Q3,,,,1731,PHI
+subst,1:09,1787273807000,56,50,SUBST,Substitution out,134.0,303627.0,534,410000,Q3,135072,,,,,,OUT,134.0,Lena Timera,Senegal,77.0,Q3,,,,1731,SEN
+subst,1:09,1787273807000,56,50,SUBST,Substitution in,134.0,420942.0,535,411000,Q3,135072,,,,,,IN,134.0,Nogaye Diagne,Senegal,66.0,Q3,,,,1731,SEN
+shot,0:56,1787273827000,59,50,P3,3pt jump shot made,122.0,339158.0,539,415000,Q3,135072,True,3.0,170.0,169.0,,,122.0,Jhazmin Joson,Philippines,15.0,Q3,Above the Break 3,13.2,8-16 ft.,1744,PHI
+unknwown,0:56,1787273827000,59,50,ASS,made the assist,122.0,398175.0,540,415001,Q3,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,,,,1744,PHI
+shot,0:25,1787273865000,59,50,P2,"2PtsFG under the basket, driving layup missed",134.0,278227.0,543,418000,Q3,135072,False,2.0,132.0,39.0,,,134.0,Sabou Gueye,Senegal,7.0,Q3,Restricted Area,0.8,Less Than 8 ft.,1775,SEN
+unknwown,0:24,1787273871000,59,50,TREB,team offensive rebound,134.0,,545,418002,Q3,135072,,,,,,,,,,,Q3,,,,1776,
+shot,0:21,1787273893000,59,50,P2,"2PtsFG inside left wing, jump shot missed",134.0,290089.0,547,421000,Q3,135072,False,2.0,86.0,26.0,,,134.0,Khadija Faye,Senegal,20.0,Q3,Mid-Range,5.6,Less Than 8 ft.,1779,SEN
+unknwown,0:18,1787273895000,59,50,REB,defensive rebound,122.0,303016.0,548,421002,Q3,135072,,,,,,,122.0,Angelica Surada,Philippines,8.0,Q3,,,,1782,PHI
+shot,0:07,1787273907000,61,50,P2,"2PtsFG under the basket, reverse lay-up made",122.0,398175.0,549,422000,Q3,135072,True,2.0,119.0,29.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q3,Restricted Area,2.4,Less Than 8 ft.,1793,PHI
+shot,0:00,1787273947000,61,50,P3,"3PtsFG back court, pullup jump shot missed",134.0,203560.0,551,422500,Q3,135072,False,3.0,57.0,244.0,,,134.0,Maty Fall,Senegal,4.0,Q3,Above the Break 3,22.0,22+ ft.,1800,SEN
+periods,0:00,1787274002000,61,50,ENDP,End of period,,,552,424000,Q3,135072,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787274068000,61,50,SUBST,Substitution out,134.0,203560.0,553,425000,Q4,135072,,,,,,OUT,134.0,Maty Fall,Senegal,4.0,Q4,,,,1800,SEN
+subst,10:00,1787274068000,61,50,SUBST,Substitution out,134.0,278227.0,554,426000,Q4,135072,,,,,,OUT,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,1800,SEN
+subst,10:00,1787274068000,61,50,SUBST,Substitution in,134.0,273042.0,555,427000,Q4,135072,,,,,,IN,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1800,SEN
+subst,10:00,1787274068000,61,50,SUBST,Substitution in,134.0,287408.0,556,428000,Q4,135072,,,,,,IN,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,1800,SEN
+periods,10:00,1787274068000,61,50,STARTP,Start of period,,,557,429000,Q4,135072,,,,,,,,,,,Q4,,,,1800,
+shot,9:52,1787274078000,61,50,P3,3pt jump shot missed,134.0,274485.0,559,431000,Q4,135072,False,3.0,228.0,140.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,Above the Break 3,13.3,8-16 ft.,1808,SEN
+unknwown,9:50,1787274082000,61,50,TREB,team offensive rebound,134.0,,561,431002,Q4,135072,,,,,,,,,,,Q4,,,,1810,
+unknwown,9:50,1787274084000,61,50,FOUL,Personal foul,122.0,323171.0,562,433000,Q4,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,1810,PHI
+unknwown,9:50,1787274084000,61,50,RFOUL,foul drawn,134.0,290089.0,563,433002,Q4,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1810,SEN
+shot,9:40,1787274107000,61,50,P3,3pt jump shot missed,134.0,273042.0,567,437000,Q4,135072,False,3.0,167.0,171.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,13.4,8-16 ft.,1820,SEN
+unknwown,9:37,1787274109000,61,50,REB,offensive rebound,134.0,290089.0,568,437002,Q4,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1823,SEN
+shot,9:36,1787274111000,61,52,P2,"2PtsFG inside right wing, jump shot made",134.0,290089.0,569,438000,Q4,135072,True,2.0,204.0,38.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Mid-Range,6.4,Less Than 8 ft.,1824,SEN
+shot,9:17,1787274130000,61,52,P3,3pt jump shot from center missed,122.0,303016.0,570,439000,Q4,135072,False,3.0,145.0,167.0,,,122.0,Angelica Surada,Philippines,8.0,Q4,Above the Break 3,12.7,8-16 ft.,1843,PHI
+unknwown,9:14,1787274132000,61,52,REB,defensive rebound,134.0,290089.0,571,439002,Q4,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1846,SEN
+shot,9:04,1787274143000,61,55,P3,3pt jump shot made,134.0,420942.0,572,440000,Q4,135072,True,3.0,8.0,22.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,Right Corner 3,13.3,8-16 ft.,1856,SEN
+unknwown,9:04,1787274143000,61,55,ASS,made the assist,134.0,287408.0,573,440001,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,1856,SEN
+shot,8:45,1787274162000,61,55,P2,2pt driving layup missed,122.0,398175.0,574,441000,Q4,135072,False,2.0,110.0,21.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,In The Paint (Non-RA),3.6,Less Than 8 ft.,1875,PHI
+unknwown,8:45,1787274162000,61,55,BS,blocked the shot,134.0,290089.0,575,441001,Q4,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,1875,SEN
+unknwown,8:40,1787274166000,61,55,REB,offensive rebound,122.0,220085.0,576,441002,Q4,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,1880,PHI
+shot,8:40,1787274167000,63,55,P2,"2PtsFG under the basket, layup made",122.0,220085.0,577,442000,Q4,135072,True,2.0,124.0,37.0,,,122.0,Afril Bernardino,Philippines,3.0,Q4,Restricted Area,1.6,Less Than 8 ft.,1880,PHI
+shot,8:28,1787274179000,63,57,P2,2pt pullup jump shot made,134.0,273042.0,578,443000,Q4,135072,True,2.0,129.0,114.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Mid-Range,7.5,Less Than 8 ft.,1892,SEN
+subst,8:05,1787274222000,63,57,SUBST,Substitution out,122.0,303016.0,580,445000,Q4,135072,,,,,,OUT,122.0,Angelica Surada,Philippines,8.0,Q4,,,,1915,PHI
+subst,8:05,1787274222000,63,57,SUBST,Substitution out,122.0,339158.0,581,446000,Q4,135072,,,,,,OUT,122.0,Jhazmin Joson,Philippines,15.0,Q4,,,,1915,PHI
+subst,8:05,1787274222000,63,57,SUBST,Substitution in,122.0,342735.0,582,447000,Q4,135072,,,,,,IN,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,1915,PHI
+subst,8:05,1787274222000,63,57,SUBST,Substitution in,122.0,323169.0,583,448000,Q4,135072,,,,,,IN,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,1915,PHI
+shot,8:00,1787274238000,65,57,P2,2pt driving layup made,122.0,323169.0,585,450000,Q4,135072,True,2.0,110.0,42.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,In The Paint (Non-RA),3.0,Less Than 8 ft.,1920,PHI
+unknwown,7:46,1787274257000,65,57,FOUL,Personal foul; 2 free throws awarded,122.0,323171.0,587,452000,Q4,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,1934,PHI
+unknwown,7:46,1787274257000,65,57,RFOUL,foul drawn,134.0,273042.0,588,452002,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,1934,SEN
+shot,7:46,1787274280000,65,58,FT,1st of 2 free throws made,134.0,273042.0,589,453000,Q4,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,14.6,8-16 ft.,1934,SEN
+shot,7:46,1787274293000,65,59,FT,2nd of 2 free throws made,134.0,273042.0,590,454000,Q4,135072,True,1.0,0.0,0.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,14.6,8-16 ft.,1934,SEN
+shot,7:29,1787274313000,67,59,P2,layup made,122.0,398175.0,592,456000,Q4,135072,True,2.0,114.0,30.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,In The Paint (Non-RA),2.8,Less Than 8 ft.,1951,PHI
+shot,7:20,1787274322000,67,59,P2,2pt jump shot missed,134.0,274485.0,593,457000,Q4,135072,False,2.0,77.0,21.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,Mid-Range,6.6,Less Than 8 ft.,1960,SEN
+unknwown,7:17,1787274324000,67,59,REB,offensive rebound,134.0,274485.0,594,457002,Q4,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,1963,SEN
+shot,7:16,1787274325000,67,61,P2,"2PtsFG under the basket, layup made",134.0,274485.0,595,458000,Q4,135072,True,2.0,132.0,33.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,Restricted Area,1.1,Less Than 8 ft.,1964,SEN
+shot,7:07,1787274335000,67,61,P2,2pt turnaround jump shot missed,122.0,342735.0,596,459000,Q4,135072,False,2.0,119.0,75.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,In The Paint (Non-RA),4.1,Less Than 8 ft.,1973,PHI
+unknwown,7:06,1787274343000,67,61,TREB,team offensive rebound,122.0,,598,459002,Q4,135072,,,,,,,,,,,Q4,,,,1974,
+unknwown,7:06,1787274346000,67,61,FOUL,Personal foul,134.0,274485.0,599,461000,Q4,135072,,,,,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,1974,SEN
+unknwown,7:06,1787274346000,67,61,RFOUL,foul drawn,122.0,220085.0,600,461002,Q4,135072,,,,,,,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,1974,PHI
+subst,7:06,1787274353000,67,61,SUBST,Substitution out,122.0,220085.0,601,462000,Q4,135072,,,,,,OUT,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,1974,PHI
+subst,7:06,1787274353000,67,61,SUBST,Substitution in,122.0,220090.0,602,463000,Q4,135072,,,,,,IN,122.0,Jack Animam,Philippines,10.0,Q4,,,,1974,PHI
+shot,7:00,1787274377000,69,61,P2,"2PtsFG under the basket, turnaround jump shot made",122.0,323169.0,604,465000,Q4,135072,True,2.0,155.0,39.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Restricted Area,1.5,Less Than 8 ft.,1980,PHI
+shot,6:40,1787274397000,69,63,P2,2pt turnaround jump shot made,134.0,274485.0,605,466000,Q4,135072,True,2.0,178.0,52.0,,,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,In The Paint (Non-RA),4.0,Less Than 8 ft.,2000,SEN
+shot,6:10,1787274428000,69,63,P3,3pt pullup jump shot missed,122.0,342735.0,606,467000,Q4,135072,False,3.0,207.0,143.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Above the Break 3,12.3,8-16 ft.,2030,PHI
+unknwown,6:07,1787274430000,69,63,REB,defensive rebound,134.0,420942.0,607,467002,Q4,135072,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,,,,2033,SEN
+subst,6:04,1787274443000,69,63,SUBST,Substitution out,134.0,274485.0,609,469000,Q4,135072,,,,,,OUT,134.0,Khadidiatou Diouf,Senegal,28.0,Q4,,,,2036,SEN
+subst,6:04,1787274443000,69,63,SUBST,Substitution in,134.0,272478.0,610,470000,Q4,135072,,,,,,IN,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,2036,SEN
+timeout,6:04,1787274452000,69,63,TIMO,Timeout,122.0,,611,471000,Q4,135072,,,,,,,,,,,Q4,,,,2036,
+shot,6:03,1787274537000,69,65,P2,2pt jump shot made,134.0,287408.0,613,473000,Q4,135072,True,2.0,166.0,25.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,In The Paint (Non-RA),3.0,Less Than 8 ft.,2037,SEN
+unknwown,6:03,1787274537000,69,65,ASS,made the assist,134.0,273042.0,614,473001,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2037,SEN
+unknwown,5:44,1787274556000,69,65,TO,turnover; bad pass,122.0,323171.0,615,474000,Q4,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2056,PHI
+unknwown,5:44,1787274556000,69,65,ST,steal,134.0,287408.0,616,474001,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2056,SEN
+unknwown,5:30,1787274570000,69,65,TO,turnover; bad pass,134.0,287408.0,617,475000,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2070,SEN
+unknwown,5:30,1787274570000,69,65,ST,steal,122.0,220090.0,618,475001,Q4,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2070,PHI
+shot,5:23,1787274577000,69,65,P3,3pt jump shot missed,122.0,398175.0,619,476000,Q4,135072,False,3.0,270.0,28.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,Left Corner 3,13.1,8-16 ft.,2077,PHI
+unknwown,5:16,1787274583000,69,65,REB,defensive rebound,134.0,273042.0,620,476002,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2084,SEN
+shot,5:06,1787274594000,69,65,P2,2pt driving layup missed,134.0,273042.0,621,477000,Q4,135072,False,2.0,171.0,32.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,In The Paint (Non-RA),3.2,Less Than 8 ft.,2094,SEN
+unknwown,5:02,1787274597000,69,65,REB,offensive rebound,134.0,290089.0,622,477002,Q4,135072,,,,,,,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2098,SEN
+shot,5:02,1787274597000,69,67,P2,2PtsFG under the basket made,134.0,290089.0,623,478000,Q4,135072,True,2.0,140.0,31.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2098,SEN
+shot,4:40,1787274621000,72,67,P3,3pt jump shot made,122.0,342735.0,624,479000,Q4,135072,True,3.0,270.0,31.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Left Corner 3,13.0,8-16 ft.,2120,PHI
+unknwown,4:40,1787274621000,72,67,ASS,made the assist,122.0,398175.0,625,479001,Q4,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2120,PHI
+shot,4:25,1787274635000,72,67,P2,"2PtsFG under the basket, turnaround jump shot missed",134.0,290089.0,626,480000,Q4,135072,False,2.0,123.0,22.0,,,134.0,Khadija Faye,Senegal,20.0,Q4,Restricted Area,2.5,Less Than 8 ft.,2135,SEN
+unknwown,4:21,1787274639000,72,67,REB,defensive rebound,122.0,323169.0,627,480002,Q4,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2139,PHI
+shot,4:04,1787274657000,72,67,P3,3pt step back jump shot missed,122.0,398175.0,628,481000,Q4,135072,False,3.0,260.0,83.0,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,Above the Break 3,12.7,8-16 ft.,2156,PHI
+unknwown,4:00,1787274659000,72,67,REB,defensive rebound,134.0,272478.0,629,481002,Q4,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,2160,SEN
+shot,3:47,1787274677000,72,67,P2,"2PtsFG under the basket, driving layup missed",134.0,287408.0,633,485000,Q4,135072,False,2.0,155.0,28.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2173,SEN
+unknwown,3:47,1787274677000,72,67,BS,blocked the shot,122.0,323169.0,634,485001,Q4,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2173,PHI
+unknwown,3:45,1787274680000,72,67,TREB,team offensive rebound,134.0,,635,485002,Q4,135072,,,,,,,,,,,Q4,,,,2175,
+subst,3:45,1787274702000,72,67,SUBST,Substitution out,134.0,290089.0,636,486000,Q4,135072,,,,,,OUT,134.0,Khadija Faye,Senegal,20.0,Q4,,,,2175,SEN
+subst,3:45,1787274702000,72,67,SUBST,Substitution in,134.0,231012.0,637,487000,Q4,135072,,,,,,IN,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2175,SEN
+shot,3:40,1787274712000,72,67,P2,2pt fadeaway jump shot missed,134.0,287408.0,639,489000,Q4,135072,False,2.0,89.0,44.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Mid-Range,5.1,Less Than 8 ft.,2180,SEN
+unknwown,3:36,1787274714000,72,67,REB,defensive rebound,122.0,342735.0,640,489002,Q4,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2184,PHI
+unknwown,3:25,1787274728000,72,67,FOUL,Personal foul; 2 free throws awarded,134.0,287408.0,642,491000,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2195,SEN
+unknwown,3:25,1787274728000,72,67,RFOUL,foul drawn,122.0,220090.0,643,491002,Q4,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2195,PHI
+shot,3:25,1787274757000,73,67,FT,1st of 2 free throws made,122.0,220090.0,644,492000,Q4,135072,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2195,PHI
+unknwown,3:25,1787274757000,73,67,ASS,made the assist,122.0,342735.0,645,492001,Q4,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2195,PHI
+shot,3:25,1787274771000,73,67,FT,2nd of 2 free throws missed,122.0,220090.0,646,493000,Q4,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2195,PHI
+unknwown,3:25,1787274772000,73,67,REB,defensive rebound,134.0,273042.0,648,493002,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2195,SEN
+shot,3:18,1787274780000,73,69,P2,"2PtsFG inside center, fast break, jump shot made",134.0,231012.0,649,495000,Q4,135072,True,2.0,147.0,106.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,Mid-Range,6.6,Less Than 8 ft.,2202,SEN
+unknwown,3:18,1787274780000,73,69,ASS,made the assist,134.0,287408.0,650,495001,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2202,SEN
+shot,2:51,1787274807000,73,69,P3,3pt jump shot missed,122.0,323169.0,651,496000,Q4,135072,False,3.0,271.0,38.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Left Corner 3,13.1,8-16 ft.,2229,PHI
+unknwown,2:47,1787274810000,73,69,REB,defensive rebound,134.0,287408.0,652,496002,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2233,SEN
+shot,2:44,1787274814000,73,69,P2,2pt driving layup missed,134.0,287408.0,653,497000,Q4,135072,False,2.0,168.0,38.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,In The Paint (Non-RA),2.8,Less Than 8 ft.,2236,SEN
+unknwown,2:42,1787274816000,73,69,REB,offensive rebound,134.0,287408.0,654,497002,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2238,SEN
+shot,2:40,1787274818000,73,69,P2,"2PtsFG under the basket, jump shot missed",134.0,287408.0,655,498000,Q4,135072,False,2.0,159.0,38.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2240,SEN
+unknwown,2:37,1787274820000,73,69,REB,offensive rebound,134.0,287408.0,656,498002,Q4,135072,,,,,,,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2243,SEN
+shot,2:36,1787274822000,73,71,P2,2pt jump shot made,134.0,287408.0,657,499000,Q4,135072,True,2.0,171.0,55.0,,,134.0,Ndioma Kane,Senegal,22.0,Q4,In The Paint (Non-RA),3.4,Less Than 8 ft.,2244,SEN
+shot,2:17,1787274842000,76,71,P3,3pt jump shot made,122.0,323169.0,658,500000,Q4,135072,True,3.0,28.0,114.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Above the Break 3,13.4,8-16 ft.,2263,PHI
+unknwown,2:17,1787274842000,76,71,ASS,made the assist,122.0,342735.0,659,500001,Q4,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2263,PHI
+shot,1:51,1787274866000,76,73,P2,2pt turnaround jump shot made,134.0,231012.0,660,501000,Q4,135072,True,2.0,166.0,35.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,In The Paint (Non-RA),2.6,Less Than 8 ft.,2289,SEN
+unknwown,1:51,1787274866000,76,73,ASS,made the assist,134.0,273042.0,661,501001,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2289,SEN
+unknwown,1:31,1787274890000,76,73,FOUL,Personal foul,134.0,420942.0,663,503000,Q4,135072,,,,,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,,,,2309,SEN
+unknwown,1:31,1787274890000,76,73,RFOUL,foul drawn,122.0,323171.0,664,503002,Q4,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2309,PHI
+subst,1:31,1787274913000,76,73,SUBST,Substitution out,134.0,287408.0,665,504000,Q4,135072,,,,,,OUT,134.0,Ndioma Kane,Senegal,22.0,Q4,,,,2309,SEN
+subst,1:31,1787274913000,76,73,SUBST,Substitution in,134.0,278227.0,666,505000,Q4,135072,,,,,,IN,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2309,SEN
+shot,1:28,1787274921000,78,73,P2,"2PtsFG under the basket, layup made",122.0,323169.0,668,507000,Q4,135072,True,2.0,143.0,25.0,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,Restricted Area,1.5,Less Than 8 ft.,2312,PHI
+unknwown,1:28,1787274921000,78,73,ASS,made the assist,122.0,342735.0,669,507001,Q4,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2312,PHI
+shot,1:17,1787274932000,78,75,P2,"2PtsFG under the basket, layup made",134.0,420942.0,670,508000,Q4,135072,True,2.0,122.0,26.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,Restricted Area,2.3,Less Than 8 ft.,2323,SEN
+unknwown,1:17,1787274932000,78,75,ASS,made the assist,134.0,278227.0,671,508001,Q4,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2323,SEN
+unknwown,1:11,1787274954000,78,75,TO,turnover; bad pass,122.0,398175.0,674,511000,Q4,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2329,PHI
+unknwown,1:11,1787274954000,78,75,ST,steal,134.0,272478.0,675,511001,Q4,135072,,,,,,,134.0,Fanta Gassama,Senegal,10.0,Q4,,,,2329,SEN
+unknwown,1:08,1787274962000,78,75,FOUL,Personal foul; 2 free throws awarded,122.0,323171.0,677,513000,Q4,135072,,,,,,,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2332,PHI
+unknwown,1:08,1787274962000,78,75,RFOUL,foul drawn,134.0,231012.0,678,513002,Q4,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2332,SEN
+timeout,1:08,1787274988000,78,75,TIMO,Timeout,122.0,,679,514000,Q4,135072,,,,,,,,,,,Q4,,,,2332,
+subst,1:08,1787275064000,78,75,SUBST,Substitution out,122.0,323171.0,680,515000,Q4,135072,,,,,,OUT,122.0,Louna Ozar,Philippines,9.0,Q4,,,,2332,PHI
+subst,1:08,1787275064000,78,75,SUBST,Substitution in,122.0,220085.0,681,516000,Q4,135072,,,,,,IN,122.0,Afril Bernardino,Philippines,3.0,Q4,,,,2332,PHI
+shot,1:08,1787275082000,78,75,FT,Free throw missed 1 of 2,134.0,231012.0,682,517000,Q4,135072,False,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2332,SEN
+shot,1:08,1787275094000,78,75,FT,Free throw missed 2 of 2,134.0,231012.0,683,518000,Q4,135072,False,1.0,0.0,0.0,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,14.6,8-16 ft.,2332,SEN
+unknwown,1:08,1787275095000,78,75,REB,defensive rebound,122.0,323169.0,685,518002,Q4,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2332,PHI
+unknwown,0:49,1787275114000,78,75,TO,turnover; bad pass,122.0,323169.0,686,520000,Q4,135072,,,,,,,122.0,Kacey Dela Rosa,Philippines,28.0,Q4,,,,2351,PHI
+unknwown,0:49,1787275114000,78,75,ST,steal,134.0,273042.0,687,520001,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2351,SEN
+shot,0:41,1787275123000,78,75,P3,3pt jump shot missed,134.0,420942.0,688,521000,Q4,135072,False,3.0,253.0,128.0,,,134.0,Nogaye Diagne,Senegal,66.0,Q4,Above the Break 3,14.3,8-16 ft.,2359,SEN
+unknwown,0:37,1787275126000,78,75,REB,defensive rebound,122.0,398175.0,689,521002,Q4,135072,,,,,,,122.0,Sophia Dignadice,Philippines,12.0,Q4,,,,2363,PHI
+unknwown,0:24,1787275145000,78,75,FOUL,Personal foul,134.0,273042.0,695,527000,Q4,135072,,,,,,,134.0,Cierra Dillard,Senegal,8.0,Q4,,,,2376,SEN
+unknwown,0:24,1787275145000,78,75,RFOUL,foul drawn,122.0,342735.0,696,527002,Q4,135072,,,,,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,,,,2376,PHI
+timeout,0:24,1787275152000,78,75,TIMO,Timeout,134.0,,697,528000,Q4,135072,,,,,,,,,,,Q4,,,,2376,
+shot,0:14,1787275257000,78,75,P2,"2PtsFG under the basket, driving layup missed",122.0,342735.0,699,530000,Q4,135072,False,2.0,155.0,33.0,,,122.0,Vanessa De Jesus,Philippines,2.0,Q4,Restricted Area,1.7,Less Than 8 ft.,2386,PHI
+unknwown,0:13,1787275261000,78,75,REB,offensive rebound,122.0,220090.0,701,530002,Q4,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2387,PHI
+unknwown,0:13,1787275263000,78,75,FOUL,Personal foul; 2 free throws awarded,134.0,278227.0,702,532000,Q4,135072,,,,,,,134.0,Sabou Gueye,Senegal,7.0,Q4,,,,2387,SEN
+unknwown,0:13,1787275263000,78,75,RFOUL,foul drawn,122.0,220090.0,703,532002,Q4,135072,,,,,,,122.0,Jack Animam,Philippines,10.0,Q4,,,,2387,PHI
+shot,0:13,1787275289000,79,75,FT,1st of 2 free throws made,122.0,220090.0,704,533000,Q4,135072,True,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2387,PHI
+shot,0:13,1787275307000,79,75,FT,2nd of 2 free throws missed,122.0,220090.0,705,534000,Q4,135072,False,1.0,0.0,0.0,,,122.0,Jack Animam,Philippines,10.0,Q4,,14.6,8-16 ft.,2387,PHI
+unknwown,0:13,1787275308000,79,75,REB,defensive rebound,134.0,231012.0,707,534002,Q4,135072,,,,,,,134.0,Madjiguene Sene,Senegal,35.0,Q4,,,,2387,SEN
+shot,0:03,1787275318000,79,75,P3,3pt jump shot missed,134.0,273042.0,708,536000,Q4,135072,False,3.0,62.0,142.0,,,134.0,Cierra Dillard,Senegal,8.0,Q4,Above the Break 3,12.8,8-16 ft.,2397,SEN
+periods,0:00,1787275330000,79,75,ENDP,End of period,,,712,540000,Q4,135072,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787275431000,79,75,ENDG,End of game,,,713,541000,Q4,135072,,,,,,,,,,,Q4,,,,2400,
