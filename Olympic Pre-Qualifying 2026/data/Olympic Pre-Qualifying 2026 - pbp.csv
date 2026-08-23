@@ -7305,3 +7305,558 @@ unknwown,0:17,1787448044000,86,71,REB,offensive rebound,113.0,296082.0,772,60500
 unknwown,0:17,1787448046000,86,71,TO,turnover; bad pass,113.0,296082.0,773,607000,Q4,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2383,NZL
 periods,0:00,1787448327000,86,71,ENDP,End of period,,,778,612000,Q4,135074,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787448334000,86,71,ENDG,End of game,,,779,613000,Q4,135074,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787452263000,0,0,STARTG,Start of game,,,1,1000,Q1,135073,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787452263000,0,0,STARTP,Start of period,,,2,2000,Q1,135073,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787452262000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135073,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787452264000,0,0,JB,jump ball won,104.0,268370.0,5,4001,Q1,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,1,MEX
+unknwown,9:59,1787452264000,0,0,JB,jump ball lost,27.0,200399.0,6,4002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,1,BRA
+shot,9:37,1787452286000,0,0,P3,3pt jump shot from center missed,104.0,319031.0,7,5000,Q1,135073,False,3.0,130.0,171.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Above the Break 3,13.1,8-16 ft.,23,MEX
+unknwown,9:33,1787452289000,0,0,REB,defensive rebound,27.0,203532.0,8,5002,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,27,BRA
+shot,9:22,1787452301000,0,2,P2,2pt pullup jump shot made,27.0,392716.0,9,6000,Q1,135073,True,2.0,199.0,90.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Mid-Range,7.7,Less Than 8 ft.,38,BRA
+shot,9:00,1787452323000,2,2,P2,2pt floating jump shot made,104.0,268451.0,10,7000,Q1,135073,True,2.0,189.0,57.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Mid-Range,5.2,Less Than 8 ft.,60,MEX
+shot,8:40,1787452343000,2,5,P3,3pt jump shot made,27.0,215026.0,11,8000,Q1,135073,True,3.0,242.0,121.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,Above the Break 3,13.0,8-16 ft.,80,BRA
+unknwown,8:40,1787452343000,2,5,ASS,made the assist,27.0,203532.0,12,8001,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,80,BRA
+unknwown,8:25,1787452359000,2,5,TO,turnover; bad pass,104.0,215141.0,14,10000,Q1,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,95,MEX
+shot,8:16,1787452375000,2,8,P3,3pt jump shot made,27.0,392716.0,16,12000,Q1,135073,True,3.0,149.0,166.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,12.6,8-16 ft.,104,BRA
+unknwown,8:16,1787452375000,2,8,ASS,made the assist,27.0,203532.0,17,12001,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,104,BRA
+shot,7:52,1787452399000,2,8,P2,"2PtsFG inside paint, eurostep missed",104.0,319031.0,18,13000,Q1,135073,False,2.0,112.0,35.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,In The Paint (Non-RA),2.8,Less Than 8 ft.,128,MEX
+unknwown,7:47,1787452403000,2,8,REB,defensive rebound,27.0,178705.0,19,13002,Q1,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,133,BRA
+shot,7:38,1787452413000,2,10,P2,layup made,27.0,200399.0,20,14000,Q1,135073,True,2.0,139.0,61.0,,,27.0,Aline Moura,Brazil,12.0,Q1,In The Paint (Non-RA),2.1,Less Than 8 ft.,142,BRA
+unknwown,7:38,1787452413000,2,10,ASS,made the assist,27.0,203532.0,21,14001,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,142,BRA
+shot,7:18,1787452433000,5,10,P3,3pt jump shot made,104.0,319031.0,22,15000,Q1,135073,True,3.0,270.0,48.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Left Corner 3,13.0,8-16 ft.,162,MEX
+unknwown,7:18,1787452433000,5,10,ASS,made the assist,104.0,268370.0,23,15001,Q1,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,162,MEX
+shot,7:00,1787452451000,5,10,P3,3pt jump shot from center missed,27.0,392716.0,24,16000,Q1,135073,False,3.0,184.0,160.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,12.8,8-16 ft.,180,BRA
+unknwown,6:56,1787452454000,5,10,REB,offensive rebound,27.0,215026.0,25,16002,Q1,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,184,BRA
+unknwown,6:47,1787452466000,5,10,FOUL,Personal foul; 2 free throws awarded,104.0,268370.0,27,18000,Q1,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,193,MEX
+unknwown,6:47,1787452466000,5,10,RFOUL,foul drawn,27.0,200399.0,28,18002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,193,BRA
+shot,6:47,1787452489000,5,10,FT,1st of 2 free throws missed,27.0,200399.0,29,19000,Q1,135073,False,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,193,BRA
+shot,6:47,1787452503000,5,11,FT,2nd of 2 free throws made,27.0,200399.0,30,20000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,193,BRA
+unknwown,6:47,1787452503000,5,11,ASS,made the assist,27.0,203532.0,31,20001,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,193,BRA
+unknwown,6:27,1787452525000,5,11,TO,turnover; bad pass,104.0,213361.0,33,22000,Q1,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,213,MEX
+unknwown,6:27,1787452525000,5,11,ST,steal,27.0,178705.0,34,22001,Q1,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,213,BRA
+shot,6:22,1787452530000,5,13,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",27.0,178705.0,35,23000,Q1,135073,True,2.0,132.0,30.0,,,27.0,Iza Sangalli,Brazil,77.0,Q1,Restricted Area,1.3,Less Than 8 ft.,218,BRA
+unknwown,6:07,1787452547000,5,13,JS,jump ball situation; throw-in,27.0,,37,25000,Q1,135073,,,,,,,,,,,Q1,,,,233,
+unknwown,6:07,1787452549000,5,13,TO,turnover; ball handling,104.0,213361.0,38,26000,Q1,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,233,MEX
+unknwown,6:07,1787452549000,5,13,ST,steal,27.0,178705.0,39,26001,Q1,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,233,BRA
+shot,5:57,1787452570000,5,13,P2,"2PtsFG under the basket, points after turnover, driving layup missed",27.0,392716.0,41,28000,Q1,135073,False,2.0,117.0,27.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Restricted Area,2.6,Less Than 8 ft.,243,BRA
+unknwown,5:54,1787452573000,5,13,REB,offensive rebound,27.0,200399.0,42,28002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,246,BRA
+shot,5:51,1787452576000,5,13,P3,3pt jump shot missed,27.0,392716.0,43,29000,Q1,135073,False,3.0,272.0,26.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Left Corner 3,13.3,8-16 ft.,249,BRA
+unknwown,5:49,1787452578000,5,13,REB,defensive rebound,104.0,215141.0,44,29002,Q1,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,251,MEX
+shot,5:34,1787452594000,5,13,P2,"2PtsFG under the basket, eurostep missed",104.0,319031.0,45,30000,Q1,135073,False,2.0,154.0,39.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,1.4,Less Than 8 ft.,266,MEX
+unknwown,5:30,1787452597000,5,13,REB,offensive rebound,104.0,319031.0,46,30002,Q1,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,270,MEX
+shot,5:29,1787452599000,7,13,P2,"2PtsFG under the basket, jump shot made",104.0,319031.0,47,31000,Q1,135073,True,2.0,143.0,44.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,0.5,Less Than 8 ft.,271,MEX
+unknwown,5:18,1787452612000,7,13,FOUL,Personal foul,104.0,268451.0,49,33000,Q1,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,282,MEX
+unknwown,5:18,1787452612000,7,13,RFOUL,foul drawn,27.0,215026.0,50,33002,Q1,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,282,BRA
+subst,5:18,1787452629000,7,13,SUBST,Substitution out,104.0,215141.0,51,34000,Q1,135073,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q1,,,,282,MEX
+subst,5:18,1787452629000,7,13,SUBST,Substitution out,104.0,213361.0,52,35000,Q1,135073,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q1,,,,282,MEX
+subst,5:18,1787452629000,7,13,SUBST,Substitution in,104.0,227782.0,53,36000,Q1,135073,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q1,,,,282,MEX
+subst,5:18,1787452629000,7,13,SUBST,Substitution in,104.0,317694.0,54,37000,Q1,135073,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,282,MEX
+shot,5:12,1787452641000,7,13,P2,2pt driving layup missed,27.0,215026.0,56,39000,Q1,135073,False,2.0,110.0,39.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,In The Paint (Non-RA),3.0,Less Than 8 ft.,288,BRA
+unknwown,5:09,1787452644000,7,13,REB,defensive rebound,104.0,268370.0,57,39002,Q1,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,291,MEX
+shot,4:52,1787452661000,7,13,P2,"2PtsFG under the basket, layup missed",104.0,319031.0,58,40000,Q1,135073,False,2.0,131.0,44.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,Restricted Area,1.0,Less Than 8 ft.,308,MEX
+unknwown,4:52,1787452661000,7,13,BS,blocked the shot,27.0,200399.0,59,40001,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,308,BRA
+unknwown,4:47,1787452665000,7,13,REB,defensive rebound,27.0,178705.0,60,40002,Q1,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,313,BRA
+unknwown,4:31,1787452683000,7,13,TO,turnover; ball handling,27.0,392716.0,62,41000,Q1,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,329,BRA
+unknwown,4:31,1787452683000,7,13,ST,steal,104.0,227782.0,63,41001,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,329,MEX
+unknwown,4:19,1787452698000,7,13,TO,turnover; bad pass,104.0,227782.0,65,43000,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,341,MEX
+unknwown,4:19,1787452698000,7,13,ST,steal,27.0,200399.0,66,43001,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,341,BRA
+unknwown,4:19,1787452702000,7,13,FOUL,Unsportsmanlike foul; 2 free throws awarded,104.0,268370.0,67,44000,Q1,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,341,MEX
+unknwown,4:19,1787452702000,7,13,RFOUL,foul drawn,27.0,200399.0,68,44002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,341,BRA
+subst,4:19,1787452725000,7,13,SUBST,Substitution out,104.0,268370.0,69,45000,Q1,135073,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q1,,,,341,MEX
+subst,4:19,1787452725000,7,13,SUBST,Substitution in,104.0,235869.0,70,46000,Q1,135073,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q1,,,,341,MEX
+subst,4:19,1787452725000,7,13,SUBST,Substitution out,27.0,215026.0,71,47000,Q1,135073,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,341,BRA
+subst,4:19,1787452725000,7,13,SUBST,Substitution in,27.0,302000.0,72,48000,Q1,135073,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,341,BRA
+shot,4:19,1787452735000,7,14,FT,Free throw made 1 of 2,27.0,200399.0,73,49000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,341,BRA
+shot,4:19,1787452746000,7,15,FT,Free throw made 2 of 2,27.0,200399.0,74,50000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Aline Moura,Brazil,12.0,Q1,,14.6,8-16 ft.,341,BRA
+subst,4:19,1787452754000,7,15,SUBST,Substitution out,27.0,178705.0,75,51000,Q1,135073,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,341,BRA
+subst,4:19,1787452754000,7,15,SUBST,Substitution in,27.0,342721.0,76,52000,Q1,135073,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,341,BRA
+unknwown,4:11,1787452776000,7,15,FOUL,Offensive foul,27.0,342721.0,79,55000,Q1,135073,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,349,BRA
+unknwown,4:11,1787452776000,7,15,TO,turnover,27.0,342721.0,80,55001,Q1,135073,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,349,BRA
+unknwown,4:11,1787452776000,7,15,RFOUL,foul drawn,104.0,227782.0,81,55002,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,349,MEX
+shot,3:53,1787452806000,7,15,P3,3pt step back jump shot missed,104.0,227782.0,83,57000,Q1,135073,False,3.0,158.0,171.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,Above the Break 3,13.2,8-16 ft.,367,MEX
+unknwown,3:50,1787452809000,7,15,REB,defensive rebound,27.0,200399.0,84,57002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,370,BRA
+shot,3:44,1787452819000,7,18,P3,3pt jump shot made,27.0,392716.0,86,59000,Q1,135073,True,3.0,255.0,105.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,Above the Break 3,13.2,8-16 ft.,376,BRA
+unknwown,3:44,1787452819000,7,18,ASS,made the assist,27.0,203532.0,87,59001,Q1,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q1,,,,376,BRA
+unknwown,3:44,1787452823000,7,18,FOUL,Personal foul; 1 free throw awarded,104.0,227782.0,88,60000,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,376,MEX
+unknwown,3:44,1787452823000,7,18,RFOUL,foul drawn,27.0,392716.0,89,60002,Q1,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,376,BRA
+shot,3:44,1787452842000,7,19,FT,1st free throw made,27.0,392716.0,90,61000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,14.6,8-16 ft.,376,BRA
+timeout,3:44,1787452847000,7,19,TIMO,Timeout,104.0,,91,62000,Q1,135073,,,,,,,,,,,Q1,,,,376,
+subst,3:44,1787452935000,7,19,SUBST,Substitution out,27.0,203532.0,92,63000,Q1,135073,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q1,,,,376,BRA
+subst,3:44,1787452935000,7,19,SUBST,Substitution in,27.0,178708.0,93,64000,Q1,135073,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,376,BRA
+shot,3:33,1787452952000,10,19,P3,3pt jump shot from center made,104.0,317694.0,97,68000,Q1,135073,True,3.0,187.0,163.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,13.2,8-16 ft.,387,MEX
+unknwown,3:33,1787452952000,10,19,ASS,made the assist,104.0,227782.0,98,68001,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,387,MEX
+unknwown,3:16,1787452970000,10,19,TO,turnover; bad pass,27.0,302000.0,100,70000,Q1,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,404,BRA
+shot,2:55,1787453010000,10,19,P2,2pt jump shot missed,104.0,319031.0,102,72000,Q1,135073,False,2.0,170.0,29.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q1,In The Paint (Non-RA),3.2,Less Than 8 ft.,425,MEX
+unknwown,2:52,1787453012000,10,19,REB,defensive rebound,27.0,342721.0,103,72002,Q1,135073,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q1,,,,428,BRA
+shot,2:38,1787453038000,10,19,P2,"2PtsFG inside center, jump shot missed",27.0,200399.0,106,75000,Q1,135073,False,2.0,147.0,147.0,,,27.0,Aline Moura,Brazil,12.0,Q1,Mid-Range,10.7,8-16 ft.,442,BRA
+unknwown,2:35,1787453040000,10,19,REB,defensive rebound,104.0,268451.0,107,75002,Q1,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,445,MEX
+unknwown,2:30,1787453050000,10,19,FOUL,Personal foul,27.0,392716.0,109,77000,Q1,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,450,BRA
+unknwown,2:30,1787453050000,10,19,RFOUL,foul drawn,104.0,317694.0,110,77002,Q1,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,450,MEX
+shot,2:27,1787453070000,10,19,P2,"2PtsFG inside right, jump shot missed",104.0,317694.0,112,79000,Q1,135073,False,2.0,208.0,99.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Mid-Range,9.0,8-16 ft.,453,MEX
+unknwown,2:24,1787453072000,10,19,REB,defensive rebound,27.0,200399.0,113,79002,Q1,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q1,,,,456,BRA
+unknwown,2:19,1787453078000,10,19,TO,turnover; ball handling,27.0,302000.0,114,80000,Q1,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,461,BRA
+unknwown,2:19,1787453078000,10,19,ST,steal,104.0,268451.0,115,80001,Q1,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,461,MEX
+subst,2:15,1787453100000,10,19,SUBST,Substitution out,104.0,319031.0,117,82000,Q1,135073,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q1,,,,465,MEX
+subst,2:15,1787453100000,10,19,SUBST,Substitution in,104.0,268375.0,118,83000,Q1,135073,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,465,MEX
+subst,2:15,1787453100000,10,19,SUBST,Substitution out,27.0,392716.0,119,84000,Q1,135073,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q1,,,,465,BRA
+subst,2:15,1787453100000,10,19,SUBST,Substitution out,27.0,302000.0,120,85000,Q1,135073,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,465,BRA
+subst,2:15,1787453100000,10,19,SUBST,Substitution in,27.0,215026.0,121,86000,Q1,135073,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,465,BRA
+subst,2:15,1787453100000,10,19,SUBST,Substitution in,27.0,393736.0,122,87000,Q1,135073,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q1,,,,465,BRA
+shot,2:10,1787453108000,10,19,P3,3pt jump shot missed,104.0,268375.0,124,89000,Q1,135073,False,3.0,233.0,136.0,,,104.0,Morelia Chavez,Mexico,18.0,Q1,Above the Break 3,13.4,8-16 ft.,470,MEX
+unknwown,2:05,1787453112000,10,19,REB,defensive rebound,27.0,215026.0,125,89002,Q1,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,475,BRA
+unknwown,1:44,1787453134000,10,19,TO,turnover; ball handling,27.0,215026.0,126,90000,Q1,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,496,BRA
+unknwown,1:44,1787453134000,10,19,ST,steal,104.0,268375.0,127,90001,Q1,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,496,MEX
+shot,1:37,1787453141000,12,19,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",104.0,268451.0,129,92000,Q1,135073,True,2.0,154.0,28.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Restricted Area,1.8,Less Than 8 ft.,503,MEX
+unknwown,1:37,1787453141000,12,19,ASS,made the assist,104.0,268375.0,130,92001,Q1,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,503,MEX
+unknwown,1:37,1787453148000,12,19,FOUL,Personal foul; 1 free throw awarded,27.0,178708.0,131,93000,Q1,135073,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,503,BRA
+unknwown,1:37,1787453148000,12,19,RFOUL,foul drawn,104.0,268451.0,132,93002,Q1,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q1,,,,503,MEX
+subst,1:37,1787453162000,12,19,SUBST,Substitution out,27.0,200399.0,133,94000,Q1,135073,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q1,,,,503,BRA
+subst,1:37,1787453162000,12,19,SUBST,Substitution in,27.0,178705.0,134,95000,Q1,135073,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q1,,,,503,BRA
+shot,1:37,1787453169000,13,19,FT,Free throw made 1 of 1,104.0,268451.0,135,96000,Q1,135073,True,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,,14.6,8-16 ft.,503,MEX
+shot,1:16,1787453194000,13,19,P2,2pt pullup jump shot missed,27.0,178705.0,137,98000,Q1,135073,False,2.0,130.0,92.0,,,27.0,Iza Sangalli,Brazil,77.0,Q1,In The Paint (Non-RA),5.3,Less Than 8 ft.,524,BRA
+unknwown,1:13,1787453197000,13,19,REB,defensive rebound,104.0,268375.0,138,98002,Q1,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q1,,,,527,MEX
+shot,1:06,1787453205000,13,19,P3,3pt jump shot missed,104.0,317694.0,139,99000,Q1,135073,False,3.0,205.0,164.0,,,104.0,Destiny Pitts,Mexico,33.0,Q1,Above the Break 3,14.0,8-16 ft.,534,MEX
+unknwown,1:04,1787453209000,13,19,TREB,team defensive rebound,27.0,,141,99002,Q1,135073,,,,,,,,,,,Q1,,,,536,
+shot,0:50,1787453241000,13,21,P2,2pt driving layup made,27.0,393736.0,143,102000,Q1,135073,True,2.0,172.0,41.0,,,27.0,Maisa Marçal,Brazil,32.0,Q1,In The Paint (Non-RA),3.2,Less Than 8 ft.,550,BRA
+unknwown,0:50,1787453241000,13,21,ASS,made the assist,27.0,178708.0,144,102001,Q1,135073,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q1,,,,550,BRA
+shot,0:26,1787453266000,13,21,P3,3pt jump shot missed,104.0,227782.0,145,103000,Q1,135073,False,3.0,257.0,130.0,,,104.0,Karina Esquer,Mexico,4.0,Q1,Above the Break 3,14.8,8-16 ft.,574,MEX
+unknwown,0:23,1787453268000,13,21,TREB,team defensive rebound,27.0,,147,103002,Q1,135073,,,,,,,,,,,Q1,,,,577,
+unknwown,0:02,1787453309000,13,21,FOUL,Personal foul; 2 free throws awarded,104.0,317694.0,150,107000,Q1,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,598,MEX
+unknwown,0:02,1787453309000,13,21,RFOUL,foul drawn,27.0,393736.0,151,107002,Q1,135073,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q1,,,,598,BRA
+shot,0:02,1787453343000,13,22,FT,1st of 2 free throws made,27.0,393736.0,152,108000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Maisa Marçal,Brazil,32.0,Q1,,14.6,8-16 ft.,598,BRA
+shot,0:02,1787453357000,13,23,FT,2nd of 2 free throws made,27.0,393736.0,153,109000,Q1,135073,True,1.0,0.0,0.0,,,27.0,Maisa Marçal,Brazil,32.0,Q1,,14.6,8-16 ft.,598,BRA
+subst,0:02,1787453362000,13,23,SUBST,Substitution out,27.0,215026.0,154,110000,Q1,135073,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q1,,,,598,BRA
+subst,0:02,1787453362000,13,23,SUBST,Substitution in,27.0,302000.0,155,111000,Q1,135073,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,598,BRA
+unknwown,0:02,1787453373000,13,23,FOUL,Personal foul,27.0,302000.0,158,114000,Q1,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q1,,,,598,BRA
+unknwown,0:02,1787453373000,13,23,RFOUL,foul drawn,104.0,317694.0,159,114002,Q1,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q1,,,,598,MEX
+shot,0:01,1787453390000,16,23,P3,3pt jump shot made,104.0,268451.0,161,116000,Q1,135073,True,3.0,29.0,109.0,,,104.0,Mayra Gil,Mexico,31.0,Q1,Above the Break 3,13.1,8-16 ft.,599,MEX
+unknwown,0:01,1787453390000,16,23,ASS,made the assist,104.0,227782.0,163,116001,Q1,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q1,,,,599,MEX
+periods,0:00,1787453403000,16,23,ENDP,End of period,,,164,118000,Q1,135073,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787453520000,16,23,SUBST,Substitution out,27.0,342721.0,165,119000,Q2,135073,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution out,27.0,178708.0,166,120000,Q2,135073,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution out,27.0,393736.0,167,121000,Q2,135073,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution out,27.0,302000.0,168,122000,Q2,135073,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution in,27.0,203532.0,169,123000,Q2,135073,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution in,27.0,392716.0,170,124000,Q2,135073,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution in,27.0,215026.0,171,125000,Q2,135073,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,600,BRA
+subst,10:00,1787453520000,16,23,SUBST,Substitution in,27.0,200399.0,172,126000,Q2,135073,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,600,BRA
+periods,10:00,1787453535000,16,23,STARTP,Start of period,,,173,127000,Q2,135073,,,,,,,,,,,Q2,,,,600,
+shot,9:48,1787453549000,16,23,P2,"2PtsFG under the basket, jump shot missed",104.0,268375.0,176,130000,Q2,135073,False,2.0,161.0,29.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,Restricted Area,2.4,Less Than 8 ft.,612,MEX
+unknwown,9:48,1787453549000,16,23,BS,blocked the shot,27.0,200399.0,177,130001,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,612,BRA
+unknwown,9:48,1787453553000,16,23,TREB,team offensive rebound,104.0,,178,130002,Q2,135073,,,,,,,,,,,Q2,,,,612,
+shot,9:43,1787453568000,18,23,P2,2pt fadeaway jump shot made,104.0,317694.0,180,132000,Q2,135073,True,2.0,120.0,55.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,In The Paint (Non-RA),2.5,Less Than 8 ft.,617,MEX
+shot,9:23,1787453587000,18,23,P2,2pt pullup jump shot missed,27.0,178705.0,181,133000,Q2,135073,False,2.0,78.0,30.0,,,27.0,Iza Sangalli,Brazil,77.0,Q2,Mid-Range,6.3,Less Than 8 ft.,637,BRA
+unknwown,9:21,1787453589000,18,23,REB,defensive rebound,104.0,227782.0,182,133002,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,639,MEX
+shot,9:19,1787453592000,20,23,P2,"2PtsFG under the basket, fast break, driving layup made",104.0,268451.0,183,134000,Q2,135073,True,2.0,128.0,35.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,Restricted Area,1.3,Less Than 8 ft.,641,MEX
+unknwown,9:19,1787453592000,20,23,ASS,made the assist,104.0,227782.0,184,134001,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,641,MEX
+shot,8:58,1787453613000,20,23,P2,"2PtsFG inside right, jump shot missed",27.0,203532.0,185,135000,Q2,135073,False,2.0,193.0,90.0,,,27.0,Maria Albiero,Brazil,5.0,Q2,Mid-Range,7.3,Less Than 8 ft.,662,BRA
+unknwown,8:52,1787453617000,20,23,REB,defensive rebound,104.0,317694.0,186,135002,Q2,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,668,MEX
+unknwown,8:52,1787453619000,20,23,TO,turnover; ball handling,104.0,317694.0,187,136000,Q2,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,668,MEX
+unknwown,8:52,1787453619000,20,23,ST,steal,27.0,178705.0,188,136001,Q2,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,668,BRA
+shot,8:46,1787453625000,20,23,P3,3pt jump shot missed,27.0,215026.0,189,137000,Q2,135073,False,3.0,88.0,158.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,Above the Break 3,12.9,8-16 ft.,674,BRA
+unknwown,8:42,1787453628000,20,23,REB,defensive rebound,104.0,235869.0,190,137002,Q2,135073,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,678,MEX
+shot,8:33,1787453637000,20,23,P2,"2PtsFG under the basket, turnaround jump shot missed",104.0,268375.0,191,138000,Q2,135073,False,2.0,136.0,29.0,,,104.0,Morelia Chavez,Mexico,18.0,Q2,Restricted Area,1.2,Less Than 8 ft.,687,MEX
+unknwown,8:33,1787453637000,20,23,BS,blocked the shot,27.0,200399.0,720,138001,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,687,BRA
+unknwown,8:33,1787453640000,20,23,REB,defensive rebound,27.0,178705.0,192,138002,Q2,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,687,BRA
+shot,8:22,1787453649000,20,23,P2,2pt jump shot missed,27.0,200399.0,193,139000,Q2,135073,False,2.0,119.0,46.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,2.2,Less Than 8 ft.,698,BRA
+unknwown,8:19,1787453651000,20,23,REB,offensive rebound,27.0,200399.0,194,139002,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,701,BRA
+unknwown,8:18,1787453659000,20,23,FOUL,Personal foul,104.0,317694.0,196,141000,Q2,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,702,MEX
+unknwown,8:18,1787453659000,20,23,RFOUL,foul drawn,27.0,200399.0,197,141002,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,702,BRA
+shot,8:12,1787453680000,20,23,P3,3pt jump shot missed,27.0,215026.0,201,145000,Q2,135073,False,3.0,267.0,78.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,Above the Break 3,13.3,8-16 ft.,708,BRA
+unknwown,8:09,1787453682000,20,23,REB,defensive rebound,104.0,268375.0,202,145002,Q2,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,711,MEX
+subst,8:05,1787453701000,20,23,SUBST,Substitution out,104.0,268451.0,204,147000,Q2,135073,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q2,,,,715,MEX
+subst,8:05,1787453701000,20,23,SUBST,Substitution in,104.0,213361.0,205,148000,Q2,135073,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,715,MEX
+shot,7:56,1787453721000,23,23,P3,3pt jump shot made,104.0,317694.0,207,150000,Q2,135073,True,3.0,271.0,55.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Left Corner 3,13.2,8-16 ft.,724,MEX
+unknwown,7:56,1787453721000,23,23,ASS,made the assist,104.0,227782.0,209,150001,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,724,MEX
+timeout,7:54,1787453727000,23,23,TIMO,Timeout,27.0,,210,152000,Q2,135073,,,,,,,,,,,Q2,,,,726,
+subst,7:54,1787453816000,23,23,SUBST,Substitution out,27.0,178705.0,211,153000,Q2,135073,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,726,BRA
+subst,7:54,1787453816000,23,23,SUBST,Substitution in,27.0,203242.0,212,154000,Q2,135073,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,726,BRA
+shot,7:42,1787453832000,23,23,P2,2pt pullup jump shot missed,27.0,203532.0,214,156000,Q2,135073,False,2.0,109.0,102.0,,,27.0,Maria Albiero,Brazil,5.0,Q2,Mid-Range,6.9,Less Than 8 ft.,738,BRA
+unknwown,7:36,1787453837000,23,23,REB,offensive rebound,27.0,200399.0,215,156002,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,744,BRA
+shot,7:36,1787453837000,23,23,P2,2PtsFG under the basket missed,27.0,200399.0,216,157000,Q2,135073,False,2.0,140.0,31.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,0.9,Less Than 8 ft.,744,BRA
+unknwown,7:35,1787453838000,23,23,REB,offensive rebound,27.0,200399.0,217,157002,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,745,BRA
+shot,7:34,1787453840000,23,25,P2,"2PtsFG under the basket, jump shot made",27.0,200399.0,218,158000,Q2,135073,True,2.0,132.0,37.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,0.9,Less Than 8 ft.,746,BRA
+shot,7:28,1787453846000,23,25,P3,3pt pullup jump shot missed,104.0,213361.0,219,159000,Q2,135073,False,3.0,133.0,162.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Above the Break 3,12.2,8-16 ft.,752,MEX
+unknwown,7:26,1787453850000,23,25,TREB,team offensive rebound,104.0,,221,159002,Q2,135073,,,,,,,,,,,Q2,,,,754,
+shot,7:16,1787453876000,23,25,P3,3pt jump shot missed,104.0,213361.0,223,162000,Q2,135073,False,3.0,7.0,27.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Right Corner 3,13.4,8-16 ft.,764,MEX
+unknwown,7:13,1787453878000,23,25,REB,defensive rebound,27.0,200399.0,224,162002,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,767,BRA
+shot,6:55,1787453896000,23,27,P2,2pt turnaround jump shot made,27.0,200399.0,225,163000,Q2,135073,True,2.0,115.0,32.0,,,27.0,Aline Moura,Brazil,12.0,Q2,Restricted Area,2.6,Less Than 8 ft.,785,BRA
+unknwown,6:55,1787453896000,23,27,ASS,made the assist,27.0,203532.0,226,163001,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,785,BRA
+unknwown,6:35,1787453916000,23,27,TO,turnover; ball handling,104.0,235869.0,227,164000,Q2,135073,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,805,MEX
+unknwown,6:35,1787453916000,23,27,ST,steal,27.0,200399.0,228,164001,Q2,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q2,,,,805,BRA
+unknwown,6:23,1787453929000,23,27,TO,turnover; bad pass,27.0,215026.0,229,165000,Q2,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,817,BRA
+unknwown,6:23,1787453929000,23,27,ST,steal,104.0,235869.0,230,165001,Q2,135073,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,817,MEX
+shot,6:18,1787453934000,25,27,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",104.0,317694.0,231,166000,Q2,135073,True,2.0,142.0,35.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Restricted Area,0.5,Less Than 8 ft.,822,MEX
+unknwown,6:18,1787453934000,25,27,ASS,made the assist,104.0,213361.0,232,166001,Q2,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,822,MEX
+shot,6:00,1787453952000,25,27,P2,layup missed,27.0,215026.0,233,167000,Q2,135073,False,2.0,162.0,44.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,Restricted Area,2.2,Less Than 8 ft.,840,BRA
+unknwown,5:58,1787453955000,25,27,REB,offensive rebound,27.0,215026.0,235,167002,Q2,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,842,BRA
+unknwown,5:58,1787453959000,25,27,FOUL,Personal foul,104.0,268375.0,236,169000,Q2,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,842,MEX
+unknwown,5:58,1787453959000,25,27,RFOUL,foul drawn,27.0,215026.0,237,169002,Q2,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,842,BRA
+subst,5:58,1787453974000,25,27,SUBST,Substitution out,104.0,235869.0,238,170000,Q2,135073,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q2,,,,842,MEX
+subst,5:58,1787453974000,25,27,SUBST,Substitution in,104.0,268370.0,239,171000,Q2,135073,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,842,MEX
+subst,5:58,1787453974000,25,27,SUBST,Substitution out,27.0,200399.0,240,172000,Q2,135073,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,842,BRA
+subst,5:58,1787453974000,25,27,SUBST,Substitution in,27.0,342721.0,241,173000,Q2,135073,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,842,BRA
+shot,5:55,1787453993000,25,27,P3,3pt jump shot missed,27.0,215026.0,243,175000,Q2,135073,False,3.0,27.0,119.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,Above the Break 3,13.8,8-16 ft.,845,BRA
+unknwown,5:52,1787453995000,25,27,REB,defensive rebound,104.0,268370.0,244,175002,Q2,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,848,MEX
+shot,5:45,1787454003000,25,27,P3,3pt pullup jump shot missed,104.0,317694.0,245,176000,Q2,135073,False,3.0,65.0,150.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,13.3,8-16 ft.,855,MEX
+unknwown,5:42,1787454005000,25,27,REB,defensive rebound,27.0,215026.0,246,176002,Q2,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,858,BRA
+unknwown,5:37,1787454016000,25,27,JS,jump ball situation; throw-in,27.0,,248,178000,Q2,135073,,,,,,,,,,,Q2,,,,863,
+subst,5:37,1787454034000,25,27,SUBST,Substitution out,104.0,268375.0,249,179000,Q2,135073,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,863,MEX
+subst,5:37,1787454034000,25,27,SUBST,Substitution in,104.0,319031.0,250,180000,Q2,135073,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,863,MEX
+unknwown,5:37,1787454048000,25,27,FOUL,Offensive foul,27.0,392716.0,251,181000,Q2,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,863,BRA
+unknwown,5:37,1787454048000,25,27,TO,turnover,27.0,392716.0,252,181001,Q2,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,863,BRA
+unknwown,5:37,1787454048000,25,27,RFOUL,foul drawn,104.0,227782.0,253,181002,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,863,MEX
+unknwown,5:18,1787454077000,25,27,TO,turnover; bad pass,104.0,319031.0,257,185000,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,882,MEX
+unknwown,5:18,1787454077000,25,27,ST,steal,27.0,215026.0,258,185001,Q2,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,882,BRA
+shot,5:13,1787454082000,25,27,P2,"2PtsFG inside paint, points after turnover, eurostep missed",27.0,215026.0,259,186000,Q2,135073,False,2.0,113.0,49.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q2,In The Paint (Non-RA),2.8,Less Than 8 ft.,887,BRA
+unknwown,5:09,1787454085000,25,27,REB,offensive rebound,27.0,203242.0,260,186002,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,891,BRA
+unknwown,5:07,1787454089000,25,27,FOUL,Offensive foul,27.0,203242.0,262,188000,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,893,BRA
+unknwown,5:07,1787454089000,25,27,TO,turnover,27.0,203242.0,263,188001,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,893,BRA
+unknwown,5:07,1787454089000,25,27,RFOUL,foul drawn,104.0,227782.0,264,188002,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,893,MEX
+subst,5:07,1787454100000,25,27,SUBST,Substitution out,27.0,392716.0,265,189000,Q2,135073,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,893,BRA
+subst,5:07,1787454100000,25,27,SUBST,Substitution out,27.0,215026.0,266,190000,Q2,135073,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,893,BRA
+subst,5:07,1787454100000,25,27,SUBST,Substitution in,27.0,393736.0,267,191000,Q2,135073,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,893,BRA
+subst,5:07,1787454100000,25,27,SUBST,Substitution in,27.0,302000.0,268,192000,Q2,135073,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,893,BRA
+shot,4:52,1787454124000,27,27,P2,"2PtsFG under the basket, points after turnover, turnaround jump shot made",104.0,319031.0,272,196000,Q2,135073,True,2.0,129.0,30.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,Restricted Area,1.5,Less Than 8 ft.,908,MEX
+unknwown,4:52,1787454124000,27,27,ASS,made the assist,104.0,227782.0,273,196001,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,908,MEX
+shot,4:32,1787454144000,27,29,P2,"2PtsFG under the basket, driving layup made",27.0,203242.0,274,197000,Q2,135073,True,2.0,147.0,21.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,Restricted Area,2.0,Less Than 8 ft.,928,BRA
+unknwown,4:32,1787454144000,27,29,ASS,made the assist,27.0,203532.0,275,197001,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,928,BRA
+shot,4:20,1787454157000,30,29,P3,3pt jump shot from center made,104.0,268370.0,276,198000,Q2,135073,True,3.0,185.0,167.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Above the Break 3,13.5,8-16 ft.,940,MEX
+unknwown,4:20,1787454157000,30,29,ASS,made the assist,104.0,227782.0,277,198001,Q2,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q2,,,,940,MEX
+shot,4:00,1787454176000,30,29,P2,"2PtsFG under the basket, driving layup missed",27.0,203532.0,278,199000,Q2,135073,False,2.0,155.0,41.0,,,27.0,Maria Albiero,Brazil,5.0,Q2,Restricted Area,1.5,Less Than 8 ft.,960,BRA
+unknwown,3:56,1787454180000,30,29,REB,defensive rebound,104.0,268370.0,279,199002,Q2,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,964,MEX
+shot,3:38,1787454198000,30,29,P3,3pt jump shot from center missed,104.0,268370.0,280,200000,Q2,135073,False,3.0,99.0,162.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Above the Break 3,12.9,8-16 ft.,982,MEX
+unknwown,3:34,1787454201000,30,29,REB,offensive rebound,104.0,213361.0,281,200002,Q2,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,986,MEX
+shot,3:32,1787454204000,30,29,P2,"2PtsFG under the basket, turnaround jump shot missed",104.0,213361.0,282,201000,Q2,135073,False,2.0,135.0,35.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,Restricted Area,0.7,Less Than 8 ft.,988,MEX
+unknwown,3:30,1787454206000,30,29,REB,defensive rebound,27.0,203242.0,283,201002,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,990,BRA
+shot,3:27,1787454210000,30,31,P2,"2PtsFG under the basket, fast break, driving layup made",27.0,393736.0,284,202000,Q2,135073,True,2.0,144.0,34.0,,,27.0,Maisa Marçal,Brazil,32.0,Q2,Restricted Area,0.7,Less Than 8 ft.,993,BRA
+unknwown,3:27,1787454210000,30,31,ASS,made the assist,27.0,203532.0,285,202001,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,993,BRA
+shot,3:05,1787454232000,30,31,P3,3pt jump shot missed,104.0,317694.0,286,203000,Q2,135073,False,3.0,92.0,153.0,,,104.0,Destiny Pitts,Mexico,33.0,Q2,Above the Break 3,12.3,8-16 ft.,1015,MEX
+unknwown,3:01,1787454234000,30,31,REB,offensive rebound,104.0,319031.0,287,203002,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1019,MEX
+unknwown,3:01,1787454240000,30,31,FOUL,Personal foul; 2 free throws awarded,27.0,393736.0,289,205000,Q2,135073,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,1019,BRA
+unknwown,3:01,1787454240000,30,31,RFOUL,foul drawn,104.0,319031.0,290,205002,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1019,MEX
+subst,3:01,1787454270000,30,31,SUBST,Substitution out,104.0,227782.0,291,206000,Q2,135073,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q2,,,,1019,MEX
+subst,3:01,1787454270000,30,31,SUBST,Substitution out,104.0,317694.0,292,207000,Q2,135073,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q2,,,,1019,MEX
+subst,3:01,1787454270000,30,31,SUBST,Substitution in,104.0,215141.0,293,208000,Q2,135073,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1019,MEX
+subst,3:01,1787454270000,30,31,SUBST,Substitution in,104.0,302969.0,294,209000,Q2,135073,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,1019,MEX
+subst,3:01,1787454270000,30,31,SUBST,Substitution out,27.0,342721.0,295,210000,Q2,135073,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q2,,,,1019,BRA
+subst,3:01,1787454270000,30,31,SUBST,Substitution in,27.0,200399.0,296,211000,Q2,135073,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q2,,,,1019,BRA
+shot,3:01,1787454282000,31,31,FT,1st of 2 free throws made,104.0,319031.0,297,212000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,14.6,8-16 ft.,1019,MEX
+shot,3:01,1787454288000,32,31,FT,2nd of 2 free throws made,104.0,319031.0,299,213000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,14.6,8-16 ft.,1019,MEX
+timeout,3:01,1787454295000,32,31,TIMO,Timeout,27.0,,300,214000,Q2,135073,,,,,,,,,,,Q2,,,,1019,
+shot,2:47,1787454412000,32,31,P2,2pt driving layup missed,27.0,393736.0,302,216000,Q2,135073,False,2.0,172.0,39.0,,,27.0,Maisa Marçal,Brazil,32.0,Q2,In The Paint (Non-RA),3.2,Less Than 8 ft.,1033,BRA
+unknwown,2:44,1787454415000,32,31,REB,defensive rebound,104.0,268370.0,303,216002,Q2,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1036,MEX
+unknwown,2:33,1787454430000,32,31,FOUL,Personal foul; 2 free throws awarded,27.0,302000.0,306,218000,Q2,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1047,BRA
+unknwown,2:33,1787454430000,32,31,RFOUL,foul drawn,104.0,215141.0,307,218002,Q2,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,,,1047,MEX
+subst,2:33,1787454457000,32,31,SUBST,Substitution out,27.0,200399.0,308,219000,Q2,135073,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q2,,,,1047,BRA
+subst,2:33,1787454457000,32,31,SUBST,Substitution out,27.0,302000.0,309,220000,Q2,135073,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q2,,,,1047,BRA
+subst,2:33,1787454457000,32,31,SUBST,Substitution in,27.0,215026.0,310,221000,Q2,135073,,,,,,IN,27.0,Emanuely Oliveira,Brazil,11.0,Q2,,,,1047,BRA
+subst,2:33,1787454457000,32,31,SUBST,Substitution in,27.0,178705.0,311,222000,Q2,135073,,,,,,IN,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1047,BRA
+shot,2:33,1787454470000,32,31,FT,1st of 2 free throws missed,104.0,215141.0,312,223000,Q2,135073,False,1.0,0.0,0.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,14.6,8-16 ft.,1047,MEX
+shot,2:33,1787454482000,32,31,FT,2nd of 2 free throws missed,104.0,215141.0,313,224000,Q2,135073,False,1.0,0.0,0.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q2,,14.6,8-16 ft.,1047,MEX
+unknwown,2:33,1787454483000,32,31,REB,defensive rebound,27.0,203242.0,315,224002,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1047,BRA
+unknwown,2:15,1787454505000,32,31,TO,turnover; bad pass,27.0,203242.0,317,227000,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1065,BRA
+unknwown,2:02,1787454532000,32,31,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,320,230000,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1078,BRA
+unknwown,2:02,1787454532000,32,31,RFOUL,foul drawn,104.0,319031.0,321,230002,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1078,MEX
+subst,2:02,1787454547000,32,31,SUBST,Substitution out,27.0,393736.0,322,231000,Q2,135073,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,1078,BRA
+subst,2:02,1787454547000,32,31,SUBST,Substitution in,27.0,392716.0,323,232000,Q2,135073,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q2,,,,1078,BRA
+shot,2:02,1787454555000,33,31,FT,1st of 2 free throws made,104.0,319031.0,324,233000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,14.6,8-16 ft.,1078,MEX
+shot,2:02,1787454571000,34,31,FT,2nd of 2 free throws made,104.0,319031.0,325,234000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,14.6,8-16 ft.,1078,MEX
+shot,1:41,1787454595000,34,31,P2,2pt driving layup missed,27.0,178705.0,327,236000,Q2,135073,False,2.0,155.0,54.0,,,27.0,Iza Sangalli,Brazil,77.0,Q2,In The Paint (Non-RA),2.1,Less Than 8 ft.,1099,BRA
+unknwown,1:41,1787454595000,34,31,BS,blocked the shot,104.0,319031.0,328,236001,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1099,MEX
+unknwown,1:35,1787454600000,34,31,REB,offensive rebound,27.0,203242.0,329,236002,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1105,BRA
+shot,1:35,1787454606000,34,31,P2,"2PtsFG inside right wing, jump shot missed",27.0,392716.0,331,238000,Q2,135073,False,2.0,230.0,34.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Mid-Range,9.0,8-16 ft.,1105,BRA
+unknwown,1:35,1787454606000,34,31,BS,blocked the shot,104.0,319031.0,721,238001,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1105,MEX
+unknwown,1:35,1787458757000,34,31,TREB,team offensive rebound,27.0,,722,238002,Q2,135073,,,,,,,,,,,Q2,,,,1105,
+unknwown,1:35,1787454608000,34,31,TTO,team turnover; shot clock violation,27.0,,332,239000,Q2,135073,,,,,,,,,,,Q2,,,,1105,
+shot,1:19,1787454639000,34,31,P2,"2PtsFG under the basket, points after turnover, reverse lay-up missed",104.0,268370.0,334,241000,Q2,135073,False,2.0,139.0,26.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q2,Restricted Area,1.4,Less Than 8 ft.,1121,MEX
+unknwown,1:16,1787454641000,34,31,REB,defensive rebound,27.0,203242.0,335,241002,Q2,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1124,BRA
+shot,1:09,1787454648000,34,33,P2,"2PtsFG under the basket, reverse lay-up made",27.0,178705.0,336,242000,Q2,135073,True,2.0,122.0,30.0,,,27.0,Iza Sangalli,Brazil,77.0,Q2,Restricted Area,2.1,Less Than 8 ft.,1131,BRA
+unknwown,1:09,1787454648000,34,33,ASS,made the assist,27.0,203532.0,346,242001,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1131,BRA
+unknwown,0:53,1787454668000,34,33,FOUL,Personal foul; 2 free throws awarded,27.0,178705.0,338,244000,Q2,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1147,BRA
+unknwown,0:53,1787454668000,34,33,RFOUL,foul drawn,104.0,213361.0,339,244002,Q2,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,,,1147,MEX
+subst,0:53,1787454683000,34,33,SUBST,Substitution out,104.0,268370.0,340,245000,Q2,135073,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q2,,,,1147,MEX
+subst,0:53,1787454683000,34,33,SUBST,Substitution out,104.0,302969.0,341,246000,Q2,135073,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q2,,,,1147,MEX
+subst,0:53,1787454683000,34,33,SUBST,Substitution in,104.0,268375.0,342,247000,Q2,135073,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q2,,,,1147,MEX
+subst,0:53,1787454683000,34,33,SUBST,Substitution in,104.0,268451.0,343,248000,Q2,135073,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1147,MEX
+shot,0:53,1787454691000,35,33,FT,1st of 2 free throws made,104.0,213361.0,344,249000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,14.6,8-16 ft.,1147,MEX
+shot,0:53,1787454704000,36,33,FT,2nd of 2 free throws made,104.0,213361.0,345,250000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q2,,14.6,8-16 ft.,1147,MEX
+shot,0:39,1787454722000,36,33,P2,"2PtsFG under the basket, driving layup missed",27.0,392716.0,348,252000,Q2,135073,False,2.0,161.0,30.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Restricted Area,2.3,Less Than 8 ft.,1161,BRA
+unknwown,0:35,1787454725000,36,33,REB,offensive rebound,27.0,178705.0,349,252002,Q2,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q2,,,,1165,BRA
+unknwown,0:30,1787454733000,36,33,JS,jump ball situation; throw-in,104.0,,351,254000,Q2,135073,,,,,,,,,,,Q2,,,,1170,
+unknwown,0:30,1787454736000,36,33,TO,turnover; ball handling,27.0,203532.0,352,255000,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1170,BRA
+unknwown,0:30,1787454736000,36,33,ST,steal,104.0,319031.0,353,255001,Q2,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q2,,,,1170,MEX
+unknwown,0:08,1787454771000,36,33,FOUL,Personal foul; 2 free throws awarded,27.0,203532.0,356,258000,Q2,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q2,,,,1192,BRA
+unknwown,0:08,1787454771000,36,33,RFOUL,foul drawn,104.0,268451.0,357,258002,Q2,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1192,MEX
+shot,0:08,1787454800000,36,33,FT,1st of 2 free throws missed,104.0,268451.0,358,259000,Q2,135073,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,,14.6,8-16 ft.,1192,MEX
+shot,0:08,1787454813000,37,33,FT,2nd of 2 free throws made,104.0,268451.0,359,260000,Q2,135073,True,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q2,,14.6,8-16 ft.,1192,MEX
+subst,0:08,1787454819000,37,33,SUBST,Substitution out,27.0,203242.0,360,261000,Q2,135073,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q2,,,,1192,BRA
+subst,0:08,1787454819000,37,33,SUBST,Substitution in,27.0,393736.0,361,262000,Q2,135073,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q2,,,,1192,BRA
+shot,0:00,1787454844000,37,33,P2,"2PtsFG under the basket, driving layup missed",27.0,392716.0,365,266000,Q2,135073,False,2.0,137.0,40.0,,,27.0,Bella Nascimento,Brazil,8.0,Q2,Restricted Area,0.3,Less Than 8 ft.,1200,BRA
+unknwown,0:00,1787454847000,37,33,REB,defensive rebound,104.0,268451.0,366,266002,Q2,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q2,,,,1200,MEX
+periods,0:00,1787454850000,37,33,ENDP,End of period,,,369,269000,Q2,135073,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787455730000,37,33,SUBST,Substitution out,104.0,215141.0,370,270000,Q3,135073,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution out,104.0,268375.0,371,271000,Q3,135073,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution out,104.0,213361.0,372,272000,Q3,135073,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution in,104.0,227782.0,373,273000,Q3,135073,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution in,104.0,268370.0,374,274000,Q3,135073,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution in,104.0,317694.0,375,275000,Q3,135073,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1200,MEX
+subst,10:00,1787455730000,37,33,SUBST,Substitution out,27.0,393736.0,376,276000,Q3,135073,,,,,,OUT,27.0,Maisa Marçal,Brazil,32.0,Q3,,,,1200,BRA
+subst,10:00,1787455730000,37,33,SUBST,Substitution in,27.0,200399.0,377,277000,Q3,135073,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q3,,,,1200,BRA
+periods,10:00,1787455744000,37,33,STARTP,Start of period,,,378,278000,Q3,135073,,,,,,,,,,,Q3,,,,1200,
+shot,9:45,1787455760000,37,33,P3,3pt jump shot from center missed,27.0,200399.0,380,280000,Q3,135073,False,3.0,126.0,163.0,,,27.0,Aline Moura,Brazil,12.0,Q3,Above the Break 3,12.4,8-16 ft.,1215,BRA
+unknwown,9:41,1787455763000,37,33,REB,defensive rebound,104.0,227782.0,381,280002,Q3,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1219,MEX
+shot,9:38,1787455766000,40,33,P3,3pt jump shot made,104.0,268370.0,382,281000,Q3,135073,True,3.0,79.0,156.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,13.1,8-16 ft.,1222,MEX
+unknwown,9:38,1787455766000,40,33,ASS,made the assist,104.0,317694.0,383,281001,Q3,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1222,MEX
+shot,9:19,1787455785000,40,33,P2,"2PtsFG under the basket, driving layup missed",27.0,203532.0,384,282000,Q3,135073,False,2.0,127.0,30.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1241,BRA
+unknwown,9:15,1787455789000,40,33,REB,defensive rebound,104.0,268370.0,385,282002,Q3,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1245,MEX
+shot,8:54,1787455810000,43,33,P3,3pt jump shot made,104.0,319031.0,386,283000,Q3,135073,True,3.0,7.0,27.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Right Corner 3,13.4,8-16 ft.,1266,MEX
+unknwown,8:54,1787455810000,43,33,ASS,made the assist,104.0,227782.0,387,283001,Q3,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1266,MEX
+unknwown,8:39,1787455832000,43,33,FOUL,Personal foul,104.0,268451.0,389,285000,Q3,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1281,MEX
+unknwown,8:39,1787455832000,43,33,RFOUL,foul drawn,27.0,200399.0,390,285002,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1281,BRA
+unknwown,8:36,1787455852000,43,33,TO,turnover; bad pass,27.0,392716.0,392,287000,Q3,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1284,BRA
+unknwown,8:36,1787455852000,43,33,ST,steal,104.0,319031.0,393,287001,Q3,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1284,MEX
+unknwown,8:25,1787455863000,43,33,TO,turnover; bad pass,104.0,317694.0,394,288000,Q3,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1295,MEX
+unknwown,8:25,1787455863000,43,33,ST,steal,27.0,392716.0,395,288001,Q3,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1295,BRA
+shot,8:20,1787455867000,43,35,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",27.0,392716.0,396,289000,Q3,135073,True,2.0,132.0,28.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Restricted Area,1.4,Less Than 8 ft.,1300,BRA
+shot,7:56,1787455892000,43,35,P3,3pt pullup jump shot missed,104.0,227782.0,397,290000,Q3,135073,False,3.0,139.0,170.0,,,104.0,Karina Esquer,Mexico,4.0,Q3,Above the Break 3,13.0,8-16 ft.,1324,MEX
+unknwown,7:52,1787455895000,43,35,REB,defensive rebound,27.0,200399.0,398,290002,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1328,BRA
+shot,7:41,1787456006000,43,35,P2,"2PtsFG under the basket, layup missed",27.0,200399.0,410,291000,Q3,135073,False,2.0,137.0,36.0,,,27.0,Aline Moura,Brazil,12.0,Q3,Restricted Area,0.5,Less Than 8 ft.,1339,BRA
+unknwown,7:41,1787456006000,43,35,BS,blocked the shot,104.0,268370.0,411,291001,Q3,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1339,MEX
+unknwown,7:36,1787456006000,43,35,REB,defensive rebound,104.0,268370.0,412,291002,Q3,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1344,MEX
+shot,7:36,1787455911000,43,35,P3,3pt jump shot missed,104.0,317694.0,402,292000,Q3,135073,False,3.0,37.0,131.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,13.7,8-16 ft.,1344,MEX
+unknwown,7:33,1787455913000,43,35,REB,defensive rebound,27.0,200399.0,403,292002,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1347,BRA
+shot,7:24,1787455924000,43,35,P3,3pt jump shot missed,27.0,392716.0,404,293000,Q3,135073,False,3.0,22.0,95.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,13.0,8-16 ft.,1356,BRA
+unknwown,7:20,1787455927000,43,35,REB,defensive rebound,104.0,319031.0,405,293002,Q3,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1360,MEX
+shot,7:06,1787455941000,46,35,P3,3pt step back jump shot made,104.0,268451.0,406,294000,Q3,135073,True,3.0,270.0,74.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,Left Corner 3,13.4,8-16 ft.,1374,MEX
+unknwown,7:06,1787455941000,46,35,ASS,made the assist,104.0,227782.0,408,294001,Q3,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1374,MEX
+timeout,7:05,1787455948000,46,35,TIMO,Timeout,27.0,,409,296000,Q3,135073,,,,,,,,,,,Q3,,,,1375,
+subst,7:05,1787456024000,46,35,SUBST,Substitution out,27.0,392716.0,413,297000,Q3,135073,,,,,,OUT,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1375,BRA
+subst,7:05,1787456024000,46,35,SUBST,Substitution out,27.0,200399.0,414,298000,Q3,135073,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q3,,,,1375,BRA
+subst,7:05,1787456024000,46,35,SUBST,Substitution in,27.0,203242.0,415,299000,Q3,135073,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1375,BRA
+subst,7:05,1787456024000,46,35,SUBST,Substitution in,27.0,302000.0,416,300000,Q3,135073,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1375,BRA
+unknwown,6:47,1787456049000,46,35,TO,turnover; ball handling,27.0,215026.0,421,305000,Q3,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1393,BRA
+shot,6:37,1787456072000,46,35,P3,3pt jump shot missed,104.0,268451.0,423,307000,Q3,135073,False,3.0,149.0,167.0,,,104.0,Mayra Gil,Mexico,31.0,Q3,Above the Break 3,12.7,8-16 ft.,1403,MEX
+unknwown,6:32,1787456075000,46,35,REB,defensive rebound,27.0,178705.0,424,307002,Q3,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1408,BRA
+shot,6:27,1787456080000,46,37,P2,"2PtsFG under the basket, fast break, driving layup made",27.0,178705.0,425,308000,Q3,135073,True,2.0,142.0,29.0,,,27.0,Iza Sangalli,Brazil,77.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1413,BRA
+unknwown,6:00,1787456109000,46,37,TTO,team turnover; shot clock violation,104.0,,427,310000,Q3,135073,,,,,,,,,,,Q3,,,,1440,
+unknwown,5:41,1787456140000,46,37,TO,turnover; bad pass,27.0,302000.0,429,312000,Q3,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1459,BRA
+unknwown,5:41,1787456140000,46,37,ST,steal,104.0,268451.0,430,312001,Q3,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1459,MEX
+shot,5:34,1787456147000,48,37,P2,"2PtsFG under the basket, points from fastbreak + after turnover, driving layup made",104.0,227782.0,431,313000,Q3,135073,True,2.0,154.0,33.0,,,104.0,Karina Esquer,Mexico,4.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1466,MEX
+shot,5:16,1787456165000,48,37,P3,3pt jump shot missed,27.0,302000.0,432,314000,Q3,135073,False,3.0,217.0,151.0,,,27.0,Taissa Queiroz,Brazil,55.0,Q3,Above the Break 3,13.5,8-16 ft.,1484,BRA
+unknwown,5:15,1787456168000,48,37,REB,defensive rebound,104.0,268451.0,434,314002,Q3,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1485,MEX
+subst,5:15,1787456195000,48,37,SUBST,Substitution out,104.0,227782.0,435,316000,Q3,135073,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q3,,,,1485,MEX
+subst,5:15,1787456195000,48,37,SUBST,Substitution out,104.0,268451.0,436,317000,Q3,135073,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q3,,,,1485,MEX
+subst,5:15,1787456195000,48,37,SUBST,Substitution in,104.0,215141.0,437,318000,Q3,135073,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1485,MEX
+subst,5:15,1787456195000,48,37,SUBST,Substitution in,104.0,213361.0,438,319000,Q3,135073,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1485,MEX
+subst,5:15,1787456195000,48,37,SUBST,Substitution out,27.0,302000.0,439,320000,Q3,135073,,,,,,OUT,27.0,Taissa Queiroz,Brazil,55.0,Q3,,,,1485,BRA
+subst,5:15,1787456195000,48,37,SUBST,Substitution in,27.0,392716.0,440,321000,Q3,135073,,,,,,IN,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1485,BRA
+unknwown,5:08,1787456206000,48,37,FOUL,Personal foul,27.0,178705.0,442,323000,Q3,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1492,BRA
+unknwown,5:08,1787456206000,48,37,RFOUL,foul drawn,104.0,215141.0,444,323002,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1492,MEX
+shot,4:52,1787456234000,48,37,P3,3pt jump shot missed,104.0,317694.0,446,326000,Q3,135073,False,3.0,229.0,131.0,,,104.0,Destiny Pitts,Mexico,33.0,Q3,Above the Break 3,12.7,8-16 ft.,1508,MEX
+unknwown,4:47,1787456237000,48,37,REB,defensive rebound,27.0,178705.0,447,326002,Q3,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1513,BRA
+shot,4:33,1787456251000,48,40,P3,3pt jump shot made,27.0,203532.0,448,327000,Q3,135073,True,3.0,31.0,108.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Above the Break 3,12.8,8-16 ft.,1527,BRA
+unknwown,4:33,1787456251000,48,40,ASS,made the assist,27.0,392716.0,449,327001,Q3,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1527,BRA
+shot,4:14,1787456270000,50,40,P2,"2PtsFG under the basket, layup made",104.0,319031.0,450,328000,Q3,135073,True,2.0,118.0,36.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Restricted Area,2.2,Less Than 8 ft.,1546,MEX
+unknwown,4:14,1787456270000,50,40,ASS,made the assist,104.0,268370.0,451,328001,Q3,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1546,MEX
+shot,3:50,1787456294000,50,42,P2,"2PtsFG inside paint, eurostep made",27.0,203242.0,452,329000,Q3,135073,True,2.0,160.0,61.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q3,In The Paint (Non-RA),2.9,Less Than 8 ft.,1570,BRA
+shot,3:40,1787456305000,53,42,P3,3pt jump shot from center made,104.0,268370.0,454,330000,Q3,135073,True,3.0,110.0,165.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q3,Above the Break 3,12.9,8-16 ft.,1580,MEX
+unknwown,3:40,1787456305000,53,42,ASS,made the assist,104.0,213361.0,455,330001,Q3,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1580,MEX
+unknwown,3:23,1787456332000,53,42,FOUL,Personal foul,104.0,215141.0,457,332000,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1597,MEX
+unknwown,3:23,1787456332000,53,42,RFOUL,foul drawn,27.0,392716.0,458,332002,Q3,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1597,BRA
+subst,3:23,1787456350000,53,42,SUBST,Substitution out,104.0,317694.0,459,333000,Q3,135073,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q3,,,,1597,MEX
+subst,3:23,1787456350000,53,42,SUBST,Substitution in,104.0,302969.0,460,334000,Q3,135073,,,,,,IN,104.0,Loriette Maciel,Mexico,27.0,Q3,,,,1597,MEX
+subst,3:23,1787456350000,53,42,SUBST,Substitution out,27.0,203532.0,461,335000,Q3,135073,,,,,,OUT,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1597,BRA
+subst,3:23,1787456350000,53,42,SUBST,Substitution out,27.0,203242.0,462,336000,Q3,135073,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q3,,,,1597,BRA
+subst,3:23,1787456350000,53,42,SUBST,Substitution in,27.0,200399.0,463,337000,Q3,135073,,,,,,IN,27.0,Aline Moura,Brazil,12.0,Q3,,,,1597,BRA
+subst,3:23,1787456350000,53,42,SUBST,Substitution in,27.0,178708.0,464,338000,Q3,135073,,,,,,IN,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1597,BRA
+shot,3:17,1787456359000,53,45,P3,3pt pullup jump shot made,27.0,392716.0,466,340000,Q3,135073,True,3.0,82.0,158.0,,,27.0,Bella Nascimento,Brazil,8.0,Q3,Above the Break 3,13.1,8-16 ft.,1603,BRA
+shot,2:53,1787456382000,55,45,P2,layup made,104.0,302969.0,467,341000,Q3,135073,True,2.0,146.0,59.0,,,104.0,Loriette Maciel,Mexico,27.0,Q3,In The Paint (Non-RA),2.0,Less Than 8 ft.,1627,MEX
+shot,2:34,1787456401000,55,45,P3,3pt jump shot missed,27.0,178708.0,468,342000,Q3,135073,False,3.0,46.0,125.0,,,27.0,Alana Goncalo,Brazil,24.0,Q3,Above the Break 3,12.7,8-16 ft.,1646,BRA
+unknwown,2:32,1787456403000,55,45,REB,defensive rebound,104.0,215141.0,469,342002,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1648,MEX
+unknwown,2:30,1787456409000,55,45,FOUL,Personal foul; 2 free throws awarded,27.0,200399.0,471,344000,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1650,BRA
+unknwown,2:30,1787456409000,55,45,RFOUL,foul drawn,104.0,319031.0,472,344002,Q3,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1650,MEX
+shot,2:30,1787456441000,56,45,FT,1st of 2 free throws made,104.0,319031.0,473,345000,Q3,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,14.6,8-16 ft.,1650,MEX
+unknwown,2:30,1787456441000,56,45,ASS,made the assist,104.0,215141.0,474,345001,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1650,MEX
+shot,2:30,1787456454000,57,45,FT,2nd of 2 free throws made,104.0,319031.0,475,346000,Q3,135073,True,1.0,0.0,0.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,14.6,8-16 ft.,1650,MEX
+unknwown,2:23,1787456465000,57,45,TO,turnover; bad pass,27.0,178708.0,477,348000,Q3,135073,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1657,BRA
+unknwown,2:23,1787456465000,57,45,ST,steal,104.0,319031.0,478,348001,Q3,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1657,MEX
+shot,2:18,1787456469000,57,45,P2,"2PtsFG under the basket, points after turnover, layup missed",104.0,213361.0,479,349000,Q3,135073,False,2.0,130.0,33.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1662,MEX
+unknwown,2:14,1787456474000,57,45,REB,offensive rebound,104.0,319031.0,482,349002,Q3,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1666,MEX
+shot,2:12,1787456476000,59,45,P2,"2PtsFG under the basket, points from second chance + after turnover, layup made",104.0,319031.0,483,352000,Q3,135073,True,2.0,140.0,42.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q3,Restricted Area,0.2,Less Than 8 ft.,1668,MEX
+shot,2:04,1787456485000,59,47,P2,2pt pullup jump shot made,27.0,215026.0,484,353000,Q3,135073,True,2.0,107.0,39.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,In The Paint (Non-RA),3.3,Less Than 8 ft.,1676,BRA
+unknwown,2:04,1787456485000,59,47,ASS,made the assist,27.0,178708.0,485,353001,Q3,135073,,,,,,,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1676,BRA
+unknwown,1:42,1787456507000,59,47,FOUL,Personal foul; 2 free throws awarded,27.0,392716.0,487,355000,Q3,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q3,,,,1698,BRA
+unknwown,1:42,1787456507000,59,47,RFOUL,foul drawn,104.0,302969.0,488,355002,Q3,135073,,,,,,,104.0,Loriette Maciel,Mexico,27.0,Q3,,,,1698,MEX
+subst,1:42,1787456523000,59,47,SUBST,Substitution out,104.0,319031.0,489,356000,Q3,135073,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q3,,,,1698,MEX
+subst,1:42,1787456523000,59,47,SUBST,Substitution in,104.0,268375.0,490,357000,Q3,135073,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1698,MEX
+subst,1:42,1787456523000,59,47,SUBST,Substitution out,27.0,178708.0,491,358000,Q3,135073,,,,,,OUT,27.0,Alana Goncalo,Brazil,24.0,Q3,,,,1698,BRA
+subst,1:42,1787456523000,59,47,SUBST,Substitution in,27.0,203532.0,492,359000,Q3,135073,,,,,,IN,27.0,Maria Albiero,Brazil,5.0,Q3,,,,1698,BRA
+subst,1:42,1787456532000,59,47,SUBST,Substitution out,104.0,268370.0,493,360000,Q3,135073,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q3,,,,1698,MEX
+subst,1:42,1787456532000,59,47,SUBST,Substitution in,104.0,235869.0,494,361000,Q3,135073,,,,,,IN,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1698,MEX
+shot,1:42,1787456544000,60,47,FT,1st of 2 free throws made,104.0,302969.0,495,362000,Q3,135073,True,1.0,0.0,0.0,,,104.0,Loriette Maciel,Mexico,27.0,Q3,,14.6,8-16 ft.,1698,MEX
+shot,1:42,1787456553000,61,47,FT,2nd of 2 free throws made,104.0,302969.0,496,363000,Q3,135073,True,1.0,0.0,0.0,,,104.0,Loriette Maciel,Mexico,27.0,Q3,,14.6,8-16 ft.,1698,MEX
+shot,1:22,1787456579000,61,47,P2,2pt driving layup missed,27.0,215026.0,498,365000,Q3,135073,False,2.0,167.0,62.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,In The Paint (Non-RA),3.5,Less Than 8 ft.,1718,BRA
+unknwown,1:20,1787456582000,61,47,REB,offensive rebound,27.0,200399.0,500,365002,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1720,BRA
+unknwown,1:20,1787456588000,61,47,FOUL,Personal foul,104.0,235869.0,501,367000,Q3,135073,,,,,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,,,,1720,MEX
+unknwown,1:20,1787456588000,61,47,RFOUL,foul drawn,27.0,200399.0,502,367002,Q3,135073,,,,,,,27.0,Aline Moura,Brazil,12.0,Q3,,,,1720,BRA
+unknwown,1:20,1787456608000,61,47,FOUL,Personal foul,104.0,215141.0,503,368000,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1720,MEX
+unknwown,1:20,1787456608000,61,47,RFOUL,foul drawn,27.0,215026.0,504,368002,Q3,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1720,BRA
+shot,1:17,1787456620000,61,47,P2,"2PtsFG under the basket, reverse lay-up missed",27.0,178705.0,506,370000,Q3,135073,False,2.0,129.0,30.0,,,27.0,Iza Sangalli,Brazil,77.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1723,BRA
+unknwown,1:12,1787456624000,61,47,REB,offensive rebound,27.0,178705.0,507,370002,Q3,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1728,BRA
+shot,1:11,1787456626000,61,49,P2,"2PtsFG under the basket, layup made",27.0,178705.0,508,371000,Q3,135073,True,2.0,130.0,34.0,,,27.0,Iza Sangalli,Brazil,77.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1729,BRA
+shot,0:55,1787456641000,61,49,P3,3pt pullup jump shot missed,104.0,213361.0,510,372000,Q3,135073,False,3.0,29.0,118.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,Above the Break 3,13.6,8-16 ft.,1745,MEX
+unknwown,0:52,1787456643000,61,49,REB,offensive rebound,104.0,215141.0,511,372002,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1748,MEX
+shot,0:47,1787456650000,63,49,P2,layup made,104.0,235869.0,512,373000,Q3,135073,True,2.0,106.0,34.0,,,104.0,Mariana Rodriguez,Mexico,16.0,Q3,In The Paint (Non-RA),3.5,Less Than 8 ft.,1753,MEX
+unknwown,0:47,1787456650000,63,49,ASS,made the assist,104.0,215141.0,513,373001,Q3,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q3,,,,1753,MEX
+shot,0:32,1787456664000,63,49,P3,3pt jump shot from center missed,27.0,203532.0,514,374000,Q3,135073,False,3.0,146.0,166.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Above the Break 3,12.6,8-16 ft.,1768,BRA
+unknwown,0:29,1787456667000,63,49,REB,defensive rebound,104.0,213361.0,515,374002,Q3,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q3,,,,1771,MEX
+unknwown,0:23,1787456677000,63,49,FOUL,Personal foul; 2 free throws awarded,27.0,215026.0,517,376000,Q3,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q3,,,,1777,BRA
+unknwown,0:23,1787456677000,63,49,RFOUL,foul drawn,104.0,268375.0,518,376002,Q3,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,,,1777,MEX
+unknwown,0:23,1787456713000,63,49,VTR,Head coach's challenge successful,27.0,,519,377000,Q3,135073,,,,,,,,,,,Q3,,,,1777,
+shot,0:23,1787456849000,63,49,FT,1st of 2 free throws missed,104.0,268375.0,520,378000,Q3,135073,False,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,14.6,8-16 ft.,1777,MEX
+shot,0:23,1787456858000,63,49,FT,2nd of 2 free throws missed,104.0,268375.0,521,379000,Q3,135073,False,1.0,0.0,0.0,,,104.0,Morelia Chavez,Mexico,18.0,Q3,,14.6,8-16 ft.,1777,MEX
+unknwown,0:23,1787456863000,63,49,TREB,team defensive rebound,27.0,,522,379002,Q3,135073,,,,,,,,,,,Q3,,,,1777,
+shot,0:04,1787456891000,63,49,P3,3pt jump shot from center missed,27.0,203532.0,524,381000,Q3,135073,False,3.0,137.0,171.0,,,27.0,Maria Albiero,Brazil,5.0,Q3,Above the Break 3,13.1,8-16 ft.,1796,BRA
+unknwown,0:00,1787456896000,63,49,REB,offensive rebound,27.0,178705.0,526,381002,Q3,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q3,,,,1800,BRA
+periods,0:00,1787456902000,63,49,ENDP,End of period,,,529,385000,Q3,135073,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787457019000,63,49,SUBST,Substitution out,104.0,215141.0,530,386000,Q4,135073,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution out,104.0,235869.0,531,387000,Q4,135073,,,,,,OUT,104.0,Mariana Rodriguez,Mexico,16.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution out,104.0,268375.0,532,388000,Q4,135073,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution out,104.0,213361.0,533,389000,Q4,135073,,,,,,OUT,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution out,104.0,302969.0,534,390000,Q4,135073,,,,,,OUT,104.0,Loriette Maciel,Mexico,27.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution in,104.0,319031.0,535,391000,Q4,135073,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution in,104.0,227782.0,536,392000,Q4,135073,,,,,,IN,104.0,Karina Esquer,Mexico,4.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution in,104.0,268370.0,537,393000,Q4,135073,,,,,,IN,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution in,104.0,268451.0,538,394000,Q4,135073,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,1800,MEX
+subst,10:00,1787457019000,63,49,SUBST,Substitution in,104.0,317694.0,539,395000,Q4,135073,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1800,MEX
+periods,10:00,1787457028000,63,49,STARTP,Start of period,,,540,396000,Q4,135073,,,,,,,,,,,Q4,,,,1800,
+unknwown,9:54,1787457042000,63,49,FOUL,Personal foul,27.0,203532.0,543,399000,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,1806,BRA
+unknwown,9:54,1787457042000,63,49,RFOUL,foul drawn,104.0,227782.0,544,399002,Q4,135073,,,,,,,104.0,Karina Esquer,Mexico,4.0,Q4,,,,1806,MEX
+shot,9:42,1787457068000,65,49,P2,2pt fadeaway jump shot made,104.0,317694.0,546,401000,Q4,135073,True,2.0,105.0,74.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,In The Paint (Non-RA),4.9,Less Than 8 ft.,1818,MEX
+shot,9:21,1787457089000,65,49,P2,2pt jump shot missed,27.0,178705.0,547,402000,Q4,135073,False,2.0,52.0,26.0,,,27.0,Iza Sangalli,Brazil,77.0,Q4,Mid-Range,8.9,8-16 ft.,1839,BRA
+unknwown,9:18,1787457091000,65,49,REB,defensive rebound,104.0,319031.0,548,402002,Q4,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1842,MEX
+unknwown,9:01,1787457123000,65,49,FOUL,Personal foul,27.0,178705.0,552,406000,Q4,135073,,,,,,,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,1859,BRA
+unknwown,9:01,1787457123000,65,49,RFOUL,foul drawn,104.0,319031.0,553,406002,Q4,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1859,MEX
+shot,8:56,1787457144000,65,49,P2,"2PtsFG inside left, jump shot missed",104.0,317694.0,555,408000,Q4,135073,False,2.0,51.0,105.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Mid-Range,11.0,8-16 ft.,1864,MEX
+unknwown,8:53,1787457147000,65,49,REB,defensive rebound,27.0,203532.0,556,408002,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,1867,BRA
+shot,8:41,1787457159000,65,49,P2,2pt jump shot missed,27.0,203532.0,557,409000,Q4,135073,False,2.0,181.0,96.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,In The Paint (Non-RA),6.9,Less Than 8 ft.,1879,BRA
+unknwown,8:37,1787457162000,65,49,REB,defensive rebound,104.0,268370.0,558,409002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,1883,MEX
+shot,8:19,1787457181000,67,49,P2,"2PtsFG under the basket, layup made",104.0,319031.0,560,411000,Q4,135073,True,2.0,120.0,28.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Restricted Area,2.3,Less Than 8 ft.,1901,MEX
+unknwown,8:19,1787457181000,67,49,ASS,made the assist,104.0,317694.0,561,411001,Q4,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,1901,MEX
+timeout,8:19,1787457187000,67,49,TIMO,Timeout,27.0,,562,412000,Q4,135073,,,,,,,,,,,Q4,,,,1901,
+subst,8:19,1787457262000,67,49,SUBST,Substitution out,27.0,200399.0,563,413000,Q4,135073,,,,,,OUT,27.0,Aline Moura,Brazil,12.0,Q4,,,,1901,BRA
+subst,8:19,1787457262000,67,49,SUBST,Substitution out,27.0,178705.0,564,414000,Q4,135073,,,,,,OUT,27.0,Iza Sangalli,Brazil,77.0,Q4,,,,1901,BRA
+subst,8:19,1787457262000,67,49,SUBST,Substitution in,27.0,342721.0,565,415000,Q4,135073,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1901,BRA
+subst,8:19,1787457262000,67,49,SUBST,Substitution in,27.0,203242.0,566,416000,Q4,135073,,,,,,IN,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1901,BRA
+shot,8:03,1787457291000,67,52,P3,3pt jump shot made,27.0,203242.0,568,418000,Q4,135073,True,3.0,8.0,42.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Right Corner 3,13.2,8-16 ft.,1917,BRA
+unknwown,8:03,1787457291000,67,52,ASS,made the assist,27.0,203532.0,569,418001,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,1917,BRA
+shot,7:44,1787457310000,67,52,P2,"2PtsFG under the basket, layup missed",104.0,268370.0,570,419000,Q4,135073,False,2.0,117.0,31.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Restricted Area,2.5,Less Than 8 ft.,1936,MEX
+unknwown,7:41,1787457313000,67,52,REB,defensive rebound,27.0,392716.0,571,419002,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,1939,BRA
+shot,7:37,1787457318000,67,52,P2,2pt pullup jump shot missed,27.0,392716.0,572,420000,Q4,135073,False,2.0,144.0,107.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Mid-Range,6.7,Less Than 8 ft.,1943,BRA
+unknwown,7:33,1787457321000,67,52,REB,offensive rebound,27.0,342721.0,573,420002,Q4,135073,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,1947,BRA
+shot,7:30,1787457325000,67,55,P3,3pt jump shot made,27.0,392716.0,574,421000,Q4,135073,True,3.0,151.0,164.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Above the Break 3,12.4,8-16 ft.,1950,BRA
+unknwown,7:30,1787457325000,67,55,ASS,made the assist,27.0,215026.0,575,421001,Q4,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,1950,BRA
+unknwown,7:11,1787457347000,67,55,FOUL,Personal foul,27.0,203242.0,577,423000,Q4,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,1969,BRA
+unknwown,7:11,1787457347000,67,55,RFOUL,foul drawn,104.0,319031.0,578,423002,Q4,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,1969,MEX
+shot,7:05,1787457369000,69,55,P2,"2PtsFG under the basket, driving layup made",104.0,319031.0,582,427000,Q4,135073,True,2.0,118.0,30.0,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,Restricted Area,2.4,Less Than 8 ft.,1975,MEX
+unknwown,6:45,1787457391000,69,55,FOUL,Personal foul,104.0,268451.0,584,429000,Q4,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,1995,MEX
+unknwown,6:45,1787457391000,69,55,RFOUL,foul drawn,27.0,215026.0,585,429002,Q4,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,1995,BRA
+shot,6:39,1787457416000,69,55,P2,2pt pullup jump shot missed,27.0,215026.0,587,431000,Q4,135073,False,2.0,75.0,59.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,Mid-Range,6.8,Less Than 8 ft.,2001,BRA
+unknwown,6:37,1787457418000,69,55,REB,defensive rebound,104.0,268370.0,588,431002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2003,MEX
+shot,6:16,1787457440000,69,55,P3,3pt step back jump shot missed,104.0,268451.0,589,432000,Q4,135073,False,3.0,111.0,166.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Above the Break 3,12.9,8-16 ft.,2024,MEX
+unknwown,6:12,1787457443000,69,55,REB,defensive rebound,27.0,203532.0,590,432002,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2028,BRA
+subst,6:11,1787457455000,69,55,SUBST,Substitution out,104.0,227782.0,592,434000,Q4,135073,,,,,,OUT,104.0,Karina Esquer,Mexico,4.0,Q4,,,,2029,MEX
+subst,6:11,1787457455000,69,55,SUBST,Substitution in,104.0,213361.0,593,435000,Q4,135073,,,,,,IN,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2029,MEX
+subst,6:11,1787457462000,69,55,SUBST,Substitution out,104.0,319031.0,594,436000,Q4,135073,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2029,MEX
+subst,6:11,1787457462000,69,55,SUBST,Substitution in,104.0,268375.0,595,437000,Q4,135073,,,,,,IN,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,2029,MEX
+shot,6:03,1787457481000,69,58,P3,3pt pullup jump shot made,27.0,203532.0,597,439000,Q4,135073,True,3.0,135.0,171.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,Above the Break 3,13.1,8-16 ft.,2037,BRA
+timeout,6:01,1787457494000,69,58,TIMO,Timeout,104.0,,599,441000,Q4,135073,,,,,,,,,,,Q4,,,,2039,
+subst,6:01,1787457571000,69,58,SUBST,Substitution out,27.0,342721.0,600,442000,Q4,135073,,,,,,OUT,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2039,BRA
+subst,6:01,1787457571000,69,58,SUBST,Substitution in,27.0,393736.0,601,443000,Q4,135073,,,,,,IN,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2039,BRA
+unknwown,5:59,1787457579000,69,58,TO,turnover; bad pass,104.0,213361.0,605,447000,Q4,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2041,MEX
+unknwown,5:59,1787457579000,69,58,ST,steal,27.0,393736.0,606,447001,Q4,135073,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2041,BRA
+shot,5:53,1787457583000,69,58,P3,3pt jump shot missed,27.0,203532.0,607,448000,Q4,135073,False,3.0,68.0,147.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,Above the Break 3,12.9,8-16 ft.,2047,BRA
+unknwown,5:49,1787457587000,69,58,REB,offensive rebound,27.0,203242.0,608,448002,Q4,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2051,BRA
+shot,5:48,1787457588000,69,58,P2,"2PtsFG under the basket, points from second chance + after turnover, layup missed",27.0,203242.0,609,449000,Q4,135073,False,2.0,140.0,32.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2052,BRA
+unknwown,5:48,1787457588000,69,58,BS,blocked the shot,104.0,268370.0,610,449001,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2052,MEX
+unknwown,5:42,1787457594000,69,58,REB,defensive rebound,104.0,268370.0,611,449002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2058,MEX
+unknwown,5:37,1787457599000,69,58,TO,turnover; bad pass,104.0,268451.0,612,450000,Q4,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2063,MEX
+unknwown,5:37,1787457599000,69,58,ST,steal,27.0,392716.0,613,450001,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2063,BRA
+unknwown,5:31,1787457610000,69,58,FOUL,Personal foul,104.0,268375.0,615,452000,Q4,135073,,,,,,,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,2069,MEX
+unknwown,5:31,1787457610000,69,58,RFOUL,foul drawn,27.0,215026.0,616,452002,Q4,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2069,BRA
+unknwown,5:21,1787457646000,69,58,TO,turnover; ball handling,27.0,392716.0,619,455000,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2079,BRA
+unknwown,5:21,1787457646000,69,58,ST,steal,104.0,268451.0,620,455001,Q4,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2079,MEX
+unknwown,5:20,1787457651000,69,58,FOUL,Unsportsmanlike foul; 2 free throws awarded,27.0,392716.0,621,456000,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2080,BRA
+unknwown,5:20,1787457651000,69,58,RFOUL,foul drawn,104.0,268451.0,622,456002,Q4,135073,,,,,,,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2080,MEX
+subst,5:20,1787457667000,69,58,SUBST,Substitution out,104.0,317694.0,623,457000,Q4,135073,,,,,,OUT,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2080,MEX
+subst,5:20,1787457667000,69,58,SUBST,Substitution in,104.0,215141.0,624,458000,Q4,135073,,,,,,IN,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2080,MEX
+shot,5:20,1787457683000,69,58,FT,Free throw missed 1 of 2,104.0,268451.0,625,459000,Q4,135073,False,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,,14.6,8-16 ft.,2080,MEX
+shot,5:20,1787457697000,70,58,FT,Free throw made 2 of 2,104.0,268451.0,626,460000,Q4,135073,True,1.0,0.0,0.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,,14.6,8-16 ft.,2080,MEX
+shot,5:05,1787457730000,70,58,P2,2pt floating jump shot missed,104.0,213361.0,628,462000,Q4,135073,False,2.0,105.0,87.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,In The Paint (Non-RA),5.9,Less Than 8 ft.,2095,MEX
+unknwown,5:02,1787457733000,70,58,REB,defensive rebound,27.0,215026.0,629,462002,Q4,135073,,,,,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2098,BRA
+shot,4:51,1787457744000,70,58,P2,2pt driving layup missed,27.0,215026.0,630,463000,Q4,135073,False,2.0,113.0,26.0,,,27.0,Emanuely Oliveira,Brazil,11.0,Q4,In The Paint (Non-RA),3.0,Less Than 8 ft.,2109,BRA
+unknwown,4:48,1787457746000,70,58,REB,defensive rebound,104.0,268370.0,631,463002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2112,MEX
+shot,4:33,1787457762000,72,58,P2,2pt jump shot made,104.0,215141.0,632,464000,Q4,135073,True,2.0,128.0,58.0,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,In The Paint (Non-RA),2.2,Less Than 8 ft.,2127,MEX
+unknwown,4:33,1787457762000,72,58,ASS,made the assist,104.0,213361.0,633,464001,Q4,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2127,MEX
+shot,4:10,1787457785000,72,58,P3,3pt step back jump shot missed,27.0,203532.0,634,465000,Q4,135073,False,3.0,49.0,140.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,Above the Break 3,13.5,8-16 ft.,2150,BRA
+unknwown,4:07,1787457788000,72,58,REB,defensive rebound,104.0,268370.0,635,465002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2153,MEX
+shot,3:53,1787457802000,75,58,P3,3pt jump shot made,104.0,213361.0,637,467000,Q4,135073,True,3.0,27.0,110.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Above the Break 3,13.3,8-16 ft.,2167,MEX
+unknwown,3:53,1787457802000,75,58,ASS,made the assist,104.0,215141.0,638,467001,Q4,135073,,,,,,,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2167,MEX
+timeout,3:53,1787457809000,75,58,TIMO,Timeout,27.0,,639,468000,Q4,135073,,,,,,,,,,,Q4,,,,2167,
+subst,3:53,1787457902000,75,58,SUBST,Substitution out,104.0,268375.0,640,469000,Q4,135073,,,,,,OUT,104.0,Morelia Chavez,Mexico,18.0,Q4,,,,2167,MEX
+subst,3:53,1787457902000,75,58,SUBST,Substitution out,104.0,268451.0,641,470000,Q4,135073,,,,,,OUT,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2167,MEX
+subst,3:53,1787457902000,75,58,SUBST,Substitution in,104.0,319031.0,642,471000,Q4,135073,,,,,,IN,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2167,MEX
+subst,3:53,1787457902000,75,58,SUBST,Substitution in,104.0,317694.0,643,472000,Q4,135073,,,,,,IN,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2167,MEX
+subst,3:53,1787457902000,75,58,SUBST,Substitution out,27.0,215026.0,644,473000,Q4,135073,,,,,,OUT,27.0,Emanuely Oliveira,Brazil,11.0,Q4,,,,2167,BRA
+subst,3:53,1787457902000,75,58,SUBST,Substitution in,27.0,302000.0,645,474000,Q4,135073,,,,,,IN,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2167,BRA
+shot,3:40,1787457922000,75,60,P2,"2PtsFG under the basket, layup made",27.0,203242.0,649,478000,Q4,135073,True,2.0,140.0,30.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,Restricted Area,1.0,Less Than 8 ft.,2180,BRA
+unknwown,3:40,1787457922000,75,60,ASS,made the assist,27.0,392716.0,650,478001,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2180,BRA
+shot,3:26,1787457936000,75,60,P3,3pt jump shot missed,104.0,317694.0,651,479000,Q4,135073,False,3.0,7.0,62.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Right Corner 3,13.5,8-16 ft.,2194,MEX
+unknwown,3:25,1787457941000,75,60,TREB,team offensive rebound,104.0,,653,479002,Q4,135073,,,,,,,,,,,Q4,,,,2195,
+unknwown,3:18,1787457964000,75,60,FOUL,Personal foul; 2 free throws awarded,27.0,203242.0,658,485000,Q4,135073,,,,,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2202,BRA
+unknwown,3:18,1787457964000,75,60,RFOUL,foul drawn,104.0,268370.0,659,485002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2202,MEX
+shot,3:18,1787457999000,76,60,FT,1st of 2 free throws made,104.0,268370.0,660,486000,Q4,135073,True,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,14.6,8-16 ft.,2202,MEX
+shot,3:18,1787458010000,77,60,FT,2nd of 2 free throws made,104.0,268370.0,661,487000,Q4,135073,True,1.0,0.0,0.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,14.6,8-16 ft.,2202,MEX
+shot,3:07,1787458025000,77,60,P2,2pt pullup jump shot missed,27.0,392716.0,663,489000,Q4,135073,False,2.0,68.0,57.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Mid-Range,7.4,Less Than 8 ft.,2213,BRA
+unknwown,3:05,1787458027000,77,60,REB,defensive rebound,104.0,268370.0,664,489002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2215,MEX
+shot,2:58,1787458035000,77,60,P3,3pt jump shot missed,104.0,268370.0,665,490000,Q4,135073,False,3.0,24.0,112.0,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,Above the Break 3,13.7,8-16 ft.,2222,MEX
+unknwown,2:54,1787458037000,77,60,REB,defensive rebound,27.0,392716.0,666,490002,Q4,135073,,,,,,,27.0,Bella Nascimento,Brazil,8.0,Q4,,,,2226,BRA
+shot,2:37,1787458055000,77,62,P2,2pt turnaround jump shot made,27.0,203242.0,667,491000,Q4,135073,True,2.0,156.0,57.0,,,27.0,Leticia Rodrigues,Brazil,23.0,Q4,In The Paint (Non-RA),2.3,Less Than 8 ft.,2243,BRA
+unknwown,2:37,1787458055000,77,62,ASS,made the assist,27.0,302000.0,668,491001,Q4,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2243,BRA
+subst,2:21,1787458081000,77,62,SUBST,Substitution out,104.0,215141.0,670,493000,Q4,135073,,,,,,OUT,104.0,Alexia Lagunas,Mexico,14.0,Q4,,,,2259,MEX
+subst,2:21,1787458081000,77,62,SUBST,Substitution in,104.0,268451.0,671,494000,Q4,135073,,,,,,IN,104.0,Mayra Gil,Mexico,31.0,Q4,,,,2259,MEX
+shot,2:15,1787458097000,80,62,P3,3pt jump shot made,104.0,213361.0,673,496000,Q4,135073,True,3.0,18.0,92.0,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,Above the Break 3,13.3,8-16 ft.,2265,MEX
+unknwown,2:15,1787458097000,80,62,ASS,made the assist,104.0,319031.0,674,496001,Q4,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2265,MEX
+shot,1:59,1787458111000,80,62,P2,"2PtsFG under the basket, driving layup missed",27.0,393736.0,675,497000,Q4,135073,False,2.0,161.0,39.0,,,27.0,Maisa Marçal,Brazil,32.0,Q4,Restricted Area,2.1,Less Than 8 ft.,2281,BRA
+unknwown,1:56,1787458114000,80,62,REB,defensive rebound,104.0,268370.0,676,497002,Q4,135073,,,,,,,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2284,MEX
+shot,1:50,1787458122000,83,62,P3,3pt jump shot made,104.0,317694.0,677,498000,Q4,135073,True,3.0,21.0,105.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Above the Break 3,13.6,8-16 ft.,2290,MEX
+unknwown,1:50,1787458122000,83,62,ASS,made the assist,104.0,213361.0,678,498001,Q4,135073,,,,,,,104.0,Hazel Ramirez,Mexico,22.0,Q4,,,,2290,MEX
+subst,1:42,1787458140000,83,62,SUBST,Substitution out,27.0,203242.0,680,500000,Q4,135073,,,,,,OUT,27.0,Leticia Rodrigues,Brazil,23.0,Q4,,,,2298,BRA
+subst,1:42,1787458140000,83,62,SUBST,Substitution in,27.0,342721.0,681,501000,Q4,135073,,,,,,IN,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2298,BRA
+subst,1:42,1787458231000,83,62,SUBST,Substitution out,104.0,268370.0,685,501250,Q4,135073,,,,,,OUT,104.0,Mariana Valenzuela,Mexico,6.0,Q4,,,,2298,MEX
+subst,1:42,1787458231000,83,62,SUBST,Substitution in,104.0,227780.0,686,501500,Q4,135073,,,,,,IN,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2298,MEX
+shot,1:32,1787458168000,83,62,P3,3pt jump shot missed,27.0,392716.0,683,503000,Q4,135073,False,3.0,223.0,149.0,,,27.0,Bella Nascimento,Brazil,8.0,Q4,Above the Break 3,13.7,8-16 ft.,2308,BRA
+unknwown,1:28,1787458171000,83,62,REB,defensive rebound,104.0,319031.0,684,503002,Q4,135073,,,,,,,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2312,MEX
+shot,1:05,1787458194000,83,62,P2,2pt jump shot missed,104.0,227780.0,687,506000,Q4,135073,False,2.0,114.0,35.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,In The Paint (Non-RA),2.6,Less Than 8 ft.,2335,MEX
+unknwown,1:05,1787458194000,83,62,BS,blocked the shot,27.0,342721.0,689,506001,Q4,135073,,,,,,,27.0,Heloisa Carrera,Brazil,14.0,Q4,,,,2335,BRA
+unknwown,1:02,1787458198000,83,62,REB,offensive rebound,104.0,227780.0,690,506002,Q4,135073,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2338,MEX
+subst,1:02,1787458222000,83,62,SUBST,Substitution out,104.0,319031.0,691,508000,Q4,135073,,,,,,OUT,104.0,Anisa Jeffries,Mexico,2.0,Q4,,,,2338,MEX
+subst,1:02,1787458222000,83,62,SUBST,Substitution in,104.0,420702.0,692,509000,Q4,135073,,,,,,IN,104.0,Yulissa Yazmin Moran Arechiga,Mexico,17.0,Q4,,,,2338,MEX
+shot,0:46,1787458267000,83,62,P2,layup missed,104.0,227780.0,697,514000,Q4,135073,False,2.0,155.0,55.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,In The Paint (Non-RA),2.1,Less Than 8 ft.,2354,MEX
+unknwown,0:46,1787458270000,83,62,TREB,team offensive rebound,104.0,,698,514002,Q4,135073,,,,,,,,,,,Q4,,,,2354,
+shot,0:42,1787458296000,83,62,P3,3pt jump shot missed,104.0,268451.0,700,516000,Q4,135073,False,3.0,11.0,30.0,,,104.0,Mayra Gil,Mexico,31.0,Q4,Right Corner 3,12.9,8-16 ft.,2358,MEX
+unknwown,0:42,1787458296000,83,62,BS,blocked the shot,27.0,393736.0,701,516001,Q4,135073,,,,,,,27.0,Maisa Marçal,Brazil,32.0,Q4,,,,2358,BRA
+unknwown,0:38,1787458300000,83,62,REB,defensive rebound,27.0,203532.0,702,516002,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2362,BRA
+unknwown,0:36,1787458301000,83,62,TO,turnover; bad pass,27.0,203532.0,703,517000,Q4,135073,,,,,,,27.0,Maria Albiero,Brazil,5.0,Q4,,,,2364,BRA
+unknwown,0:36,1787458301000,83,62,ST,steal,104.0,317694.0,704,517001,Q4,135073,,,,,,,104.0,Destiny Pitts,Mexico,33.0,Q4,,,,2364,MEX
+shot,0:31,1787458308000,83,62,P3,3pt jump shot missed,104.0,317694.0,705,518000,Q4,135073,False,3.0,65.0,144.0,,,104.0,Destiny Pitts,Mexico,33.0,Q4,Above the Break 3,12.8,8-16 ft.,2369,MEX
+unknwown,0:27,1787458311000,83,62,REB,offensive rebound,104.0,227780.0,706,518002,Q4,135073,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2373,MEX
+unknwown,0:27,1787458318000,83,62,FOUL,Personal foul; 2 free throws awarded,27.0,302000.0,708,520000,Q4,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2373,BRA
+unknwown,0:27,1787458318000,83,62,RFOUL,foul drawn,104.0,227780.0,709,520002,Q4,135073,,,,,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,,,2373,MEX
+shot,0:27,1787458339000,83,62,FT,1st of 2 free throws missed,104.0,227780.0,710,521000,Q4,135073,False,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,14.6,8-16 ft.,2373,MEX
+shot,0:27,1787458353000,83,62,FT,2nd of 2 free throws missed,104.0,227780.0,711,522000,Q4,135073,False,1.0,0.0,0.0,,,104.0,Angela Carrasco,Mexico,29.0,Q4,,14.6,8-16 ft.,2373,MEX
+unknwown,0:27,1787458354000,83,62,REB,defensive rebound,27.0,302000.0,713,522002,Q4,135073,,,,,,,27.0,Taissa Queiroz,Brazil,55.0,Q4,,,,2373,BRA
+shot,0:08,1787458375000,83,64,P2,2pt pullup jump shot made,27.0,203532.0,716,526000,Q4,135073,True,2.0,157.0,99.0,,,27.0,Maria Albiero,Brazil,5.0,Q4,In The Paint (Non-RA),6.1,Less Than 8 ft.,2392,BRA
+periods,0:00,1787458389000,83,64,ENDP,End of period,,,718,528000,Q4,135073,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787458595000,83,64,ENDG,End of game,,,719,529000,Q4,135073,,,,,,,,,,,Q4,,,,2400,
