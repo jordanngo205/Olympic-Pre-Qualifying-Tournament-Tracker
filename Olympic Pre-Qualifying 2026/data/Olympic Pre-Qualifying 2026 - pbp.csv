@@ -6754,3 +6754,554 @@ shot,0:00,1787285139000,69,64,FT,1st of 2 free throws missed,34.0,188714.0,630,4
 shot,0:00,1787285144000,70,64,FT,2nd of 2 free throws made,34.0,188714.0,631,469000,Q4,135071,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q4,,14.6,8-16 ft.,2400,CAN
 periods,0:00,1787285188000,70,64,ENDP,End of period,,,637,475000,Q4,135071,,,,,,,,,,,Q4,,,,2400,
 periods,0:00,1787285280000,70,64,ENDG,End of game,,,638,476000,Q4,135071,,,,,,,,,,,Q4,,,,2400,
+periods,10:00,1787441428000,0,0,STARTG,Start of game,,,1,1000,Q1,135074,,,,,,,,,,,Q1,,,,0,
+periods,10:00,1787441428000,0,0,STARTP,Start of period,,,2,2000,Q1,135074,,,,,,,,,,,Q1,,,,0,
+unknwown,10:00,1787441428000,0,0,JS,jump ball situation; throw-in,,,4,4000,Q1,135074,,,,,,,,,,,Q1,,,,0,
+unknwown,9:59,1787441429000,0,0,JB,jump ball won,113.0,206251.0,5,4001,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,1,NZL
+unknwown,9:59,1787441429000,0,0,JB,jump ball lost,34.0,161433.0,6,4002,Q1,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,1,CAN
+unknwown,9:41,1787441447000,0,0,TO,turnover; ball handling,113.0,206251.0,7,5000,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,19,NZL
+unknwown,9:41,1787441447000,0,0,ST,steal,34.0,188714.0,8,5001,Q1,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,19,CAN
+shot,9:21,1787441468000,0,0,P2,2pt pullup jump shot missed,34.0,318775.0,9,6000,Q1,135074,False,2.0,145.0,122.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Mid-Range,8.2,8-16 ft.,39,CAN
+unknwown,9:16,1787441471000,0,0,REB,defensive rebound,113.0,328255.0,10,6002,Q1,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,44,NZL
+shot,9:09,1787441479000,0,2,P2,"2PtsFG inside left, jump shot made",113.0,317318.0,11,7000,Q1,135074,True,2.0,65.0,96.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Mid-Range,9.4,8-16 ft.,51,NZL
+unknwown,9:09,1787441479000,0,2,ASS,made the assist,113.0,328255.0,12,7001,Q1,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,51,NZL
+unknwown,8:53,1787441497000,0,2,TO,turnover; bad pass,34.0,188714.0,16,11000,Q1,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,67,CAN
+unknwown,8:35,1787441527000,0,2,FOUL,Personal foul; 2 free throws awarded,34.0,161433.0,21,16000,Q1,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,85,CAN
+unknwown,8:35,1787441527000,0,2,RFOUL,foul drawn,113.0,317318.0,22,16002,Q1,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,85,NZL
+shot,8:35,1787441548000,0,3,FT,1st of 2 free throws made,113.0,317318.0,23,17000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,85,NZL
+shot,8:35,1787441559000,0,3,FT,2nd of 2 free throws missed,113.0,317318.0,24,18000,Q1,135074,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,85,NZL
+unknwown,8:35,1787441560000,0,3,REB,defensive rebound,34.0,172742.0,26,18002,Q1,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,85,CAN
+shot,8:13,1787441583000,0,3,P3,3pt jump shot missed,34.0,188714.0,27,20000,Q1,135074,False,3.0,45.0,147.0,,,34.0,Sami Hill,Canada,4.0,Q1,Above the Break 3,14.3,8-16 ft.,107,CAN
+unknwown,8:13,1787441583000,0,3,BS,blocked the shot,113.0,258137.0,29,20001,Q1,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,107,NZL
+unknwown,8:12,1787441590000,0,3,TTO,team turnover; shot clock violation,34.0,,30,22000,Q1,135074,,,,,,,,,,,Q1,,,,108,
+shot,7:50,1787441617000,0,3,P2,2pt pullup jump shot missed,113.0,328255.0,32,24000,Q1,135074,False,2.0,172.0,100.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,In The Paint (Non-RA),6.8,Less Than 8 ft.,130,NZL
+unknwown,7:46,1787441620000,0,3,REB,defensive rebound,34.0,172742.0,33,24002,Q1,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,134,CAN
+unknwown,7:39,1787441641000,0,3,FOUL,Personal foul; 2 free throws awarded,113.0,206251.0,37,28000,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,141,NZL
+unknwown,7:39,1787441641000,0,3,RFOUL,foul drawn,34.0,172742.0,38,28002,Q1,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,141,CAN
+shot,7:39,1787441656000,1,3,FT,1st of 2 free throws made,34.0,172742.0,39,29000,Q1,135074,True,1.0,0.0,0.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,14.6,8-16 ft.,141,CAN
+unknwown,7:39,1787441656000,1,3,ASS,made the assist,34.0,318775.0,40,29001,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,141,CAN
+shot,7:39,1787441668000,2,3,FT,2nd of 2 free throws made,34.0,172742.0,41,30000,Q1,135074,True,1.0,0.0,0.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,14.6,8-16 ft.,141,CAN
+shot,7:13,1787441697000,2,3,P2,2pt step back jump shot missed,113.0,258137.0,43,32000,Q1,135074,False,2.0,225.0,84.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,Mid-Range,9.6,8-16 ft.,167,NZL
+unknwown,7:06,1787441703000,2,3,REB,defensive rebound,34.0,188714.0,44,32002,Q1,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q1,,,,174,CAN
+subst,7:06,1787441716000,2,3,SUBST,Substitution out,34.0,161433.0,46,34000,Q1,135074,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q1,,,,174,CAN
+subst,7:06,1787441716000,2,3,SUBST,Substitution in,34.0,250669.0,47,35000,Q1,135074,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q1,,,,174,CAN
+shot,7:04,1787442814000,2,3,P2,"2PtsFG under the basket, layup missed",34.0,188714.0,205,35500,Q1,135074,False,2.0,134.0,34.0,,,34.0,Sami Hill,Canada,4.0,Q1,Restricted Area,0.8,Less Than 8 ft.,176,CAN
+unknwown,7:04,1787442814000,2,3,BS,blocked the shot,113.0,258137.0,206,35501,Q1,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,176,NZL
+unknwown,7:04,1787442814000,2,3,TREB,team defensive rebound,113.0,,207,35502,Q1,135074,,,,,,,,,,,Q1,,,,176,
+unknwown,6:47,1787441793000,2,3,FOUL,Personal foul; 2 free throws awarded,34.0,318775.0,53,41000,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,193,CAN
+unknwown,6:47,1787441793000,2,3,RFOUL,foul drawn,113.0,317318.0,54,41002,Q1,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,193,NZL
+unknwown,6:47,1787441822000,2,3,FOUL,Unsportsmanlike foul; 2 free throws awarded,113.0,317318.0,55,42000,Q1,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,193,NZL
+unknwown,6:47,1787441822000,2,3,TO,turnover,113.0,317318.0,56,42001,Q1,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,193,NZL
+unknwown,6:47,1787441822000,2,3,RFOUL,foul drawn,34.0,318775.0,57,42002,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,193,CAN
+shot,6:47,1787441855000,2,4,FT,1st of 2 free throws made,113.0,317318.0,58,43000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,193,NZL
+shot,6:47,1787441858000,2,5,FT,2nd of 2 free throws made,113.0,317318.0,59,44000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,193,NZL
+subst,6:47,1787441881000,2,5,SUBST,Substitution out,113.0,317318.0,60,45000,Q1,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,193,NZL
+subst,6:47,1787441881000,2,5,SUBST,Substitution in,113.0,219363.0,61,46000,Q1,135074,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,193,NZL
+shot,6:47,1787441893000,3,5,FT,1st of 2 free throws made,34.0,318775.0,62,47000,Q1,135074,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,14.6,8-16 ft.,193,CAN
+shot,6:47,1787441903000,4,5,FT,2nd of 2 free throws made,34.0,318775.0,63,48000,Q1,135074,True,1.0,0.0,0.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,14.6,8-16 ft.,193,CAN
+shot,6:42,1787441927000,4,5,P2,2pt pullup jump shot missed,34.0,320676.0,66,51000,Q1,135074,False,2.0,126.0,95.0,,,34.0,Syla Swords,Canada,12.0,Q1,In The Paint (Non-RA),5.7,Less Than 8 ft.,198,CAN
+unknwown,6:42,1787441930000,4,5,TREB,team defensive rebound,113.0,,67,51002,Q1,135074,,,,,,,,,,,Q1,,,,198,
+subst,6:41,1787441946000,4,5,SUBST,Substitution out,113.0,328255.0,70,54000,Q1,135074,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,199,NZL
+subst,6:41,1787441946000,4,5,SUBST,Substitution in,113.0,296082.0,71,55000,Q1,135074,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,199,NZL
+unknwown,6:27,1787441969000,4,5,FOUL,Offensive foul,113.0,206251.0,76,60000,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,213,NZL
+unknwown,6:27,1787441969000,4,5,TO,turnover,113.0,206251.0,77,60001,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,213,NZL
+unknwown,6:27,1787441969000,4,5,RFOUL,foul drawn,34.0,318775.0,78,60002,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,213,CAN
+shot,6:13,1787441995000,7,5,P3,3pt jump shot made,34.0,320676.0,80,62000,Q1,135074,True,3.0,143.0,173.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,13.3,8-16 ft.,227,CAN
+unknwown,6:13,1787441995000,7,5,ASS,made the assist,34.0,318775.0,81,62001,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,227,CAN
+shot,5:54,1787442013000,7,8,P3,3pt jump shot made,113.0,219363.0,82,63000,Q1,135074,True,3.0,8.0,84.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,13.9,8-16 ft.,246,NZL
+unknwown,5:54,1787442013000,7,8,ASS,made the assist,113.0,206251.0,83,63001,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,246,NZL
+shot,5:38,1787442029000,9,8,P2,2pt pullup jump shot made,34.0,318775.0,84,64000,Q1,135074,True,2.0,204.0,105.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Mid-Range,9.1,8-16 ft.,262,CAN
+unknwown,5:17,1787442056000,9,8,FOUL,Personal foul; 2 free throws awarded,34.0,172742.0,86,66000,Q1,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,283,CAN
+unknwown,5:17,1787442056000,9,8,RFOUL,foul drawn,113.0,206251.0,87,66002,Q1,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,283,NZL
+subst,5:17,1787442077000,9,8,SUBST,Substitution out,34.0,188714.0,88,67000,Q1,135074,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q1,,,,283,CAN
+subst,5:17,1787442077000,9,8,SUBST,Substitution out,34.0,250669.0,89,68000,Q1,135074,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q1,,,,283,CAN
+subst,5:17,1787442077000,9,8,SUBST,Substitution in,34.0,297698.0,90,69000,Q1,135074,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q1,,,,283,CAN
+subst,5:17,1787442077000,9,8,SUBST,Substitution in,34.0,161433.0,91,70000,Q1,135074,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q1,,,,283,CAN
+subst,5:17,1787442077000,9,8,SUBST,Substitution out,113.0,239275.0,92,71000,Q1,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,283,NZL
+subst,5:17,1787442077000,9,8,SUBST,Substitution in,113.0,317318.0,93,72000,Q1,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,283,NZL
+shot,5:17,1787442081000,9,9,FT,1st of 2 free throws made,113.0,206251.0,94,73000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,14.6,8-16 ft.,283,NZL
+unknwown,5:17,1787442081000,9,9,ASS,made the assist,113.0,258137.0,98,73001,Q1,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,283,NZL
+subst,5:17,1787442096000,9,9,SUBST,Substitution out,113.0,317318.0,95,74000,Q1,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,283,NZL
+subst,5:17,1787442096000,9,9,SUBST,Substitution in,113.0,239275.0,96,75000,Q1,135074,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,283,NZL
+shot,5:17,1787442098000,9,10,FT,2nd of 2 free throws made,113.0,206251.0,97,76000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,14.6,8-16 ft.,283,NZL
+unknwown,5:12,1787442122000,9,10,FOUL,Personal foul,113.0,219363.0,101,79000,Q1,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,288,NZL
+unknwown,5:12,1787442122000,9,10,RFOUL,foul drawn,34.0,161433.0,102,79002,Q1,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,288,CAN
+subst,5:12,1787442139000,9,10,SUBST,Substitution out,113.0,206251.0,103,80000,Q1,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,288,NZL
+subst,5:12,1787442139000,9,10,SUBST,Substitution in,113.0,317318.0,104,81000,Q1,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,288,NZL
+shot,5:03,1787442155000,9,10,P2,"2PtsFG under the basket, driving layup missed",34.0,318775.0,106,83000,Q1,135074,False,2.0,162.0,29.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Restricted Area,2.5,Less Than 8 ft.,297,CAN
+unknwown,5:00,1787442158000,9,10,REB,offensive rebound,34.0,318775.0,107,83002,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,300,CAN
+shot,4:58,1787442161000,9,10,P3,3pt jump shot missed,34.0,318775.0,109,85000,Q1,135074,False,3.0,75.0,165.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,Above the Break 3,14.1,8-16 ft.,302,CAN
+unknwown,4:57,1787442167000,9,10,TREB,team defensive rebound,113.0,,110,85002,Q1,135074,,,,,,,,,,,Q1,,,,303,
+unknwown,4:49,1787442176000,9,10,FOUL,Personal foul,34.0,161433.0,113,88000,Q1,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q1,,,,311,CAN
+unknwown,4:49,1787442176000,9,10,RFOUL,foul drawn,113.0,219363.0,114,88002,Q1,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,311,NZL
+subst,4:49,1787442192000,9,10,SUBST,Substitution out,34.0,161433.0,115,89000,Q1,135074,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q1,,,,311,CAN
+subst,4:49,1787442192000,9,10,SUBST,Substitution in,34.0,250669.0,116,90000,Q1,135074,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q1,,,,311,CAN
+shot,4:36,1787442214000,9,10,P3,3pt jump shot missed,113.0,219363.0,119,93000,Q1,135074,False,3.0,12.0,107.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,Above the Break 3,14.4,8-16 ft.,324,NZL
+unknwown,4:36,1787442218000,9,10,TREB,team offensive rebound,113.0,,120,93002,Q1,135074,,,,,,,,,,,Q1,,,,324,
+unknwown,4:33,1787442225000,9,10,FOUL,Personal foul; 2 free throws awarded,34.0,320676.0,123,96000,Q1,135074,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,327,CAN
+unknwown,4:33,1787442225000,9,10,RFOUL,foul drawn,113.0,317318.0,124,96002,Q1,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,327,NZL
+subst,4:33,1787442234000,9,10,SUBST,Substitution out,113.0,239275.0,125,97000,Q1,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,327,NZL
+subst,4:33,1787442234000,9,10,SUBST,Substitution in,113.0,261208.0,126,98000,Q1,135074,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,327,NZL
+shot,4:33,1787442242000,9,11,FT,1st of 2 free throws made,113.0,317318.0,127,99000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,327,NZL
+shot,4:33,1787442255000,9,12,FT,2nd of 2 free throws made,113.0,317318.0,128,100000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,14.6,8-16 ft.,327,NZL
+shot,4:20,1787442270000,9,12,P3,3pt jump shot missed,34.0,172742.0,130,102000,Q1,135074,False,3.0,11.0,30.0,,,34.0,Yvonne Ejim,Canada,9.0,Q1,Right Corner 3,12.9,8-16 ft.,340,CAN
+unknwown,4:17,1787442273000,9,12,REB,defensive rebound,113.0,258137.0,131,102002,Q1,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,343,NZL
+shot,4:11,1787442280000,9,14,P2,"2PtsFG under the basket, reverse lay-up made",113.0,317318.0,132,103000,Q1,135074,True,2.0,124.0,39.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,Restricted Area,1.6,Less Than 8 ft.,349,NZL
+unknwown,4:11,1787442280000,9,14,ASS,made the assist,113.0,296082.0,133,103001,Q1,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,349,NZL
+shot,3:57,1787442315000,12,14,P3,3pt jump shot made,34.0,320676.0,136,106000,Q1,135074,True,3.0,252.0,125.0,,,34.0,Syla Swords,Canada,12.0,Q1,Above the Break 3,14.1,8-16 ft.,363,CAN
+unknwown,3:57,1787442315000,12,14,ASS,made the assist,34.0,318775.0,137,106001,Q1,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,363,CAN
+unknwown,3:38,1787442335000,12,14,TO,turnover; bad pass,113.0,296082.0,140,109000,Q1,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,382,NZL
+unknwown,3:38,1787442335000,12,14,ST,steal,34.0,250669.0,141,109001,Q1,135074,,,,,,,34.0,Faith Dut,Canada,25.0,Q1,,,,382,CAN
+shot,3:32,1787442341000,14,14,P2,"2PtsFG under the basket, points from fastbreak + after turnover, eurostep made",34.0,297698.0,142,110000,Q1,135074,True,2.0,155.0,43.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Restricted Area,1.5,Less Than 8 ft.,388,CAN
+subst,3:12,1787442388000,14,14,SUBST,Substitution out,34.0,318775.0,144,112000,Q1,135074,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q1,,,,408,CAN
+subst,3:12,1787442388000,14,14,SUBST,Substitution out,34.0,250669.0,145,113000,Q1,135074,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q1,,,,408,CAN
+subst,3:12,1787442388000,14,14,SUBST,Substitution in,34.0,217051.0,146,114000,Q1,135074,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q1,,,,408,CAN
+subst,3:12,1787442388000,14,14,SUBST,Substitution in,34.0,342479.0,147,115000,Q1,135074,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q1,,,,408,CAN
+subst,3:12,1787442388000,14,14,SUBST,Substitution out,113.0,258137.0,148,116000,Q1,135074,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q1,,,,408,NZL
+subst,3:12,1787442388000,14,14,SUBST,Substitution out,113.0,296082.0,149,117000,Q1,135074,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q1,,,,408,NZL
+subst,3:12,1787442388000,14,14,SUBST,Substitution in,113.0,328255.0,150,118000,Q1,135074,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,408,NZL
+subst,3:12,1787442388000,14,14,SUBST,Substitution in,113.0,239275.0,151,119000,Q1,135074,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q1,,,,408,NZL
+unknwown,3:05,1787442403000,14,14,TTO,team turnover; shot clock violation,113.0,,154,122000,Q1,135074,,,,,,,,,,,Q1,,,,415,
+shot,2:48,1787442431000,14,14,P2,2pt pullup jump shot missed,34.0,297698.0,156,124000,Q1,135074,False,2.0,69.0,62.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Mid-Range,7.4,Less Than 8 ft.,432,CAN
+unknwown,2:41,1787442436000,14,14,REB,defensive rebound,113.0,219363.0,157,124002,Q1,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,439,NZL
+shot,2:34,1787442444000,14,14,P2,2pt turnaround jump shot missed,113.0,317318.0,158,125000,Q1,135074,False,2.0,139.0,54.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q1,In The Paint (Non-RA),1.4,Less Than 8 ft.,446,NZL
+unknwown,2:31,1787442447000,14,14,REB,defensive rebound,34.0,172742.0,159,125002,Q1,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,449,CAN
+subst,2:13,1787442475000,14,14,SUBST,Substitution out,34.0,172742.0,163,129000,Q1,135074,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q1,,,,467,CAN
+subst,2:13,1787442475000,14,14,SUBST,Substitution in,34.0,266912.0,164,130000,Q1,135074,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q1,,,,467,CAN
+subst,2:13,1787442475000,14,14,SUBST,Substitution out,113.0,317318.0,165,131000,Q1,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q1,,,,467,NZL
+subst,2:13,1787442475000,14,14,SUBST,Substitution in,113.0,206251.0,166,132000,Q1,135074,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,467,NZL
+shot,2:08,1787442494000,14,14,P2,2pt pullup jump shot missed,34.0,320676.0,168,134000,Q1,135074,False,2.0,128.0,85.0,,,34.0,Syla Swords,Canada,12.0,Q1,In The Paint (Non-RA),4.7,Less Than 8 ft.,472,CAN
+unknwown,2:05,1787442496000,14,14,REB,offensive rebound,34.0,266912.0,169,134002,Q1,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,475,CAN
+unknwown,1:54,1787442508000,14,14,TO,turnover; bad pass,34.0,266912.0,170,135000,Q1,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q1,,,,486,CAN
+unknwown,1:54,1787442508000,14,14,ST,steal,113.0,219363.0,171,135001,Q1,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,486,NZL
+shot,1:39,1787442523000,14,14,P2,"2PtsFG under the basket, points after turnover, driving layup missed",113.0,328255.0,174,138000,Q1,135074,False,2.0,139.0,37.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,Restricted Area,0.3,Less Than 8 ft.,501,NZL
+unknwown,1:36,1787442526000,14,14,REB,defensive rebound,34.0,297698.0,175,138002,Q1,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,504,CAN
+shot,1:33,1787442529000,16,14,P2,"2PtsFG under the basket, fast break, driving layup made",34.0,297698.0,176,139000,Q1,135074,True,2.0,153.0,39.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Restricted Area,1.3,Less Than 8 ft.,507,CAN
+shot,1:09,1787442554000,16,16,P2,"2PtsFG under the basket, driving layup made",113.0,206251.0,177,140000,Q1,135074,True,2.0,120.0,35.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q1,Restricted Area,2.1,Less Than 8 ft.,531,NZL
+unknwown,1:09,1787442554000,16,16,ASS,made the assist,113.0,219363.0,178,140001,Q1,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q1,,,,531,NZL
+shot,0:51,1787442571000,19,16,P3,3pt jump shot made,34.0,266912.0,179,141000,Q1,135074,True,3.0,6.0,20.0,,,34.0,Tara Wallack,Canada,8.0,Q1,Right Corner 3,13.5,8-16 ft.,549,CAN
+unknwown,0:51,1787442571000,19,16,ASS,made the assist,34.0,297698.0,180,141001,Q1,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q1,,,,549,CAN
+shot,0:40,1787442582000,19,16,P3,3pt jump shot missed,113.0,239275.0,181,142000,Q1,135074,False,3.0,24.0,124.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q1,Above the Break 3,14.3,8-16 ft.,560,NZL
+unknwown,0:37,1787442584000,19,16,REB,defensive rebound,34.0,320676.0,182,142002,Q1,135074,,,,,,,34.0,Syla Swords,Canada,12.0,Q1,,,,563,CAN
+shot,0:30,1787442591000,19,16,P3,3pt jump shot missed,34.0,297698.0,183,143000,Q1,135074,False,3.0,15.0,93.0,,,34.0,Delaney Gibb,Canada,3.0,Q1,Above the Break 3,13.6,8-16 ft.,570,CAN
+unknwown,0:29,1787442598000,19,16,TREB,team defensive rebound,113.0,,185,143002,Q1,135074,,,,,,,,,,,Q1,,,,571,
+subst,0:29,1787442621000,19,16,SUBST,Substitution out,34.0,320676.0,186,145000,Q1,135074,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q1,,,,571,CAN
+subst,0:29,1787442621000,19,16,SUBST,Substitution in,34.0,368225.0,187,146000,Q1,135074,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q1,,,,571,CAN
+subst,0:29,1787442621000,19,16,SUBST,Substitution out,113.0,261208.0,188,147000,Q1,135074,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q1,,,,571,NZL
+subst,0:29,1787442621000,19,16,SUBST,Substitution in,113.0,328112.0,189,148000,Q1,135074,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q1,,,,571,NZL
+unknwown,0:20,1787442636000,19,16,FOUL,Personal foul; 2 free throws awarded,34.0,217051.0,194,153000,Q1,135074,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q1,,,,580,CAN
+unknwown,0:20,1787442636000,19,16,RFOUL,foul drawn,113.0,328255.0,195,153002,Q1,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,,,580,NZL
+subst,0:20,1787442652000,19,16,SUBST,Substitution out,113.0,206251.0,196,154000,Q1,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q1,,,,580,NZL
+subst,0:20,1787442652000,19,16,SUBST,Substitution in,113.0,377527.0,197,155000,Q1,135074,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q1,,,,580,NZL
+shot,0:20,1787442669000,19,17,FT,1st of 2 free throws made,113.0,328255.0,198,156000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,14.6,8-16 ft.,580,NZL
+shot,0:20,1787442681000,19,18,FT,2nd of 2 free throws made,113.0,328255.0,199,157000,Q1,135074,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q1,,14.6,8-16 ft.,580,NZL
+shot,0:02,1787442702000,19,18,P2,"2PtsFG under the basket, driving layup missed",34.0,217051.0,201,159000,Q1,135074,False,2.0,132.0,36.0,,,34.0,Shaina Pellington,Canada,7.0,Q1,Restricted Area,0.9,Less Than 8 ft.,598,CAN
+unknwown,0:00,1787442708000,19,18,REB,offensive rebound,34.0,342479.0,203,159002,Q1,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q1,,,,600,CAN
+shot,0:00,1787442708000,21,18,P2,2PtsFG under the basket made,34.0,342479.0,204,161000,Q1,135074,True,2.0,140.0,31.0,,,34.0,Cearah Parchment,Canada,30.0,Q1,Restricted Area,0.9,Less Than 8 ft.,600,CAN
+periods,0:00,1787442848000,21,18,ENDP,End of period,,,208,162000,Q1,135074,,,,,,,,,,,Q1,,,,600,
+subst,10:00,1787442872000,21,18,SUBST,Substitution out,113.0,377527.0,209,163000,Q2,135074,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,600,NZL
+subst,10:00,1787442872000,21,18,SUBST,Substitution out,113.0,239275.0,210,164000,Q2,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,600,NZL
+subst,10:00,1787442872000,21,18,SUBST,Substitution in,113.0,258137.0,211,165000,Q2,135074,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,600,NZL
+subst,10:00,1787442872000,21,18,SUBST,Substitution in,113.0,317318.0,212,166000,Q2,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,600,NZL
+periods,10:00,1787442874000,21,18,STARTP,Start of period,,,213,167000,Q2,135074,,,,,,,,,,,Q2,,,,600,
+shot,9:40,1787442894000,23,18,P2,2pt step back jump shot made,34.0,217051.0,215,169000,Q2,135074,True,2.0,70.0,55.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,Mid-Range,7.2,Less Than 8 ft.,620,CAN
+unknwown,9:30,1787442904000,23,18,TO,turnover; bad pass,113.0,328255.0,216,170000,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,630,NZL
+unknwown,9:30,1787442904000,23,18,ST,steal,34.0,297698.0,217,170001,Q2,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,630,CAN
+unknwown,9:24,1787442913000,23,18,FOUL,Personal foul; 2 free throws awarded,113.0,258137.0,221,174000,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,636,NZL
+unknwown,9:24,1787442913000,23,18,RFOUL,foul drawn,34.0,297698.0,222,174002,Q2,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,636,CAN
+subst,9:24,1787442932000,23,18,SUBST,Substitution out,34.0,217051.0,223,175000,Q2,135074,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q2,,,,636,CAN
+subst,9:24,1787442932000,23,18,SUBST,Substitution out,34.0,368225.0,224,176000,Q2,135074,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q2,,,,636,CAN
+subst,9:24,1787442932000,23,18,SUBST,Substitution in,34.0,318775.0,225,177000,Q2,135074,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,636,CAN
+subst,9:24,1787442932000,23,18,SUBST,Substitution in,34.0,320676.0,226,178000,Q2,135074,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q2,,,,636,CAN
+shot,9:24,1787442941000,23,18,FT,Free throw missed 1 of 2,34.0,297698.0,227,179000,Q2,135074,False,1.0,0.0,0.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,,14.6,8-16 ft.,636,CAN
+shot,9:24,1787442953000,24,18,FT,Free throw made 2 of 2,34.0,297698.0,228,180000,Q2,135074,True,1.0,0.0,0.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,,14.6,8-16 ft.,636,CAN
+shot,9:03,1787442977000,24,18,P2,2pt fadeaway jump shot missed,113.0,328255.0,230,182000,Q2,135074,False,2.0,129.0,57.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,In The Paint (Non-RA),2.0,Less Than 8 ft.,657,NZL
+unknwown,9:00,1787442980000,24,18,REB,defensive rebound,34.0,342479.0,231,182002,Q2,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,660,CAN
+shot,8:54,1787442986000,27,18,P3,3pt jump shot made,34.0,297698.0,232,183000,Q2,135074,True,3.0,26.0,120.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Above the Break 3,13.9,8-16 ft.,666,CAN
+unknwown,8:54,1787442986000,27,18,ASS,made the assist,34.0,318775.0,233,183001,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,666,CAN
+shot,8:38,1787443002000,27,18,P2,2pt jump shot missed,113.0,219363.0,234,184000,Q2,135074,False,2.0,105.0,90.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,In The Paint (Non-RA),6.1,Less Than 8 ft.,682,NZL
+unknwown,8:37,1787443006000,27,18,TREB,team defensive rebound,34.0,,236,184002,Q2,135074,,,,,,,,,,,Q2,,,,683,
+shot,8:19,1787443031000,27,18,P3,3pt jump shot missed,34.0,297698.0,238,187000,Q2,135074,False,3.0,12.0,107.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Above the Break 3,14.4,8-16 ft.,701,CAN
+unknwown,8:16,1787443033000,27,18,REB,defensive rebound,113.0,317318.0,239,187002,Q2,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,704,NZL
+unknwown,8:04,1787443058000,27,18,FOUL,Personal foul; 2 free throws awarded,34.0,342479.0,241,189000,Q2,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,716,CAN
+unknwown,8:04,1787443058000,27,18,RFOUL,foul drawn,113.0,317318.0,242,189002,Q2,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution out,34.0,342479.0,243,190000,Q2,135074,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q2,,,,716,CAN
+subst,8:04,1787443088000,27,18,SUBST,Substitution in,34.0,172742.0,244,191000,Q2,135074,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,716,CAN
+subst,8:04,1787443088000,27,18,SUBST,Substitution out,113.0,328112.0,245,192000,Q2,135074,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution out,113.0,328255.0,246,193000,Q2,135074,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution out,113.0,219363.0,247,194000,Q2,135074,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution in,113.0,296082.0,248,195000,Q2,135074,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution in,113.0,206251.0,249,196000,Q2,135074,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,716,NZL
+subst,8:04,1787443088000,27,18,SUBST,Substitution in,113.0,239275.0,250,197000,Q2,135074,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,716,NZL
+shot,8:04,1787443089000,27,18,FT,1st of 2 free throws missed,113.0,317318.0,251,198000,Q2,135074,False,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,716,NZL
+shot,8:04,1787443097000,27,19,FT,2nd of 2 free throws made,113.0,317318.0,252,199000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,14.6,8-16 ft.,716,NZL
+unknwown,8:04,1787443097000,27,19,ASS,made the assist,113.0,328112.0,253,199001,Q2,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,716,NZL
+subst,8:04,1787443103000,27,19,SUBST,Substitution out,34.0,297698.0,254,200000,Q2,135074,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q2,,,,716,CAN
+subst,8:04,1787443103000,27,19,SUBST,Substitution in,34.0,369879.0,255,201000,Q2,135074,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q2,,,,716,CAN
+shot,7:53,1787443119000,29,19,P2,"2PtsFG under the basket, driving layup made",34.0,318775.0,257,203000,Q2,135074,True,2.0,132.0,40.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Restricted Area,0.8,Less Than 8 ft.,727,CAN
+timeout,7:51,1787443130000,29,19,TIMO,Timeout,113.0,,261,207000,Q2,135074,,,,,,,,,,,Q2,,,,729,
+shot,7:31,1787443278000,29,19,P3,3pt jump shot from center missed,113.0,258137.0,264,210000,Q2,135074,False,3.0,114.0,175.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,Above the Break 3,13.7,8-16 ft.,749,NZL
+unknwown,7:31,1787443286000,29,19,TREB,team defensive rebound,34.0,,265,210002,Q2,135074,,,,,,,,,,,Q2,,,,749,
+shot,7:11,1787443313000,31,19,P2,"2PtsFG under the basket, driving layup made",34.0,369879.0,269,214000,Q2,135074,True,2.0,156.0,43.0,,,34.0,Agot Makeer,Canada,1.0,Q2,Restricted Area,1.6,Less Than 8 ft.,769,CAN
+unknwown,6:59,1787443337000,31,19,FOUL,Personal foul; 2 free throws awarded,34.0,369879.0,271,216000,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,781,CAN
+unknwown,6:59,1787443337000,31,19,RFOUL,foul drawn,113.0,258137.0,272,216002,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,781,NZL
+shot,6:59,1787443372000,31,19,FT,1st of 2 free throws missed,113.0,258137.0,273,217000,Q2,135074,False,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,781,NZL
+shot,6:59,1787443402000,31,20,FT,2nd of 2 free throws made,113.0,258137.0,274,218000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,781,NZL
+unknwown,6:51,1787443421000,31,20,FOUL,Personal foul,113.0,296082.0,279,223000,Q2,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,789,NZL
+unknwown,6:51,1787443421000,31,20,RFOUL,foul drawn,34.0,318775.0,280,223002,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,789,CAN
+shot,6:38,1787443468000,34,20,P3,3pt jump shot made,34.0,318775.0,284,227000,Q2,135074,True,3.0,204.0,168.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Above the Break 3,14.3,8-16 ft.,802,CAN
+unknwown,6:38,1787443468000,34,20,ASS,made the assist,34.0,369879.0,285,227001,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,802,CAN
+shot,6:25,1787443481000,34,20,P3,3pt jump shot missed,113.0,296082.0,286,228000,Q2,135074,False,3.0,255.0,126.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q2,Above the Break 3,14.4,8-16 ft.,815,NZL
+unknwown,6:22,1787443483000,34,20,REB,defensive rebound,34.0,369879.0,287,228002,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,818,CAN
+shot,6:03,1787443502000,34,20,P2,2pt fadeaway jump shot missed,34.0,318775.0,288,229000,Q2,135074,False,2.0,80.0,86.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Mid-Range,7.6,Less Than 8 ft.,837,CAN
+unknwown,6:01,1787443505000,34,20,REB,offensive rebound,34.0,172742.0,289,229002,Q2,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,839,CAN
+shot,5:59,1787443507000,37,20,P3,3pt jump shot made,34.0,320676.0,291,231000,Q2,135074,True,3.0,256.0,121.0,,,34.0,Syla Swords,Canada,12.0,Q2,Above the Break 3,14.1,8-16 ft.,841,CAN
+unknwown,5:59,1787443507000,37,20,ASS,made the assist,34.0,172742.0,292,231001,Q2,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,841,CAN
+timeout,5:58,1787443516000,37,20,TIMO,Timeout,113.0,,295,234000,Q2,135074,,,,,,,,,,,Q2,,,,842,
+subst,5:58,1787443603000,37,20,SUBST,Substitution out,113.0,317318.0,296,235000,Q2,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,842,NZL
+subst,5:58,1787443603000,37,20,SUBST,Substitution in,113.0,219363.0,297,236000,Q2,135074,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,842,NZL
+shot,5:44,1787443632000,37,22,P2,"2PtsFG under the basket, reverse lay-up made",113.0,258137.0,299,238000,Q2,135074,True,2.0,129.0,29.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,Restricted Area,1.6,Less Than 8 ft.,856,NZL
+shot,5:24,1787443652000,39,22,P2,"2PtsFG under the basket, jump shot made",34.0,172742.0,300,239000,Q2,135074,True,2.0,150.0,36.0,,,34.0,Yvonne Ejim,Canada,9.0,Q2,Restricted Area,1.1,Less Than 8 ft.,876,CAN
+unknwown,5:24,1787443652000,39,22,ASS,made the assist,34.0,318775.0,301,239001,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,876,CAN
+shot,5:03,1787443673000,39,22,P2,2pt pullup jump shot missed,113.0,239275.0,302,240000,Q2,135074,False,2.0,172.0,99.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q2,In The Paint (Non-RA),6.7,Less Than 8 ft.,897,NZL
+unknwown,5:00,1787443676000,39,22,REB,defensive rebound,34.0,369879.0,303,240002,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,900,CAN
+shot,4:54,1787443682000,42,22,P3,3pt jump shot made,34.0,320676.0,304,241000,Q2,135074,True,3.0,11.0,26.0,,,34.0,Syla Swords,Canada,12.0,Q2,Right Corner 3,13.0,8-16 ft.,906,CAN
+unknwown,4:54,1787443682000,42,22,ASS,made the assist,34.0,318775.0,305,241001,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,906,CAN
+unknwown,4:29,1787443715000,42,22,FOUL,Personal foul; 2 free throws awarded,34.0,172742.0,309,245000,Q2,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,931,CAN
+unknwown,4:29,1787443715000,42,22,RFOUL,foul drawn,113.0,206251.0,310,245002,Q2,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,931,NZL
+subst,4:29,1787443732000,42,22,SUBST,Substitution out,113.0,239275.0,312,247000,Q2,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q2,,,,931,NZL
+subst,4:29,1787443732000,42,22,SUBST,Substitution in,113.0,328112.0,313,248000,Q2,135074,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q2,,,,931,NZL
+subst,4:29,1787443732000,42,22,SUBST,Substitution in,113.0,328255.0,314,249000,Q2,135074,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,931,NZL
+subst,4:29,1787443741000,42,22,SUBST,Substitution out,113.0,296082.0,315,250000,Q2,135074,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q2,,,,931,NZL
+shot,4:29,1787443743000,42,23,FT,1st of 2 free throws made,113.0,206251.0,316,251000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,14.6,8-16 ft.,931,NZL
+unknwown,4:29,1787443743000,42,23,ASS,made the assist,113.0,258137.0,318,251001,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,931,NZL
+shot,4:29,1787443750000,42,24,FT,2nd of 2 free throws made,113.0,206251.0,317,252000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,14.6,8-16 ft.,931,NZL
+subst,4:29,1787443767000,42,24,SUBST,Substitution out,34.0,266912.0,319,253000,Q2,135074,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q2,,,,931,CAN
+subst,4:29,1787443767000,42,24,SUBST,Substitution in,34.0,342479.0,320,254000,Q2,135074,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q2,,,,931,CAN
+subst,4:29,1787443767000,42,24,SUBST,Substitution out,113.0,206251.0,321,255000,Q2,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,931,NZL
+subst,4:29,1787443767000,42,24,SUBST,Substitution in,113.0,317318.0,322,256000,Q2,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,931,NZL
+shot,4:22,1787443775000,42,24,P2,2pt pullup jump shot missed,34.0,318775.0,324,258000,Q2,135074,False,2.0,195.0,97.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,Mid-Range,7.9,Less Than 8 ft.,938,CAN
+unknwown,4:18,1787443779000,42,24,REB,defensive rebound,113.0,317318.0,325,258002,Q2,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,942,NZL
+unknwown,4:06,1787443792000,42,24,TO,turnover; bad pass,113.0,317318.0,328,261000,Q2,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,954,NZL
+subst,4:03,1787443801000,42,24,SUBST,Substitution out,34.0,172742.0,331,264000,Q2,135074,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q2,,,,957,CAN
+subst,4:03,1787443801000,42,24,SUBST,Substitution in,34.0,266912.0,332,265000,Q2,135074,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q2,,,,957,CAN
+unknwown,3:51,1787443821000,42,24,FOUL,Personal foul,113.0,258137.0,339,272000,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,969,NZL
+unknwown,3:51,1787443821000,42,24,RFOUL,foul drawn,34.0,318775.0,340,272002,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,969,CAN
+unknwown,3:48,1787443843000,42,24,TO,turnover; ball handling,34.0,318775.0,343,275000,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,972,CAN
+unknwown,3:48,1787443843000,42,24,ST,steal,113.0,328255.0,344,275001,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,972,NZL
+unknwown,3:48,1787443849000,42,24,FOUL,Personal foul,34.0,318775.0,345,276000,Q2,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,972,CAN
+unknwown,3:48,1787443849000,42,24,RFOUL,foul drawn,113.0,328255.0,346,276002,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,972,NZL
+subst,3:48,1787443856000,42,24,SUBST,Substitution out,34.0,318775.0,347,277000,Q2,135074,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q2,,,,972,CAN
+subst,3:48,1787443856000,42,24,SUBST,Substitution in,34.0,217051.0,348,278000,Q2,135074,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q2,,,,972,CAN
+unknwown,3:26,1787443886000,42,24,TO,turnover; ball handling,113.0,258137.0,353,283000,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,994,NZL
+unknwown,3:14,1787443913000,42,24,FOUL,Personal foul; 2 free throws awarded,113.0,219363.0,356,286000,Q2,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1006,NZL
+unknwown,3:14,1787443913000,42,24,RFOUL,foul drawn,34.0,217051.0,357,286002,Q2,135074,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1006,CAN
+shot,3:14,1787443933000,42,24,FT,1st of 2 free throws missed,34.0,217051.0,358,287000,Q2,135074,False,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,,14.6,8-16 ft.,1006,CAN
+shot,3:14,1787443943000,43,24,FT,2nd of 2 free throws made,34.0,217051.0,359,288000,Q2,135074,True,1.0,0.0,0.0,,,34.0,Shaina Pellington,Canada,7.0,Q2,,14.6,8-16 ft.,1006,CAN
+unknwown,3:04,1787443955000,43,24,TO,turnover; bad pass,113.0,219363.0,363,292000,Q2,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1016,NZL
+unknwown,3:04,1787443955000,43,24,ST,steal,34.0,266912.0,364,292001,Q2,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q2,,,,1016,CAN
+shot,2:56,1787443964000,46,24,P3,"3PtsFG outside left, points from fastbreak + after turnover, jump shot made",34.0,369879.0,365,293000,Q2,135074,True,3.0,67.0,160.0,,,34.0,Agot Makeer,Canada,1.0,Q2,Above the Break 3,14.0,8-16 ft.,1024,CAN
+unknwown,2:56,1787443964000,46,24,ASS,made the assist,34.0,266912.0,366,293001,Q2,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q2,,,,1024,CAN
+unknwown,2:44,1787443980000,46,24,FOUL,Personal foul; 2 free throws awarded,34.0,217051.0,370,297000,Q2,135074,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1036,CAN
+unknwown,2:44,1787443980000,46,24,RFOUL,foul drawn,113.0,328255.0,371,297002,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1036,NZL
+subst,2:44,1787444001000,46,24,SUBST,Substitution out,34.0,217051.0,372,298000,Q2,135074,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q2,,,,1036,CAN
+subst,2:44,1787444001000,46,24,SUBST,Substitution in,34.0,188714.0,373,299000,Q2,135074,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q2,,,,1036,CAN
+subst,2:44,1787444001000,46,24,SUBST,Substitution out,113.0,219363.0,374,300000,Q2,135074,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q2,,,,1036,NZL
+subst,2:44,1787444001000,46,24,SUBST,Substitution in,113.0,261208.0,375,301000,Q2,135074,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1036,NZL
+shot,2:44,1787444015000,46,25,FT,1st of 2 free throws made,113.0,328255.0,376,302000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,14.6,8-16 ft.,1036,NZL
+shot,2:44,1787444027000,46,26,FT,2nd of 2 free throws made,113.0,328255.0,377,303000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,14.6,8-16 ft.,1036,NZL
+shot,2:28,1787444046000,48,26,P2,2pt turnaround jump shot made,34.0,342479.0,379,305000,Q2,135074,True,2.0,72.0,35.0,,,34.0,Cearah Parchment,Canada,30.0,Q2,Mid-Range,6.8,Less Than 8 ft.,1052,CAN
+subst,2:16,1787444075000,48,26,SUBST,Substitution out,34.0,320676.0,381,307000,Q2,135074,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q2,,,,1064,CAN
+subst,2:16,1787444075000,48,26,SUBST,Substitution in,34.0,297698.0,382,308000,Q2,135074,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q2,,,,1064,CAN
+subst,2:16,1787444075000,48,26,SUBST,Substitution out,113.0,317318.0,383,309000,Q2,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q2,,,,1064,NZL
+subst,2:16,1787444075000,48,26,SUBST,Substitution in,113.0,206251.0,384,310000,Q2,135074,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1064,NZL
+unknwown,2:14,1787444095000,48,26,FOUL,Offensive foul,113.0,328255.0,387,313000,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1066,NZL
+unknwown,2:14,1787444095000,48,26,TO,turnover,113.0,328255.0,388,313001,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1066,NZL
+unknwown,2:14,1787444095000,48,26,RFOUL,foul drawn,34.0,369879.0,389,313002,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,1066,CAN
+unknwown,2:00,1787444122000,48,26,TO,turnover; ball handling,34.0,369879.0,391,315000,Q2,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q2,,,,1080,CAN
+unknwown,2:00,1787444122000,48,26,ST,steal,113.0,258137.0,392,315001,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1080,NZL
+shot,1:53,1787444127000,48,26,P2,2pt jump shot missed,113.0,258137.0,393,316000,Q2,135074,False,2.0,140.0,63.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,In The Paint (Non-RA),2.3,Less Than 8 ft.,1087,NZL
+unknwown,1:50,1787444131000,48,26,REB,defensive rebound,34.0,342479.0,394,316002,Q2,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1090,CAN
+shot,1:47,1787444133000,50,26,P2,"2PtsFG under the basket, fast break, driving layup made",34.0,369879.0,395,317000,Q2,135074,True,2.0,128.0,36.0,,,34.0,Agot Makeer,Canada,1.0,Q2,Restricted Area,1.3,Less Than 8 ft.,1093,CAN
+unknwown,1:47,1787444133000,50,26,ASS,made the assist,34.0,297698.0,396,317001,Q2,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q2,,,,1093,CAN
+unknwown,1:29,1787444157000,50,26,FOUL,Personal foul; 2 free throws awarded,34.0,342479.0,400,321000,Q2,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1111,CAN
+unknwown,1:29,1787444157000,50,26,RFOUL,foul drawn,113.0,258137.0,401,321002,Q2,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,,,1111,NZL
+shot,1:29,1787444182000,50,27,FT,1st of 2 free throws made,113.0,258137.0,402,322000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1111,NZL
+shot,1:29,1787444196000,50,28,FT,2nd of 2 free throws made,113.0,258137.0,403,323000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,,14.6,8-16 ft.,1111,NZL
+subst,1:29,1787444204000,50,28,SUBST,Substitution out,34.0,369879.0,404,324000,Q2,135074,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q2,,,,1111,CAN
+subst,1:29,1787444204000,50,28,SUBST,Substitution in,34.0,368225.0,405,325000,Q2,135074,,,,,,IN,34.0,Avery Howell,Canada,23.0,Q2,,,,1111,CAN
+shot,1:17,1787444219000,52,28,P2,2pt floating jump shot made,34.0,297698.0,407,327000,Q2,135074,True,2.0,158.0,70.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,In The Paint (Non-RA),3.5,Less Than 8 ft.,1123,CAN
+shot,0:53,1787444243000,52,28,P2,"2PtsFG under the basket, driving layup missed",113.0,258137.0,408,328000,Q2,135074,False,2.0,146.0,27.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q2,Restricted Area,1.4,Less Than 8 ft.,1147,NZL
+unknwown,0:52,1787444247000,52,28,REB,offensive rebound,113.0,206251.0,410,328002,Q2,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1148,NZL
+unknwown,0:50,1787444252000,52,28,FOUL,Personal foul; 2 free throws awarded,34.0,368225.0,413,332000,Q2,135074,,,,,,,34.0,Avery Howell,Canada,23.0,Q2,,,,1150,CAN
+unknwown,0:50,1787444252000,52,28,RFOUL,foul drawn,113.0,206251.0,414,332002,Q2,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1150,NZL
+subst,0:50,1787444264000,52,28,SUBST,Substitution out,113.0,261208.0,415,333000,Q2,135074,,,,,,OUT,113.0,Florence Dallow,New Zealand,12.0,Q2,,,,1150,NZL
+subst,0:50,1787444264000,52,28,SUBST,Substitution in,113.0,377527.0,416,334000,Q2,135074,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q2,,,,1150,NZL
+shot,0:50,1787444270000,52,29,FT,1st of 2 free throws made,113.0,206251.0,417,335000,Q2,135074,True,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,14.6,8-16 ft.,1150,NZL
+shot,0:50,1787444282000,52,29,FT,2nd of 2 free throws missed,113.0,206251.0,418,336000,Q2,135074,False,1.0,0.0,0.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,14.6,8-16 ft.,1150,NZL
+unknwown,0:50,1787444283000,52,29,REB,defensive rebound,34.0,342479.0,420,336002,Q2,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q2,,,,1150,CAN
+shot,0:37,1787444297000,55,29,P3,3pt jump shot from center made,34.0,297698.0,421,338000,Q2,135074,True,3.0,160.0,182.0,,,34.0,Delaney Gibb,Canada,3.0,Q2,Above the Break 3,14.3,8-16 ft.,1163,CAN
+unknwown,0:37,1787444297000,55,29,ASS,made the assist,34.0,188714.0,422,338001,Q2,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q2,,,,1163,CAN
+shot,0:22,1787444312000,55,31,P2,"2PtsFG under the basket, reverse lay-up made",113.0,328112.0,423,339000,Q2,135074,True,2.0,151.0,37.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q2,Restricted Area,1.1,Less Than 8 ft.,1178,NZL
+unknwown,0:22,1787444312000,55,31,ASS,made the assist,113.0,206251.0,424,339001,Q2,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,,,,1178,NZL
+unknwown,0:03,1787444347000,55,31,FOUL,Personal foul; 2 free throws awarded,113.0,328255.0,428,343000,Q2,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q2,,,,1197,NZL
+unknwown,0:03,1787444347000,55,31,RFOUL,foul drawn,34.0,188714.0,429,343002,Q2,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q2,,,,1197,CAN
+shot,0:03,1787444362000,56,31,FT,1st of 2 free throws made,34.0,188714.0,430,344000,Q2,135074,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q2,,14.6,8-16 ft.,1197,CAN
+shot,0:03,1787444374000,57,31,FT,2nd of 2 free throws made,34.0,188714.0,431,345000,Q2,135074,True,1.0,0.0,0.0,,,34.0,Sami Hill,Canada,4.0,Q2,,14.6,8-16 ft.,1197,CAN
+shot,0:01,1787444386000,57,31,P3,"3PtsFG back court, jump shot missed",113.0,206251.0,437,350000,Q2,135074,False,3.0,196.0,138.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q2,Above the Break 3,11.3,8-16 ft.,1199,NZL
+periods,0:00,1787444519000,57,31,ENDP,End of period,,,440,353000,Q2,135074,,,,,,,,,,,Q2,,,,1200,
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,34.0,297698.0,441,354000,Q3,135074,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,34.0,266912.0,442,355000,Q3,135074,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,34.0,368225.0,443,356000,Q3,135074,,,,,,OUT,34.0,Avery Howell,Canada,23.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,34.0,342479.0,444,357000,Q3,135074,,,,,,OUT,34.0,Cearah Parchment,Canada,30.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,34.0,172742.0,445,358000,Q3,135074,,,,,,IN,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,34.0,318775.0,446,359000,Q3,135074,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,34.0,320676.0,447,360000,Q3,135074,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,34.0,161433.0,448,361000,Q3,135074,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1200,CAN
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,113.0,328112.0,449,362000,Q3,135074,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1200,NZL
+subst,10:00,1787445594000,57,31,SUBST,Substitution out,113.0,377527.0,450,363000,Q3,135074,,,,,,OUT,113.0,Imani Rasmussen,New Zealand,5.0,Q3,,,,1200,NZL
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,113.0,239275.0,451,364000,Q3,135074,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1200,NZL
+subst,10:00,1787445594000,57,31,SUBST,Substitution in,113.0,317318.0,452,365000,Q3,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1200,NZL
+periods,10:00,1787445622000,57,31,STARTP,Start of period,,,453,366000,Q3,135074,,,,,,,,,,,Q3,,,,1200,
+unknwown,9:51,1787445632000,57,31,TO,turnover; bad pass,113.0,258137.0,455,368000,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1209,NZL
+unknwown,9:51,1787445632000,57,31,ST,steal,34.0,172742.0,456,368001,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1209,CAN
+unknwown,9:46,1787445636000,57,31,TO,turnover; bad pass,34.0,188714.0,457,369000,Q3,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1214,CAN
+unknwown,9:46,1787445636000,57,31,ST,steal,113.0,317318.0,458,369001,Q3,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1214,NZL
+shot,9:38,1787445645000,57,31,P2,"2PtsFG under the basket, points after turnover, driving layup missed",113.0,239275.0,459,370000,Q3,135074,False,2.0,124.0,33.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,Restricted Area,1.7,Less Than 8 ft.,1222,NZL
+unknwown,9:34,1787445648000,57,31,REB,defensive rebound,34.0,172742.0,460,370002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1226,CAN
+unknwown,9:14,1787445671000,57,31,TO,turnover; bad pass,34.0,318775.0,464,374000,Q3,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1246,CAN
+shot,9:06,1787445692000,57,31,P2,"2PtsFG inside left wing, points after turnover, jump shot missed",113.0,239275.0,466,376000,Q3,135074,False,2.0,52.0,43.0,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,Mid-Range,8.8,8-16 ft.,1254,NZL
+unknwown,9:04,1787445694000,57,31,REB,offensive rebound,113.0,206251.0,467,376002,Q3,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1256,NZL
+shot,9:01,1787445697000,57,31,P2,2pt jump shot inside the paint missed,113.0,206251.0,468,377000,Q3,135074,False,2.0,178.0,59.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,In The Paint (Non-RA),4.2,Less Than 8 ft.,1259,NZL
+unknwown,8:58,1787445700000,57,31,REB,defensive rebound,34.0,172742.0,469,377002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1262,CAN
+shot,8:42,1787445717000,59,31,P2,"2PtsFG under the basket, jump shot made",34.0,172742.0,470,378000,Q3,135074,True,2.0,147.0,40.0,,,34.0,Yvonne Ejim,Canada,9.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1278,CAN
+unknwown,8:42,1787445717000,59,31,ASS,made the assist,34.0,318775.0,471,378001,Q3,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1278,CAN
+shot,8:29,1787445730000,59,31,P3,3pt jump shot missed,113.0,317318.0,472,379000,Q3,135074,False,3.0,218.0,153.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Above the Break 3,13.7,8-16 ft.,1291,NZL
+unknwown,8:26,1787445733000,59,31,REB,defensive rebound,34.0,188714.0,473,379002,Q3,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1294,CAN
+shot,8:20,1787445738000,59,31,P2,"2PtsFG under the basket, jump shot missed",34.0,161433.0,474,380000,Q3,135074,False,2.0,155.0,39.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,Restricted Area,1.5,Less Than 8 ft.,1300,CAN
+unknwown,8:17,1787445741000,59,31,REB,offensive rebound,34.0,161433.0,475,380002,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1303,CAN
+shot,8:16,1787445743000,61,31,P2,"2PtsFG under the basket, jump shot made",34.0,161433.0,476,381000,Q3,135074,True,2.0,142.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q3,Restricted Area,0.5,Less Than 8 ft.,1304,CAN
+shot,7:53,1787445766000,61,33,P2,"2PtsFG under the basket, turnaround jump shot made",113.0,317318.0,477,382000,Q3,135074,True,2.0,158.0,35.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1327,NZL
+unknwown,7:28,1787445790000,61,33,TO,turnover; ball handling,34.0,320676.0,478,383000,Q3,135074,,,,,,,34.0,Syla Swords,Canada,12.0,Q3,,,,1352,CAN
+unknwown,7:28,1787445790000,61,33,ST,steal,113.0,239275.0,479,383001,Q3,135074,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1352,NZL
+shot,7:18,1787445801000,61,35,P2,"2PtsFG under the basket, points after turnover, layup made",113.0,206251.0,480,384000,Q3,135074,True,2.0,128.0,39.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,Restricted Area,1.2,Less Than 8 ft.,1362,NZL
+unknwown,7:18,1787445801000,61,35,ASS,made the assist,113.0,328255.0,481,384001,Q3,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1362,NZL
+shot,7:04,1787445815000,63,35,P2,2pt pullup jump shot made,34.0,318775.0,482,385000,Q3,135074,True,2.0,90.0,105.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Mid-Range,8.2,8-16 ft.,1376,CAN
+shot,6:52,1787445826000,63,35,P2,"2PtsFG inside paint, reverse lay-up missed",113.0,328255.0,483,386000,Q3,135074,False,2.0,121.0,50.0,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,Restricted Area,2.1,Less Than 8 ft.,1388,NZL
+unknwown,6:49,1787445829000,63,35,REB,defensive rebound,34.0,172742.0,484,386002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1391,CAN
+unknwown,6:46,1787445836000,63,35,FOUL,Personal foul,113.0,328255.0,486,388000,Q3,135074,,,,,,,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1394,NZL
+unknwown,6:46,1787445836000,63,35,RFOUL,foul drawn,34.0,172742.0,487,388002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1394,CAN
+subst,6:46,1787445852000,63,35,SUBST,Substitution out,34.0,161433.0,488,389000,Q3,135074,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1394,CAN
+subst,6:46,1787445852000,63,35,SUBST,Substitution in,34.0,250669.0,489,390000,Q3,135074,,,,,,IN,34.0,Faith Dut,Canada,25.0,Q3,,,,1394,CAN
+subst,6:46,1787445852000,63,35,SUBST,Substitution out,113.0,328255.0,490,391000,Q3,135074,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q3,,,,1394,NZL
+subst,6:46,1787445852000,63,35,SUBST,Substitution out,113.0,206251.0,491,392000,Q3,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1394,NZL
+subst,6:46,1787445852000,63,35,SUBST,Substitution in,113.0,296082.0,492,393000,Q3,135074,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1394,NZL
+subst,6:46,1787445852000,63,35,SUBST,Substitution in,113.0,219363.0,493,394000,Q3,135074,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1394,NZL
+shot,6:36,1787445874000,63,35,P2,2pt pullup jump shot missed,34.0,188714.0,495,396000,Q3,135074,False,2.0,42.0,59.0,,,34.0,Sami Hill,Canada,4.0,Q3,Mid-Range,10.0,8-16 ft.,1404,CAN
+unknwown,6:33,1787445877000,63,35,REB,defensive rebound,113.0,219363.0,496,396002,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1407,NZL
+unknwown,6:22,1787445894000,63,35,FOUL,Personal foul,34.0,188714.0,498,398000,Q3,135074,,,,,,,34.0,Sami Hill,Canada,4.0,Q3,,,,1418,CAN
+unknwown,6:22,1787445894000,63,35,RFOUL,foul drawn,113.0,219363.0,499,398002,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1418,NZL
+shot,6:18,1787445917000,63,37,P2,"2PtsFG under the basket, driving layup made",113.0,258137.0,501,400000,Q3,135074,True,2.0,134.0,43.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Restricted Area,0.7,Less Than 8 ft.,1422,NZL
+shot,6:03,1787445932000,63,37,P2,2pt pullup jump shot missed,34.0,318775.0,502,401000,Q3,135074,False,2.0,129.0,88.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,In The Paint (Non-RA),4.9,Less Than 8 ft.,1437,CAN
+unknwown,6:00,1787445934000,63,37,REB,offensive rebound,34.0,318775.0,503,401002,Q3,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1440,CAN
+unknwown,5:48,1787445948000,63,37,TO,turnover; bad pass,34.0,172742.0,504,402000,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1452,CAN
+unknwown,5:48,1787445948000,63,37,ST,steal,113.0,258137.0,506,402001,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1452,NZL
+unknwown,5:46,1787445956000,63,37,FOUL,Personal foul,34.0,250669.0,509,406000,Q3,135074,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1454,CAN
+unknwown,5:46,1787445956000,63,37,RFOUL,foul drawn,113.0,258137.0,510,406002,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1454,NZL
+subst,5:46,1787445962000,63,37,SUBST,Substitution out,34.0,188714.0,511,407000,Q3,135074,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q3,,,,1454,CAN
+subst,5:46,1787445962000,63,37,SUBST,Substitution in,34.0,297698.0,512,408000,Q3,135074,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1454,CAN
+unknwown,5:38,1787445983000,63,37,FOUL,Offensive foul,113.0,317318.0,517,413000,Q3,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1462,NZL
+unknwown,5:38,1787445983000,63,37,TO,turnover,113.0,317318.0,518,413001,Q3,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1462,NZL
+unknwown,5:38,1787445983000,63,37,RFOUL,foul drawn,34.0,297698.0,519,413002,Q3,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1462,CAN
+shot,5:19,1787446014000,63,37,P3,3pt step back jump shot missed,34.0,297698.0,521,415000,Q3,135074,False,3.0,71.0,164.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Above the Break 3,14.2,8-16 ft.,1481,CAN
+unknwown,5:18,1787446019000,63,37,TREB,team defensive rebound,113.0,,523,415002,Q3,135074,,,,,,,,,,,Q3,,,,1482,
+unknwown,5:18,1787446026000,63,37,FOUL,Personal foul,34.0,250669.0,524,417000,Q3,135074,,,,,,,34.0,Faith Dut,Canada,25.0,Q3,,,,1482,CAN
+unknwown,5:18,1787446026000,63,37,RFOUL,foul drawn,113.0,239275.0,525,417002,Q3,135074,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1482,NZL
+unknwown,4:59,1787446053000,63,37,TO,turnover; ball handling,113.0,258137.0,527,419000,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1501,NZL
+unknwown,4:59,1787446053000,63,37,ST,steal,34.0,297698.0,528,419001,Q3,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1501,CAN
+shot,4:55,1787446058000,65,37,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",34.0,320676.0,530,421000,Q3,135074,True,2.0,121.0,42.0,,,34.0,Syla Swords,Canada,12.0,Q3,Restricted Area,1.9,Less Than 8 ft.,1505,CAN
+unknwown,4:55,1787446058000,65,37,ASS,made the assist,34.0,297698.0,531,421001,Q3,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1505,CAN
+timeout,4:53,1787446068000,65,37,TIMO,Timeout,113.0,,534,424000,Q3,135074,,,,,,,,,,,Q3,,,,1507,
+subst,4:53,1787446144000,65,37,SUBST,Substitution out,34.0,250669.0,535,425000,Q3,135074,,,,,,OUT,34.0,Faith Dut,Canada,25.0,Q3,,,,1507,CAN
+subst,4:53,1787446144000,65,37,SUBST,Substitution in,34.0,161433.0,536,426000,Q3,135074,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1507,CAN
+shot,4:40,1787446172000,65,40,P3,3pt jump shot from center made,113.0,258137.0,538,428000,Q3,135074,True,3.0,105.0,175.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,Above the Break 3,13.9,8-16 ft.,1520,NZL
+unknwown,4:40,1787446172000,65,40,ASS,made the assist,113.0,239275.0,539,428001,Q3,135074,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1520,NZL
+shot,4:21,1787446191000,67,40,P2,2pt floating jump shot made,34.0,297698.0,540,429000,Q3,135074,True,2.0,203.0,38.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Mid-Range,6.3,Less Than 8 ft.,1539,CAN
+unknwown,4:21,1787446191000,67,40,ASS,made the assist,34.0,161433.0,541,429001,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1539,CAN
+shot,4:05,1787446207000,67,40,P2,"2PtsFG under the basket, layup missed",113.0,317318.0,542,430000,Q3,135074,False,2.0,133.0,49.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,1.1,Less Than 8 ft.,1555,NZL
+unknwown,4:01,1787446211000,67,40,REB,offensive rebound,113.0,317318.0,543,430002,Q3,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1559,NZL
+unknwown,3:49,1787446227000,67,40,FOUL,Personal foul; 2 free throws awarded,34.0,161433.0,545,432000,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1571,CAN
+unknwown,3:49,1787446227000,67,40,RFOUL,foul drawn,113.0,317318.0,546,432002,Q3,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1571,NZL
+subst,3:49,1787446241000,67,40,SUBST,Substitution out,34.0,320676.0,547,433000,Q3,135074,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q3,,,,1571,CAN
+subst,3:49,1787446241000,67,40,SUBST,Substitution in,34.0,369879.0,548,434000,Q3,135074,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q3,,,,1571,CAN
+shot,3:49,1787446254000,67,41,FT,1st of 2 free throws made,113.0,317318.0,549,435000,Q3,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,14.6,8-16 ft.,1571,NZL
+unknwown,3:49,1787446254000,67,41,ASS,made the assist,113.0,239275.0,550,435001,Q3,135074,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1571,NZL
+shot,3:49,1787446268000,67,42,FT,2nd of 2 free throws made,113.0,317318.0,551,436000,Q3,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,14.6,8-16 ft.,1571,NZL
+shot,3:30,1787446290000,67,42,P3,3pt jump shot missed,34.0,318775.0,553,438000,Q3,135074,False,3.0,246.0,127.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q3,Above the Break 3,13.7,8-16 ft.,1590,CAN
+unknwown,3:27,1787446292000,67,42,REB,defensive rebound,113.0,296082.0,554,438002,Q3,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,,,,1593,NZL
+shot,3:21,1787446299000,67,42,P3,3pt jump shot missed,113.0,296082.0,555,439000,Q3,135074,False,3.0,232.0,135.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Above the Break 3,13.2,8-16 ft.,1599,NZL
+unknwown,3:18,1787446302000,67,42,REB,defensive rebound,34.0,161433.0,556,439002,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1602,CAN
+shot,3:06,1787446314000,67,42,P3,3pt jump shot missed,34.0,297698.0,557,440000,Q3,135074,False,3.0,264.0,88.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Above the Break 3,13.3,8-16 ft.,1614,CAN
+unknwown,3:03,1787446316000,67,42,REB,defensive rebound,113.0,258137.0,558,440002,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1617,NZL
+shot,2:49,1787446330000,67,42,P2,"2PtsFG under the basket, driving layup missed",113.0,317318.0,559,441000,Q3,135074,False,2.0,160.0,40.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q3,Restricted Area,2.0,Less Than 8 ft.,1631,NZL
+unknwown,2:46,1787446333000,67,42,REB,defensive rebound,34.0,172742.0,560,441002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1634,CAN
+unknwown,2:42,1787446343000,67,42,FOUL,Offensive foul,34.0,161433.0,562,443000,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1638,CAN
+unknwown,2:42,1787446343000,67,42,TO,turnover,34.0,161433.0,563,443001,Q3,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1638,CAN
+unknwown,2:42,1787446343000,67,42,RFOUL,foul drawn,113.0,258137.0,564,443002,Q3,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1638,NZL
+subst,2:42,1787446352000,67,42,SUBST,Substitution out,34.0,161433.0,565,444000,Q3,135074,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q3,,,,1638,CAN
+subst,2:42,1787446352000,67,42,SUBST,Substitution in,34.0,266912.0,566,445000,Q3,135074,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q3,,,,1638,CAN
+subst,2:42,1787446352000,67,42,SUBST,Substitution out,113.0,317318.0,567,446000,Q3,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q3,,,,1638,NZL
+subst,2:42,1787446352000,67,42,SUBST,Substitution in,113.0,206251.0,568,447000,Q3,135074,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1638,NZL
+subst,2:42,1787446371000,67,42,SUBST,Substitution out,113.0,258137.0,569,448000,Q3,135074,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1638,NZL
+subst,2:42,1787446371000,67,42,SUBST,Substitution in,113.0,328112.0,570,449000,Q3,135074,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1638,NZL
+subst,2:42,1787446376000,67,42,SUBST,Substitution out,113.0,239275.0,571,450000,Q3,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q3,,,,1638,NZL
+subst,2:42,1787446376000,67,42,SUBST,Substitution in,113.0,258137.0,572,451000,Q3,135074,,,,,,IN,113.0,Emilia Shearer,New Zealand,2.0,Q3,,,,1638,NZL
+shot,2:30,1787446390000,67,42,P2,2pt driving layup missed,113.0,328112.0,574,453000,Q3,135074,False,2.0,131.0,51.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,In The Paint (Non-RA),1.4,Less Than 8 ft.,1650,NZL
+unknwown,2:26,1787446393000,67,42,REB,defensive rebound,34.0,172742.0,575,453002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1654,CAN
+shot,2:14,1787446405000,67,42,P3,3pt jump shot missed,34.0,369879.0,576,454000,Q3,135074,False,3.0,212.0,158.0,,,34.0,Agot Makeer,Canada,1.0,Q3,Above the Break 3,13.8,8-16 ft.,1666,CAN
+unknwown,2:11,1787446408000,67,42,REB,offensive rebound,34.0,172742.0,577,454002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1669,CAN
+shot,2:08,1787446411000,67,42,P2,"2PtsFG under the basket, driving layup missed",34.0,297698.0,578,455000,Q3,135074,False,2.0,145.0,49.0,,,34.0,Delaney Gibb,Canada,3.0,Q3,Restricted Area,1.0,Less Than 8 ft.,1672,CAN
+unknwown,2:08,1787446411000,67,42,BS,blocked the shot,113.0,219363.0,600,455001,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1672,NZL
+unknwown,2:08,1787446414000,67,42,REB,defensive rebound,113.0,219363.0,579,455002,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1672,NZL
+unknwown,1:48,1787446433000,67,42,FOUL,Personal foul; 2 free throws awarded,34.0,369879.0,581,457000,Q3,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1692,CAN
+unknwown,1:48,1787446433000,67,42,RFOUL,foul drawn,113.0,328112.0,582,457002,Q3,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1692,NZL
+subst,1:48,1787446444000,67,42,SUBST,Substitution out,34.0,318775.0,583,458000,Q3,135074,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q3,,,,1692,CAN
+subst,1:48,1787446444000,67,42,SUBST,Substitution in,34.0,217051.0,584,459000,Q3,135074,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q3,,,,1692,CAN
+shot,1:48,1787446448000,67,43,FT,1st of 2 free throws made,113.0,328112.0,585,460000,Q3,135074,True,1.0,0.0,0.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,14.6,8-16 ft.,1692,NZL
+shot,1:48,1787446461000,67,43,FT,2nd of 2 free throws missed,113.0,328112.0,586,461000,Q3,135074,False,1.0,0.0,0.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,14.6,8-16 ft.,1692,NZL
+unknwown,1:48,1787446462000,67,43,REB,offensive rebound,113.0,328112.0,588,461002,Q3,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1692,NZL
+shot,1:34,1787446476000,67,43,P2,"2PtsFG under the basket, driving layup missed",113.0,296082.0,589,463000,Q3,135074,False,2.0,153.0,30.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Restricted Area,1.6,Less Than 8 ft.,1706,NZL
+unknwown,1:31,1787446479000,67,43,REB,offensive rebound,113.0,206251.0,590,463002,Q3,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,,,,1709,NZL
+shot,1:30,1787446481000,67,43,P2,2pt turnaround jump shot missed,113.0,206251.0,591,464000,Q3,135074,False,2.0,154.0,52.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q3,In The Paint (Non-RA),1.8,Less Than 8 ft.,1710,NZL
+unknwown,1:26,1787446484000,67,43,REB,defensive rebound,34.0,266912.0,592,464002,Q3,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q3,,,,1714,CAN
+unknwown,1:09,1787446505000,67,43,TO,turnover; ball handling,34.0,369879.0,596,468000,Q3,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1731,CAN
+unknwown,1:09,1787446505000,67,43,ST,steal,113.0,219363.0,597,468001,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1731,NZL
+unknwown,1:09,1787446509000,67,43,FOUL,Personal foul; 2 free throws awarded,34.0,369879.0,598,469000,Q3,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q3,,,,1731,CAN
+unknwown,1:09,1787446509000,67,43,RFOUL,foul drawn,113.0,219363.0,599,469002,Q3,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,,,1731,NZL
+unknwown,1:09,1787446542000,67,43,VTR,Head coach's challenge successful,34.0,,601,470000,Q3,135074,,,,,,,,,,,Q3,,,,1731,
+shot,1:09,1787446673000,67,44,FT,1st of 2 free throws made,113.0,219363.0,602,471000,Q3,135074,True,1.0,0.0,0.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,14.6,8-16 ft.,1731,NZL
+shot,1:09,1787446685000,67,45,FT,2nd of 2 free throws made,113.0,219363.0,603,472000,Q3,135074,True,1.0,0.0,0.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q3,,14.6,8-16 ft.,1731,NZL
+unknwown,0:56,1787446702000,67,45,TO,turnover; ball handling,34.0,266912.0,606,475000,Q3,135074,,,,,,,34.0,Tara Wallack,Canada,8.0,Q3,,,,1744,CAN
+shot,0:31,1787446745000,67,48,P3,3pt jump shot made,113.0,296082.0,611,480000,Q3,135074,True,3.0,60.0,162.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q3,Above the Break 3,14.6,8-16 ft.,1769,NZL
+unknwown,0:31,1787446745000,67,48,ASS,made the assist,113.0,328112.0,612,480001,Q3,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q3,,,,1769,NZL
+shot,0:10,1787446798000,67,48,P2,2pt step back jump shot missed,34.0,217051.0,614,482000,Q3,135074,False,2.0,161.0,107.0,,,34.0,Shaina Pellington,Canada,7.0,Q3,Mid-Range,7.0,Less Than 8 ft.,1790,CAN
+unknwown,0:07,1787446801000,67,48,REB,offensive rebound,34.0,172742.0,615,482002,Q3,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q3,,,,1793,CAN
+shot,0:01,1787446808000,67,48,P3,3pt step back jump shot missed,34.0,266912.0,617,484000,Q3,135074,False,3.0,264.0,83.0,,,34.0,Tara Wallack,Canada,8.0,Q3,Above the Break 3,13.1,8-16 ft.,1799,CAN
+unknwown,0:01,1787446812000,67,48,REB,offensive rebound,34.0,297698.0,618,484002,Q3,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q3,,,,1799,CAN
+periods,0:00,1787446904000,67,48,ENDP,End of period,,,621,487000,Q3,135074,,,,,,,,,,,Q3,,,,1800,
+subst,10:00,1787446961000,67,48,SUBST,Substitution out,34.0,369879.0,622,488000,Q4,135074,,,,,,OUT,34.0,Agot Makeer,Canada,1.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution out,34.0,297698.0,623,489000,Q4,135074,,,,,,OUT,34.0,Delaney Gibb,Canada,3.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution out,34.0,217051.0,624,490000,Q4,135074,,,,,,OUT,34.0,Shaina Pellington,Canada,7.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution out,34.0,266912.0,625,491000,Q4,135074,,,,,,OUT,34.0,Tara Wallack,Canada,8.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution in,34.0,188714.0,626,492000,Q4,135074,,,,,,IN,34.0,Sami Hill,Canada,4.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution in,34.0,318775.0,627,493000,Q4,135074,,,,,,IN,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution in,34.0,320676.0,628,494000,Q4,135074,,,,,,IN,34.0,Syla Swords,Canada,12.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution in,34.0,161433.0,629,495000,Q4,135074,,,,,,IN,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1800,CAN
+subst,10:00,1787446961000,67,48,SUBST,Substitution out,113.0,206251.0,630,496000,Q4,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1800,NZL
+subst,10:00,1787446961000,67,48,SUBST,Substitution in,113.0,317318.0,631,497000,Q4,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1800,NZL
+periods,10:00,1787446976000,67,48,STARTP,Start of period,,,632,498000,Q4,135074,,,,,,,,,,,Q4,,,,1800,
+shot,9:48,1787446988000,67,48,P2,"2PtsFG under the basket, turnaround jump shot missed",34.0,161433.0,634,500000,Q4,135074,False,2.0,129.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,Restricted Area,1.2,Less Than 8 ft.,1812,CAN
+unknwown,9:45,1787446991000,67,48,REB,defensive rebound,113.0,317318.0,635,500002,Q4,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,1815,NZL
+shot,9:29,1787447031000,67,48,P3,3pt jump shot missed,113.0,328112.0,640,505000,Q4,135074,False,3.0,221.0,149.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q4,Above the Break 3,13.6,8-16 ft.,1831,NZL
+unknwown,9:25,1787447033000,67,48,REB,defensive rebound,34.0,318775.0,641,505002,Q4,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1835,CAN
+shot,9:02,1787447057000,67,48,P3,3pt jump shot missed,34.0,188714.0,642,506000,Q4,135074,False,3.0,41.0,168.0,,,34.0,Sami Hill,Canada,4.0,Q4,Above the Break 3,16.2,16-22 ft.,1858,CAN
+unknwown,9:02,1787447057000,67,48,BS,blocked the shot,113.0,328112.0,643,506001,Q4,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,1858,NZL
+unknwown,8:58,1787447060000,67,48,REB,defensive rebound,113.0,328112.0,644,506002,Q4,135074,,,,,,,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,1862,NZL
+shot,8:58,1787447062000,67,50,P2,"2PtsFG under the basket, fast break, driving layup made",113.0,328112.0,645,507000,Q4,135074,True,2.0,158.0,40.0,,,113.0,Bailey Flavell,New Zealand,3.0,Q4,Restricted Area,1.8,Less Than 8 ft.,1862,NZL
+shot,8:35,1787447084000,70,50,P3,3pt jump shot made,34.0,320676.0,646,508000,Q4,135074,True,3.0,271.0,35.0,,,34.0,Syla Swords,Canada,12.0,Q4,Left Corner 3,13.1,8-16 ft.,1885,CAN
+unknwown,8:35,1787447084000,70,50,ASS,made the assist,34.0,318775.0,647,508001,Q4,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1885,CAN
+shot,8:21,1787447098000,70,52,P2,"2PtsFG under the basket, layup made",113.0,317318.0,648,509000,Q4,135074,True,2.0,137.0,30.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.0,Less Than 8 ft.,1899,NZL
+unknwown,8:21,1787447098000,70,52,ASS,made the assist,113.0,296082.0,649,509001,Q4,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1899,NZL
+shot,8:01,1787447118000,72,52,P2,"2PtsFG under the basket, layup made",34.0,161433.0,650,510000,Q4,135074,True,2.0,142.0,35.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,Restricted Area,0.5,Less Than 8 ft.,1919,CAN
+unknwown,8:01,1787447118000,72,52,ASS,made the assist,34.0,320676.0,651,510001,Q4,135074,,,,,,,34.0,Syla Swords,Canada,12.0,Q4,,,,1919,CAN
+shot,7:44,1787447135000,72,52,P3,3pt jump shot from center missed,113.0,258137.0,652,511000,Q4,135074,False,3.0,174.0,173.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Above the Break 3,13.7,8-16 ft.,1936,NZL
+unknwown,7:40,1787447139000,72,52,REB,defensive rebound,34.0,318775.0,653,511002,Q4,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,1940,CAN
+shot,7:31,1787447149000,74,52,P2,"2PtsFG under the basket, driving layup made",34.0,318775.0,655,513000,Q4,135074,True,2.0,147.0,33.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Restricted Area,1.0,Less Than 8 ft.,1949,CAN
+timeout,7:30,1787447159000,74,52,TIMO,Timeout,113.0,,658,516000,Q4,135074,,,,,,,,,,,Q4,,,,1950,
+subst,7:30,1787447231000,74,52,SUBST,Substitution out,113.0,328112.0,659,517000,Q4,135074,,,,,,OUT,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,1950,NZL
+subst,7:30,1787447231000,74,52,SUBST,Substitution out,113.0,296082.0,660,518000,Q4,135074,,,,,,OUT,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,1950,NZL
+subst,7:30,1787447231000,74,52,SUBST,Substitution out,113.0,219363.0,661,519000,Q4,135074,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,1950,NZL
+subst,7:30,1787447231000,74,52,SUBST,Substitution in,113.0,328255.0,662,520000,Q4,135074,,,,,,IN,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,1950,NZL
+subst,7:30,1787447231000,74,52,SUBST,Substitution in,113.0,206251.0,663,521000,Q4,135074,,,,,,IN,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,1950,NZL
+subst,7:30,1787447231000,74,52,SUBST,Substitution in,113.0,239275.0,664,522000,Q4,135074,,,,,,IN,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,1950,NZL
+shot,7:05,1787447283000,74,52,P2,"2PtsFG under the basket, driving layup missed",113.0,206251.0,666,524000,Q4,135074,False,2.0,131.0,43.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,0.9,Less Than 8 ft.,1975,NZL
+unknwown,7:02,1787447286000,74,52,REB,defensive rebound,34.0,161433.0,667,524002,Q4,135074,,,,,,,34.0,Kayla Alexander,Canada,14.0,Q4,,,,1978,CAN
+shot,6:39,1787447310000,76,52,P2,"2PtsFG under the basket, driving layup made",34.0,318775.0,668,525000,Q4,135074,True,2.0,132.0,46.0,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,Restricted Area,1.0,Less Than 8 ft.,2001,CAN
+shot,6:21,1787447327000,76,52,P2,"2PtsFG under the basket, layup missed",113.0,317318.0,669,526000,Q4,135074,False,2.0,151.0,41.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Restricted Area,1.1,Less Than 8 ft.,2019,NZL
+unknwown,6:20,1787447339000,76,52,TREB,team defensive rebound,34.0,,671,526002,Q4,135074,,,,,,,,,,,Q4,,,,2020,
+unknwown,6:20,1787447341000,76,52,FOUL,Personal foul,113.0,317318.0,672,528000,Q4,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2020,NZL
+unknwown,6:20,1787447341000,76,52,RFOUL,foul drawn,34.0,172742.0,673,528002,Q4,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2020,CAN
+subst,6:20,1787447359000,76,52,SUBST,Substitution out,34.0,188714.0,674,529000,Q4,135074,,,,,,OUT,34.0,Sami Hill,Canada,4.0,Q4,,,,2020,CAN
+subst,6:20,1787447359000,76,52,SUBST,Substitution in,34.0,369879.0,675,530000,Q4,135074,,,,,,IN,34.0,Agot Makeer,Canada,1.0,Q4,,,,2020,CAN
+shot,6:15,1787447365000,78,52,P2,"2PtsFG under the basket, layup made",34.0,161433.0,677,532000,Q4,135074,True,2.0,155.0,34.0,,,34.0,Kayla Alexander,Canada,14.0,Q4,Restricted Area,1.6,Less Than 8 ft.,2025,CAN
+unknwown,6:15,1787447365000,78,52,ASS,made the assist,34.0,369879.0,678,532001,Q4,135074,,,,,,,34.0,Agot Makeer,Canada,1.0,Q4,,,,2025,CAN
+shot,5:56,1787447384000,78,55,P3,3pt jump shot made,113.0,317318.0,679,533000,Q4,135074,True,3.0,248.0,141.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,Above the Break 3,14.8,8-16 ft.,2044,NZL
+unknwown,5:56,1787447384000,78,55,ASS,made the assist,113.0,258137.0,680,533001,Q4,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2044,NZL
+unknwown,5:30,1787447411000,78,55,TO,turnover; travelling,34.0,172742.0,682,535000,Q4,135074,,,,,,,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2070,CAN
+subst,5:30,1787447417000,78,55,SUBST,Substitution out,34.0,161433.0,683,536000,Q4,135074,,,,,,OUT,34.0,Kayla Alexander,Canada,14.0,Q4,,,,2070,CAN
+subst,5:30,1787447417000,78,55,SUBST,Substitution in,34.0,342479.0,684,537000,Q4,135074,,,,,,IN,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2070,CAN
+unknwown,5:13,1787447444000,78,55,FOUL,Personal foul,34.0,342479.0,689,542000,Q4,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2087,CAN
+unknwown,5:13,1787447444000,78,55,RFOUL,foul drawn,113.0,317318.0,690,542002,Q4,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2087,NZL
+subst,5:13,1787447460000,78,55,SUBST,Substitution out,113.0,317318.0,691,543000,Q4,135074,,,,,,OUT,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2087,NZL
+subst,5:13,1787447460000,78,55,SUBST,Substitution in,113.0,219363.0,692,544000,Q4,135074,,,,,,IN,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2087,NZL
+shot,5:03,1787447505000,78,58,P3,3pt jump shot made,113.0,219363.0,694,546000,Q4,135074,True,3.0,254.0,118.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,Above the Break 3,13.8,8-16 ft.,2097,NZL
+unknwown,5:03,1787447505000,78,58,ASS,made the assist,113.0,258137.0,695,546001,Q4,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2097,NZL
+shot,4:47,1787447521000,80,58,P2,2pt turnaround jump shot made,34.0,369879.0,696,547000,Q4,135074,True,2.0,133.0,74.0,,,34.0,Agot Makeer,Canada,1.0,Q4,In The Paint (Non-RA),3.5,Less Than 8 ft.,2113,CAN
+shot,4:33,1787447535000,80,60,P2,"2PtsFG under the basket, driving layup made",113.0,206251.0,697,548000,Q4,135074,True,2.0,142.0,44.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,0.4,Less Than 8 ft.,2127,NZL
+unknwown,4:19,1787447554000,80,60,FOUL,Personal foul,113.0,258137.0,699,550000,Q4,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2141,NZL
+unknwown,4:19,1787447554000,80,60,RFOUL,foul drawn,34.0,318775.0,700,550002,Q4,135074,,,,,,,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2141,CAN
+subst,4:19,1787447570000,80,60,SUBST,Substitution out,34.0,318775.0,701,551000,Q4,135074,,,,,,OUT,34.0,Jasmine Bascoe,Canada,10.0,Q4,,,,2141,CAN
+subst,4:19,1787447570000,80,60,SUBST,Substitution out,34.0,320676.0,702,552000,Q4,135074,,,,,,OUT,34.0,Syla Swords,Canada,12.0,Q4,,,,2141,CAN
+subst,4:19,1787447570000,80,60,SUBST,Substitution in,34.0,297698.0,703,553000,Q4,135074,,,,,,IN,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2141,CAN
+subst,4:19,1787447570000,80,60,SUBST,Substitution in,34.0,217051.0,704,554000,Q4,135074,,,,,,IN,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2141,CAN
+shot,4:13,1787447578000,82,60,P2,"2PtsFG under the basket, driving layup made",34.0,217051.0,706,556000,Q4,135074,True,2.0,121.0,36.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2147,CAN
+shot,4:02,1787447592000,82,62,P2,"2PtsFG under the basket, turnaround jump shot made",113.0,206251.0,709,559000,Q4,135074,True,2.0,131.0,41.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2158,NZL
+shot,3:40,1787447612000,82,62,P2,2pt step back jump shot missed,34.0,217051.0,710,560000,Q4,135074,False,2.0,60.0,65.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Mid-Range,8.4,8-16 ft.,2180,CAN
+unknwown,3:36,1787447616000,82,62,REB,offensive rebound,34.0,217051.0,711,560002,Q4,135074,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2184,CAN
+shot,3:28,1787447625000,84,62,P2,"2PtsFG under the basket, driving layup made",34.0,369879.0,712,561000,Q4,135074,True,2.0,148.0,39.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Restricted Area,0.8,Less Than 8 ft.,2192,CAN
+shot,3:07,1787447645000,84,64,P2,"2PtsFG under the basket, jump shot made",113.0,206251.0,713,562000,Q4,135074,True,2.0,156.0,32.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Restricted Area,1.8,Less Than 8 ft.,2213,NZL
+unknwown,3:07,1787447645000,84,64,ASS,made the assist,113.0,258137.0,714,562001,Q4,135074,,,,,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2213,NZL
+unknwown,2:53,1787447660000,84,64,TO,turnover; bad pass,34.0,342479.0,715,563000,Q4,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2227,CAN
+unknwown,2:53,1787447660000,84,64,ST,steal,113.0,206251.0,716,563001,Q4,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2227,NZL
+shot,2:48,1787447664000,84,66,P2,"2PtsFG under the basket, points from fastbreak + after turnover, layup made",113.0,258137.0,717,564000,Q4,135074,True,2.0,154.0,27.0,,,113.0,Emilia Shearer,New Zealand,2.0,Q4,Restricted Area,1.9,Less Than 8 ft.,2232,NZL
+unknwown,2:48,1787447664000,84,66,ASS,made the assist,113.0,206251.0,718,564001,Q4,135074,,,,,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2232,NZL
+shot,2:12,1787447701000,86,66,P2,"2PtsFG under the basket, driving layup made",34.0,297698.0,720,565000,Q4,135074,True,2.0,137.0,48.0,,,34.0,Delaney Gibb,Canada,3.0,Q4,Restricted Area,0.9,Less Than 8 ft.,2268,CAN
+shot,1:58,1787447715000,86,66,P3,3pt jump shot missed,113.0,219363.0,721,566000,Q4,135074,False,3.0,215.0,149.0,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,Above the Break 3,13.2,8-16 ft.,2282,NZL
+unknwown,1:54,1787447718000,86,66,REB,defensive rebound,34.0,217051.0,722,566002,Q4,135074,,,,,,,34.0,Shaina Pellington,Canada,7.0,Q4,,,,2286,CAN
+unknwown,1:39,1787447734000,86,66,TO,turnover; bad pass,34.0,297698.0,723,567000,Q4,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2301,CAN
+unknwown,1:39,1787447734000,86,66,ST,steal,113.0,239275.0,724,567001,Q4,135074,,,,,,,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2301,NZL
+shot,1:24,1787447749000,86,69,P3,3pt jump shot made,113.0,206251.0,726,569000,Q4,135074,True,3.0,146.0,173.0,,,113.0,Ella Tofaeono,New Zealand,14.0,Q4,Above the Break 3,13.3,8-16 ft.,2316,NZL
+unknwown,1:24,1787447749000,86,69,ASS,made the assist,113.0,219363.0,727,569001,Q4,135074,,,,,,,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2316,NZL
+timeout,1:24,1787447756000,86,69,TIMO,Timeout,34.0,,728,570000,Q4,135074,,,,,,,,,,,Q4,,,,2316,
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,34.0,172742.0,729,571000,Q4,135074,,,,,,OUT,34.0,Yvonne Ejim,Canada,9.0,Q4,,,,2316,CAN
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,34.0,266912.0,730,572000,Q4,135074,,,,,,IN,34.0,Tara Wallack,Canada,8.0,Q4,,,,2316,CAN
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,113.0,258137.0,731,573000,Q4,135074,,,,,,OUT,113.0,Emilia Shearer,New Zealand,2.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,113.0,328255.0,732,574000,Q4,135074,,,,,,OUT,113.0,Pahlyss Hokianga,New Zealand,4.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,113.0,206251.0,733,575000,Q4,135074,,,,,,OUT,113.0,Ella Tofaeono,New Zealand,14.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,113.0,239275.0,734,576000,Q4,135074,,,,,,OUT,113.0,Tayla Dalton,New Zealand,26.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution out,113.0,219363.0,735,577000,Q4,135074,,,,,,OUT,113.0,Charlotte Whittaker,New Zealand,45.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,113.0,328112.0,736,578000,Q4,135074,,,,,,IN,113.0,Bailey Flavell,New Zealand,3.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,113.0,377527.0,737,579000,Q4,135074,,,,,,IN,113.0,Imani Rasmussen,New Zealand,5.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,113.0,296082.0,738,580000,Q4,135074,,,,,,IN,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,113.0,261208.0,739,581000,Q4,135074,,,,,,IN,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2316,NZL
+subst,1:24,1787447839000,86,69,SUBST,Substitution in,113.0,317318.0,740,582000,Q4,135074,,,,,,IN,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2316,NZL
+shot,1:08,1787447876000,86,69,P3,3pt jump shot from center missed,34.0,217051.0,742,584000,Q4,135074,False,3.0,131.0,179.0,,,34.0,Shaina Pellington,Canada,7.0,Q4,Above the Break 3,13.9,8-16 ft.,2332,CAN
+unknwown,1:07,1787447883000,86,69,TREB,team offensive rebound,34.0,,744,584002,Q4,135074,,,,,,,,,,,Q4,,,,2333,
+shot,0:56,1787447909000,86,69,P3,3pt jump shot missed,34.0,342479.0,746,587000,Q4,135074,False,3.0,238.0,128.0,,,34.0,Cearah Parchment,Canada,30.0,Q4,Above the Break 3,13.2,8-16 ft.,2344,CAN
+unknwown,0:54,1787447911000,86,69,REB,defensive rebound,113.0,261208.0,748,587002,Q4,135074,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2346,NZL
+unknwown,0:55,1787447917000,86,69,FOUL,Personal foul,34.0,297698.0,750,590000,Q4,135074,,,,,,,34.0,Delaney Gibb,Canada,3.0,Q4,,,,2345,CAN
+unknwown,0:55,1787447917000,86,69,RFOUL,foul drawn,113.0,261208.0,751,590002,Q4,135074,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2345,NZL
+unknwown,0:42,1787447951000,86,69,FOUL,Personal foul; 2 free throws awarded,34.0,342479.0,756,595000,Q4,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2358,CAN
+unknwown,0:42,1787447951000,86,69,RFOUL,foul drawn,113.0,317318.0,757,595002,Q4,135074,,,,,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,,,2358,NZL
+shot,0:42,1787447970000,86,70,FT,1st of 2 free throws made,113.0,317318.0,758,596000,Q4,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,2358,NZL
+unknwown,0:42,1787447970000,86,70,ASS,made the assist,113.0,296082.0,760,596001,Q4,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2358,NZL
+shot,0:42,1787447984000,86,71,FT,2nd of 2 free throws made,113.0,317318.0,759,597000,Q4,135074,True,1.0,0.0,0.0,,,113.0,Lauren Whittaker,New Zealand,33.0,Q4,,14.6,8-16 ft.,2358,NZL
+shot,0:33,1787447998000,86,71,P3,3pt jump shot missed,34.0,369879.0,762,599000,Q4,135074,False,3.0,270.0,23.0,,,34.0,Agot Makeer,Canada,1.0,Q4,Left Corner 3,13.1,8-16 ft.,2367,CAN
+unknwown,0:31,1787448003000,86,71,REB,defensive rebound,113.0,261208.0,764,599002,Q4,135074,,,,,,,113.0,Florence Dallow,New Zealand,12.0,Q4,,,,2369,NZL
+unknwown,0:29,1787448010000,86,71,JS,jump ball situation; throw-in,113.0,,767,603000,Q4,135074,,,,,,,,,,,Q4,,,,2371,
+shot,0:21,1787448039000,86,71,P3,3pt jump shot missed,113.0,296082.0,769,605000,Q4,135074,False,3.0,52.0,144.0,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,Above the Break 3,13.6,8-16 ft.,2379,NZL
+unknwown,0:21,1787448039000,86,71,BS,blocked the shot,34.0,342479.0,771,605001,Q4,135074,,,,,,,34.0,Cearah Parchment,Canada,30.0,Q4,,,,2379,CAN
+unknwown,0:17,1787448044000,86,71,REB,offensive rebound,113.0,296082.0,772,605002,Q4,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2383,NZL
+unknwown,0:17,1787448046000,86,71,TO,turnover; bad pass,113.0,296082.0,773,607000,Q4,135074,,,,,,,113.0,Ella Jade Brow,New Zealand,6.0,Q4,,,,2383,NZL
+periods,0:00,1787448327000,86,71,ENDP,End of period,,,778,612000,Q4,135074,,,,,,,,,,,Q4,,,,2400,
+periods,0:00,1787448334000,86,71,ENDG,End of game,,,779,613000,Q4,135074,,,,,,,,,,,Q4,,,,2400,
