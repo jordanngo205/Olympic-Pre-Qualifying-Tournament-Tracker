@@ -274,6 +274,23 @@
                      padding: 4px 8px; border: 1px solid var(--border2); border-radius: 7px;
                      background: var(--surface); color: var(--text); cursor: pointer; }
   .nav-team select:hover { border-color: var(--accent); color: var(--accent); }
+  /* Name the two numbers, otherwise "15.3  46 tot" is a guess. */
+  .leader-colhead { display: grid; grid-template-columns: 1fr auto auto; gap: 10px;
+                    font-size: 9px; font-weight: 700; letter-spacing: .8px;
+                    text-transform: uppercase; color: var(--muted);
+                    padding: 6px 10px 5px; border-bottom: 1px solid var(--border); }
+  .leader-colhead span:nth-child(2) { width: 52px; text-align: right; }
+  .leader-colhead span:nth-child(3) { width: 46px; text-align: right; }
+  /* Repeat the team control in each section: the nav-bar one is easy to miss
+     once you have scrolled into a section. All copies stay in sync. */
+  .zone-team { margin-left: auto; display: inline-flex; align-items: center; gap: 7px;
+               font-size: 9.5px; font-weight: 700; letter-spacing: 1px;
+               text-transform: uppercase; color: var(--muted); align-self: center; }
+  .zone-team select { font-size: 12px; font-weight: 700; letter-spacing: 0;
+                      text-transform: none; padding: 5px 9px; border: 1px solid var(--border2);
+                      border-radius: 8px; background: var(--surface); color: var(--text);
+                      cursor: pointer; }
+  .zone-team select:hover { border-color: var(--accent); color: var(--accent); }
   .leader-head { display: flex; align-items: center; justify-content: space-between;
                  gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
   .leader-controls { display: flex; align-items: center; gap: 6px; }
@@ -539,7 +556,8 @@
           <span class="section-label" style="margin:0">Tournament Leaders</span>
           <div class="leader-controls">
             <select class="team-filter" onchange="setTeamFilter(this.value)"></select>
-            <button id="orderToggle" class="order-btn" onclick="toggleOrder()">Best first</button>
+            <button id="orderToggle" class="order-btn" onclick="toggleOrder()"
+                    title="Flip between the best and the worst performers">↓ Highest first</button>
           </div>
         </div>
         <div class="leader-tabs">
@@ -550,6 +568,7 @@
           <button class="leader-tab" onclick="setLeaderTab('EFF',this)">EFF</button>
           <button class="leader-tab" onclick="setLeaderTab('PM',this)">+/-</button>
         </div>
+        <div class="leader-colhead"><span>Player</span><span>Per game</span><span>Total</span></div>
         <div id="leaderList"></div>
       </div>
       <div class="card">
@@ -568,6 +587,9 @@
     <div class="zone-header">
       <span class="zone-kicker">🏅 Spotlight</span>
       <span class="zone-title" id="awardsTitle">Daily Awards</span>
+      <label class="zone-team">Team
+        <select class="team-filter" onchange="setTeamFilter(this.value)"></select>
+      </label>
     </div>
     <div class="awards-grid-outer" id="awardsGrid"></div>
   </div>
@@ -578,6 +600,9 @@
     <div class="zone-header">
       <span class="zone-kicker">Deep Dive</span>
       <span class="zone-title" id="netTitle">Player Net Points</span>
+      <label class="zone-team">Team
+        <select class="team-filter" onchange="setTeamFilter(this.value)"></select>
+      </label>
     </div>
     <div class="net-note"><strong>Net Points (Plus/Minus):</strong> On-court point differential while each player was on the floor. Offensive/defensive split estimated from team ORTG vs DRTG balance. PBP-derived stats: corner 3s, rim finishes, mid-range makes, fast-break pts, putback pts.</div>
     <div class="net-panels" id="netPanels"></div>
@@ -900,7 +925,7 @@ function setTeamFilter(code) {
 function toggleOrder() {
   leaderOrder = leaderOrder==='best' ? 'worst' : 'best';
   document.getElementById('orderToggle').textContent =
-    leaderOrder==='best' ? 'Best first' : 'Worst first';
+    leaderOrder==='best' ? '↓ Highest first' : '↑ Lowest first';
   renderLeaders();
 }
 function populateTeamFilter() {
