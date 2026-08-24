@@ -977,7 +977,34 @@ function makeTable(rows, headers) {
 }
 
 function renderNetPanels() {
-  const day = playersFor(activeDate);
+  // On a single date each row is one game, which is right. Across the whole
+  // tournament the same player would appear once per game, so combine her
+  // games into one row and total the counting stats.
+  let day = playersFor(activeDate);
+  if (activeDate === 'ALL') {
+    const SUM = ['PM','off_net','def_net','PTS','REB','OR','DR','AS','ST','BS','PF','FD',
+                 'FTM','FGA','FGM','FG3M','TO','MP','stocks','corner3m','abovebk3m',
+                 'rim_makes','midrange_makes','fb_pts','putback_pts','WL_raw'];
+    const byPlayer = {};
+    day.forEach(p => {
+      const k = p.name + '|' + p.team;
+      if (!byPlayer[k]) {
+        byPlayer[k] = { name: p.name, team: p.team, nationality: p.nationality,
+                        starter: p.starter, gp: 0 };
+        SUM.forEach(f => { byPlayer[k][f] = 0; });
+      }
+      const a = byPlayer[k];
+      a.gp++;
+      SUM.forEach(f => { a[f] += Number(p[f]) || 0; });
+      // A player counts as a starter if she ever started.
+      a.starter = a.starter || p.starter;
+    });
+    day = Object.values(byPlayer).map(a => {
+      ['PM','off_net','def_net','MP'].forEach(f => { a[f] = Math.round(a[f] * 10) / 10; });
+      a.WL = (a.WL_raw >= 0 ? '+' : '') + a.WL_raw;
+      return a;
+    });
+  }
   document.getElementById('netTitle').textContent =
     (activeDate === 'ALL' ? 'Tournament Net Points' : 'Player Net Points') + teamSuffix();
   if (!day.length) { document.getElementById('netPanels').innerHTML=''; return; }
