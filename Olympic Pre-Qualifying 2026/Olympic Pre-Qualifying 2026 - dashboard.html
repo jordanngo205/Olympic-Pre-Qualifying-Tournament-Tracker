@@ -267,6 +267,22 @@
   .standings-row td:first-child { padding-left: 12px; }
   .standings-row { transition: filter .15s ease; }
   .standings-row:hover { filter: brightness(.97); }
+  .nav-team { margin-left: auto; display: inline-flex; align-items: center; gap: 6px;
+              font-size: 10px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase;
+              color: var(--muted); padding-right: 4px; }
+  .nav-team select { font-size: 11.5px; font-weight: 700; letter-spacing: 0; text-transform: none;
+                     padding: 4px 8px; border: 1px solid var(--border2); border-radius: 7px;
+                     background: var(--surface); color: var(--text); cursor: pointer; }
+  .nav-team select:hover { border-color: var(--accent); color: var(--accent); }
+  .leader-head { display: flex; align-items: center; justify-content: space-between;
+                 gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  .leader-controls { display: flex; align-items: center; gap: 6px; }
+  .leader-controls select, .order-btn { font: inherit; font-size: 11px; font-weight: 600;
+        padding: 4px 8px; border: 1px solid var(--border2); border-radius: 7px;
+        background: var(--surface); color: var(--text); cursor: pointer; }
+  .order-btn:hover, .leader-controls select:hover { border-color: var(--accent); color: var(--accent); }
+  .leader-total { font-size: 9.5px; font-weight: 600; color: var(--muted); margin-left: 5px; }
+  .leader-note { font-size: 10.5px; color: var(--muted); margin-top: 8px; }
   /* ── NAV ─────────────────────────────────── */
   html { scroll-behavior: smooth; }
   .section-nav { position: sticky; top: 0; z-index: 40; }
@@ -452,6 +468,9 @@
   <a class="section-nav-item" href="#section-leaders">Leaders &amp; Standings</a>
   <a class="section-nav-item" href="#section-awards">Daily Awards</a>
   <a class="section-nav-item" href="#section-net">Player Net Points</a>
+  <label class="nav-team">Team
+    <select class="team-filter" onchange="setTeamFilter(this.value)"></select>
+  </label>
 </div>
 
 <div class="kpi-row" id="kpiRow"></div>
@@ -516,11 +535,19 @@
     </div>
     <div class="sidebar-row">
       <div class="card">
-        <div class="section-label">Tournament Leaders</div>
+        <div class="leader-head">
+          <span class="section-label" style="margin:0">Tournament Leaders</span>
+          <div class="leader-controls">
+            <select class="team-filter" onchange="setTeamFilter(this.value)"></select>
+            <button id="orderToggle" class="order-btn" onclick="toggleOrder()">Best first</button>
+          </div>
+        </div>
         <div class="leader-tabs">
           <button class="leader-tab active" onclick="setLeaderTab('PTS',this)">Pts</button>
           <button class="leader-tab" onclick="setLeaderTab('REB',this)">Reb</button>
+          <button class="leader-tab" onclick="setLeaderTab('AS',this)">Ast</button>
           <button class="leader-tab" onclick="setLeaderTab('stocks',this)">Stk</button>
+          <button class="leader-tab" onclick="setLeaderTab('EFF',this)">EFF</button>
           <button class="leader-tab" onclick="setLeaderTab('PM',this)">+/-</button>
         </div>
         <div id="leaderList"></div>
@@ -639,6 +666,8 @@ function teamWithFlag(code, size='1em') {
 const dates = [...new Set(GAME_DETAILS.map(g => g.date))].sort();
 let activeDate = dates[0];
 let activeLeaderStat = 'PTS';
+let activeTeam = 'ALL';
+let leaderOrder = 'best';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // HELPERS
@@ -758,6 +787,7 @@ function renderGames() {
 // ─────────────────────────────────────────────────────────────────────────────
 function computeAwards(dayPlayers) {
   const results = [];
+  const taken = new Set();
   for (const def of AWARD_DEFS) {
     // score each eligible player
     const scored = dayPlayers
@@ -766,7 +796,12 @@ function computeAwards(dayPlayers) {
       .filter(x => x.v !== null && !isNaN(x.v));
     if (!scored.length) { results.push({ def, winner: null }); continue; }
     scored.sort((a,b) => def.best ? b.v - a.v : a.v - b.v);
-    const winner = scored[0];
+    // Several awards read the same underlying number — MVP, Heater, Stopper
+    // and Spark Plug all come off plus/minus — so one player would otherwise
+    // sweep the board. Give each player at most one award per day and let the
+    // next-best eligible player take the rest.
+    const winner = scored.find(x => !taken.has(x.p.name)) || scored[0];
+    taken.add(winner.p.name);
     results.push({ def, winner: winner.p, val: winner.v });
   }
   return results;
@@ -775,10 +810,20 @@ function computeAwards(dayPlayers) {
 // ─────────────────────────────────────────────────────────────────────────────
 // RENDER AWARDS
 // ─────────────────────────────────────────────────────────────────────────────
+// The team filter applies everywhere, so every section reads its players
+// through here rather than reaching into PLAYER_DATA directly.
+function playersFor(date) {
+  return PLAYER_DATA
+    .filter(p => date === 'ALL' || p.date === date)
+    .filter(p => activeTeam === 'ALL' || p.team === activeTeam);
+}
+function teamSuffix() { return activeTeam === 'ALL' ? '' : ` — ${activeTeam} only`; }
+
 function renderAwards() {
   const grid = document.getElementById('awardsGrid');
-  const dayPlayers = activeDate === 'ALL' ? PLAYER_DATA : PLAYER_DATA.filter(p => p.date === activeDate);
-  document.getElementById('awardsTitle').textContent = activeDate === 'ALL' ? 'Tournament Awards' : 'Daily Awards';
+  const dayPlayers = playersFor(activeDate);
+  document.getElementById('awardsTitle').textContent =
+    (activeDate === 'ALL' ? 'Tournament Awards' : 'Daily Awards') + teamSuffix();
   if (!dayPlayers.length) { grid.innerHTML='<div style="color:var(--muted);padding:12px">No data for this date.</div>'; return; }
 
   const awards = computeAwards(dayPlayers);
@@ -812,13 +857,24 @@ function renderAwards() {
 function renderLeaders() {
   const validGames = new Set(GAME_DETAILS.filter(g=>activeDate==='ALL'||g.date<=activeDate).map(g=>g.gameId));
   const agg = {};
-  PLAYER_DATA.filter(p=>validGames.has(p.gameId)).forEach(p=>{
+  playersFor('ALL').filter(p=>validGames.has(p.gameId)).forEach(p=>{
     if(!agg[p.name]) agg[p.name]={name:p.name,team:p.team,val:0,gp:0};
-    const v = activeLeaderStat==='PM' ? p.PM : (p[activeLeaderStat]||0);
+    const v = (activeLeaderStat==='PM'||activeLeaderStat==='EFF')
+      ? Number(p[activeLeaderStat]||0) : Number(p[activeLeaderStat]||0);
     agg[p.name].val += v;
     agg[p.name].gp++;
   });
-  const sorted = Object.values(agg).sort((a,b)=>b.val-a.val).slice(0,7);
+  // Plus/minus is cumulative impact, so it totals. Everything else is ranked
+  // per game — otherwise the leaderboard just sorts by who played most.
+  const isTotal = activeLeaderStat === 'PM';
+  Object.values(agg).forEach(p => {
+    p.total = p.val;
+    p.shown = isTotal ? p.val : (p.gp ? p.val / p.gp : 0);
+  });
+  // With a team selected, show the whole squad — the point is to see where a
+  // player sits among team-mates, which a top-7 cut would hide.
+  const all = Object.values(agg).sort((a,b)=> leaderOrder==='best' ? b.shown-a.shown : a.shown-b.shown);
+  const sorted = activeTeam==='ALL' ? all.slice(0,7) : all;
   // Scale bars against the largest absolute value so +/- leaders read too.
   const peak = Math.max(...sorted.map(p=>Math.abs(p.val)), 1);
   document.getElementById('leaderList').innerHTML = sorted.map((p,i)=>`
@@ -826,8 +882,32 @@ function renderLeaders() {
       <div class="leader-bar" style="width:${Math.max(2, Math.abs(p.val)/peak*100)}%"></div>
       <div class="leader-rank">${i+1}</div>
       <div><div class="leader-name">${p.name}</div><div class="leader-team-tag" style="display:inline-flex;align-items:center;gap:4px">${flag(p.team,'0.85em')}${p.team} · ${p.gp} GP</div></div>
-      <div class="leader-val">${activeLeaderStat==='PM'?(p.val>=0?'+':'')+p.val : p.val}</div>
-    </div>`).join('');
+      <div class="leader-val">${isTotal ? (p.shown>=0?'+':'')+p.shown
+                                         : (Math.round(p.shown*10)/10).toFixed(1)}${
+        isTotal ? '' : `<span class="leader-total">${Math.round(p.total*10)/10} tot</span>`}</div>
+    </div>`).join('') +
+    (activeTeam==='ALL' ? '' :
+      `<div class="leader-note">${activeTeam} squad — all ${all.length} players who logged minutes,
+       ranked by ${isTotal ? 'total +/-' : activeLeaderStat + ' per game'}, ${leaderOrder==='best'?'best':'worst'} first.</div>`);
+}
+
+function setTeamFilter(code) {
+  activeTeam = code;
+  document.querySelectorAll('.team-filter').forEach(sel => { if (sel.value !== code) sel.value = code; });
+  renderKpis(); renderQualification(); renderEfficiency();
+  renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
+}
+function toggleOrder() {
+  leaderOrder = leaderOrder==='best' ? 'worst' : 'best';
+  document.getElementById('orderToggle').textContent =
+    leaderOrder==='best' ? 'Best first' : 'Worst first';
+  renderLeaders();
+}
+function populateTeamFilter() {
+  const teams = [...new Set(PLAYER_DATA.map(p=>p.team))].sort();
+  const html = `<option value="ALL">All teams</option>` +
+    teams.map(t=>`<option value="${t}">${t}</option>`).join('');
+  document.querySelectorAll('.team-filter').forEach(sel => { sel.innerHTML = html; });
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -878,8 +958,9 @@ function makeTable(rows, headers) {
 }
 
 function renderNetPanels() {
-  const day = activeDate === 'ALL' ? PLAYER_DATA : PLAYER_DATA.filter(p=>p.date===activeDate);
-  document.getElementById('netTitle').textContent = activeDate === 'ALL' ? 'Tournament Net Points' : 'Player Net Points';
+  const day = playersFor(activeDate);
+  document.getElementById('netTitle').textContent =
+    (activeDate === 'ALL' ? 'Tournament Net Points' : 'Player Net Points') + teamSuffix();
   if (!day.length) { document.getElementById('netPanels').innerHTML=''; return; }
 
   const byPM      = [...day].sort((a,b)=>b.PM-a.PM);
@@ -980,7 +1061,8 @@ function renderNetPanels() {
 // ─────────────────────────────────────────────────────────────────────────────
 function setDate(d) {
   activeDate = d;
-  renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
+  populateTeamFilter();
+renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
   renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 }
 function setLeaderTab(stat, el) {
