@@ -5,27 +5,27 @@ gameId,date,fibaZone,competition,round,team,team_short,Win,Loss,Differential
 135062,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,New Zealand,NZL,1,0,22
 135063,2026-08-18,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Brazil,BRA,1,0,3
 135063,2026-08-18,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,New Zealand,NZL,0,1,-3
-135064,2026-08-18,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Argentina,ARG,1,0,3
 135064,2026-08-18,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,South Sudan,SSD,0,1,-3
+135064,2026-08-18,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Argentina,ARG,1,0,3
 135065,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Argentina,ARG,0,1,-5
 135065,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Brazil,BRA,1,0,5
 135066,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,New Zealand,NZL,1,0,8
 135066,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,South Sudan,SSD,0,1,-8
 135067,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Senegal,SEN,0,1,-15
 135067,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Canada,CAN,1,0,15
-135068,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Philippines,PHI,0,1,-3
 135068,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Mexico,MEX,1,0,3
+135068,2026-08-17,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Philippines,PHI,0,1,-3
 135069,2026-08-19,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Philippines,PHI,0,1,-47
 135069,2026-08-19,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Canada,CAN,1,0,47
 135070,2026-08-19,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Mexico,MEX,1,0,14
 135070,2026-08-19,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Senegal,SEN,0,1,-14
-135071,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Mexico,MEX,0,1,-6
 135071,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Canada,CAN,1,0,6
-135072,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Philippines,PHI,1,0,4
+135071,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Mexico,MEX,0,1,-6
 135072,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Senegal,SEN,0,1,-4
+135072,2026-08-20,World,FIBA Women's Olympic Pre-Qualifying Tournament,Group Phase,Philippines,PHI,1,0,4
 135073,2026-08-22,World,FIBA Women's Olympic Pre-Qualifying Tournament,Semi-Finals,Mexico,MEX,1,0,19
 135073,2026-08-22,World,FIBA Women's Olympic Pre-Qualifying Tournament,Semi-Finals,Brazil,BRA,0,1,-19
-135074,2026-08-22,World,FIBA Women's Olympic Pre-Qualifying Tournament,Semi-Finals,Canada,CAN,1,0,15
 135074,2026-08-22,World,FIBA Women's Olympic Pre-Qualifying Tournament,Semi-Finals,New Zealand,NZL,0,1,-15
+135074,2026-08-22,World,FIBA Women's Olympic Pre-Qualifying Tournament,Semi-Finals,Canada,CAN,1,0,15
 135075,2026-08-23,World,FIBA Women's Olympic Pre-Qualifying Tournament,Final,Mexico,MEX,0,1,-30
 135075,2026-08-23,World,FIBA Women's Olympic Pre-Qualifying Tournament,Final,Canada,CAN,1,0,30
