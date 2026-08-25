@@ -856,8 +856,8 @@ function computeAwards(dayPlayers) {
     // and Spark Plug all come off plus/minus — so one player would otherwise
     // sweep the board. Give each player at most one award per day and let the
     // next-best eligible player take the rest.
-    const winner = scored.find(x => !taken.has(x.p.name)) || scored[0];
-    taken.add(winner.p.name);
+    const winner = scored[0];
+    if (def.best && winner.v === 0) { results.push({ def, winner: null }); continue; }
     results.push({ def, winner: winner.p, val: winner.v });
   }
   return results;
