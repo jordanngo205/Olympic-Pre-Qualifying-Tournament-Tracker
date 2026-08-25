@@ -1316,6 +1316,15 @@ function renderQualification() {
 // every player stays visible.
 // Round axis bounds to a human step: 1, 2, 5, 10, 20, 50 ... whichever gives
 // a handful of divisions across the range.
+// White initials vanish on a pale flag colour (Argentina's light blue), so
+// pick the ink from the marker's own brightness.
+function inkOn(hex) {
+  const n = parseInt(String(hex).replace('#',''), 16);
+  if (isNaN(n)) return '#fff';
+  const r = (n>>16)&255, g = (n>>8)&255, b = n&255;
+  return (0.299*r + 0.587*g + 0.114*b) > 150 ? '#0f172a' : '#fff';
+}
+
 function niceStep(range) {
   const raw = range / 8;   // aim for ~8 divisions, so bounds hug the data
   const mag = Math.pow(10, Math.floor(Math.log10(Math.max(raw, 1e-6))));
@@ -1363,6 +1372,7 @@ function separateMarkers(plot) {
 
 function renderPlayerEfficiency() {
   document.getElementById('effTitle').textContent = activeTeam + ' Players';
+  document.getElementById('quadPlot').style.setProperty('--team', teamColor(activeTeam));
   document.getElementById('quadHelp').innerHTML = `<p>Each player's net points while she was on the floor, split into an offensive and a defensive share, totalled across the tournament. Higher is better on both axes, so the top-right corner helps the team at both ends.</p><p>Dashed lines are the squad average, so position shows where a player sits <em>relative to her own team-mates</em>. Players under 5 total minutes are left out.</p>`;
   const rows = aggregatePlayers(playersFor(activeDate)).filter(p => (p.MP || 0) >= 5);
   const plot = document.getElementById('quadPlot');
@@ -1410,7 +1420,8 @@ function renderPlayerEfficiency() {
   rows.forEach(p => {
     parts.push(`<div class="quad-dot player" style="left:${px(p.off_net)}%;top:${py(p.def_net)}%"
       title="${p.name} — off ${p.off_net>=0?'+':''}${p.off_net}, def ${p.def_net>=0?'+':''}${p.def_net}, ${p.gp} GP">
-      <span class="pdot">${initials(p.name)}</span><b>${p.name.split(/\s+/).slice(-1)[0]}</b></div>`);
+      <span class="pdot" style="background:${teamColor(p.team)};color:${inkOn(TEAM_COLORS[p.team])}">${initials(p.name)}</span
+      ><b>${p.name.split(/\s+/).slice(-1)[0]}</b></div>`);
   });
   plot.innerHTML = parts.join('');
   separateMarkers(plot);
