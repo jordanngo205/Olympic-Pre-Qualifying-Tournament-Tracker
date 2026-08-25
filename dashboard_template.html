@@ -1311,7 +1311,7 @@ function renderQualification() {
 // Round axis bounds to a human step: 1, 2, 5, 10, 20, 50 ... whichever gives
 // a handful of divisions across the range.
 function niceStep(range) {
-  const raw = range / 5;
+  const raw = range / 8;   // aim for ~8 divisions, so bounds hug the data
   const mag = Math.pow(10, Math.floor(Math.log10(Math.max(raw, 1e-6))));
   const n = raw / mag;
   return (n <= 1 ? 1 : n <= 2 ? 2 : n <= 5 ? 5 : 10) * mag;
@@ -1369,16 +1369,21 @@ function renderPlayerEfficiency() {
     tbody.innerHTML = ''; return;
   }
   const os = rows.map(p => p.off_net), ds = rows.map(p => p.def_net);
-  const lo = Math.min(...os, ...ds), hi = Math.max(...os, ...ds);
-  const pad = Math.max((hi - lo) * 0.12, 1);
-  // Pad so nobody sits on the edge, then round outwards to a round number:
-  // an axis reading -5 to 70 is easier to reason about than -3 to 69.
-  const step = niceStep(hi - lo + 2 * pad);
-  const min = Math.floor((lo - pad) / step) * step;
-  const max = Math.ceil((hi + pad) / step) * step;
+  // Each axis gets its own scale here. A squad's defensive share is usually a
+  // lot bigger than its offensive one, so a shared scale leaves most of the
+  // offensive axis empty. The question this chart answers is "better or worse
+  // than team-mates on each end", which is read per axis anyway.
+  const bounds = arr => {
+    const lo = Math.min(...arr), hi = Math.max(...arr);
+    const pad = Math.max((hi - lo) * 0.12, 1);
+    const step = niceStep(hi - lo + 2 * pad);
+    return [Math.floor((lo - pad) / step) * step, Math.ceil((hi + pad) / step) * step];
+  };
+  const [xMin, xMax] = bounds(os);
+  const [yMin, yMax] = bounds(ds);
   const avgO = os.reduce((a,b)=>a+b,0)/os.length, avgD = ds.reduce((a,b)=>a+b,0)/ds.length;
-  const px = v => ((v - min) / (max - min)) * 100;
-  const py = v => 100 - ((v - min) / (max - min)) * 100;   // higher def_net sits higher
+  const px = v => ((v - xMin) / (xMax - xMin)) * 100;
+  const py = v => 100 - ((v - yMin) / (yMax - yMin)) * 100;   // higher def_net sits higher
   const ax = px(avgO), ay = py(avgD);
 
   const initials = n => n.split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase();
@@ -1389,9 +1394,12 @@ function renderPlayerEfficiency() {
     `<div class="quad-corner bl">Hurts both ends</div>`,
     `<div class="quad-mid v" style="left:${ax}%"></div>`,
     `<div class="quad-mid h" style="top:${ay}%"></div>`,
-    `<div class="quad-tick" style="left:0;bottom:-17px">${min.toFixed(0)}</div>`,
-    `<div class="quad-tick" style="right:0;bottom:-17px">${max.toFixed(0)}</div>`,
+    `<div class="quad-tick" style="left:0;bottom:-17px">${xMin.toFixed(0)}</div>`,
+    `<div class="quad-tick" style="right:0;bottom:-17px">${xMax.toFixed(0)}</div>`,
+    `<div class="quad-tick" style="left:-34px;top:-5px">${yMax.toFixed(0)}</div>`,
+    `<div class="quad-tick" style="left:-34px;bottom:-5px">${yMin.toFixed(0)}</div>`,
     `<div class="quad-tick avg" style="left:${ax}%;bottom:-17px;transform:translateX(-50%)">team avg</div>`,
+    `<div class="quad-tick avg" style="left:-34px;top:${ay}%;transform:translateY(-50%)">avg</div>`,
   ];
   rows.forEach(p => {
     parts.push(`<div class="quad-dot player" style="left:${px(p.off_net)}%;top:${py(p.def_net)}%"
