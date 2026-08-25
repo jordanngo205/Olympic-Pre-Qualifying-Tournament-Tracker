@@ -595,7 +595,7 @@ def build_enriched(player_box, details, team_adv, pbp) -> pd.DataFrame:
         df[c] = pd.to_numeric(df.get(c), errors="coerce").fillna(0).astype(int)
 
     keep = ["date", "gameId", "name", "shortCode", "nationality", "PTS", "REB", "OR", "DR",
-            "AS", "ST", "BS", "PF", "FD", "FTM", "FGA", "FGM", "FG3M", "TO", "MP", "PM",
+            "AS", "ST", "BS", "PF", "FD", "FTM", "FGA", "FGM", "FG3M", "TO", "MP", "PM", "EFF",
             "off_net", "def_net", "stocks", "Starter", "WL", "wl_diff", "corner3m",
             "abovebk3m", "rim_makes", "midrange_makes", "fb_pts", "putback_pts"]
     out = df[[c for c in keep if c in df.columns]].rename(

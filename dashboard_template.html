@@ -366,6 +366,11 @@
                  text-transform: uppercase; pointer-events: none; opacity: .75; }
   .quad-corner.tr { top: 6px; right: 8px; color: var(--green); }
   .quad-corner.bl { bottom: 6px; left: 8px; color: var(--red); }
+  /* Player markers: initials in a disc, surname beneath. */
+  .quad-dot.player .pdot { display: grid; place-items: center; width: 26px; height: 26px;
+        border-radius: 50%; background: var(--accent); color: #fff; font-size: 10px;
+        font-weight: 800; letter-spacing: .2px;
+        box-shadow: 0 0 0 2px var(--surface), 0 1px 4px var(--shadow); }
   .quad-legend { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
   .quad-legend h4 { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .8px;
                     color: var(--text); margin-bottom: 8px; }
@@ -517,7 +522,7 @@
   <div class="zone-inner">
     <div class="zone-header">
       <span class="zone-kicker">Both Ends</span>
-      <span class="zone-title">Team Efficiency</span>
+      <span class="zone-title" id="effTitle">Team Efficiency</span>
     </div>
     <div class="chart-wrap">
       <div class="quad">
@@ -529,12 +534,7 @@
       </div>
       <div class="quad-legend">
         <h4>How to read it</h4>
-        <p>Points scored and allowed per 100 possessions, averaged across every
-           game played. Up and to the right is better on both ends — the
-           defensive axis is flipped so higher always means better.</p>
-        <p>Both axes use the same scale, so a team's distance from the centre
-           lines is directly comparable on offence and defence. Dashed lines
-           mark the tournament average.</p>
+        <div id="quadHelp"></div>
         <table class="quad-tbl" id="quadTbl">
           <thead><tr><th>Team</th><th>ORTG</th><th>DRTG</th><th>NET</th></tr></thead>
           <tbody></tbody>
@@ -747,10 +747,17 @@ function renderDateTabs() {
 // ─────────────────────────────────────────────────────────────────────────────
 // GAMES
 // ─────────────────────────────────────────────────────────────────────────────
+function gamesFor(date) {
+  return GAME_DETAILS
+    .filter(g => date === 'ALL' || g.date === date)
+    .filter(g => activeTeam === 'ALL' || g.home_short === activeTeam || g.away_short === activeTeam);
+}
+
 function renderGames() {
   const col = document.getElementById('gamesCol');
-  const games = activeDate === 'ALL' ? GAME_DETAILS : GAME_DETAILS.filter(g => g.date === activeDate);
-  document.getElementById('scoresTitle').textContent = activeDate === 'ALL' ? 'All Group Phase Scores' : 'Group Phase Scores';
+  const games = gamesFor(activeDate);
+  document.getElementById('scoresTitle').textContent =
+    (activeDate === 'ALL' ? 'All Group Phase Scores' : 'Group Phase Scores') + teamSuffix();
   const advMap = {};
   ADV.forEach(a => { if (!advMap[a.gameId]) advMap[a.gameId]=[]; advMap[a.gameId].push(a); });
 
@@ -838,9 +845,39 @@ function playersFor(date) {
 }
 function teamSuffix() { return activeTeam === 'ALL' ? '' : ` — ${activeTeam} only`; }
 
+// Combine a player's games into a single row. Used wherever a view covers
+// more than one date, so a player is never listed once per game.
+function aggregatePlayers(rows) {
+  const SUM = ['PM','off_net','def_net','PTS','REB','OR','DR','AS','ST','BS','PF','FD',
+               'FTM','FGA','FGM','FG3M','TO','MP','EFF','stocks','corner3m','abovebk3m',
+               'rim_makes','midrange_makes','fb_pts','putback_pts','WL_raw'];
+  const by = {};
+  rows.forEach(p => {
+    const k = p.name + '|' + p.team;
+    if (!by[k]) {
+      by[k] = { name: p.name, team: p.team, nationality: p.nationality,
+                starter: p.starter, gp: 0 };
+      SUM.forEach(f => { by[k][f] = 0; });
+    }
+    const a = by[k];
+    a.gp++;
+    SUM.forEach(f => { a[f] += Number(p[f]) || 0; });
+    a.starter = a.starter || p.starter;   // started at least once
+  });
+  return Object.values(by).map(a => {
+    ['PM','off_net','def_net','MP','EFF'].forEach(f => { a[f] = Math.round(a[f]*10)/10; });
+    a.WL = (a.WL_raw >= 0 ? '+' : '') + a.WL_raw;
+    return a;
+  });
+}
+
 function renderAwards() {
   const grid = document.getElementById('awardsGrid');
-  const dayPlayers = playersFor(activeDate);
+  // Across the whole tournament an award should reward the run, not one hot
+  // night, so combine each player's games before picking a winner.
+  const dayPlayers = activeDate === 'ALL'
+    ? aggregatePlayers(playersFor('ALL'))
+    : playersFor(activeDate);
   document.getElementById('awardsTitle').textContent =
     (activeDate === 'ALL' ? 'Tournament Awards' : 'Daily Awards') + teamSuffix();
   if (!dayPlayers.length) { grid.innerHTML='<div style="color:var(--muted);padding:12px">No data for this date.</div>'; return; }
@@ -913,7 +950,7 @@ function renderLeaders() {
 function setTeamFilter(code) {
   activeTeam = code;
   document.querySelectorAll('.team-filter').forEach(sel => { if (sel.value !== code) sel.value = code; });
-  renderKpis(); renderQualification(); renderEfficiency();
+  renderKpis(); renderGames(); renderQualification(); renderEfficiency();
   renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 }
 function toggleOrder() {
@@ -977,34 +1014,8 @@ function makeTable(rows, headers) {
 }
 
 function renderNetPanels() {
-  // On a single date each row is one game, which is right. Across the whole
-  // tournament the same player would appear once per game, so combine her
-  // games into one row and total the counting stats.
   let day = playersFor(activeDate);
-  if (activeDate === 'ALL') {
-    const SUM = ['PM','off_net','def_net','PTS','REB','OR','DR','AS','ST','BS','PF','FD',
-                 'FTM','FGA','FGM','FG3M','TO','MP','stocks','corner3m','abovebk3m',
-                 'rim_makes','midrange_makes','fb_pts','putback_pts','WL_raw'];
-    const byPlayer = {};
-    day.forEach(p => {
-      const k = p.name + '|' + p.team;
-      if (!byPlayer[k]) {
-        byPlayer[k] = { name: p.name, team: p.team, nationality: p.nationality,
-                        starter: p.starter, gp: 0 };
-        SUM.forEach(f => { byPlayer[k][f] = 0; });
-      }
-      const a = byPlayer[k];
-      a.gp++;
-      SUM.forEach(f => { a[f] += Number(p[f]) || 0; });
-      // A player counts as a starter if she ever started.
-      a.starter = a.starter || p.starter;
-    });
-    day = Object.values(byPlayer).map(a => {
-      ['PM','off_net','def_net','MP'].forEach(f => { a[f] = Math.round(a[f] * 10) / 10; });
-      a.WL = (a.WL_raw >= 0 ? '+' : '') + a.WL_raw;
-      return a;
-    });
-  }
+  if (activeDate === 'ALL') day = aggregatePlayers(day);
   document.getElementById('netTitle').textContent =
     (activeDate === 'ALL' ? 'Tournament Net Points' : 'Player Net Points') + teamSuffix();
   if (!day.length) { document.getElementById('netPanels').innerHTML=''; return; }
@@ -1266,7 +1277,68 @@ function renderQualification() {
 // TEAM EFFICIENCY QUADRANT
 // Identity is carried by the flag and the team code, never by colour alone.
 // ─────────────────────────────────────────────────────────────────────────────
+// With a team selected the chart switches from teams to that team's players,
+// plotted on the same idea: offensive net points across, defensive net points
+// up. Both are "higher is better", so up and to the right is the best corner.
+function renderPlayerEfficiency() {
+  document.getElementById('effTitle').textContent = activeTeam + ' Players';
+  document.getElementById('quadHelp').innerHTML = `<p>Each player's net points while she was on the floor, split into an offensive and a defensive share, totalled across the tournament. Higher is better on both axes, so the top-right corner helps the team at both ends.</p><p>Dashed lines are the squad average, so position shows where a player sits <em>relative to her own team-mates</em>. Players under 5 total minutes are left out.</p>`;
+  const rows = aggregatePlayers(playersFor(activeDate)).filter(p => (p.MP || 0) >= 5);
+  const plot = document.getElementById('quadPlot');
+  const tbody = document.querySelector('#quadTbl tbody');
+  document.querySelector('.quad-axis.x').textContent = 'Offensive Net Points (higher is better)';
+  document.querySelector('.quad-axis.y').textContent = 'Defensive Net Points (higher is better)';
+
+  if (!rows.length) {
+    plot.innerHTML = `<div style="position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);font-size:12px">No players yet</div>`;
+    tbody.innerHTML = ''; return;
+  }
+  const os = rows.map(p => p.off_net), ds = rows.map(p => p.def_net);
+  const lo = Math.min(...os, ...ds), hi = Math.max(...os, ...ds);
+  const pad = Math.max((hi - lo) * 0.12, 1);
+  const min = lo - pad, max = hi + pad;
+  const avgO = os.reduce((a,b)=>a+b,0)/os.length, avgD = ds.reduce((a,b)=>a+b,0)/ds.length;
+  const px = v => ((v - min) / (max - min)) * 100;
+  const py = v => 100 - ((v - min) / (max - min)) * 100;   // higher def_net sits higher
+  const ax = px(avgO), ay = py(avgD);
+
+  const initials = n => n.split(/\s+/).map(w=>w[0]).join('').slice(0,2).toUpperCase();
+  const parts = [
+    `<div class="quad-fill good" style="left:${ax}%;width:${100-ax}%;top:0;height:${ay}%"></div>`,
+    `<div class="quad-fill bad"  style="left:0;width:${ax}%;top:${ay}%;height:${100-ay}%"></div>`,
+    `<div class="quad-corner tr">Helps both ends</div>`,
+    `<div class="quad-corner bl">Hurts both ends</div>`,
+    `<div class="quad-mid v" style="left:${ax}%"></div>`,
+    `<div class="quad-mid h" style="top:${ay}%"></div>`,
+    `<div class="quad-tick" style="left:0;bottom:-17px">${min.toFixed(0)}</div>`,
+    `<div class="quad-tick" style="right:0;bottom:-17px">${max.toFixed(0)}</div>`,
+    `<div class="quad-tick avg" style="left:${ax}%;bottom:-17px;transform:translateX(-50%)">team avg</div>`,
+  ];
+  rows.forEach(p => {
+    parts.push(`<div class="quad-dot player" style="left:${px(p.off_net)}%;top:${py(p.def_net)}%"
+      title="${p.name} — off ${p.off_net>=0?'+':''}${p.off_net}, def ${p.def_net>=0?'+':''}${p.def_net}, ${p.gp} GP">
+      <span class="pdot">${initials(p.name)}</span><b>${p.name.split(/\s+/).slice(-1)[0]}</b></div>`);
+  });
+  plot.innerHTML = parts.join('');
+
+  tbody.innerHTML = rows.slice().sort((a,b)=>(b.off_net+b.def_net)-(a.off_net+a.def_net)).map(p => {
+    const net = p.PM >= 0 ? `+${p.PM}` : `${p.PM}`;
+    return `<tr><td>${p.name}</td><td>${p.off_net>=0?'+':''}${p.off_net}</td>
+      <td>${p.def_net>=0?'+':''}${p.def_net}</td>
+      <td class="${p.PM>=0?'npos':'nneg'}">${net}</td></tr>`;
+  }).join('');
+  document.querySelector('#quadTbl thead').innerHTML =
+    '<tr><th>Player</th><th>OFF</th><th>DEF</th><th>NET</th></tr>';
+}
+
 function renderEfficiency() {
+  if (activeTeam !== 'ALL') return renderPlayerEfficiency();
+  document.getElementById('effTitle').textContent = 'Team Efficiency';
+  document.getElementById('quadHelp').innerHTML = `<p>Points scored and allowed per 100 possessions, averaged across every game played. Up and to the right is better on both ends — the defensive axis is flipped so higher always means better.</p><p>Both axes use the same scale, so a team's distance from the centre lines is directly comparable on offence and defence. Dashed lines mark the tournament average.</p>`;
+  document.querySelector('.quad-axis.x').textContent = 'Offensive Rating (higher is better)';
+  document.querySelector('.quad-axis.y').textContent = 'Defensive Rating (lower is better)';
+  document.querySelector('#quadTbl thead').innerHTML =
+    '<tr><th>Team</th><th>ORTG</th><th>DRTG</th><th>NET</th></tr>';
   const dateOf = {};
   GAME_DETAILS.forEach(g => { dateOf[g.gameId] = g.date; });
 
@@ -1345,7 +1417,7 @@ function renderEfficiency() {
 // KPI STRIP — the headline numbers, recomputed for whichever day is selected.
 // ─────────────────────────────────────────────────────────────────────────────
 function renderKpis() {
-  const games = GAME_DETAILS.filter(g => activeDate === 'ALL' || g.date <= activeDate);
+  const games = gamesFor(activeDate);
   if (!games.length) { document.getElementById('kpiRow').innerHTML = ''; return; }
   const ids = new Set(games.map(g => g.gameId));
 
