@@ -371,7 +371,31 @@
         border-radius: 50%; background: var(--accent); color: #fff; font-size: 10px;
         font-weight: 800; letter-spacing: .2px;
         box-shadow: 0 0 0 2px var(--surface), 0 1px 4px var(--shadow); }
+  /* Player markers carry a name chip so overlapping dots stay readable. */
+  .quad-dot.player b { background: var(--surface); padding: 0 3px; border-radius: 3px;
+                       font-size: 9.5px; }
+
+  /* Narrow screens: the square-ish plot crushes a dozen markers together, so
+     give it more height, shrink the markers, and drop the name labels — the
+     initials plus the table underneath carry the identification. */
+  @media (max-width: 760px) {
+    .chart-wrap { gap: 12px; }
+    .quad { padding: 22px 16px 44px 44px; }
+    .quad-plot { aspect-ratio: 3 / 4; }
+    .quad-dot.player .pdot { width: 21px; height: 21px; font-size: 8.5px; }
+    .quad-dot.player b { display: none; }
+    .quad-corner { font-size: 8px; }
+    .quad-axis { font-size: 8px; letter-spacing: .6px; }
+    .quad-axis.x { bottom: 4px; }
+    .quad-tick { font-size: 8px; }
+  }
+  @media (max-width: 420px) {
+    .quad-plot { aspect-ratio: 2 / 3; }
+    .quad-dot.player .pdot { width: 18px; height: 18px; font-size: 8px; }
+  }
   .quad-legend { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; }
+  .only-narrow { display: none; }
+  @media (max-width: 760px) { .only-narrow { display: block; } }
   .quad-legend h4 { font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: .8px;
                     color: var(--text); margin-bottom: 8px; }
   .quad-legend p { font-size: 11px; color: var(--muted); line-height: 1.6; margin-bottom: 10px; }
@@ -1286,6 +1310,57 @@ function renderQualification() {
 // With a team selected the chart switches from teams to that team's players,
 // plotted on the same idea: offensive net points across, defensive net points
 // up. Both are "higher is better", so up and to the right is the best corner.
+// Team-mates cluster, so markers land on top of each other and hide players.
+// Push overlapping ones apart with a few relaxation passes. Positions move by
+// a couple of percent at most, so the reading of the chart is unchanged while
+// every player stays visible.
+// Round axis bounds to a human step: 1, 2, 5, 10, 20, 50 ... whichever gives
+// a handful of divisions across the range.
+function niceStep(range) {
+  const raw = range / 5;
+  const mag = Math.pow(10, Math.floor(Math.log10(Math.max(raw, 1e-6))));
+  const n = raw / mag;
+  return (n <= 1 ? 1 : n <= 2 ? 2 : n <= 5 ? 5 : 10) * mag;
+}
+
+function separateMarkers(plot) {
+  const dots = [...plot.querySelectorAll('.quad-dot')];
+  if (dots.length < 2) return;
+  const box = plot.getBoundingClientRect();
+  if (!box.width || !box.height) return;
+
+  const pos = dots.map(d => ({
+    el: d,
+    x: parseFloat(d.style.left),
+    y: parseFloat(d.style.top),
+  }));
+  // Minimum separation, expressed in the chart's own percentage units.
+  const sepX = (36 / box.width) * 100;
+  const sepY = (34 / box.height) * 100;
+
+  for (let pass = 0; pass < 60; pass++) {
+    let moved = false;
+    for (let i = 0; i < pos.length; i++) {
+      for (let j = i + 1; j < pos.length; j++) {
+        const a = pos[i], b = pos[j];
+        const dx = (b.x - a.x) / sepX, dy = (b.y - a.y) / sepY;
+        const dist = Math.hypot(dx, dy);
+        if (dist >= 1 || dist === 0) continue;
+        const push = (1 - dist) / 2;
+        const ux = (dx / (dist || 1)) * push, uy = (dy / (dist || 1)) * push;
+        a.x -= ux * sepX; a.y -= uy * sepY;
+        b.x += ux * sepX; b.y += uy * sepY;
+        moved = true;
+      }
+    }
+    if (!moved) break;
+  }
+  pos.forEach(p => {
+    p.el.style.left = Math.max(0, Math.min(100, p.x)) + '%';
+    p.el.style.top  = Math.max(0, Math.min(100, p.y)) + '%';
+  });
+}
+
 function renderPlayerEfficiency() {
   document.getElementById('effTitle').textContent = activeTeam + ' Players';
   document.getElementById('quadHelp').innerHTML = `<p>Each player's net points while she was on the floor, split into an offensive and a defensive share, totalled across the tournament. Higher is better on both axes, so the top-right corner helps the team at both ends.</p><p>Dashed lines are the squad average, so position shows where a player sits <em>relative to her own team-mates</em>. Players under 5 total minutes are left out.</p>`;
@@ -1302,7 +1377,11 @@ function renderPlayerEfficiency() {
   const os = rows.map(p => p.off_net), ds = rows.map(p => p.def_net);
   const lo = Math.min(...os, ...ds), hi = Math.max(...os, ...ds);
   const pad = Math.max((hi - lo) * 0.12, 1);
-  const min = lo - pad, max = hi + pad;
+  // Pad so nobody sits on the edge, then round outwards to a round number:
+  // an axis reading -5 to 70 is easier to reason about than -3 to 69.
+  const step = niceStep(hi - lo + 2 * pad);
+  const min = Math.floor((lo - pad) / step) * step;
+  const max = Math.ceil((hi + pad) / step) * step;
   const avgO = os.reduce((a,b)=>a+b,0)/os.length, avgD = ds.reduce((a,b)=>a+b,0)/ds.length;
   const px = v => ((v - min) / (max - min)) * 100;
   const py = v => 100 - ((v - min) / (max - min)) * 100;   // higher def_net sits higher
@@ -1326,6 +1405,7 @@ function renderPlayerEfficiency() {
       <span class="pdot">${initials(p.name)}</span><b>${p.name.split(/\s+/).slice(-1)[0]}</b></div>`);
   });
   plot.innerHTML = parts.join('');
+  separateMarkers(plot);
 
   tbody.innerHTML = rows.slice().sort((a,b)=>(b.off_net+b.def_net)-(a.off_net+a.def_net)).map(p => {
     const net = p.PM >= 0 ? `+${p.PM}` : `${p.PM}`;
@@ -1376,7 +1456,9 @@ function renderEfficiency() {
   const os = teams.map(t => t.ortg), ds = teams.map(t => t.drtg);
   const lo = Math.min(...os, ...ds), hi = Math.max(...os, ...ds);
   const pad = Math.max((hi - lo) * 0.12, 1);   // keep markers off the edges
-  const dMin = lo - pad, dMax = hi + pad;
+  const step = niceStep(hi - lo + 2 * pad);    // round the axis to a human number
+  const dMin = Math.floor((lo - pad) / step) * step;
+  const dMax = Math.ceil((hi + pad) / step) * step;
   const oMin = dMin, oMax = dMax;
   const avgO = os.reduce((a, b) => a + b, 0) / os.length;
   const avgD = ds.reduce((a, b) => a + b, 0) / ds.length;
@@ -1410,6 +1492,7 @@ function renderEfficiency() {
       ${flag(t.code, '1.6em')}<b>${t.code}</b></div>`);
   });
   plot.innerHTML = parts.join('');
+  separateMarkers(plot);
 
   tbody.innerHTML = teams.map(t => {
     const net = (t.net >= 0 ? '+' : '') + t.net.toFixed(1);
