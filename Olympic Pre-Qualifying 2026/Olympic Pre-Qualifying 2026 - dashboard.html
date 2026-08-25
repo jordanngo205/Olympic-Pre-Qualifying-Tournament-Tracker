@@ -254,13 +254,8 @@
   .header-sub { margin-left: 0; }
   .stamp { font-size: 11px; font-weight: 600; color: rgba(255,255,255,.85); background: rgba(0,0,0,.18);
            padding: 4px 10px; border-radius: 20px; white-space: nowrap; }
-  .stamp b { color: #fff; font-weight: 800; }
-               width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center;
-               transition: background .15s, transform .15s; }
-  .theme-btn:hover { background: rgba(0,0,0,.32); transform: rotate(-18deg); }
-
-  /* A static page cannot run the scraper itself, so this hands the reader
-     straight to the workflow's Run button instead of pretending to. */
+    .stamp b { color: #fff; font-weight: 800; }
+  
   /* Standings rows carry their nation's colour. The tint sits behind the row
      and a solid rail marks its left edge, so teams are identifiable before
      the flag or the code is read. */
@@ -502,7 +497,6 @@
   <div class="header-tools">
     <div class="header-sub" id="headerSub"></div>
     <div class="stamp" id="stamp"></div>
-    </div>
   </div>
 </div>
 <div class="date-nav" id="dateNav"></div>
@@ -1148,7 +1142,6 @@ function renderNetPanels() {
 // ─────────────────────────────────────────────────────────────────────────────
 function setDate(d) {
   activeDate = d;
-  populateTeamFilter();
 renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
   renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 }
@@ -1588,7 +1581,7 @@ function initScrollSpy() {
   document.querySelectorAll('.zone').forEach(z => obs.observe(z));
 }
 
-renderStamp(); initFreshness();
+renderStamp(); initFreshness(); populateTeamFilter();
 renderDateTabs(); renderKpis(); renderGames(); renderQualification(); renderEfficiency();
 renderAwards(); renderLeaders(); renderStandings(); renderNetPanels();
 initScrollSpy();
