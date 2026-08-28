@@ -831,7 +831,6 @@ function renderGames() {
 // ─────────────────────────────────────────────────────────────────────────────
 function computeAwards(dayPlayers) {
   const results = [];
-  const taken = new Set();
   for (const def of AWARD_DEFS) {
     // score each eligible player
     const scored = dayPlayers
@@ -840,10 +839,10 @@ function computeAwards(dayPlayers) {
       .filter(x => x.v !== null && !isNaN(x.v));
     if (!scored.length) { results.push({ def, winner: null }); continue; }
     scored.sort((a,b) => def.best ? b.v - a.v : a.v - b.v);
-    // Several awards read the same underlying number — MVP, Heater, Stopper
-    // and Spark Plug all come off plus/minus — so one player would otherwise
-    // sweep the board. Give each player at most one award per day and let the
-    // next-best eligible player take the rest.
+    // Every award goes to whoever actually leads it, even if that player has
+    // already won another. Blocking repeats handed awards to people who had
+    // not earned them — Speed Demon went to a player with zero fast-break
+    // points while the team's leader on 15 was skipped.
     const winner = scored[0];
     if (def.best && winner.v === 0) { results.push({ def, winner: null }); continue; }
     results.push({ def, winner: winner.p, val: winner.v });
@@ -1171,30 +1170,6 @@ function initFreshness() {
   });
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// STAYING FRESH
-// A tab left open all day would otherwise keep showing whatever was true when
-// it was opened — including a frozen "Updated 3m ago". Two things fix that:
-// the stamp keeps counting, and the page quietly re-fetches itself. The reload
-// only ever happens while the tab is in the background, so it can never yank
-// the page out from under someone mid-read.
-// ─────────────────────────────────────────────────────────────────────────────
-function initFreshness() {
-  const loadedAt = Date.now();
-  const MAX_AGE = 5 * 60 * 1000;
-  const stale = () => Date.now() - loadedAt > MAX_AGE;
-
-  // Let the "Updated Xm ago" label keep ticking rather than freezing.
-  setInterval(renderStamp, 30 * 1000);
-
-  // Refresh in the background, so the tab is current whenever it is looked at.
-  setInterval(() => { if (document.hidden && stale()) location.reload(); }, 60 * 1000);
-
-  // And catch the case where it sat in the background without firing.
-  document.addEventListener('visibilitychange', () => {
-    if (!document.hidden && stale()) location.reload();
-  });
-}
 
 // Freshness matters on a page that rebuilds itself on a schedule.
 function renderStamp() {
