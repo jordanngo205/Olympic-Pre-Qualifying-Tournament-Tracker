@@ -1,11 +1,12 @@
 name: Update Dashboard
 
 on:
-  schedule:
-    # Every 5 minutes — the shortest interval GitHub Actions allows. Games are
-    # only scraped once FIBA marks them final, so a run with nothing new loads
-    # two pages and commits nothing. Public repos get free Actions minutes.
-    - cron: '*/5 * * * *'
+  # The scheduled run is off: Olympic Pre-Qualifying 2026 finished on
+  # 2026-09-14 and FIBA has dropped it from its event index, so every run
+  # failed with "No event matched". The dashboard already has the final data.
+  # To track a new tournament, point --event below at it and restore:
+  #   schedule:
+  #     - cron: '*/5 * * * *'
   workflow_dispatch: # Allow manual trigger from GitHub UI
 
 # Only one build at a time, so two runs can't race on the same push.
